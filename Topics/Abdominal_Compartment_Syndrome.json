@@ -1,0 +1,1754 @@
+{
+    "title": "Abdominal Compartment Syndrome",
+    "title_lang": [
+        {
+            "name": "tr",
+            "value": "Abdominal Kompartman Sendromu"
+        },
+        {
+            "name": "ar",
+            "value": "متلازمة الحيز البطني",
+            "transliteration": "matlazma al-haiz al-butni"
+        },
+        {
+            "name": "it",
+            "value": "Sindrome compartimentale addominale"
+        },
+        {
+            "name": "ru",
+            "value": "Абдоминальный компартмент-синдром",
+            "transliteration": "abdominalis compartment-syndrome"
+        },
+        {
+            "name": "es",
+            "value": "Síndrome Compartimental Abdominal"
+        },
+        {
+            "name": "ko",
+            "value": "복부 구획 증후군",
+            "transliteration": "bokbu guhok jinghu"
+        },
+        {
+            "name": "id",
+            "value": "Sindrom kompartemen perut"
+        },
+        {
+            "name": "pt",
+            "value": "Síndrome do Compartimento Abdominal"
+        },
+        {
+            "name": "de",
+            "value": "Abdominelles Kompartmentsyndrom"
+        },
+        {
+            "name": "fr",
+            "value": "Syndrome du compartiment abdominal"
+        },
+        {
+            "name": "ja",
+            "value": "腹部コンパートメント症候群",
+            "transliteration": "fukubu compartment shoukougun"
+        },
+        {
+            "name": "lzh",
+            "value": "腹骨筋膜室综合征"
+        }
+    ],
+    "desc": "People who are very sick, such as those in the intensive care unit, may experience abdominal compartment syndrome, a medical emergency. An unhealthy amount of pressure is created by bleeding or edema in the abdomen, which can damage organs. The syndrome known as abdominal compartment is fatal. Treatment and diagnosis must begin as soon as possible. ",
+    "desc_lang": [
+        {
+            "name": "id",
+            "value": "Orang yang sangat sakit, seperti mereka yang berada di unit perawatan intensif, mungkin mengalami sindrom kompartemen perut, keadaan darurat medis. Jumlah tekanan yang tidak sehat diciptakan oleh perdarahan atau edema di perut, yang dapat merusak organ. Sindrom yang dikenal sebagai kompartemen perut berakibat fatal. Perawatan dan diagnosis harus dimulai sesegera mungkin. "
+        },
+        {
+            "name": "es",
+            "value": "Las personas que están muy enfermas, como las que están en la unidad de cuidados intensivos, pueden experimentar síndrome compartimental abdominal, una emergencia médica. Se crea una cantidad insalubre de presión por sangrado o edema en el abdomen, lo que puede dañar los órganos. El síndrome conocido como compartimiento abdominal es mortal. El tratamiento y el diagnóstico deben comenzar lo antes posible. "
+        },
+        {
+            "name": "ar",
+            "value": "قد يعاني الأشخاص الذين يعانون من مرض شديد ، مثل أولئك الموجودين في وحدة العناية المركزة ، من متلازمة الحيز البطني ، وهي حالة طبية طارئة. يتم إنشاء كمية غير صحية من الضغط عن طريق النزيف أو الوذمة في البطن ، والتي يمكن أن تلحق الضرر بالأعضاء. المتلازمة المعروفة باسم مقصورة البطن قاتلة. يجب أن يبدأ العلاج والتشخيص في أقرب وقت ممكن. ",
+            "transliteration": "qud iaani al-ashkhas al-thain yaanon minn mard shedid ، methel olik almogodin fe wahda al-anaya al-markaza ، minn matlazma al-haiz al-butni ، wahi hala tabia taria. yetem insha komeya ger sahia minn al-daght an tarik al-nazif oa al-wadma fe al-butan ، walty yamken an tilhaq al-drarr baladha. matlazma maaroufa bassem maksura al-butan katela. yegeb an yebda al-allage walchkhis fe akrab waqt memkin. "
+        },
+        {
+            "name": "ru",
+            "value": "Люди, которые находятся в тяжелом состоянии, например, в отделении интенсивной терапии, могут испытывать абдоминальный компартмент-синдром, что является неотложной медицинской помощью. Нездоровое давление создается кровотечением или отеком в брюшной полости, что может повредить органы. Синдром, известный как абдоминальный компартмент, приводит к летальному исходу. Лечение и диагностика должны быть начаты как можно скорее. ",
+            "transliteration": "ludy, kotorye nakhodyatsya vie thagelom sostoyania, naprimer, vie otdelenia intensive therapy, mogut ispytivat abdominalis compartment-syndrome, chto yavlyaetsya neotlozhnoy meditsynska pomoshchyu. nezdorovoye davlenie sozdayetsya krovotecheniem eli otecom vie brushnoy polosti, chto moget povredit organ. syndrome, izvestny kak abdominalis compartment, privodite k letalnomu iskhodu. lecheniye yi diagnosis dolzny byt nachaty kak mozno scorea. "
+        },
+        {
+            "name": "ko",
+            "value": "중환자실에 있는 사람들과 같이 매우 아픈 사람들은 의학적 응급 상황인 복부 구획 증후군을 경험할 수 있습니다. 복부의 출혈이나 부종으로 인해 건강에 해로운 양의 압력이 생성되어 장기가 손상될 수 있습니다. 복부 구획으로 알려진 증후군은 치명적입니다. 치료와 진단은 가능한 한 빨리 시작되어야 합니다. ",
+            "transliteration": "junghwanjasire issneun saramdeulgwa gati maewu apeun saramdeureun uihakjeok eung sanghwangin bokbu guhok jeunghuguneul gyeongheomhal su issseupnida. bokbu chulhyeorina bujongeuro inhae geongange haeroun yang apryeogi saengseongdoeo janggiga sonsangdoel su issseupnida. bokbu guhoegeuro allyeojin jeunghuguneun chimyeongjeogipnida. chiryowa jindaneun ganeunghan han ppalli sijakdoeeoya hapnida. "
+        },
+        {
+            "name": "tr",
+            "value": "Yoğun bakım ünitesindekiler gibi çok hasta olan kişiler, tıbbi bir acil durum olan abdominal kompartman sendromu yaşayabilir. Karında kanama veya ödem ile organlara zarar verebilecek sağlıksız miktarda basınç oluşur. Abdominal kompartman olarak bilinen sendrom ölümcüldür. Tedavi ve teşhis mümkün olan en kısa sürede başlamalıdır. "
+        },
+        {
+            "name": "fr",
+            "value": "Les personnes très malades, comme celles qui se trouvent aux soins intensifs, peuvent souffrir du syndrome des loges abdominales, une urgence médicale. Une pression malsaine est créée par des saignements ou un œdème dans l’abdomen, ce qui peut endommager les organes. Le syndrome connu sous le nom de compartiment abdominal est mortel. Le traitement et le diagnostic doivent commencer le plus tôt possible. "
+        },
+        {
+            "name": "ja",
+            "value": "集中治療室にいる人など、重症の人は、救急医療である腹部コンパートメント症候群を経験する可能性があります。腹部の出血や浮腫によって不健康な量の圧力が発生し、臓器に損傷を与える可能性があります。腹部コンパートメントとして知られる症候群は致命的です。治療と診断はできるだけ早く開始する必要があります。",
+            "transliteration": "shuuchuu chiryou shitsu ni iru hito nado 、 juushou no hito wa 、 kyuukyuu iryou de aru fukubu compartment shoukougun wa keiken suru kanosei ga ari masu .fukubu no shukketsu ya fushu niyotte fukenkou nani ryou no atsuryoku ga hassei shi 、 zouki ni sonshou wa ataeru kanosei ga ari masu .fukubu compartment toshite shira reru shoukougun wa chimei teki desu .chiryou to shindan wa dekirudake hayaku kaishi suru hitsuyo ga ari masu ."
+        },
+        {
+            "name": "lzh",
+            "value": "病甚者,重症监护病房者,腹骨筋膜室综合征,医急也。 腹出血及水肿生不健者,伤器也。 此所谓腹腔隔室者综合征致命也。 须速治诊。 "
+        },
+        {
+            "name": "it",
+            "value": "Le persone molto malate, come quelle ricoverate in terapia intensiva, possono manifestare la sindrome compartimentale addominale, un'emergenza medica. Una quantità malsana di pressione viene creata da sanguinamento o edema nell'addome, che può danneggiare gli organi. La sindrome nota come compartimento addominale è fatale. Il trattamento e la diagnosi devono iniziare il prima possibile. "
+        },
+        {
+            "name": "de",
+            "value": "Bei Menschen, die sehr krank sind, wie z. B. auf der Intensivstation, kann es zu einem abdominalen Kompartmentsyndrom kommen, einem medizinischen Notfall. Durch Blutungen oder Ödeme im Bauchraum entsteht ein ungesunder Druck, der Organe schädigen kann. Das als Bauchkompartment bekannte Syndrom ist tödlich. Die Behandlung und Diagnose muss so schnell wie möglich beginnen. "
+        },
+        {
+            "name": "pt",
+            "value": "Pessoas que estão muito doentes, como as que estão na unidade de terapia intensiva, podem ter síndrome compartimental abdominal, uma emergência médica. Uma quantidade insalubre de pressão é criada por sangramento ou edema no abdômen, o que pode danificar os órgãos. A síndrome conhecida como compartimento abdominal é fatal. O tratamento e o diagnóstico devem começar o mais rápido possível. "
+        }
+    ],
+    "data": [
+        {
+            "name": "symptomps",
+            "list": [
+                {
+                    "name": "What causes abdominal compartment syndrome?",
+                    "index": 0,
+                    "desc": "Bloating or edema that puts pressure on your abdomen can result in abdominal compartment syndrome (ACS). A number of conditions can result in this kind of bleeding or pressure. ",
+                    "pointers": [
+                        "Extensive surgery in your abdomen.",
+                        "Infection in your abdomen.",
+                        "Intestinal obstruction (blockage).",
+                        "Large amount of IV fluids (called fluid resuscitation), often required for surgery or sepsis.",
+                        "Major burns.",
+                        "Massive blood transfusion.",
+                        "Pancreatitis.",
+                        "Rupture of an abdominal aortic aneurysm (a bulge in your aorta, the main blood vessel from your heart to your chest and belly).",
+                        "Trauma (injury) to your abdomen."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "ما الذي يسبب متلازمة الحيز البطني؟",
+                            "transliteration": "ma al-dhay jaspeb matlazma al-haiz al-batnie"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono le cause della sindrome compartimentale addominale?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que causa a síndrome compartimental abdominal?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las causas del síndrome compartimental abdominal?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was sind die Ursachen für ein Bauchkompartmentsyndrom?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa yang menyebabkan sindrom kompartemen perut?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部コンパートメント症候群の原因は何ですか?",
+                            "transliteration": "fukubu compartment shoukougun no genin wa nani desu ka ?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Abdominal kompartman sendromuna ne sebep olur?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quelles sont les causes du syndrome des loges abdominales ?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ar",
+                            "value": "يمكن أن يؤدي الانتفاخ أو الوذمة التي تضغط على بطنك إلى متلازمة الحيز البطني (ACS). يمكن أن يؤدي عدد من الحالات إلى هذا النوع من النزيف أو الضغط. ",
+                            "transliteration": "yamken an yode alantfakh oa al-wadma alti tadgat ola battang elly matlazma al-haiz al-butni (ACS). yamken an yode aded minn al-halat elly hudha noa minn al-nazif oa al-daght. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Les ballonnements ou l’œdème qui exercent une pression sur votre abdomen peuvent entraîner un syndrome des loges abdominales (SCA). Un certain nombre de conditions peuvent entraîner ce type de saignement ou de pression. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Вздутие живота или отек, которые оказывают давление на живот, могут привести к абдоминальному компартмент-синдрому (ОКС). Ряд состояний может привести к такому роду кровотечения или давления. ",
+                            "transliteration": "vzdutiye zivota eli otek, kotorye ocazivaiut davlenie na zhivot, mogut privests k abdominalism compartment-syndromou (ochs). ryad sostoyany moget privests k takomu rodo krovotecheniya eli davlenia. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "腹胀水肿,则腹腔室综合征 (ACS)。 多致此血压力。 "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部を圧迫する膨満感や浮腫は、腹部コンパートメント症候群(ACS)を引き起こす可能性があります。さまざまな条件により、この種の出血や圧迫が生じる可能性があります。",
+                            "transliteration": "fukubu wa appaku suru bou man kan ya fushu wa 、 fukubu compartment shoukougun ( acs ) wa hikiokosu kanosei ga ari masu .samazama nani jouken niyori 、 kono shu no shukketsu ya appaku ga shoujiru kanosei ga ari masu ."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Inchaço ou edema que pressiona o abdômen pode resultar em síndrome compartimental abdominal (SCA). Uma série de condições pode resultar nesse tipo de sangramento ou pressão. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Il gonfiore o l'edema che esercita pressione sull'addome possono provocare la sindrome compartimentale addominale (SCA). Un certo numero di condizioni può provocare questo tipo di sanguinamento o pressione. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kembung atau edema yang memberi tekanan pada perut Anda dapat menyebabkan sindrom kompartemen perut (ACS). Sejumlah kondisi dapat menyebabkan perdarahan atau tekanan semacam ini. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Karnınıza baskı uygulayan şişkinlik veya ödem, abdominal kompartman sendromuna (ACS) neden olabilir. Bir dizi koşul bu tür bir kanama veya basınca neden olabilir. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "La hinchazón o el edema que ejercen presión sobre el abdomen pueden provocar el síndrome compartimental abdominal (SCA). Una serie de condiciones pueden provocar este tipo de sangrado o presión. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "نقل دم ضخم.",
+                            "transliteration": "nuqal dem dakham."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "انسداد معوي (انسداد).",
+                            "transliteration": "anesdad maoui (anesdad)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "جراحة واسعة النطاق في البطن.",
+                            "transliteration": "graha wasia al-nataq fe al-butan."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تمزق تمدد الأوعية الدموية بالأبهر البطني (انتفاخ في الشريان الأورطي، وهو الوعاء الدموي الرئيسي من قلبك إلى صدرك وبطنك).",
+                            "transliteration": "tamzaq tamdad al-awaya al-damouia balabhar al-butni (antfach fe sherian al-awartis waho al-waa al-damwi al-raisi minn kalabak elly sadrac wibtink)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "صدمة (إصابة) في بطنك.",
+                            "transliteration": "sadma (isaba) fe battang."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "عدوى في البطن.",
+                            "transliteration": "adwa fe al-butan."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "大输血。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "腹大手术。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "胰腺炎。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "腹染。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "腹外伤(伤)。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "焚伤遂甚。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Infection de l’abdomen."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Pancréatite."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Occlusion intestinale (blocage)."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Traumatisme (blessure) à l’abdomen."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Ruptur eines Bauchaortenaneurysmas (eine Vorwölbung in der Aorta, dem Hauptblutgefäß vom Herzen zur Brust und zum Bauch)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Infektion im Bauchraum."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Umfangreiche Operation im Bauchraum."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Massive Bluttransfusion."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Infeksi di perut Anda."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Operasi ekstensif di perut Anda."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Transfusi darah besar-besaran."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Obstruksi usus (penyumbatan)."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Pankreatitis."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Intervento chirurgico esteso all'addome."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Infezione nell'addome."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Rottura di un aneurisma dell'aorta addominale (un rigonfiamento nell'aorta, il principale vaso sanguigno dal cuore al torace e alla pancia)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Trasfusione massiccia di sangue."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Ostruzione intestinale (blocco)."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "膵炎。",
+                            "transliteration": "suien ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "大量輸血。",
+                            "transliteration": "tairyou yuketsu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腸閉塞(閉塞)。",
+                            "transliteration": "chouheisoku ( heisoku ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "大火傷。",
+                            "transliteration": "dai yakedo ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部大動脈瘤(心臓から胸、腹部までの主血管である大動脈の膨らみ)の破裂。",
+                            "transliteration": "fukubu dai doumyakuryuu ( shinzou kara mune 、 fukubu made no shu kekkan de aru daidoumyaku no fukurami ) no haretsu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部への外傷(怪我)。",
+                            "transliteration": "fukubu he no gaishou ( kega ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部の感染。",
+                            "transliteration": "fukubu no kansen ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部の大掛かりな手術。",
+                            "transliteration": "fukubu no oogakari nani shujutsu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "手術や敗血症にしばしば必要とされる大量の点滴(輸液蘇生法と呼ばれる)。",
+                            "transliteration": "shujutsu ya haiketsushou ni shibashiba hitsuyo to sa reru tairyou no tenteki ( yu eki sosei hou to yoba reru ) ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "췌장염.",
+                            "transliteration": "chwejangyeom."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "장폐색(폐색).",
+                            "transliteration": "jangpyesaek(pyesaek)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "수술이나 패혈증에 필요한 다량의 IV 수액(수액 소생술이라고 함).",
+                            "transliteration": "susurina paehyeoljeunge piryohan daryang IV suac(suac sosaengsulirago ham)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부 대동맥류(심장에서 가슴과 배에 이르는 주요 혈관인 대동맥이 부풀어 오른 상태) 파열.",
+                            "transliteration": "bokbu daedongmaekryu(simjangeseo gaseumgwa baee ireuneun juyo hyeolgwanin daedongmaegi bufureo oreun sangtae) payeol."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부 감염.",
+                            "transliteration": "bokbu gamyeom."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "대량 수혈.",
+                            "transliteration": "daeryang suhyeol."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부에 대한 외상(부상).",
+                            "transliteration": "bokbue dahan osang(busang)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부의 광범위한 수술.",
+                            "transliteration": "bokbu gwangbeomwihan susul."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Pancreatite."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Obstrução intestinal (bloqueio)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Trauma (lesão) no abdômen."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Infecção no abdômen."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Grandes queimaduras."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Cirurgia extensa em seu abdômen."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Transfusão maciça de sangue."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Ruptura de um aneurisma da aorta abdominal (uma protuberância na aorta, o principal vaso sanguíneo do coração para o peito e barriga)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Grande quantidade de fluidos intravenosos (chamada ressuscitação volêmica), muitas vezes necessária para cirurgia ou sepse."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Массивное переливание крови.",
+                            "transliteration": "massive perelivanie krovi."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Травма (повреждение) брюшной полости.",
+                            "transliteration": "travma (povrezhdeniye) brushnoy polosti."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Панкреатит.",
+                            "transliteration": "pancreatite."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Разрыв аневризмы брюшной аорты (выпячивание аорты, главного кровеносного сосуда, идущего от сердца к груди и животу).",
+                            "transliteration": "razriv anevrism brushnoy aorta (vypyachivaniye aorta, glavnogo krovenosnogo sosuda, idushchego ot serdtsa k grudy yi zivotu)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Обширная операция на брюшной полости.",
+                            "transliteration": "obshirnaya operations na brushnoy polosti."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Инфекция в брюшной полости.",
+                            "transliteration": "infection vie brushnoy polosti."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Обширные ожоги.",
+                            "transliteration": "obshire ozogi."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Obstrucción intestinal (bloqueo)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Gran cantidad de líquidos por vía intravenosa (llamada reanimación con líquidos), que a menudo se requiere para cirugía o sepsis."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Ruptura de un aneurisma de la aorta abdominal (una protuberancia en la aorta, el vaso sanguíneo principal desde el corazón hasta el pecho y el abdomen)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Traumatismo (lesión) en el abdomen."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Quemaduras graves."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Infección en el abdomen."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Pancreatitis."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Cirugía extensa en el abdomen."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Karnınıza travma (yaralanma)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Büyük yanıklar."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Karnınızda enfeksiyon."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Abdominal aort anevrizmasının yırtılması (kalbinizden göğsünüze ve karnınıza giden ana kan damarı olan aortunuzdaki bir çıkıntı)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Masif kan transfüzyonu."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Genellikle ameliyat veya sepsis için gerekli olan büyük miktarda IV sıvı (sıvı resüsitasyonu olarak adlandırılır)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Karnınızda kapsamlı ameliyat."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Pankreatit."
+                        }
+                    ]
+                },
+                {
+                    "name": "What are the symptoms of abdominal compartment syndrome?",
+                    "index": 1,
+                    "desc": "When abdominal compartment syndrome first manifests, it frequently does so after damage has been done. Patients at risk of developing abdominal compartment syndrome require close observation by healthcare professionals. These are possible indications and symptoms. ",
+                    "pointers": [
+                        "Swollen, tight belly (abdominal distension).",
+                        "Abdominal pain.",
+                        "Difficulty breathing.",
+                        "Low blood pressure (hypotension).",
+                        "Low pee (urine) output (oliguria)."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Каковы симптомы абдоминального компартмент-синдрома?",
+                            "transliteration": "kakovy symptoms abdominalis compartment-syndrome?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa saja gejala sindrom kompartemen perut?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Abdominal kompartman sendromunun belirtileri nelerdir?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هي أعراض متلازمة الحيز البطني؟",
+                            "transliteration": "ma he aradh matlazma al-haiz al-batnie"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部コンパートメント症候群の症状は何ですか?",
+                            "transliteration": "fukubu compartment shoukougun no shoujou wa nani desu ka ?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부 구획 증후군의 증상은 무엇입니까?",
+                            "transliteration": "bokbu guhok jeunghu jeungsangeun mueosipnikka?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono i sintomi della sindrome compartimentale addominale?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son los síntomas del síndrome compartimental abdominal?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais são os sintomas da síndrome compartimental abdominal?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was sind die Symptome eines abdominalen Kompartmentsyndroms?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "id",
+                            "value": "Ketika sindrom kompartemen perut pertama kali bermanifestasi, sering terjadi setelah kerusakan telah dilakukan. Pasien yang berisiko terkena sindrom kompartemen perut memerlukan pengamatan ketat oleh profesional kesehatan. Ini adalah indikasi dan gejala yang mungkin. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部コンパートメント症候群が最初に現れると、損傷を受けた後に発症することがよくあります。腹部コンパートメント症候群を発症するリスクのある患者は、医療専門家による綿密な観察が必要です。.これらは考えられる適応症と症状です。",
+                            "transliteration": "fukubu compartment shoukougun ga saisho ni arawareru to 、 sonshou wa uke ta go ni hasshou suru koto ga yoku ari masu .fukubu compartment shoukougun wa hasshou suru lisk no aru kanja wa 、 iryou senmonka niyoru menmitsu nani kansatsu ga hitsuyo desu . .korera wa kangae rareru tekioushou to shoujou desu ."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "عندما تظهر متلازمة الحيز البطني لأول مرة ، فإنها تحدث ذلك بشكل متكرر بعد حدوث الضرر. يحتاج المرضى المعرضون لخطر الإصابة بمتلازمة الحيز البطني إلى مراقبة دقيقة من قبل المتخصصين في الرعاية الصحية. هذه هي المؤشرات والأعراض المحتملة. ",
+                            "transliteration": "andama tadhar matlazma al-haiz al-butni laul morra ، venha thadth delk beshkel mitkrar baad hadouth al-drarr. yahtaj al-murda maardoun lakhtar alisabe bemtlazma al-haiz al-butni elly murraqba degiqa minn qabel al-matkhassin fe al-raya al-sahia. huthe he maouchrat al-araradh al-mahtamlah. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quando a síndrome compartimental abdominal se manifesta pela primeira vez, frequentemente o faz após o dano ter sido feito. Pacientes com risco de desenvolver síndrome compartimental abdominal requerem observação atenta por profissionais de saúde. São possíveis indicações e sintomas. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Abdominal kompartman sendromu ilk ortaya çıktığında, bunu sıklıkla hasar verildikten sonra yapar. Abdominal kompartman sendromu gelişme riski taşıyan hastalar, sağlık uzmanları tarafından yakın gözlem gerektirir. Bunlar olası endikasyonlar ve semptomlardır. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부 구획 증후군이 처음 나타날 때는 손상이 발생한 후에 나타나는 경우가 많습니다. 복부 구획 증후군이 발생할 위험이 있는 환자는 의료 전문가의 면밀한 관찰이 필요합니다. 이는 가능한 적응증 및 증상입니다. ",
+                            "transliteration": "bokbu guhok jeunghuguni cheoeum natanal ttaeneun sonsangi balsaenghan hue natananeun gyeonguga manhseupnida. bokbu guhok jeunghuguni balsaenghal wiheomi issneun hwanjaneun air jeonmunga myeonmilhan gwanchari piryohapnida. ineun ganeunghan jeogeungjeung mukgye jeungsangipnida. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Когда абдоминальный компартмент-синдром впервые проявляется, он часто проявляется уже после того, как было нанесено повреждение. Пациенты, подверженные риску развития абдоминального компартмент-синдрома, нуждаются в тщательном наблюдении со стороны медицинских работников. Это возможные показания и симптомы. ",
+                            "transliteration": "kogda abdominalis compartment-syndrome vpervye proyavlyayetsya, on chasto proyavlyayetsya uje posle togo, kak bylo naneseno povrezhdeniye. patsienti, podverzhennye risco razvitia abdominalis compartment-syndrome, nuzhdayutsya vie tszczatelnom nabludenia so storony meditsynsky rabotnikov. eto vozmozhnye pokazania yi symptoms. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Cuando el síndrome compartimental abdominal se manifiesta por primera vez, con frecuencia lo hace después de que se ha producido el daño. Los pacientes con riesgo de desarrollar síndrome compartimental abdominal requieren una observación minuciosa por parte de los profesionales sanitarios. Estas son posibles indicaciones y síntomas. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "انخفاض ضغط الدم (انخفاض ضغط الدم).",
+                            "transliteration": "ankhvadh daghat al-dem (ankhvadh daghat al-dem)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تورم ، ضيق البطن (انتفاخ البطن).",
+                            "transliteration": "torem ، dig al-butan (antfach al-butan)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "صعوبة في التنفس.",
+                            "transliteration": "saouba fe al-tanfas."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "小便(溺)量低(少尿)。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "肿,腹急(腹胀)。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "呼吸难。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Faible débit d’urine (oligurie)."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Difficulté à respirer."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Pression artérielle basse (hypotension)."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Douleur abdominale."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Niedriger Blutdruck (Hypotonie)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Geschwollener, straffer Bauch (Blähung des Bauches)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Geringe Urinausscheidung (Oligurie)."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Kesulitan dalam pernapasan."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Sakit perut."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bengkak, perut kencang (distensi perut)."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tekanan darah rendah (hipotensi)."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Pressione sanguigna bassa (ipotensione)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Dolore addominale."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Pancia gonfia e tesa (distensione addominale)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Bassa produzione di pipì (urina) (oliguria)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Respirazione difficoltosa."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "腫れて引き締まった腹(腹部膨満)。",
+                            "transliteration": "hare te hikishimatsu ta hara ( fukubu bou man ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹痛。",
+                            "transliteration": "fukutsuu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "おしっこ(尿)量が少ない(乏尿)。",
+                            "transliteration": "oshikko ( nyou ) ryou ga sukunai ( bou nyou ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "低血圧(低血圧)。",
+                            "transliteration": "teiketsuatsu ( teiketsuatsu ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "呼吸困難。",
+                            "transliteration": "kokyuu konnan ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "저혈압(저혈압).",
+                            "transliteration": "jeohyeolap(jeohyeolap)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "부풀어 오르고 뻣뻣한 배(복부 팽만).",
+                            "transliteration": "bufureo oreugo ppeosppeoshan bae(bokbu pengmann)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복통.",
+                            "transliteration": "boktong."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "호흡 곤란.",
+                            "transliteration": "hoheub gonran."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "낮은 소변 (소변) 배출 (oliguria).",
+                            "transliteration": "najeun sobyeon (sobyeon) baechul (oliguria)."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Dificuldade respiratória."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Dor abdominal."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pressão arterial baixa (hipotensão)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Barriga inchada, apertada (distensão abdominal)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Baixa produção de xixi (urina) (oligúria)."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Низкое выделение мочи (олигурия).",
+                            "transliteration": "nizkoye vydeleniye mochi (oliguria)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Пониженное артериальное давление (гипотония).",
+                            "transliteration": "ponizhennoye arterial davlenie (gypotonia)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Затрудненное дыхание.",
+                            "transliteration": "zatrudnennoye dykhaniye."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Вздутый, подтянутый живот (вздутие живота).",
+                            "transliteration": "vzduty, podtyanuty zhivot (vzdutiye zivota)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Боль в животе.",
+                            "transliteration": "boll vie zivote."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Dificultad para respirar."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Baja producción de orina (oliguria)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Vientre hinchado y apretado (distensión abdominal)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Dolor abdominal."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Presión arterial baja (hipotensión)."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Nefes almada zorluk."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Şişmiş, sıkı göbek (karın şişkinliği)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Düşük tansiyon (hipotansiyon)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Karın ağrısı."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Düşük çiş (idrar) çıkışı (oligüri)."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "diagnosis",
+            "list": [
+                {
+                    "name": "How is abdominal compartment syndrome diagnosed?",
+                    "index": 0,
+                    "desc": "Abdominal compartment syndrome (ACS) patients may have: However, measuring intra-abdominal pressure is the only method to confirm the diagnosis of ACS. In case of organ failure and a pressure greater than 20 mmHg, your doctor will diagnose you with acute coronary syndrome (ACS). Right now, bladder pressure is the primary indicator of intra-abdominal pressure. Your doctor will: To determine whether the condition is improving or getting worse, your team of doctors will repeat this test. To ascertain whether your organs are failing, your healthcare provider might also prescribe certain tests. These tests could consist of:. ",
+                    "pointers": [
+                        "Low blood pressure.",
+                        "Low urine output.",
+                        "High peak pressures on a ventilator.",
+                        "Blood tests: Blood tests can measure certain chemicals and gasses in your body. For example, a creatinine clearance test can measure your kidney function.",
+                        "Imaging tests: Imaging tests can provide pictures of the inside of your abdomen. For example, a CT scan or abdominal ultrasound.",
+                        "Oxygen saturation: This test uses a simple clamp on the outside of your finger to see whether your body is getting enough oxygen."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ko",
+                            "value": "복부 구획 증후군은 어떻게 진단하나요?",
+                            "transliteration": "bokbu guhok jeunghuguneun eotteohge jindanhanayo?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como é diagnosticada a síndrome compartimental abdominal?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Abdominal kompartman sendromu nasıl teşhis edilir?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "كيف يتم تشخيص متلازمة الحيز البطني؟",
+                            "transliteration": "keef yetem chekhis matlazma al-haiz al-batnie"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部コンパートメント症候群はどのように診断されますか?",
+                            "transliteration": "fukubu compartment shoukougun wa dono you ni shindan sa re masu ka ?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Wie wird ein abdominelles Kompartmentsyndrom diagnostiziert?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come viene diagnosticata la sindrome compartimentale addominale?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как диагностируется абдоминальный компартмент-синдром?",
+                            "transliteration": "kak diagnostiruetsya abdominalis compartment-syndrome?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bagaimana sindrom kompartemen perut didiagnosis?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se diagnostica el síndrome compartimental abdominal?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Пациенты с синдромом абдоминального компартмента (ОКС) могут иметь: Однако измерение внутрибрюшного давления является единственным методом подтверждения диагноза ОКС. В случае органной недостаточности и давления более 20 мм рт.ст. врач поставит вам диагноз «острый коронарный синдром» (ОКС). В настоящее время давление в мочевом пузыре является основным показателем внутрибрюшного давления. Ваш врач: Чтобы определить, улучшается или ухудшается состояние, ваша команда врачей повторит этот тест. Чтобы определить, отказывают ли ваши органы, ваш медицинский сотрудник также может назначить определенные анализы. Эти тесты могут состоять из:. ",
+                            "transliteration": "patsienti s syndrome abdominalis compartment (ochs) mogut imet: odnaco izmereniye vnutribryushnogo davlenia yavlyaetsya edinstvennym methodome podtverzhdeniya diagnosis ochs. vie sluchae organnoy nedostatochnosti yi davlenia boleye 20 mm rt.st. vrach postavit vam diagnosis «ostry coronary syndrome» (ochs). vie nastoyashcheye vremya davlenie vie mochevom puzyre yavlyaetsya osnovnym pocazatelem vnutribryushnogo davlenia. vas vrach: chtoby opredelit, uluchshayetsya eli ukhudshayetsya sostoyaniye, vasha command vrachey povtorit ethot test. chtoby opredelit, otkazyvaute lee vashi organ, vas meditsynsky sotrudnik takze moget naznachit opredelennye analysis. ethy testy mogut sostoyat iz:. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los pacientes con síndrome compartimental abdominal (SCA) pueden tener: Sin embargo, la medición de la presión intraabdominal es el único método para confirmar el diagnóstico de SCA. En caso de insuficiencia orgánica y una presión superior a 20 mmHg, su médico le diagnosticará síndrome coronario agudo (SCA). En este momento, la presión de la vejiga es el principal indicador de la presión intraabdominal. Su médico: Para determinar si la afección está mejorando o empeorando, su equipo de médicos repetirá esta prueba. Para determinar si sus órganos están fallando, su proveedor de atención médica también podría recetarle ciertas pruebas. Estas pruebas podrían consistir en: "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부 구획 증후군(ACS) 환자는 다음과 같은 증상을 보일 수 있습니다. 그러나 복강 내 압력을 측정하는 것이 ACS의 진단을 확인하는 유일한 방법입니다. 장기 부전과 20mmHg 이상의 압력이 있는 경우 의사는 급성 관상 동맥 증후군(ACS)으로 진단할 것입니다. 현재 방광압은 복강 내 압력의 주요 지표입니다. 담당 의사는 다음과 같은 조치를 취합니다. 상태가 호전되고 있는지 또는 악화되고 있는지 확인하기 위해 의료진이 이 검사를 반복합니다. 장기가 고장 나고 있는지 확인하기 위해 의료진은 특정 검사를 처방할 수도 있습니다. 이러한 테스트는 다음과 같이 구성될 수 있습니다. ",
+                            "transliteration": "bokbu guhok jinghu(ACS) hwanjaneun daeumgwa gateun jeungsangeul boil su issseupnida. geureona bokung no apryeogeul cheukjeonghaneun geosi ACSyoo jindaneul hwaginhaneun ilhan bangbeopipnida. janggi bujeongwa 20mmHg isang apryeogi issneun gyeongu uisaneun geupseong guanshang dongmaek jinghu(ACS)euro jindanhal geosipnida. hyeonjae banggwangapeun bokung no apryeogui juyo jipyoipnida. damdang uisaneun daeumgwa gateun jochireul chwihapnida. sangtaega hojeondoego issneunji ttoneun akhwadoego issneunji hwaginhagi wihae uiryojini i geomsareul banbokhapnida. janggiga gojang nago issneunji hwaginhagi wihae uiryojineun teukjeong geomsareul cheobanghal south issseupnida. ireohan testnun daeumgwa gati guseongdoel su issseupnida. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "قد يكون لدى مرضى متلازمة المقصورة البطنية (ACS): ومع ذلك ، فإن قياس الضغط داخل البطن هو الطريقة الوحيدة لتأكيد تشخيص ACS. في حالة فشل الأعضاء وضغط أكبر من 20 مم زئبق ، سيقوم طبيبك بتشخيصك بمتلازمة الشريان التاجي الحادة (ACS). في الوقت الحالي ، يعد ضغط المثانة هو المؤشر الأساسي للضغط داخل البطن. سيقوم طبيبك بما يلي: لتحديد ما إذا كانت الحالة تتحسن أو تزداد سوءا، سيكرر فريق الأطباء هذا الاختبار. للتأكد مما إذا كانت أعضائك تفشل ، قد يصف لك مقدم الرعاية الصحية أيضا اختبارات معينة. يمكن أن تتكون هذه الاختبارات من: ",
+                            "transliteration": "qud yakon lada mordhi matlazma maqsoura batnay (ACS): wama delk ، fin qayas al-daght dakhel al-butan ho altrega louhida latakid chekhis ACS. fe hala fachel al-adaa wadgat akbar minn 20 mem zebak ، segum tabibak pechekhisk bemtlazma sherian al-taji al-hade (ACS). fe al-waqqat al-hali ، yad daghat mthana ho al-mousher al-assai ladgat dakhel al-butan. segum tabibak pama lelle: lathadid ma idha kant al-halah tathissen oa tesdad sooal secrer ferik al-atba hudha al-akhtabar. leltaked memma idha kant adaik tufshil ، qud lesfe lek mokaddam al-raya al-sahia asada akhtabarat mainah. yamken an tetkon huthe akhtabarat minn: "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Abdominal kompartman sendromu (AKS) hastalarında şunlar olabilir: Bununla birlikte, karın içi basıncın ölçülmesi, AKS tanısını doğrulamak için tek yöntemdir. Organ yetmezliği ve 20 mmHg'den yüksek bir basınç durumunda, doktorunuz size akut koroner sendrom (ACS) teşhisi koyacaktır. Şu anda, mesane basıncı karın içi basıncın birincil göstergesidir. Doktorunuz: Durumun iyileşip iyileşmediğini veya kötüleşip kötüleşmediğini belirlemek için doktor ekibiniz bu testi tekrarlayacaktır. Organlarınızın iflas edip etmediğini belirlemek için sağlık uzmanınız bazı testler de önerebilir. Bu testler şunlardan oluşabilir: "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pacientes com síndrome compartimental abdominal (SCA) podem ter: No entanto, a medida da pressão intra-abdominal é o único método para confirmar o diagnóstico de SCA. Em caso de falência de órgãos e pressão superior a 20 mmHg, o seu médico irá diagnosticá-lo com síndrome coronariana aguda (SCA). Atualmente, a pressão vesical é o principal indicador da pressão intra-abdominal. Seu médico irá: Para determinar se a condição está melhorando ou piorando, sua equipe de médicos repetirá este teste. Para verificar se seus órgãos estão falhando, seu médico também pode prescrever certos exames. Estes testes podem consistir em:. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "انخفاض ضغط الدم.",
+                            "transliteration": "ankhvadh daghat al-dem."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تشبع الأكسجين: يستخدم هذا الاختبار مشبكا بسيطا على الجزء الخارجي من إصبعك لمعرفة ما إذا كان جسمك يحصل على كمية كافية من الأكسجين.",
+                            "transliteration": "tashba al-aksjin: yestkhedem hudha al-akhtabar moshbaka bsita ola al-jaza al-kharji minn esbak lamarafa ma idha can jasmak yahsel ola komeya cafia minn al-aksjin."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "انخفاض إخراج البول.",
+                            "transliteration": "ankhvadh ikhraj al-bol."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ضغوط ذروة عالية على جهاز التنفس الصناعي.",
+                            "transliteration": "dhaghout droua alia ola jahaz al-tanfas al-sanai."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "اختبارات التصوير: يمكن أن توفر اختبارات التصوير صورا لداخل بطنك. على سبيل المثال ، الأشعة المقطعية أو الموجات فوق الصوتية للبطن.",
+                            "transliteration": "akhtabarat al-taswair: yamken an tover akhtabarat al-taswair sora ladachell battang. ola sebil al-muthal ، al-ashaa al-maqtaia oa mogat fouq soutia labatin."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "血氧饱和度曰:试用指外之简夹子以观君之身之足氧气。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "影像学:影像学腹内图片。 如CT 扫描腹超声检。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "血检:血量化学物质气。 如肌酐清率试可以测肾功能。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "尿量低。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Pression artérielle basse."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Saturation en oxygène : Ce test utilise une simple pince à l’extérieur de votre doigt pour voir si votre corps reçoit suffisamment d’oxygène."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Pressions de pointe élevées sur un ventilateur."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Hohe Spitzendrücke an einem Beatmungsgerät."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Bildgebende Tests: Bildgebende Tests können Bilder des Inneren Ihres Bauches liefern. Zum Beispiel ein CT-Scan oder ein Ultraschall des Abdomens."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Niedriger Blutdruck."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Sauerstoffsättigung: Bei diesem Test wird eine einfache Klemme an der Außenseite Ihres Fingers verwendet, um festzustellen, ob Ihr Körper genügend Sauerstoff erhält."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Tes pencitraan: Tes pencitraan dapat memberikan gambar bagian dalam perut Anda. Misalnya, CT scan atau USG perut."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tekanan darah rendah."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Output urin rendah."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tekanan puncak tinggi pada ventilator."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Esami del sangue: gli esami del sangue possono misurare alcune sostanze chimiche e gas nel corpo. Ad esempio, un test di clearance della creatinina può misurare la funzionalità renale."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Bassa produzione di urina."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Alte pressioni di picco su un ventilatore."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Test di imaging: i test di imaging possono fornire immagini dell'interno dell'addome. Ad esempio, una TAC o un'ecografia addominale."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Pressione sanguigna bassa."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "人工呼吸器のピーク圧力が高い。",
+                            "transliteration": "jinkou kokyuu ki no peak atsuryoku ga takai ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "酸素飽和度:このテストでは、指の外側に簡単なクランプを使用して、体に十分な酸素が行き渡っているかどうかを確認します。",
+                            "transliteration": "sanso houwa do : kono test de wa 、 yubi no sotogawa ni kantan nani clamp wa shiyou shi te 、 tai ni juubun nani sanso ga ikiwatatsu te iru ka dou ka wa kakunin shi masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "画像検査:画像検査では、腹部の内側の写真を提供することができます。たとえば、CTスキャンや腹部超音波検査などです。",
+                            "transliteration": "gazou kensa : gazou kensa de wa 、 fukubu no uchigawa no shashin wa teikyou suru koto ga deki masu .tatoeba 、 ct scan ya fukubu chouonpa kensa nado desu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "尿量が少ない。",
+                            "transliteration": "nyou ryou ga sukunai ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "산소 포화도: 이 테스트는 손가락 바깥쪽에 있는 간단한 클램프를 사용하여 신체가 충분한 산소를 공급받고 있는지 확인합니다.",
+                            "transliteration": "sanso pohwado: i testnun songarak bakkatjjoge issneun gandanhan klamprel sayonghayeo sinchega chungbunhan sansoreul gonggeupbatgo issneunji hwaginhapnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "저혈압.",
+                            "transliteration": "jeohyeolap."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "영상 검사: 영상 검사는 복부 내부의 사진을 제공할 수 있습니다. 예를 들어, CT 스캔이나 복부 초음파가 있습니다.",
+                            "transliteration": "yeongsang geomsa: yeongsang geomsaneun bokbu naebu sajineul jegonghal su issseupnida. yerl deureo, CT scanina bokbu choeumpaga issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "혈액 검사: 혈액 검사는 신체의 특정 화학 물질과 가스를 측정할 수 있습니다. 예를 들어, 크레아티닌 청소율 검사는 신장 기능을 측정할 수 있습니다.",
+                            "transliteration": "hyeoraek geomsa: hyeoraek geomsaneun sinche teukjeong hwahak muljilgwa gaseureul cheukjeonghal su issseupnida. yerl deureo, kreatinine chongsoyul geomsaneun xinjiang gineungeul cheukjeonghal su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "낮은 소변량.",
+                            "transliteration": "najeun sobyeonryang."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "인공호흡기의 높은 최고 압력.",
+                            "transliteration": "ingong nopeun choego apryeok."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Baixo débito urinário."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Saturação de oxigênio: Este teste usa uma simples braçadeira na parte externa do dedo para ver se seu corpo está recebendo oxigênio suficiente."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Altas pressões de pico em um ventilador."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pressão arterial baixa."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Exames de imagem: Os exames de imagem podem fornecer imagens do interior do abdômen. Por exemplo, uma tomografia computadorizada ou ultrassonografia abdominal."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Exames de sangue: Os exames de sangue podem medir certos produtos químicos e gases em seu corpo. Por exemplo, um teste de depuração da creatinina pode medir a sua função renal."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Пониженное артериальное давление.",
+                            "transliteration": "ponizhennoye arterial davlenie."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Насыщение крови кислородом: В этом тесте используется простой зажим на внешней стороне пальца, чтобы увидеть, получает ли ваше тело достаточно кислорода.",
+                            "transliteration": "nasyshcheny krovi kislorodom: vie ethom teste espolzuetsa prostoy zazim na vneshney storonie paltsa, chtoby uvidet, poluchayet lee vasheh telo dostatochno kisloroda."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Визуализирующие тесты: С помощью визуализирующих тестов можно получить снимки внутренней части брюшной полости. Например, компьютерная томография или УЗИ брюшной полости.",
+                            "transliteration": "visualized testy: s pomoshchyu visualized testov mozno poluchit snimki vnutrenney chasti brushnoy polosti. naprimer, computernation tomography eli uzy brushnoy polosti."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Низкий диурез.",
+                            "transliteration": "nizki diourez."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Высокое пиковое давление на аппарате искусственной вентиляции легких.",
+                            "transliteration": "vysokoye pikove davlenie na apparate iskusstvennoy ventilation legkich."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Анализы крови: Анализы крови могут измерять определенные химические вещества и газы в вашем организме. Например, тест на клиренс креатинина может измерить функцию почек.",
+                            "transliteration": "analysis krovi: analysis krovi mogut izmeriat opredelennye khimicheskiye veshchestva yi gaza vie vashem organism. naprimer, test na klierens kreatinina moget izmerit function poczek."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Baja diuresis."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Pruebas de diagnóstico por imágenes: Las pruebas de diagnóstico por imágenes pueden proporcionar imágenes del interior del abdomen. Por ejemplo, una tomografía computarizada o una ecografía abdominal."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Saturación de oxígeno: Esta prueba utiliza una pinza simple en la parte exterior del dedo para ver si su cuerpo está recibiendo suficiente oxígeno."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Altas presiones máximas en un ventilador."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Düşük idrar çıkışı."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Görüntüleme testleri: Görüntüleme testleri, karnınızın içinin resimlerini sağlayabilir. Örneğin, bir BT taraması veya karın ultrasonu."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Ventilatörde yüksek tepe basınçları."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Düşük tansiyon."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kan testleri: Kan testleri vücudunuzdaki bazı kimyasalları ve gazları ölçebilir. Örneğin, bir kreatinin klirens testi böbrek fonksiyonunuzu ölçebilir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Oksijen doygunluğu: Bu test, vücudunuzun yeterli oksijen alıp almadığını görmek için parmağınızın dışında basit bir kelepçe kullanır."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "treatment",
+            "list": [
+                {
+                    "name": "How is abdominal compartment syndrome treated?",
+                    "index": 0,
+                    "desc": "Surgically decompressing your abdomen is the most efficient way to treat ABS. There will be a decompressive laparotomy, which will be done by your surgeon. The area will be opened and pressure released by making an incision through your skin and abdominal wall. Following surgery, intra-abdominal pressure drops in the early hours. The pressure might not return to near-normal levels for several days. Perhaps until this occurs, the incision won't be completely closed. Repeat abdominal decompression surgery may be necessary for certain individuals. ",
+                    "name_lang": [
+                        {
+                            "name": "de",
+                            "value": "Wie wird ein abdominelles Kompartmentsyndrom behandelt?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come viene trattata la sindrome compartimentale addominale?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Abdominal kompartman sendromu nasıl tedavi edilir?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se trata el síndrome compartimental abdominal?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как лечится абдоминальный компартмент-синдром?",
+                            "transliteration": "kak lechitsya abdominalis compartment-syndrome?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bagaimana sindrom kompartemen perut diobati?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como é tratada a síndrome compartimental abdominal?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以治之骨筋膜室综合征?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부 구획 증후군은 어떻게 치료하나요?",
+                            "transliteration": "bokbu guhok jeunghuguneun eotteohge chiryohanayo?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部コンパートメント症候群はどのように治療されますか?",
+                            "transliteration": "fukubu compartment shoukougun wa dono you ni chiryou sa re masu ka ?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "id",
+                            "value": "Pembedahan dekompresi perut Anda adalah cara yang paling efisien untuk mengobati ABS. Akan ada laparotomi dekompresif, yang akan dilakukan oleh dokter bedah Anda. Area tersebut akan terbuka dan tekanan dilepaskan dengan membuat sayatan melalui kulit dan dinding perut Anda. Setelah operasi, tekanan intra-abdomen turun pada dini hari. Tekanan mungkin tidak kembali ke tingkat mendekati normal selama beberapa hari. Mungkin sampai ini terjadi, sayatan tidak akan sepenuhnya tertutup. Operasi dekompresi perut berulang mungkin diperlukan untuk individu tertentu. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Descomprimir quirúrgicamente el abdomen es la forma más eficaz de tratar el ABS. Habrá una laparotomía descompresiva, que será realizada por su cirujano. Se abrirá el área y se liberará la presión haciendo una incisión a través de la piel y la pared abdominal. Después de la cirugía, la presión intraabdominal desciende en las primeras horas. Es posible que la presión no vuelva a niveles casi normales durante varios días. Tal vez hasta que esto ocurra, la incisión no estará completamente cerrada. La cirugía de descompresión abdominal repetida puede ser necesaria para ciertas personas. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "手术减压腹者,治 ABS 之最效也。 将行减压剖腹手术,由君外科医生成。 当开皮肤腹壁,切开一切口以释之。 既手术,腹内压凌晨降。 或数日之间,不可复近。 或时先此,切口不能尽合。 其于人也,或须重腹减压手术。 "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "수술로 복부를 감압하는 것이 ABS를 치료하는 가장 효율적인 방법입니다. 감압 개복술이 있을 것이며, 이는 외과의가 수행할 것입니다. 피부와 복벽을 절개하여 해당 부위를 열고 압력을 풀어줍니다. 수술 후 이른 시간에 복강 내 압력이 떨어집니다. 압력은 며칠 동안 거의 정상 수준으로 돌아오지 않을 수 있습니다. 어쩌면 이렇게 될 때까지는 절개 부위가 완전히 봉합되지 않을 수도 있다. 특정 개인에게는 반복적인 복부 감압 수술이 필요할 수 있습니다. ",
+                            "transliteration": "susullo bokbureul gamaphaneun geosi ABSreul chiryohaneun gajang hyoyuljeogin bangbeopipnida. gamap gaeboksuri isseul geosimyeo, ineun oegwa suhaenghal geosipnida. phibuwa bokbyeogeul jeolgaeha haedang buwireul yeolgo apryeogeul pureojupnida. susul hu ireun sigane bokung no apryeogi tteoreojipnida. apryeogeun myeochil dongan geoui jeongsang sujuneuro doraoji anheul su issseupnida. eojjeomyeon ireohge doel ttaekkajineun jeolgae buyga wanjeonhi bonghapdoeji anheul south issda. teukjeong gaeinegeneun banbokjeogin bokbu gamap susuri piryohal su issseupnida. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Karnınızı cerrahi olarak açmak, ABS'yi tedavi etmenin en etkili yoludur. Cerrahınız tarafından yapılacak olan dekompresif bir laparotomi olacaktır. Cildinizden ve karın duvarınızdan bir kesi yapılarak bölge açılacak ve basınç serbest bırakılacaktır. Ameliyattan sonra erken saatlerde karın içi basıncı düşer. Basınç birkaç gün boyunca normale yakın seviyelere dönmeyebilir. Belki de bu gerçekleşene kadar kesi tamamen kapanmayacaktır. Bazı kişilerde abdominal dekompresyon ameliyatının tekrarlanması gerekebilir. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Descomprimir cirurgicamente o abdômen é a maneira mais eficiente de tratar o ABS. Haverá uma laparotomia descompressiva, que será feita pelo seu cirurgião. A área será aberta e a pressão liberada fazendo uma incisão através de sua pele e parede abdominal. Após a cirurgia, a pressão intra-abdominal cai nas primeiras horas. A pressão pode não voltar a níveis quase normais por vários dias. Talvez até que isso ocorra, a incisão não será completamente fechada. A repetição da cirurgia de descompressão abdominal pode ser necessária para certos indivíduos. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "La decompressione chirurgica dell'addome è il modo più efficace per trattare l'ABS. Ci sarà una laparotomia decompressiva, che verrà eseguita dal chirurgo. L'area verrà aperta e la pressione verrà rilasciata praticando un'incisione attraverso la pelle e la parete addominale. Dopo l'intervento chirurgico, la pressione intra-addominale diminuisce nelle prime ore. La pressione potrebbe non tornare a livelli quasi normali per diversi giorni. Forse fino a quando ciò non accadrà, l'incisione non sarà completamente chiusa. Per alcuni individui può essere necessario ripetere l'intervento chirurgico di decompressione addominale. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Die chirurgische Dekompression des Bauches ist die effizienteste Methode zur Behandlung von ABS. Es wird eine dekompressive Laparotomie durchgeführt, die von Ihrem Chirurgen durchgeführt wird. Der Bereich wird geöffnet und der Druck wird abgelassen, indem ein Schnitt durch die Haut und die Bauchdecke gemacht wird. Nach der Operation sinkt der intraabdominelle Druck in den frühen Morgenstunden. Es kann sein, dass der Druck erst nach einigen Tagen wieder auf ein annähernd normales Niveau zurückkehrt. Vielleicht wird der Schnitt bis dahin nicht vollständig verschlossen sein. Eine wiederholte Bauchdekompressionsoperation kann bei bestimmten Personen erforderlich sein. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部を外科的に減圧することは、ABSを治療する最も効率的な方法です。減圧開腹術があり、外科医が行います。皮膚と腹壁を切開することで、その領域が開き、圧力が解放されます。手術後、腹腔内圧は早い時間に低下します。気圧が平年並みに戻るのは数日間先かもしれません。おそらく、これが起こるまで、切開部は完全には閉じられないでしょう。腹部減圧手術の繰り返しは、特定の個人に対して必要になる場合があります。",
+                            "transliteration": "fukubu wa geka teki ni genatsu suru koto wa 、 abs wa chiryou suru mottomo kouritsu teki nani houhou desu .genatsu kaifuku jutsu ga ari 、 geka i ga ikai masu .hifu to fukuheki wa sekkai suru koto de 、 sono ryouiki ga hiraki 、 atsuryoku ga kaihou sa re masu .shujutsu go 、 fukkou naiatsu wa hayai jikan ni teika shi masu .kiatsu ga heinen nami ni modoru no wa suu nikkan saki kamo shire mase nichi .osoraku 、 kore ga okoru made 、 sekkai bu wa kanzen ni wa toji ra re nai desho u .fukubu genatsu shujutsu no kurikaeshi wa 、 tokutei no kojin nitaishite hitsuyo ni naru baai ga ari masu ."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Хирургическая декомпрессия брюшной полости является наиболее эффективным способом лечения АБС. Будет проведена декомпрессивная лапаротомия, которую выполнит ваш хирург. Область будет открыта и давление снято путем разреза через кожу и брюшную стенку. После операции внутрибрюшное давление снижается в первые часы. Давление может не возвращаться к уровню, близкому к нормальному, в течение нескольких дней. Возможно, до тех пор, пока это не произойдет, разрез не будет полностью закрыт. Некоторым людям может потребоваться повторная операция по декомпрессии брюшной полости. ",
+                            "transliteration": "khirurgicheskaya decompression brushnoy polosti yavlyaetsya naiboleye effective sposobome lecheniya abs. budet provedena decompressive laparotomy, kotoruyu vypolnit vas khirurg. oblast budet otkrita yi davlenie sniato putem razreza cherez kozhu yi bryushnuyu stenku. posle operations vnutribryushnoye davlenie snizhaetsya vie pervye chasy. davlenie moget nay vozvrashchatsya k urovnyu, blizkomu k normalnomou, vie techeniye nescolcich dney. vozmozhno, do tech por, poca eto nay proisoidet, razrez nay budet polnostyu zakrit. necotorimus lyudyam moget potrebovatsya povtornaya operations pau decompression brushnoy polosti. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "prognosis",
+            "list": [
+                {
+                    "name": "What is the outlook for people with abdominal compartment syndrome?",
+                    "index": 0,
+                    "desc": "Absent treatment for abdominal compartment syndrome results in death. A growing amount of organs eventually shut down as a result of increased abdominal pressure. If diagnosis and treatment are postponed, the prognosis is even worse. However, stomach compartment syndrome is curable with prompt diagnosis and care. Months or weeks may pass before the initial health issue is resolved compared to ACS. A Cleveland Clinic note that you might need: Patients with critical illnesses may experience abdominal compartment syndrome, a medical emergency. When your abdomen's pressure and swelling reach dangerous heights, it occurs. To avoid fatal consequences and serious complications, early diagnosis and treatment are crucial. ",
+                    "pointers": [
+                        "Dialysis to do the work of your kidneys.",
+                        "Extended hospital stays.",
+                        "Fluid restrictions or diuretics.",
+                        "Heart monitoring.",
+                        "Mechanical ventilation to breathe."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ja",
+                            "value": "腹部コンパートメント症候群の人の見通しは?",
+                            "transliteration": "fukubu compartment shoukougun no hito no mitooshi wa ?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Wie sind die Aussichten für Menschen mit Bauchkompartmentsyndrom?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Каков прогноз для людей с синдромом абдоминального компартмента?",
+                            "transliteration": "kakov prognosis dla ludey s syndrome abdominalis compartment?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono le prospettive per le persone con sindrome compartimentale addominale?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuál es el pronóstico para las personas con síndrome compartimental abdominal?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bagaimana prospek orang dengan sindrom kompartemen perut?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부 구획 증후군 환자의 전망은 어떻습니까?",
+                            "transliteration": "bokbu guhok jinghu hwanja jeonmangeun eotteohseupnikka?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "腹骨筋膜室综合征何如?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Qual é a perspectiva para as pessoas com síndrome compartimental abdominal?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "es",
+                            "value": "La ausencia de tratamiento para el síndrome compartimental abdominal resulta en la muerte. Una cantidad creciente de órganos eventualmente se apagan como resultado del aumento de la presión abdominal. Si el diagnóstico y el tratamiento se posponen, el pronóstico es aún peor. Sin embargo, el síndrome compartimental estomacal es curable con un diagnóstico y atención oportunos. Pueden pasar meses o semanas antes de que se resuelva el problema de salud inicial en comparación con el SCA. Una nota de Cleveland Clinic que podría necesitar: Los pacientes con enfermedades críticas pueden experimentar el síndrome compartimental abdominal, una emergencia médica. Cuando la presión y la hinchazón del abdomen alcanzan alturas peligrosas, se produce. Para evitar consecuencias fatales y complicaciones graves, el diagnóstico y el tratamiento tempranos son cruciales. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tidak adanya pengobatan untuk sindrom kompartemen perut mengakibatkan kematian. Semakin banyak organ akhirnya ditutup sebagai akibat dari peningkatan tekanan perut. Jika diagnosis dan pengobatan ditunda, prognosisnya bahkan lebih buruk. Namun, sindrom kompartemen perut dapat disembuhkan dengan diagnosis dan perawatan yang cepat. Bulan atau minggu mungkin berlalu sebelum masalah kesehatan awal diselesaikan dibandingkan dengan ACS. Catatan Klinik Cleveland bahwa Anda mungkin perlu: Pasien dengan penyakit kritis mungkin mengalami sindrom kompartemen perut, keadaan darurat medis. Ketika tekanan dan pembengkakan perut Anda mencapai ketinggian yang berbahaya, itu terjadi. Untuk menghindari konsekuensi fatal dan komplikasi serius, diagnosis dini dan pengobatan sangat penting. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "L'assenza di trattamento per la sindrome compartimentale addominale provoca la morte. Un numero crescente di organi alla fine si spegne a causa dell'aumento della pressione addominale. Se la diagnosi e il trattamento vengono posticipati, la prognosi è ancora peggiore. Tuttavia, la sindrome del compartimento gastrico è curabile con una diagnosi e una cura tempestive. Possono passare mesi o settimane prima che il problema di integrità iniziale venga risolto rispetto all'ACS. Una nota della Cleveland Clinic che potresti aver bisogno di: I pazienti con malattie critiche possono sperimentare la sindrome compartimentale addominale, un'emergenza medica. Quando la pressione e il gonfiore dell'addome raggiungono altezze pericolose, si verifica. Per evitare conseguenze fatali e complicanze gravi, la diagnosi e il trattamento precoci sono fondamentali. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "腹骨筋膜室综合征乏治则死。 益多者竟以腹压增而闭。 迟之则更糟。 然胃骨筋膜室综合征以时诊护愈。 比之 ACS,或数月数周乃能决其始。 克利夫兰诊所之笔记,君其须之: 有危疾者,或有腹筋膜室综合征,此医之急者也。 当其腹胁肿危,则生于此。 所以避致命之并发症,早治至重也。 "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Отсутствие лечения абдоминального компартмент-синдрома приводит к летальному исходу. Растущее количество органов в конечном итоге отключается в результате повышения давления в брюшной полости. Если диагностика и лечение откладываются, прогноз еще хуже. Тем не менее, синдром компартмента желудка излечим при своевременной диагностике и лечении. Могут пройти месяцы или недели, прежде чем первоначальная проблема со здоровьем будет решена по сравнению с ACS. Примечание клиники Кливленда, которое вам может понадобиться: Пациенты с критическими заболеваниями могут испытывать абдоминальный компартмент-синдром, неотложную медицинскую помощь. Когда давление и вздутие живота достигают опасной высоты, это происходит. Чтобы избежать фатальных последствий и серьезных осложнений, ранняя диагностика и лечение имеют решающее значение. ",
+                            "transliteration": "otsutstvi lecheniya abdominalis compartment-syndrome privodite k letalnomu iskhodu. rastushcheye kolichestvo organov vie konechnom itoge otklyuchaetsya vie resultate povysheniya davlenia vie brushnoy polosti. esli diagnosis yi lecheniye otkladyvayutsya, prognosis eshche khuzheh. tem nay menee, syndrome compartment zheludka izlechim pri svoyevremennoy diagnostics yi lecenii. mogut proiti mesyatsy eli nedeli, prezde cham pervonachalnaya problem so zdorovyem budet reshena pau sravneniyu s ACS. primechanie kliniki klivlend, kotoroye vam moget ponadobitsya: patsienti s kriticeschimi zabolevaniyami mogut ispytivat abdominalis compartment-syndrome, neotlozhnuyu meditsynsky pomoshch. kogda davlenie yi vzdutiye zivota dostigayut opasnoy vysoty, eto proishodite. chtoby izbezhat fatalnykh posledstviy yi seryoznykh oslozhneniy, rannyaya diagnosis yi lecheniye imeut reshayushcheye znacheniye. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A ausência de tratamento para a síndrome compartimental abdominal resulta em morte. Uma quantidade crescente de órgãos eventualmente se desligou como resultado do aumento da pressão abdominal. Se o diagnóstico e o tratamento forem adiados, o prognóstico é ainda pior. No entanto, a síndrome compartimental do estômago é curável com diagnóstico e cuidados imediatos. Meses ou semanas podem passar antes que o problema de saúde inicial seja resolvido em comparação com o ACS. Uma observação da Cleveland Clinic que você pode precisar: Pacientes com doenças críticas podem experimentar síndrome compartimental abdominal, uma emergência médica. Quando a pressão e o inchaço do abdômen atingem alturas perigosas, isso ocorre. Para evitar consequências fatais e complicações graves, o diagnóstico e o tratamento precoces são cruciais. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Eine fehlende Behandlung des abdominalen Kompartmentsyndroms führt zum Tod. Eine wachsende Anzahl von Organen schaltet sich schließlich als Folge des erhöhten Bauchdrucks ab. Werden Diagnose und Behandlung verschoben, ist die Prognose noch schlechter. Das Magen-Kompartment-Syndrom ist jedoch bei rechtzeitiger Diagnose und Behandlung heilbar. Im Vergleich zu ACS können Monate oder Wochen vergehen, bis das anfängliche Gesundheitsproblem behoben ist. Ein Hinweis der Cleveland Clinic, den Sie möglicherweise benötigen: Bei Patienten mit kritischen Erkrankungen kann es zu einem abdominalen Kompartmentsyndrom kommen, einem medizinischen Notfall. Wenn der Druck und die Schwellung Ihres Bauches gefährliche Höhen erreichen, tritt dies auf. Um tödliche Folgen und schwerwiegende Komplikationen zu vermeiden, ist eine frühzeitige Diagnose und Behandlung entscheidend. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "L’absence de traitement du syndrome des loges abdominaux entraîne la mort. Un nombre croissant d’organes finissent par s’arrêter en raison de l’augmentation de la pression abdominale. Si le diagnostic et le traitement sont reportés, le pronostic est encore pire. Cependant, le syndrome du compartiment gastrique peut être guéri avec un diagnostic et des soins rapides. Des mois ou des semaines peuvent s’écouler avant que le problème de santé initial ne soit résolu par rapport à l’ACS. Une note de la Cleveland Clinic dont vous pourriez avoir besoin : Les patients atteints de maladies graves peuvent souffrir du syndrome du compartiment abdominal, une urgence médicale. Lorsque la pression et le gonflement de votre abdomen atteignent des hauteurs dangereuses, cela se produit. Pour éviter des conséquences fatales et des complications graves, un diagnostic et un traitement précoces sont essentiels. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "腹部コンパートメント症候群の治療を怠ると死に至る。腹圧の上昇の結果として、最終的に停止する臓器の数が増えています。診断と治療が延期されると、予後はさらに悪化します。しかし、胃コンパートメント症候群は迅速な診断とケアで治癒可能です。ACSと比較して、最初の正常性の問題が解決されるまでに数か月または数週間かかる場合があります。クリーブランドクリニックは、あなたが必要とするかもしれない注意:重篤な病気の患者は、医療上の緊急事態である腹部コンパートメント症候群を経験する可能性があります。腹部の圧力と腫れが危険な高さに達すると、それは起こります。致命的な結果や重篤な合併症を避けるためには、早期の診断と治療が重要です。",
+                            "transliteration": "fukubu compartment shoukougun no chiryou wa okotaru to shi ni itaru .hara atsu no joushou no kekka toshite 、 saishu teki ni teishi suru zouki no suu ga fue te iya masu .shindan to chiryou ga enki sa reru to 、 yogo wa sarani akka shi masu .shikashi 、 i compartment shoukougun wa jinsoku nani shindan to cair de chiyu kanou desu .acs to hikaku shi te 、 saisho no seijou shou no mondai ga kaiketsu sa reru made ni suu kagetsu mataha suu shuukan kakaru baai ga ari masu .cleveland clinic wa 、 anata ga hitsuyo to suru kamo shire nai chuui : juu toku nani byouki no kanja wa 、 iryou ue no kinkyuu jitai de aru fukubu compartment shoukougun wa keiken suru kanosei ga ari masu .fukubu no atsuryoku to hare ga kiken nani takasa ni tassuru to 、 sore wa okori masu .chimei teki nani kekka ya juu toku nani gappeishou wa yokeru tame ni wa 、 souki no shindan to chiryou ga juuyou desu ."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Abdominal kompartman sendromu için tedavi olmaması ölümle sonuçlanır. Artan miktarda organ, artan karın basıncının bir sonucu olarak sonunda kapanır. Tanı ve tedavi ertelenirse, prognoz daha da kötüdür. Bununla birlikte, mide kompartman sendromu hızlı tanı ve bakım ile tedavi edilebilir. ACS'ye kıyasla ilk sağlık sorununun çözülmesi aylar veya haftalar alabilir. İhtiyaç duyabileceğiniz bir Cleveland Clinic notu: Kritik hastalıkları olan hastalar, tıbbi bir acil durum olan abdominal kompartman sendromu yaşayabilir. Karnınızın basıncı ve şişliği tehlikeli boyutlara ulaştığında ortaya çıkar. Ölümcül sonuçlardan ve ciddi komplikasyonlardan kaçınmak için erken tanı ve tedavi çok önemlidir. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "복부 구획 증후군에 대한 치료를 받지 않으면 사망에 이릅니다. 점점 더 많은 장기가 결국 복압 증가의 결과로 폐쇄됩니다. 진단과 치료를 미루면 예후는 더욱 나빠진다. 그러나 위구획 증후군은 신속한 진단과 치료로 치료할 수 있습니다. ACS에 비해 초기 상태 문제가 해결되기까지 몇 달 또는 몇 주가 걸릴 수 있습니다. 클리블랜드 클리닉(Cleveland Clinic)은 다음과 같은 사항을 참고할 수 있습니다. 심각한 질병을 앓고 있는 환자는 의료 응급 상황인 복부 구획 증후군을 경험할 수 있습니다. 복부의 압력과 부종이 위험한 높이에 도달하면 발생합니다. 치명적인 결과와 심각한 합병증을 피하려면 조기 진단과 치료가 중요합니다. ",
+                            "transliteration": "bokbu guhok jeunghugune dahan chiryoreul batji anheumyeon samange ireupnida. jeomjeom de manheun janggiga gyeolguk bogap jengha gyeolgwaro pyeswaedoepnida. jindan chiryoreul mirumyeon yehuneun deouk nappajinda. geureona wiguhock jeunghuguneun sinsokhan jindan chiryoro chiryohal su issseupnida. ACSe bihae chogi sangtae munjega haegyeoldoegickaji myeot dalle ttoneun myeot juga geollil su issseupnida. klibland klynick(Cleveland Clinic)eun daeumgwa gateun sahangeul chamgohal su issseupnida. simgakhan jilbyeongeul alhgo issneun hwanjaneun air eung sanghwangin bokbu guhok jeunghuguneul gyeongheomhal su issseupnida. bokbu abryeokgwa bujongi woman nopie dodalhamyeon balsaenghapnida. chimyeongjeogin gyeolgwawa simgakhan hapbyeongjeungeul piharyeomyeon jogi jindan chiryoga jungyohapnida. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "مراقبة القلب.",
+                            "transliteration": "murraqba al-qalb."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "الإقامة الطويلة في المستشفى.",
+                            "transliteration": "al-iqama al-tawilah fe al-mustashvi."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "التهوية الميكانيكية للتنفس.",
+                            "transliteration": "al-tahwiyya mikanikia latnavs."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "心监测。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "延住院日月。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "透析以成肾。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Séjours prolongés à l’hôpital."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Dialyse pour faire le travail de vos reins."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Surveillance cardiaque."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Flüssigkeitseinschränkungen oder Diuretika."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Längere Krankenhausaufenthalte."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Herz-Monitoring."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Dialyse, um die Arbeit Ihrer Nieren zu erledigen."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Dialisis untuk melakukan pekerjaan ginjal Anda."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Masa inap di rumah sakit yang diperpanjang."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Monitoraggio cardiaco."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Restrizioni di liquidi o diuretici."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Degenze ospedaliere prolungate."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Ventilazione meccanica per respirare."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Dialisi per fare il lavoro dei reni."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "入院期間の延長。",
+                            "transliteration": "nyuuin kikan no encho ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "心臓モニタリング。",
+                            "transliteration": "shinzou monitoring ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "呼吸のための機械換気。",
+                            "transliteration": "kokyuu no tame no kikai kanki ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "水分制限または利尿薬。",
+                            "transliteration": "suibun seigen mataha rinyou yaku ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "심장 모니터링.",
+                            "transliteration": "simjang monitoring."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "신장의 일을 하기 위한 투석.",
+                            "transliteration": "sinjiang ireul hagi wihan tuseok."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "수분 제한 또는 이뇨제.",
+                            "transliteration": "subun jehan ttoneun inoze."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "숨을 쉬기 위한 기계적 환기.",
+                            "transliteration": "sumeul shigi wihan gigyejeok hwangi."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "장기 입원.",
+                            "transliteration": "janggi ipwon."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Internações prolongadas."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Diálise para fazer o trabalho dos seus rins."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Monitorização cardíaca."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Restrições hídricas ou diuréticos."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Мониторинг сердечной деятельности.",
+                            "transliteration": "monitoring serdechnoy deiatelnost."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Ограничение жидкости или диуретики.",
+                            "transliteration": "ogranicenium zhidkosti eli diuretics."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Диализ для выполнения работы почек.",
+                            "transliteration": "dializ dla vypolneniya rabota poczek."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Длительное пребывание в больнице.",
+                            "transliteration": "dlitelnoye prebivanie vie bolnitz."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Искусственная вентиляция легких для дыхания.",
+                            "transliteration": "iskusstvennaya ventilation legkich dla dychania."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Monitorización cardíaca."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Estancias hospitalarias prolongadas."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Ventilación mecánica para respirar."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Restricciones de líquidos o diuréticos."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Diálisis para hacer el trabajo de los riñones."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Sıvı kısıtlamaları veya diüretikler."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Uzun hastanede kalış süreleri."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Böbreklerinizin işini yapmak için diyaliz."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kalp izleme."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Nefes almak için mekanik ventilasyon."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
