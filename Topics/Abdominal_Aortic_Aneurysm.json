@@ -1,6 +1,5 @@
 {
     "title": "Abdominal Aortic Aneurysm",
-    "s_image": "1_yKCYdsaM_Pacz4NeeqSRU2wR8qwUrF5", 
     "note_image": "1mkdDPFRXRfsf-THElX5nvhhLcNA_OhIk",
     "title_lang": [
         {
@@ -117,6 +116,7 @@
             "list": [
                 {
                     "name": "What are the symptoms of an abdominal aortic aneurysm?",
+                     "image": "1_yKCYdsaM_Pacz4NeeqSRU2wR8qwUrF5", 
                     "index": 0,
                     "desc": "Prior to the aneurysm almost rupturing, the majority of AAA patients don't exhibit any symptoms. It is a medical emergency if you have a ruptured AAA. Symptoms of an aneurysm rupture can strike suddenly and include: If you experience any of the following, call 911 or your local emergency number. ",
                     "pointers": [
