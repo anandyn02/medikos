@@ -1,7 +1,6 @@
 {
     "title": "Abdominal Compartment Syndrome",
     "note_image" : "",
-    "d_image": "",
     "title_lang": [
         {
             "name": "tr",
@@ -940,6 +939,7 @@
                 {
                     "name": "How is abdominal compartment syndrome diagnosed?",
                     "index": 0,
+                    "image": "",
                     "desc": "Abdominal compartment syndrome (ACS) patients may have: However, measuring intra-abdominal pressure is the only method to confirm the diagnosis of ACS. In case of organ failure and a pressure greater than 20 mmHg, your doctor will diagnose you with acute coronary syndrome (ACS). Right now, bladder pressure is the primary indicator of intra-abdominal pressure. Your doctor will: To determine whether the condition is improving or getting worse, your team of doctors will repeat this test. To ascertain whether your organs are failing, your healthcare provider might also prescribe certain tests. These tests could consist of:. ",
                     "pointers": [
                         "Low blood pressure.",
