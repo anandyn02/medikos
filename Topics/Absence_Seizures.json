@@ -1,0 +1,1120 @@
+{
+    "title": "Absence Seizures",
+    "title_lang": [
+        {
+            "name": "pt",
+            "value": "Crises de ausência"
+        },
+        {
+            "name": "ko",
+            "value": "결석 발작",
+            "transliteration": "gyeolseok baljak"
+        },
+        {
+            "name": "de",
+            "value": "Absence-Anfälle"
+        },
+        {
+            "name": "id",
+            "value": "Kejang Absen"
+        },
+        {
+            "name": "fr",
+            "value": "Crises d’absence"
+        },
+        {
+            "name": "lzh",
+            "value": "失神发作"
+        },
+        {
+            "name": "ja",
+            "value": "欠席発作",
+            "transliteration": "kesseki hossa"
+        },
+        {
+            "name": "it",
+            "value": "Convulsioni di assenza"
+        },
+        {
+            "name": "tr",
+            "value": "Absans Nöbetleri"
+        }
+    ],
+    "desc": "Cognition lapses as a result of absence seizures. These seizures, which are more common in children than in adults, occur suddenly, without warning, and typically last less than twenty seconds. Daydreaming is frequently confused with absence seizures. The primary treatment is with anticonvulsant drugs. Around adolescence, the majority of kids outgrow absence seizures. ",
+    "desc_lang": [
+        {
+            "name": "tr",
+            "value": "Biliş, absans nöbetlerinin bir sonucu olarak sona erer. Çocuklarda yetişkinlere göre daha sık görülen bu nöbetler, uyarı vermeden aniden ortaya çıkar ve tipik olarak yirmi saniyeden az sürer. Hayal kurmak sıklıkla absans nöbetleri ile karıştırılır. Birincil tedavi antikonvülsan ilaçlardır. Ergenlik döneminde, çocukların çoğunluğu devamsızlık nöbetlerini aşar. "
+        },
+        {
+            "name": "ja",
+            "value": "欠神発作の結果として認知が失われます。これらの発作は、大人よりも子供に多く見られ、何の前触れもなく突然起こり、通常は20秒未満しか続きません。白昼夢は欠神発作と混同されることがよくあります。主な治療法は抗けいれん薬です。思春期の頃、大多数の子供は欠神発作を乗り越えます。",
+            "transliteration": "ketsu kami hossa no kekka toshite ninchi ga ushinawa re masu .korera no hossa wa 、 otona yori mo kodomo ni ooku mi ra re 、 nani no maebure mo naku totsuzen okori 、 tsuujou wa 20 byou miman shika tsuzuki mase nichi .hakuchuumu wa ketsu kami hossa to kondou sa reru koto ga yoku ari masu .shu nani chiryou hou wa kou keiren yaku desu .shishunki no koro 、 dai tasuu no kodomo wa ketsu kami hossa wa norikoe masu ."
+        },
+        {
+            "name": "lzh",
+            "value": "知能降者,失神发也。 其癫痫发于童子中比于成人中更常见,卒然无警,常不及 20 秒。 白日梦常与失神相乱。 主治抗惊厥药。 在青春期左右,多子长脱失神作。 "
+        },
+        {
+            "name": "de",
+            "value": "Die Kognition verliert als Folge von Absence-Anfällen. Diese Anfälle, die bei Kindern häufiger auftreten als bei Erwachsenen, treten plötzlich und ohne Vorwarnung auf und dauern in der Regel weniger als zwanzig Sekunden. Tagträumen wird häufig mit Absence-Anfällen verwechselt. Die primäre Behandlung erfolgt mit krampflösenden Medikamenten. In der Pubertät wächst die Mehrheit der Kinder aus Absence-Anfällen heraus. "
+        },
+        {
+            "name": "ru",
+            "value": "Когнитивные спадания в результате абсансных припадков. Эти припадки, которые чаще встречаются у детей, чем у взрослых, возникают внезапно, без предупреждения и обычно длятся менее двадцати секунд. Мечтательность часто путают с абсансными припадками. Основное лечение проводится противосудорожными препаратами. В подростковом возрасте большинство детей перерастают абсансные приступы. ",
+            "transliteration": "cognitive spadania vie resultate absans pripadkov. ethy pripadki, kotorye chashche vstrechayutsya u detey, cham u vzroslykh, voznikayut vnezapno, bez preduprezhdeniya yi obychno dlatsia menee dvadtsati second. mechtatelity chasto putayut s absans pripadkami. osnovnoye lecheniye provoditsya protivosudorozhnymi preparatami. vie podrostkowom vozraste bolshinstvo detey pererastaute absance pristups. "
+        },
+        {
+            "name": "pt",
+            "value": "Lapsos de cognição como resultado de crises de ausência. Essas convulsões, que são mais comuns em crianças do que em adultos, ocorrem de repente, sem aviso prévio, e normalmente duram menos de vinte segundos. O devaneio é frequentemente confundido com crises de ausência. O tratamento primário é com drogas anticonvulsivantes. Por volta da adolescência, a maioria das crianças supera as crises de ausência. "
+        },
+        {
+            "name": "es",
+            "value": "La cognición falla como resultado de las crisis de ausencia. Estas convulsiones, que son más comunes en los niños que en los adultos, ocurren repentinamente, sin previo aviso, y generalmente duran menos de veinte segundos. Soñar despierto se confunde con frecuencia con las crisis de ausencia. El tratamiento primario es con fármacos anticonvulsivos. Alrededor de la adolescencia, la mayoría de los niños superan las crisis de ausencia. "
+        },
+        {
+            "name": "ko",
+            "value": "결석 발작의 결과로 인지가 소실됩니다. 성인보다 어린이에게 더 흔한 이러한 발작은 예고 없이 갑자기 발생하며 일반적으로 20초 미만 지속됩니다. 백일몽은 종종 부재 발작과 혼동됩니다. 1차 치료는 항경련제입니다. 청소년기 즈음에 대부분의 아이들은 성장하여 결석 발작을 극복합니다. ",
+            "transliteration": "gyeolseok baljagui gyeolgwaro injiga sosildoepnida. seonginboda eoriniege de heunhan ireohan baljageun yego eopsi gapjagi balsaenghamyeo ilbanjeogeuro 20cho miman jisokdoepnida. baegilmongeun jongjong buzae baljakgwa hondongdoepnida. 1cha chiryoneun hanggyong. cheongsonyeongi jeueume daebubun aideureun seongjanghayeo gyeolseok baljageul geukbokhapnida. "
+        },
+        {
+            "name": "it",
+            "value": "La cognizione decade a causa delle crisi di assenza. Queste convulsioni, che sono più comuni nei bambini che negli adulti, si verificano improvvisamente, senza preavviso, e in genere durano meno di venti secondi. Sognare ad occhi aperti è spesso confuso con le crisi di assenza. Il trattamento primario è con farmaci anticonvulsivanti. Intorno all'adolescenza, la maggior parte dei bambini supera le crisi di assenza. "
+        },
+        {
+            "name": "fr",
+            "value": "La cognition s’interrompt à la suite de crises d’absence. Ces crises, qui sont plus fréquentes chez les enfants que chez les adultes, surviennent soudainement, sans avertissement, et durent généralement moins de vingt secondes. La rêverie est souvent confondue avec les crises d’absence. Le traitement principal consiste à utiliser des médicaments anticonvulsivants. Vers l’adolescence, la majorité des enfants surmontent les crises d’absence. "
+        },
+        {
+            "name": "id",
+            "value": "Penyimpangan kognisi sebagai akibat dari kejang absensi. Kejang ini, yang lebih sering terjadi pada anak-anak daripada pada orang dewasa, terjadi tiba-tiba, tanpa peringatan, dan biasanya berlangsung kurang dari dua puluh detik. Melamun sering bingung dengan kejang absen. Pengobatan utama adalah dengan obat antikonvulsan. Sekitar masa remaja, sebagian besar anak-anak mengatasi kejang absen. "
+        }
+    ],
+    "data": [
+        {
+            "name": "symptomps",
+            "list": [
+                {
+                    "name": "What are the symptoms of an absence seizure?",
+                    "index": 0,
+                    "desc": "The following are signs of absence seizures:. ",
+                    "pointers": [
+                        "Brief sudden staring spell or “blank stare.”",
+                        "Loss of awareness.",
+                        "Complete stop in activity during the seizure.",
+                        "Occasional eyelid fluttering or nodding of the head or other “automatic” hand or mouth movements."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "ما هي أعراض نوبة الغياب؟",
+                            "transliteration": "ma he aradh noba al-ghayabe"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "결석 발작의 증상은 무엇입니까?",
+                            "transliteration": "gyeolseok baljagui jeungsangeun mueosipnikka?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Каковы симптомы абсансного припадка?",
+                            "transliteration": "kakovy symptoms absans pripadka?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa saja gejala kejang absensi?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais são os sintomas de uma crise de ausência?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "欠神発作の症状は何ですか?",
+                            "transliteration": "ketsu kami hossa no shoujou wa nani desu ka ?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was sind die Symptome eines Absence-Anfalls?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Absans nöbetinin belirtileri nelerdir?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son los síntomas de una crisis de ausencia?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono i sintomi di una crisi di assenza?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "es",
+                            "value": "Los siguientes son signos de crisis de ausencia: "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "فيما يلي علامات نوبات الغياب:. ",
+                            "transliteration": "fima lelle alamat nobat al-ghayyab:. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Berikut ini adalah tanda-tanda ketidakhadiran kejang: "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "以下は欠神発作の兆候です。",
+                            "transliteration": "ika wa ketsu kami hossa no choukou desu ."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A seguir estão sinais de crises de ausência:. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aşağıdakiler absans nöbetlerinin belirtileridir:. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "다음은 결석 발작의 징후입니다. ",
+                            "transliteration": "daeumeun gyeolseok baljagui jinghuipnida. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Voici les signes de crises d’absence : "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Die folgenden Anzeichen sind Anzeichen für Absence-Anfälle:. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Ниже приведены признаки абсансных судорог: ",
+                            "transliteration": "nije priveden priznaki absans sudorog: "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "توقف كامل في النشاط أثناء النوبة.",
+                            "transliteration": "togf kamel fe al-nashat aznaa al-nouba."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "رفرفة الجفن العرضية أو الإيماء بالرأس أو حركات اليد أو الفم \"التلقائية\" الأخرى.",
+                            "transliteration": "rafrefa al-jofn al-aradiya oa al-imaa balleras oa harkat aled oa al-fum \"al-tilqaila\" al-akhra."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "نوبة تحديق مفاجئة قصيرة أو \"تحديق فارغ\".",
+                            "transliteration": "noba tahdik mfajia kassira oa \"tahdik varg\"."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "فقدان الوعي.",
+                            "transliteration": "fakdan al-way."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "意丧。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "暂忽凝睇,或\"茫然凝视\"。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Battements occasionnels des paupières ou hochements de tête ou autres mouvements « automatiques » de la main ou de la bouche."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Bref et soudain coup de foudre ou « regard vide »."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Perte de conscience."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Arrêt complet de l’activité pendant la crise."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Kurzes plötzliches Anstarren oder \"leeres Starren\"."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Verlust des Bewusstseins."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Gelegentliches Flattern der Augenlider oder Nicken des Kopfes oder andere \"automatische\" Hand- oder Mundbewegungen."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Vollständiger Stopp der Aktivität während des Anfalls."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Berhenti total dalam aktivitas selama kejang."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kehilangan kesadaran."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kelopak mata sesekali berkibar atau mengangguk pada kepala atau gerakan tangan atau mulut \"otomatis\" lainnya."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Breve incantesimo di sguardo improvviso o \"sguardo vuoto\"."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Perdita di consapevolezza."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Occasionale battito delle palpebre o cenno del capo o altri movimenti \"automatici\" della mano o della bocca."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "発作中の活動を完全に停止します。",
+                            "transliteration": "hossa naka no katsudo wa kanzen ni teishi shi masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "短い突然の凝視呪文または「無表情な凝視」。",
+                            "transliteration": "mijikai totsuzen no gyoushi jumon mataha \" muhyojo nani gyoushi \" ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "時折、まぶたがひらひらしたり、うなずいたり、その他の「自動」の手や口の動き。",
+                            "transliteration": "tokiori 、 mabuta ga hirahira shi tari 、 unazui tari 、 sonota no \" jido \" no te ya guchi no ugoki ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "잠깐 갑작스런 응시 주문 또는 \"멍한 응시\".",
+                            "transliteration": "jamkkan gapjaksran yung jumun ttoneun \"meonghan yung\"."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "가끔 눈꺼풀이 떨리거나 고개를 끄덕이거나 기타 \"자동\" 손이나 입의 움직임.",
+                            "transliteration": "gakkeum nunkkeopuri tteolligeona gogaereul kkeudeogigeona gita \"jadong\" sonina ibui umjigim."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "발작 중 활동을 완전히 중단하십시오.",
+                            "transliteration": "baljak jiong hwaldongeul wanjeonhi jungdan."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Ocasionais pálpebras tremulando ou acenando com a cabeça ou outros movimentos \"automáticos\" da mão ou da boca."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Breve feitiço de olhar súbito ou \"olhar em branco\"."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Perda de consciência."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Parada completa na atividade durante a convulsão."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Кратковременный внезапный взгляд или «пустой взгляд».",
+                            "transliteration": "kratkovremenny vnezapny vzglyad eli «pustoy vzglyad»."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Потеря сознания.",
+                            "transliteration": "poterya soznaniya."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Периодическое трепетание век или кивок головой или другие «автоматические» движения рук или рта.",
+                            "transliteration": "periodical trepetanie vechi eli kivok golovoy eli drugiye «avtomaticheskie» dvizheniya rookh eli rta."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Breve y repentino período de mirada fija o \"mirada en blanco\"."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Interrupción completa de la actividad durante la convulsión."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Pérdida de conciencia."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Bilinç kaybı."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Nöbet sırasında aktivitede tamamen durma."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kısa ani bakış büyüsü veya \"boş bakış\"."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Ara sıra göz kapağı çırpınması veya başın sallanması veya diğer \"otomatik\" el veya ağız hareketleri."
+                        }
+                    ]
+                },
+                {
+                    "name": "What causes absence seizures?",
+                    "index": 1,
+                    "desc": "Based on current research, absence seizures are one type of generalized epilepsy in which genetics may play a role. It is believed that multiple genes play a part. It is still unknown what the specifics of inheritance are. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "fr",
+                            "value": "Qu’est-ce qui cause les crises d’absence ?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que causa crises de ausência?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Absans nöbetlerine ne sebep olur?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las causas de las crisis de ausencia?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "欠神発作の原因は何ですか?",
+                            "transliteration": "ketsu kami hossa no genin wa nani desu ka ?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was verursacht Absence-Anfälle?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "결석 발작의 원인은 무엇입니까?",
+                            "transliteration": "gyeolseok baljagui wonineun mueosipnikka?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono le cause delle crisi di assenza?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما الذي يسبب نوبات الغياب؟",
+                            "transliteration": "ma al-dhay jaspeb nobat al-ghayabe"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以致失神发?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "id",
+                            "value": "Berdasarkan penelitian saat ini, kejang absen adalah salah satu jenis epilepsi umum di mana genetika dapat berperan. Diyakini bahwa banyak gen berperan. Masih belum diketahui apa spesifikasi warisannya. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "D’après les recherches actuelles, les crises d’absence sont un type d’épilepsie généralisée dans lequel la génétique peut jouer un rôle. On pense que plusieurs gènes jouent un rôle. On ne sait toujours pas quelles sont les spécificités de l’héritage. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "بناء على الأبحاث الحالية ، فإن نوبات الصرع المصحوبة بغياب هي أحد أنواع الصرع المعمم الذي قد تلعب فيه الوراثة دورا. ويعتقد أن الجينات المتعددة تلعب دورا. لا يزال من غير المعروف ما هي تفاصيل الميراث. ",
+                            "transliteration": "banaa ola al-abhath al-haliyya ، fin nobat al-saraa meshoubeh baghiab he ahad anwa al-saraa al-mome al-dhay qud talab veh al-waratha dora. wiatiked an al-jinat metadada talab dora. la yazal minn ger maarouf ma he tafasil al-mirath. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "現在の研究に基づくと、欠神発作は全身性てんかんの一種であり、遺伝学が関与している可能性があります。複数の遺伝子が関与していると考えられています。相続の詳細はまだ不明です。",
+                            "transliteration": "genzai no kenkyuu ni motozuku to 、 ketsu kami hossa wa zenshin shou tenkan no ichi shu de ari 、 iden gaku ga kanyo shi te iru kanosei ga ari masu .fukusuu no idenshi ga kanyo shi te iru to kou era re te iya masu .souzoku no shousai wa mada fumei desu ."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Según la investigación actual, las crisis de ausencia son un tipo de epilepsia generalizada en la que la genética puede desempeñar un papel. Se cree que múltiples genes juegan un papel importante. Todavía se desconoce cuáles son los detalles de la herencia. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Mevcut araştırmalara dayanarak, absans nöbetler, genetiğin rol oynayabileceği bir tür genelleştirilmiş epilepsidir. Birden fazla genin rol oynadığına inanılmaktadır. Kalıtımın özelliklerinin ne olduğu hala bilinmemektedir. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Com base em pesquisas atuais, as crises de ausência são um tipo de epilepsia generalizada na qual a genética pode desempenhar um papel. Acredita-se que múltiplos genes desempenham um papel. Ainda não se sabe quais são as especificidades da herança. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Sulla base della ricerca attuale, le crisi di assenza sono un tipo di epilessia generalizzata in cui la genetica può svolgere un ruolo. Si ritiene che più geni svolgano un ruolo. Non si sa ancora quali siano le specifiche dell'ereditarietà. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "현재 연구에 따르면, 부재 발작은 유전적 요인이 작용할 수 있는 전신 간질의 한 유형이다. 여러 유전자가 한 몫을 하는 것으로 여겨진다. 상속의 세부 사항이 무엇인지는 아직 알려지지 않았습니다. ",
+                            "transliteration": "hyeonjae yeongue ttareumyeon, buzae baljageun yujeonjeok yoini jagyonghal su issneun jeonsin ganjirui han yuhyeongida. yeoreo yujeonjaga han mojeul haneun geoseuro yeogyeojinda. sangsogui sebou sahangi mueosinjineun ajik allyeojiji anhassseupnida. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Basierend auf der aktuellen Forschung sind Absence-Anfälle eine Form der generalisierten Epilepsie, bei der die Genetik eine Rolle spielen kann. Es wird angenommen, dass mehrere Gene eine Rolle spielen. Es ist noch nicht bekannt, was die Besonderheiten der Vererbung sind. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Основываясь на современных исследованиях, абсансные припадки являются одним из типов генерализованной эпилепсии, в котором генетика может играть определенную роль. Считается, что несколько генов играют определенную роль. До сих пор неизвестно, какова специфика наследования. ",
+                            "transliteration": "osnovyvayas na sovremennykh issledovaniyakh, absance pripadki yavlyayutsya odnim iz tipov generalized epilepsy, vie kotorom genetics moget igrat opredelennuy rolle. schitaetsya, chto neskolko genov igraiut opredelennuy rolle. do sich por neizvestno, kakova spetsifika nasledovania. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What are generalized seizures?",
+                    "index": 2,
+                    "desc": "Fecal seizures and generalized seizures are the two primary categories of seizures. A kind of broadened seizure is an absence seizure. There is momentary aberrant brain activity on both sides of the brain simultaneously during the early stages of these seizures. ",
+                    "name_lang": [
+                        {
+                            "name": "ja",
+                            "value": "全般性発作とは何ですか?",
+                            "transliteration": "zenpan shou hossa to wa nani desu ka ?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Jeneralize nöbetler nelerdir?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa itu kejang umum?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was sind generalisierte Anfälle?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Qué son las convulsiones generalizadas?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何谓全身性癫痫发?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que são convulsões generalizadas?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Cosa sono le convulsioni generalizzate?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Что такое генерализованные судороги?",
+                            "transliteration": "chto takoye generalized sudorogi?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هي النوبات المعممة؟",
+                            "transliteration": "ma he noubat mamamas"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "전신 발작이란 무엇입니까?",
+                            "transliteration": "jeonsin baljagiran mueosipnikka?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "tr",
+                            "value": "Dışkı nöbetleri ve jeneralize nöbetler, nöbetlerin iki ana kategorisidir. Bir tür genişletilmiş nöbet, bir absans nöbetidir. Bu nöbetlerin erken evrelerinde beynin her iki tarafında aynı anda anlık anormal beyin aktivitesi vardır. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Stuhlanfälle und generalisierte Anfälle sind die beiden Hauptkategorien von Anfällen. Eine Art erweiterter Anfall ist ein Absence-Anfall. In den frühen Stadien dieser Anfälle kommt es auf beiden Seiten des Gehirns gleichzeitig zu einer vorübergehenden abnormen Gehirnaktivität. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Le convulsioni fecali e le convulsioni generalizzate sono le due categorie principali di convulsioni. Una sorta di crisi allargata è una crisi di assenza. C'è un'attività cerebrale momentanea aberrante su entrambi i lati del cervello contemporaneamente durante le prime fasi di queste convulsioni. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Convulsões fecais e convulsões generalizadas são as duas principais categorias de convulsões. Um tipo de convulsão alargada é uma crise de ausência. Há atividade cerebral aberrante momentânea em ambos os lados do cérebro simultaneamente durante os estágios iniciais dessas convulsões. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "대변 발작과 전신 발작은 발작의 두 가지 주요 범주입니다. 확대 발작의 일종은 부재 발작입니다. 이러한 발작의 초기 단계에서는 뇌의 양쪽에서 동시에 순간적인 비정상적인 뇌 활동이 있습니다. ",
+                            "transliteration": "daebyeon baljakgwa jeonsin baljageun baljagui du ghaji juyo beomjuipnida. hwakdae baljagui iljongeun buzae baljagipnida. ireohan baljagui chogi dangyeeoseoneun neu yangjjogeseo dongshie sunganjeogin bijeongsangjeogin neu hwaldongi issseupnida. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kejang tinja dan kejang umum adalah dua kategori utama kejang. Semacam kejang yang diperluas adalah kejang absen. Ada aktivitas otak menyimpang sesaat di kedua sisi otak secara bersamaan selama tahap awal kejang ini. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Les convulsions fécales et les convulsions généralisées sont les deux principales catégories de convulsions. Une sorte de crise élargie est une crise d’absence. Il y a une activité cérébrale aberrante momentanée des deux côtés du cerveau simultanément pendant les premiers stades de ces crises. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Las convulsiones fecales y las convulsiones generalizadas son las dos categorías principales de convulsiones. Un tipo de convulsión ampliada es una convulsión de ausencia. Hay actividad cerebral aberrante momentánea en ambos lados del cerebro simultáneamente durante las primeras etapas de estas convulsiones. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "糞便発作と全般性発作は、発作の2つの主要なカテゴリーです。拡大発作の一種は欠神発作です。これらの発作の初期段階では、脳の両側で同時に瞬間的な異常な脳活動があります。",
+                            "transliteration": "funben hossa to zenpan shou hossa wa 、 hossa no 2 tsu no shuyou nani category desu .kakudai hossa no isshu wa ketsu kami hossa desu .korera no hossa no shoki dankai de wa 、 nou no ryougawa de doujini shunkan teki nani ijou nani nou katsudo ga ari masu ."
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "diagnosis",
+            "list": [
+                {
+                    "name": "How are absence seizures diagnosed?",
+                    "index": 0,
+                    "desc": "An electroencephalogram (EEG), symptoms, and the results of a hyperventilation test are used by your healthcare provider to diagnose absence epilepsy. Be ready to discuss the events leading up to, during, and following the incident, as well as your child's symptoms. You or other family members or school personnel may provide this information. An absence seizure may result from hyperventilating. Your child's healthcare provider may ask them to do this test in order to aid in the diagnosis. Your child will be asked to blow repeatedly for longer than two minutes if that is the case. An EKG test will be prescribed by your medical professional. Your child's scalp will be covered in sensors that will track their brain's electrical activity during the test. An identifiable pattern of brain waves is used to diagnose absence seizures. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "tr",
+                            "value": "Absans nöbetleri nasıl teşhis edilir?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以候失神发?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come vengono diagnosticate le crisi di assenza?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "결석 발작은 어떻게 진단합니까?",
+                            "transliteration": "gyeolseok baljageun eotteohge jindanhapnikka?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como são diagnosticadas as crises de ausência?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Comment les crises d’absence sont-elles diagnostiquées ?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bagaimana kejang absen didiagnosis?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se diagnostican las crisis de ausencia?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как диагностируются абсансные приступы?",
+                            "transliteration": "kak diagnostiruyutsya absance pristups?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "欠神発作はどのように診断されますか?",
+                            "transliteration": "ketsu kami hossa wa dono you ni shindan sa re masu ka ?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "lzh",
+                            "value": "子之医疗保健提供者用脑电图 (EEG),通气以候失神癫痫。 具议致、中、后事,及汝儿状。 或他家庭成员学校工作人员或供此息。 失神发,或由过换气。 子之医疗保健提供者,或责试之,以助诊候。 如此,则汝儿当反复吹气过两分钟。 心电图试开具。 汝儿头皮将传感器覆,传感器将试处随大脑电。 识者脑电波式以诊失神作。 "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "뇌전도(EEG), 증상 및 과호흡 검사 결과는 의료진이 부재 간질을 진단하는 데 사용합니다. 사건 발생 전, 사건 중, 사건 이후의 사건과 자녀의 증상에 대해 논의할 준비를 하십시오. 귀하 또는 다른 가족 구성원 또는 학교 직원이 이 정보를 제공할 수 있습니다. 부재 발작은 과호흡으로 인해 발생할 수 있습니다. 자녀의 담당 의사는 진단을 돕기 위해 이 검사를 요청할 수 있습니다. 이 경우 자녀는 2분 이상 반복적으로 불어야 합니다. 심전도 검사는 의료 전문가가 처방합니다. 자녀의 두피는 검사 중 뇌의 전기 활동을 추적하는 센서로 덮여 있습니다. 식별 가능한 뇌파 패턴은 부재 발작을 진단하는 데 사용됩니다. ",
+                            "transliteration": "noezeondo(EEG), jeungsang mukgye guano geomsa gyeolgwaneun uiryojini buzae ganjireul jindanhaneun de sayonghapnida. sugamo balsaeng jeon, sugamo jiong, sugamo ihuui sageongwa janyeoui jeungsange daehae nonuihal junbireul hasipsio. guha ttoneun dareun gajok guseongwon ttoneun high jigwoni i jeongboreul jegonghal su issseupnida. buzae baljageun gwahoheubeuro inhae balsaenghal su issseupnida. janyeoui damdang uisaneun jindaneul dobgi wihae i geomsareul yocheonghal su issseupnida. i gyeongu janyeoneun 2bun isang banbokjeogeuro bureoya hapnida. simjeondo geomsaneun air jeonmungaga cheobanghapnida. janyeoui dufineun geomsa jiong neu jeongi hwaldongeul chujeokhaneun senseoro deopyeo issseupnida. sikbyeol ganeunghan neufa paeteoneun buzae baljageul jindanhaneun de sayongdoepnida. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Um eletroencefalograma (EEG), sintomas e os resultados de um teste de hiperventilação são usados pelo seu médico para diagnosticar a epilepsia de ausência. Esteja pronto para discutir os eventos que antecedem, durante e após o incidente, bem como os sintomas do seu filho. Você ou outros membros da família ou funcionários da escola podem fornecer essas informações. Uma crise de ausência pode resultar da hiperventilação. O profissional de saúde do seu filho pode pedir-lhe para fazer este teste, a fim de ajudar no diagnóstico. Seu filho será solicitado a soprar repetidamente por mais de dois minutos, se for o caso. Um teste de eletrocardiograma será prescrito pelo seu profissional médico. O couro cabeludo do seu filho será coberto por sensores que rastrearão a atividade elétrica do cérebro durante o teste. Um padrão identificável de ondas cerebrais é usado para diagnosticar crises de ausência. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Un elettroencefalogramma (EEG), i sintomi e i risultati di un test di iperventilazione vengono utilizzati dal medico per diagnosticare l'epilessia da assenza. Sii pronto a discutere gli eventi che hanno preceduto, durante e dopo l'incidente, nonché i sintomi di tuo figlio. L'utente o altri membri della famiglia o il personale scolastico possono fornire queste informazioni. Una crisi di assenza può derivare dall'iperventilazione. Il medico di tuo figlio potrebbe chiedergli di fare questo test per aiutare nella diagnosi. In tal caso, a tuo figlio verrà chiesto di soffiare ripetutamente per più di due minuti. Un test ECG sarà prescritto dal medico. Il cuoio capelluto di tuo figlio sarà coperto da sensori che tracceranno l'attività elettrica del suo cervello durante il test. Un modello identificabile di onde cerebrali viene utilizzato per diagnosticare le crisi di assenza. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "脳波(EEG)、症状、過換気検査の結果は、欠神てんかんを診断するために医療提供者によって使用されます。事件の直前、最中、後の出来事や、お子さんの症状について話し合う準備をしてください。あなた、他の家族、または学校関係者がこの情報を提供する場合があります。欠神発作は過呼吸が原因の場合があります。お子さんの医療提供者は、診断を支援するためにこの検査を行うように依頼する場合があります。その場合は、2分以上繰り返し吹くように言われます。心電図検査は医療専門家によって処方されます。お子様の頭皮は、テスト中の脳の電気的活動を追跡するセンサーで覆われます。欠神発作の診断には、識別可能な脳波のパターンが使用されます。",
+                            "transliteration": "nouha ( eeg ) 、 shoujou 、 ka kanki kensa no kekka wa 、 ketsu kami tenkan wa shindan suru tame ni iryou teikyou mono niyotte shiyou sa re masu .jiken no chokuzen 、 saichuu 、 go no dekigoto ya 、 okosan no shoujou nitsuite hanashiau junbi wa shi te kudasai .anata 、 hoka no kazoku 、 mataha gakko kankei mono ga kono jouhou wa teikyou suru baai ga ari masu .ketsu kami hossa wa ka kokyuu ga genin no baai ga ari masu .okosan no iryou teikyou mono wa 、 shindan wa shien suru tame ni kono kensa wa okonau you ni irai suru baai ga ari masu .sono baai wa 、 2 pun ijou kurikaeshi fuku you ni iwa re masu .shindenzu kensa wa iryou senmonka niyotte shohou sa re masu .okosama no touhi wa 、 test naka no nou no denki teki katsudo wa tsuiseki suru sencer de oowa re masu .ketsu kami hossa no shindan ni wa 、 shikibetsu kanou nani nouha no pattern ga shiyou sa re masu ."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Un électroencéphalogramme (EEG), les symptômes et les résultats d’un test d’hyperventilation sont utilisés par votre fournisseur de soins de santé pour diagnostiquer l’épilepsie d’absence. Soyez prêt à discuter des événements qui ont précédé, pendant et après l’incident, ainsi que des symptômes de votre enfant. Vous ou d’autres membres de la famille ou du personnel de l’école pouvez fournir ces informations. Une crise d’absence peut résulter d’une hyperventilation. Le fournisseur de soins de santé de votre enfant peut lui demander de faire ce test afin d’aider au diagnostic. On demandera à votre enfant de souffler à plusieurs reprises pendant plus de deux minutes si c’est le cas. Un test ECG sera prescrit par votre professionnel de la santé. Le cuir chevelu de votre enfant sera recouvert de capteurs qui suivront l’activité électrique de son cerveau pendant le test. Un modèle identifiable d’ondes cérébrales est utilisé pour diagnostiquer les crises d’absence. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Электроэнцефалограмма (ЭЭГ), симптомы и результаты теста на гипервентиляцию используются вашим медицинским сотрудником для диагностики абсансной эпилепсии. Будьте готовы обсудить события, предшествовавшие инциденту, во время и после него, а также симптомы вашего ребенка. Вы или другие члены семьи или школьный персонал можете предоставить эту информацию. Абсансный приступ может быть результатом гипервентиляции. Медицинский сотрудник вашего ребенка может попросить его пройти этот тест, чтобы помочь в постановке диагноза. В этом случае вашего ребенка попросят дуть несколько раз в течение более двух минут. Ваш врач назначит ЭКГ. Кожа головы вашего ребенка будет покрыта датчиками, которые будут отслеживать электрическую активность мозга во время теста. Идентифицируемый паттерн мозговых волн используется для диагностики абсансных припадков. ",
+                            "transliteration": "electroencephalogramma (eeg), symptoms yi resultate testa na giperventillation espolzuyutsya vashim meditsynskyme sotrudnikom dla diagnostics absance epilepsy. budte gotovy obsudit sobytia, predschestwowawsia intident, vo vremya yi posle nego, a takze symptoms vashego rebenka. vy eli drugiye chleny semyi eli shkolny personal mozhete predostavit etu information. absance pristup moget byt resultatome giperventillation. meditsynsky sotrudnik vashego rebenka moget poprosit ego proiti ethot test, chtoby pomoch vie postanovka diagnosis. vie ethom sluchae vashego rebenka poprosyat dut neskolko raz vie techeniye boleye dvukh minut. vas vrach naznachit eckh. kozha golovy vashego rebenka budet pokrita datchikami, kotorye budut otslezivat electrical activity mozga vo vremya testa. identificeruemia pattern mozgovykh voln espolzuetsa dla diagnostics absans pripadkov. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Su proveedor de atención médica utiliza un electroencefalograma (EEG), los síntomas y los resultados de una prueba de hiperventilación para diagnosticar la epilepsia por ausencia. Esté preparado para hablar sobre los eventos previos, durante y posteriores al incidente, así como los síntomas de su hijo. Usted u otros miembros de la familia o el personal de la escuela pueden proporcionar esta información. Una crisis de ausencia puede ser el resultado de la hiperventilación. Es posible que el proveedor de atención médica de su hijo le pida que se haga esta prueba para ayudar en el diagnóstico. Si ese es el caso, se le pedirá a su hijo que sople repetidamente durante más de dos minutos. Su profesional médico le recetará un electrocardiograma. El cuero cabelludo de su hijo estará cubierto de sensores que rastrearán la actividad eléctrica de su cerebro durante la prueba. Se utiliza un patrón identificable de ondas cerebrales para diagnosticar las crisis de ausencia. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Electroencephalogram (EEG), gejala, dan hasil tes hiperventilasi digunakan oleh penyedia layanan kesehatan Anda untuk mendiagnosis epilepsi absensi. Bersiaplah untuk mendiskusikan peristiwa menjelang, selama, dan setelah kejadian, serta gejala anak Anda. Anda atau anggota keluarga atau personel sekolah lainnya dapat memberikan informasi ini. Kejang absen dapat terjadi akibat hiperventilasi. Penyedia layanan kesehatan anak Anda mungkin meminta mereka untuk melakukan tes ini untuk membantu diagnosis. Anak Anda akan diminta untuk meniup berulang kali selama lebih dari dua menit jika itu masalahnya. Tes EKG akan diresepkan oleh profesional medis Anda. Kulit kepala anak Anda akan ditutupi sensor yang akan melacak aktivitas listrik otak mereka selama tes. Pola gelombang otak yang dapat diidentifikasi digunakan untuk mendiagnosis kejang absen. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What is an atypical absence seizure?",
+                    "index": 1,
+                    "desc": "Absence seizures are classified by medical professionals as either typical or atypical. Seizures classified as atypical can happen at any age and are identified by their distinct EEG patterns. Generally speaking, this type of seizure lasts longer (20 seconds or longer) than normal absence seizures and starts and ends more slowly. Furthermore, atypical absence seizures typically result in increased eye blinking, rubbing of the fingers together, and other hand movements, as well as increased lip-smacking and chewing movements. More often than not, children with severe epilepsy and learning disabilities experience atypical absence seizures, which typically coexist with other seizure types. ",
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "ما هي نوبة الغياب غير النمطية؟",
+                            "transliteration": "ma he noba al-ghayyab ger al-namtiah"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Che cos'è una crisi di assenza atipica?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Qu’est-ce qu’une crise d’absence atypique ?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "非定型欠神発作とは何ですか?",
+                            "transliteration": "hi teikei ketsu kami hossa to wa nani desu ka ?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Что такое атипичный абсансный приступ?",
+                            "transliteration": "chto takoye atypical absance pristup?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Atipik absans nöbeti nedir?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정형 결석 발작이란 무엇입니까?",
+                            "transliteration": "bijing gyeolseok baljagiran mueosipnikka?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何谓非典型失神作?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que é uma crise de ausência atípica?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Qué es una crisis de ausencia atípica?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "tr",
+                            "value": "Absans nöbetleri tıp uzmanları tarafından tipik veya atipik olarak sınıflandırılır. Atipik olarak sınıflandırılan nöbetler her yaşta ortaya çıkabilir ve farklı EEG paternleri ile tanımlanır. Genel olarak konuşursak, bu tip nöbetler normal absans nöbetlerinden daha uzun sürer (20 saniye veya daha uzun) ve daha yavaş başlar ve biter. Ayrıca, atipik absans nöbetleri tipik olarak göz kırpma, parmakların birbirine sürtünmesi ve diğer el hareketlerinin yanı sıra dudak şapırdatma ve çiğneme hareketlerinin artmasına neden olur. Çoğu zaman, şiddetli epilepsi ve öğrenme güçlüğü çeken çocuklar, tipik olarak diğer nöbet tipleriyle bir arada bulunan atipik absans nöbetleri yaşarlar. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "欠神発作は、医療専門家によって定型発作または非定型発作のいずれかに分類されます。非定型として分類される発作は、どの年齢でも発生する可能性があり、明確な脳波パターンによって識別されます。一般的に、このタイプの発作は通常の欠神発作よりも長く(20秒以上)続き、よりゆっくりと始まり、終わります。さらに、非定型欠神発作は、通常、まばたき、指のこすり合わせ、その他の手の動きの増加、および唇を叩く動きや咀嚼の動きの増加をもたらします。重度のてんかんや学習障害のある子供は、通常、他の発作タイプと共存する非定型欠神発作を経験します。",
+                            "transliteration": "ketsu kami hossa wa 、 iryou senmonka niyotte teikei hossa mataha hi teikei hossa no izure ka ni bunrui sa re masu .hi teikei toshite bunrui sa reru hossa wa 、 dono nenrei de mo hassei suru kanosei ga ari 、 meikaku nani nouha pattern niyotte shikibetsu sa re masu .ippan teki ni 、 kono type no hossa wa tsuujou no ketsu kami hossa yori mo nagaku ( 20 byou ijou ) tsuzuki 、 yori yukkuri to hajimari 、 owari masu .sarani 、 hi teikei ketsu kami hossa wa 、 tsuujou 、 matataki 、 yubi no kosuri awase 、 sonota no te no ugoki no zouka 、 oyobi kuchibiru wa tataku ugoki ya 咀嚼 no ugoki no zouka wa motarashi masu .juudo no tenkan ya gakushuu shougai no aru kodomo wa 、 tsuujou 、 hoka no hossa type to kyouzon suru hi teikei ketsu kami hossa wa keiken shi masu ."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los profesionales médicos clasifican las crisis de ausencia como típicas o atípicas. Las convulsiones clasificadas como atípicas pueden ocurrir a cualquier edad y se identifican por sus distintos patrones de EEG. En términos generales, este tipo de convulsión dura más tiempo (20 segundos o más) que las convulsiones de ausencia normales y comienza y termina más lentamente. Además, las convulsiones de ausencia atípicas suelen provocar un aumento del parpadeo de los ojos, el frotamiento de los dedos y otros movimientos de las manos, así como un aumento de los movimientos de chasquido de labios y masticación. La mayoría de las veces, los niños con epilepsia grave y problemas de aprendizaje experimentan convulsiones de ausencia atípicas, que generalmente coexisten con otros tipos de convulsiones. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "결석 발작은 의료 전문가에 의해 전형적 또는 비정형으로 분류됩니다. 비정형으로 분류된 발작은 모든 연령에서 발생할 수 있으며 뚜렷한 EEG 패턴으로 식별됩니다. 일반적으로 이러한 유형의 발작은 정상적인 부재 발작보다 더 오래 지속되며(20초 이상) 더 느리게 시작되고 끝납니다. 또한, 비정형 결석 발작은 일반적으로 눈 깜빡임, 손가락 비비기 및 기타 손 움직임의 증가뿐만 아니라 입술을 때리고 씹는 동작의 증가를 초래합니다. 중증 간질과 학습 장애가 있는 아동은 일반적으로 다른 발작 유형과 공존하는 비정형 결석 발작을 경험하는 경우가 많습니다. ",
+                            "transliteration": "gyeolseok baljageun air jeonmungae uihae jeonhyeongjeok ttoneun bijeonghyeongeuro bunryudoepnida. bijeonghyeongeuro bunryudoen baljageun modeun yeonryeongeseo balsaenghal su isseumyeo tturyeoshan EEG patten sikbyeoldoepnida. ilbanjeogeuro ireohan yuhyeongui baljageun jeongsangjeogin buzae baljakboda de orae jisokdoemyeo(20cho isang) de neurige sijakdoego kkeutnapnida. ttohan, bijing gyeolseok baljageun ilbanjeogeuro noone kkamppagim, songarak bibigi mukgye gita son umjigimui jeunggappunman anira ipsureul ttaerigo ssipneun dongjagui jeunggareul choraehapnida. jungjeung ganjilgwa haksup jangaega issneun adongeun ilbanjeogeuro dareun baljak yuhyeonggwa gongjonhaneun bijing gyeolseok baljageul gyeongheomhaneun gyeonguga manhseupnida. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Absence-Anfälle werden von Medizinern entweder als typisch oder atypisch klassifiziert. Anfälle, die als atypisch eingestuft werden, können in jedem Alter auftreten und werden durch ihre unterschiedlichen EEG-Muster identifiziert. Im Allgemeinen dauert diese Art von Anfall länger (20 Sekunden oder länger) als normale Absence-Anfälle und beginnt und endet langsamer. Darüber hinaus führen atypische Absence-Anfälle typischerweise zu vermehrtem Augenblinzeln, Aneinanderreiben der Finger und anderen Handbewegungen sowie zu vermehrten Lippenschmatzen und Kaubewegungen. In den meisten Fällen erleiden Kinder mit schwerer Epilepsie und Lernbehinderung atypische Absence-Anfälle, die typischerweise mit anderen Anfallstypen koexistieren. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Le crisi di assenza sono classificate dai professionisti medici come tipiche o atipiche. Le convulsioni classificate come atipiche possono verificarsi a qualsiasi età e sono identificate dai loro distinti modelli EEG. In generale, questo tipo di crisi dura più a lungo (20 secondi o più) rispetto alle normali crisi di assenza e inizia e finisce più lentamente. Inoltre, le crisi di assenza atipiche in genere provocano un aumento del battito delle palpebre, dello sfregamento delle dita e di altri movimenti della mano, nonché di un aumento dei movimenti di schiocco e masticazione delle labbra. Il più delle volte, i bambini con epilessia grave e difficoltà di apprendimento sperimentano crisi di assenza atipica, che in genere coesistono con altri tipi di crisi. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "As crises de ausência são classificadas pelos profissionais médicos como típicas ou atípicas. As crises classificadas como atípicas podem ocorrer em qualquer idade e são identificadas por seus distintos padrões de EEG. De um modo geral, este tipo de convulsão dura mais tempo (20 segundos ou mais) do que as crises normais de ausência e começa e termina mais lentamente. Além disso, as crises de ausência atípicas geralmente resultam em aumento do piscar dos olhos, fricção dos dedos e outros movimentos das mãos, bem como aumento dos movimentos de bater os lábios e mastigar. Na maioria das vezes, crianças com epilepsia grave e dificuldades de aprendizagem experimentam crises atípicas de ausência, que normalmente coexistem com outros tipos de crises. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kejang absen diklasifikasikan oleh profesional medis sebagai tipikal atau atipikal. Kejang diklasifikasikan sebagai atipikal dapat terjadi pada usia berapa pun dan diidentifikasi oleh pola EEG mereka yang berbeda. Secara umum, jenis kejang ini berlangsung lebih lama (20 detik atau lebih) daripada kejang tanpa kehadiran normal dan dimulai dan berakhir lebih lambat. Selain itu, kejang absen atipikal biasanya mengakibatkan peningkatan kedipan mata, menggosok jari-jari bersama-sama, dan gerakan tangan lainnya, serta peningkatan gerakan menampar bibir dan mengunyah. Lebih sering daripada tidak, anak-anak dengan epilepsi berat dan ketidakmampuan belajar mengalami kejang absen atipikal, yang biasanya hidup berdampingan dengan jenis kejang lainnya. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Абсансные приступы классифицируются медицинскими работниками как типичные или нетипичные. Судороги, классифицируемые как атипичные, могут возникать в любом возрасте и идентифицируются по отчетливым паттернам ЭЭГ. Вообще говоря, этот тип припадка длится дольше (20 секунд или дольше), чем нормальные абсансные припадки, и начинается и заканчивается медленнее. Кроме того, атипичные абсансные припадки обычно приводят к усиленному морганию глаз, трению пальцев друг о друга и другим движениям рук, а также к усилению причмокиваний губами и жевательных движений. Чаще всего дети с тяжелой эпилепсией и трудностями в обучении испытывают атипичные абсансные припадки, которые обычно сосуществуют с другими типами приступов. ",
+                            "transliteration": "absance pristups klassificeruyutsya meditsynskymi rabotnikami kak typyczny eli netipical. sudorogi, klassificiruemia kak atypical, mogut voznikat vie lubom vozraste yi identificeruyts pau otchetlivim patternam eeg. voobshche govorya, ethot tip pripadka dlitsya dolsze (20 second eli dolsze), cham normalic absance pripadki, yi nachinaetsya yi zakanchivaetsya medlenneye. krome togo, atypical absance pripadki obychno privodyatovo k ushilennomu morganium glaz, treniu paltsev drug au druga yi drugim dvizheniyam rookh, a takze k usilenius prichmokivanius gubami yi zhevatelnykh dvizenii. chashche vsego deti s tyazheloy epilepsy yi trudnostyami vie obuchenii ispytyvayut atypical absance pripadki, kotorye obychno sosushchestvuyut s drugimi tipami pristupov. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "treatment",
+            "list": [
+                {
+                    "name": "How are absence seizures treated?",
+                    "index": 0,
+                    "desc": "Pharmaceuticals that prevent seizures are used to treat absence seizures. Treatment for absence seizures is best achieved with ethosuximide (Zarontin®). Valproate (Depakene®), lamotrigine (Lamictal®), and topiramate (Topamax®) are additional drugs that your doctor may try. Treatment for absence seizures typically does not involve the use of certain antiseizure drugs, such as vigabatrin, gabapentin, pregabalin, phenytoin, and carbamazepine. Some medications may make seizures worse. There isn't enough evidence to recommend a ketogenic diet, but it might be something to think about. If medicine doesn't help your child's absence seizures, you might want to think about trying a ketogenic diet together. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "tr",
+                            "value": "Absans nöbetleri nasıl tedavi edilir?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bagaimana kejang absen diobati?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come vengono trattate le crisi di assenza?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se tratan las crisis de ausencia?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como são tratadas as crises de ausência?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "결석 발작은 어떻게 치료합니까?",
+                            "transliteration": "gyeolseok baljageun eotteohge chiryohapnikka?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как лечатся абсансные приступы?",
+                            "transliteration": "kak lechatsya absance pristups?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Wie werden Absence-Anfälle behandelt?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "欠神発作はどのように治療されますか?",
+                            "transliteration": "ketsu kami hossa wa dono you ni chiryou sa re masu ka ?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "tr",
+                            "value": "Nöbetleri önleyen ilaçlar, absans nöbetlerini tedavi etmek için kullanılır. Absans nöbetlerinin tedavisi en iyi etosüksimid (Zarontin®) ile sağlanır. Valproat (Depaken),® lamotrijin (Lamictal®) ve topiramat (Topamax®) doktorunuzun deneyebileceği ek ilaçlardır. Absans nöbetlerinin tedavisi tipik olarak vigabatrin, gabapentin, pregabalin, fenitoin ve karbamazepin gibi bazı nöbet önleyici ilaçların kullanımını içermez. Bazı ilaçlar nöbetleri daha da kötüleştirebilir. Ketojenik bir diyet önermek için yeterli kanıt yoktur, ancak düşünülmesi gereken bir şey olabilir. İlaç çocuğunuzun yokluk nöbetlerine yardımcı olmazsa, birlikte ketojenik bir diyet denemeyi düşünebilirsiniz. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "発作を予防する医薬品は、欠神発作の治療に使用されます。欠神発作の治療は、エトスキシミド(ザロンチン®)で最もよく達成されます。.バルプロ酸(デパケン®)、ラモトリギン(ラミクタール®)、トピラマート(トパマックス®)は、医師が試す可能性のある追加の薬です。.欠神発作の治療には、通常、ビガバトリン、ガバペンチン、プレガバリン、フェニトイン、カルバマゼピンなどの特定の抗てんかん薬の使用は含まれていません。一部の薬は発作を悪化させる可能性があります。ケトジェニックダイエットを推奨するのに十分なエビデンスはありませんが、考えてみるべきことかもしれません。薬が子供の欠神発作を助けない場合は、一緒にケトジェニックダイエットを試すことを検討することをお勧めします。",
+                            "transliteration": "hossa wa yobou suru iyakuhin wa 、 ketsu kami hossa no chiryou ni shiyou sa re masu .ketsu kami hossa no chiryou wa 、 etoschimide ( therontin ® ) de mottomo yoku tassei sa re masu . .baru pro san ( depaken ® ) 、 lamotrigin ( lamictal ® ) 、 topiramate ( topamax ® ) wa 、 ishi ga tamesu kanosei no aru tsuika no yaku desu . .ketsu kami hossa no chiryou ni wa 、 tsuujou 、 bigabatrine 、 gaba pentin 、 pre gaba line 、 phenytoin 、 carbamazepine nado no tokutei no kou tenkan yaku no shiyou wa fukuma re te iya mase nichi .ichibu no yaku wa hossa wa akka sa seru kanosei ga ari masu .ketojenichdayett wa suishou suru no ni juubun nani evidence wa ari mase nichi ga 、 kangae te miru beki koto kamo shire mase nichi .yaku ga kodomo no ketsu kami hossa wa tasuke nai baai wa 、 issho ni ketojenichdayett wa tamesu koto wa kentou suru koto wa o susume shi masu ."
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "预防癫痫发之药,以治失神作。 失神发者,善用乙琥胺(Zarontin®)。 丙戊酸钠 (Depakene®)、拉莫三嗪 (Lamictal®) 、托吡酯 (Topamax®) 医所尝也。 失神发治常不及用某抗惊厥药物,如氨己烯酸、加巴喷丁、普瑞巴林、苯妥英钠、卡马西平。 诸药或令癫痫重。 无足证荐生酮饮食,疑可虑也。 若药无助于儿失神,汝其思共尝生酮饮食。 "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "발작을 예방하는 의약품은 부재 발작을 치료하는 데 사용됩니다. 결석 발작에 대한 치료는 에토숙시마이드(Zarontin)® 로 가장 잘 달성됩니다. 발프로에이트(데파켄®), 라모트리진(라미탈®) 및 토피라메이트(토파맥스®)는 의사가 시도할 수 있는 추가 약물입니다. 결석 발작에 대한 치료는 일반적으로 비가바트린, 가바펜틴, 프레가발린, 페니토인 및 카바마제핀과 같은 특정 항경련제의 사용을 포함하지 않습니다. 일부 약물은 발작을 악화시킬 수 있습니다. 키토제닉 다이어트를 권장할 만한 충분한 증거는 없지만 생각해 볼 필요가 있습니다. 약이 아이의 결석 발작에 도움이 되지 않는다면 키토제닉 다이어트를 함께 시도하는 것을 고려할 수 있습니다. ",
+                            "transliteration": "baljageul yebanghaneun uiyakpumeun buzae baljageul chiryohaneun de sayongdoepnida. gyeolseok baljage dahan chiryoneun etosuccimide(Zarontin)® rowe gajang jal dalseong. balfroeit(depaken®), ramotrisine(ramital®) mukgye topiramate(topamax®)neun uisaga sidohal su issneun chuga yakmuripnida. gyeolseok baljage dahan chiryoneun ilbanjeogeuro bigavatrin, gabapentin, pregabalin, phenytoin mukgye kavamazepinidae gateun teukjeong hanggyeong sayongeul pohamhaji anhseupnida. ilbu yakmureun baljageul akhwashikil su issseupnida. kittogenic digutrle gwonjanghal manhan chungbunhan jeunggeoneun eopsjiman saenggakhae boll place issseupnida. yagi ai gyeolseok baljage doumi doeji anhneundamyeon kittogenic digutrle hamkke sidohaneun geoseul goryeohal su issseupnida. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los productos farmacéuticos que previenen las convulsiones se utilizan para tratar las convulsiones de ausencia. El tratamiento de las crisis de ausencia se logra mejor con etosuximida (Zarontin®). El valproato (Depakene®), la lamotrigina (Lamictal®) y el topiramato (Topamax®) son medicamentos adicionales que su médico puede probar. El tratamiento de las crisis de ausencia generalmente no implica el uso de ciertos medicamentos anticonvulsivos, como vigabatrina, gabapentina, pregabalina, fenitoína y carbamazepina. Algunos medicamentos pueden empeorar las convulsiones. No hay suficiente evidencia para recomendar una dieta cetogénica, pero podría ser algo en lo que pensar. Si los medicamentos no ayudan a las convulsiones de ausencia de su hijo, es posible que desee pensar en probar una dieta cetogénica juntos. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Arzneimittel, die Krampfanfälle verhindern, werden zur Behandlung von Absence-Anfällen eingesetzt. Die Behandlung von Absence-Anfällen wird am besten mit Ethosuximid (Zarontin)® erreicht. Valproat (Depakene®), Lamotrigin (Lamictal®) und Topiramat (Topamax®) sind zusätzliche Medikamente, die Ihr Arzt ausprobieren kann. Die Behandlung von Absence-Anfällen beinhaltet in der Regel nicht die Verwendung bestimmter Antiepileptika wie Vigabatrin, Gabapentin, Pregabalin, Phenytoin und Carbamazepin. Einige Medikamente können Krampfanfälle verschlimmern. Es gibt nicht genügend Beweise, um eine ketogene Diät zu empfehlen, aber es könnte etwas sein, worüber man nachdenken sollte. Wenn Medikamente nicht gegen die Absence-Anfälle Ihres Kindes helfen, sollten Sie darüber nachdenken, gemeinsam eine ketogene Diät auszuprobieren. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Les produits pharmaceutiques qui préviennent les crises sont utilisés pour traiter les crises d’absence. Le traitement des crises d’absence est mieux réalisé avec l’éthosuximide (Zarontin®). Le valproate (Depakene®), la lamotrigine (Lamictal®) et le topiramate (Topamax®) sont des médicaments supplémentaires que votre médecin peut essayer. Le traitement des crises d’absence n’implique généralement pas l’utilisation de certains médicaments anticonvulsivants, tels que la vigabatrine, la gabapentine, la prégabaline, la phénytoïne et la carbamazépine. Certains médicaments peuvent aggraver les convulsions. Il n’y a pas assez de preuves pour recommander un régime cétogène, mais cela pourrait être quelque chose à penser. Si les médicaments n’aident pas les crises d’absence de votre enfant, vous voudrez peut-être envisager d’essayer un régime cétogène ensemble. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Medicamentos que previnem convulsões são usados para tratar crises de ausência. O tratamento para crises de ausência é melhor alcançado com etossuximida (Zarontin®). Valproato (Depakene®), lamotrigina (Lamictal®) e topiramato (Topamax®) são drogas adicionais que seu médico pode tentar. O tratamento para crises de ausência geralmente não envolve o uso de certos medicamentos anticonvulsivantes, como vigabatrina, gabapentina, pregabalina, fenitoína e carbamazepina. Alguns medicamentos podem piorar as convulsões. Não há evidências suficientes para recomendar uma dieta cetogênica, mas pode ser algo a se pensar. Se a medicina não ajuda as crises de ausência do seu filho, você pode querer pensar em tentar uma dieta cetogênica juntos. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What follow-up should be expected if my child has been diagnosed with absence seizures?",
+                    "index": 1,
+                    "desc": "The majority of the time, a group of medical professionals handles epileptic patients. Physicians, pediatricians, pharmacists, nurses, dietitians, mental health specialists, and pharmacists are examples of team members. If your child has uncontrollable symptoms or any negative reactions, make sure to notify their physicians or pharmacist. It might be necessary to adjust the dosage or kind of medication. Depending on the medication you take, your primary care physician or neurologist may occasionally order blood tests to check liver function and blood levels. Should a ketogenic diet be advised, a dietitian may be consulted. A mental health expert might get involved if your child starts experiencing stress, anxiety, or depression. ",
+                    "name_lang": [
+                        {
+                            "name": "id",
+                            "value": "Tindak lanjut apa yang harus diharapkan jika anak saya telah didiagnosis dengan kejang absen?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Какого наблюдения следует ожидать, если у моего ребенка диагностированы абсансные судороги?",
+                            "transliteration": "kakogo nabludenia sledweth ozhidat, esli u moego rebenka diagnostirovana absance sudorogi?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "내 아이가 결석 발작 진단을 받은 경우 어떤 후속 조치를 예상해야 합니까?",
+                            "transliteration": "no aiga gyeolseok baljak jindaneul badeun gyeongu eotteon husok jochireul yesanghaeya hapnikka?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Çocuğuma absans nöbeti teşhisi konduysa nasıl bir takip beklenmelidir?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Que acompanhamento deve ser esperado se meu filho tiver sido diagnosticado com crises de ausência?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هي المتابعة التي يجب توقعها إذا تم تشخيص طفلي بنوبات غياب؟",
+                            "transliteration": "ma he al-matabea alti yegeb tokaha idha tem chekhis tafli benobat giabe"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "de",
+                            "value": "In den meisten Fällen kümmert sich eine Gruppe von Medizinern um Epilepsiepatienten. Ärzte, Kinderärzte, Apotheker, Krankenschwestern, Ernährungsberater, Spezialisten für psychische Gesundheit und Apotheker sind Beispiele für Teammitglieder. Wenn Ihr Kind unkontrollierbare Symptome oder negative Reaktionen hat, benachrichtigen Sie unbedingt seinen Arzt oder Apotheker. Es kann notwendig sein, die Dosierung oder die Art der Medikation anzupassen. Abhängig von den Medikamenten, die Sie einnehmen, kann Ihr Hausarzt oder Neurologe gelegentlich Bluttests anordnen, um die Leberfunktion und den Blutspiegel zu überprüfen. Sollte eine ketogene Diät empfohlen werden, kann ein Ernährungsberater konsultiert werden. Ein Experte für psychische Gesundheit kann eingeschaltet werden, wenn Ihr Kind unter Stress, Angstzuständen oder Depressionen leidet. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Na maioria das vezes, um grupo de profissionais médicos lida com pacientes epilépticos. Médicos, pediatras, farmacêuticos, enfermeiros, nutricionistas, especialistas em saúde mental e farmacêuticos são exemplos de membros da equipe. Se o seu filho tiver sintomas incontroláveis ou quaisquer reações negativas, certifique-se de notificar os seus médicos ou farmacêutico. Pode ser necessário ajustar a dosagem ou o tipo de medicação. Dependendo da medicação que você toma, seu médico de cuidados primários ou neurologista pode ocasionalmente solicitar exames de sangue para verificar a função hepática e os níveis sanguíneos. Caso uma dieta cetogênica seja aconselhada, um nutricionista pode ser consultado. Um especialista em saúde mental pode se envolver se seu filho começar a sentir estresse, ansiedade ou depressão. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "대부분의 경우 의료 전문가 그룹이 간질 환자를 치료합니다. 의사, 소아과 의사, 약사, 간호사, 영양사, 정신 건강 전문가 및 약사가 팀 구성원의 예입니다. 아이가 통제할 수 없는 증상이나 부정적인 반응을 보이면 반드시 의사나 약사에게 알려야 한다. 약물의 복용량이나 종류를 조정해야 할 수도 있습니다. 복용 중인 약물에 따라 주치의 또는 신경과 전문의가 간 기능과 혈액 수치를 확인하기 위해 혈액 검사를 지시할 수 있습니다. 키토제닉 식단을 권장하는 경우 영양사와 상담할 수 있습니다. 자녀가 스트레스, 불안 또는 우울증을 경험하기 시작하면 정신 건강 전문가가 개입할 수 있습니다. ",
+                            "transliteration": "daebubun gyeongu air jeonmunga grubi ganjil hwanjareul chiryohapnida. uisa, soagua uisa, yaksa, ganhosa, yeongyangsa, jeongsin geongang jeonmunga mukgye yaksaga timm guseongwon yeipnida. aiga tongjehal su eopsneun jeungsangina bujeongjeogin baneungeul boimyeon bandsi uisana yaksaege allyeoya handa. yakmurui bokyong jongryureul jojeonghaeya hal south issseupnida. bok jiongin yakmure ttara juchi ttoneun singyeonggwa jeonmunuiga gan gineunggwa hyeoraek suchireul hwaginhagi wihae hyeoraek geomsareul jishihal su issseupnida. kittogenic sikdaneul gwonjanghaneun gyeongu yeongyang sangdamhal su issseupnida. janyeoga stress, buran ttoneun uuljeungeul gyeongheomhagi sijakhamyeon jeongsin geongang jeonmungaga gaeiphal su issseupnida. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "La mayoría de las veces, un grupo de profesionales médicos maneja pacientes epilépticos. Los médicos, pediatras, farmacéuticos, enfermeras, dietistas, especialistas en salud mental y farmacéuticos son ejemplos de miembros del equipo. Si su hijo tiene síntomas incontrolables o reacciones negativas, asegúrese de notificar a sus médicos o farmacéuticos. Puede ser necesario ajustar la dosis o el tipo de medicamento. Dependiendo del medicamento que tomes, tu médico de atención primaria o neurólogo puede ordenar ocasionalmente análisis de sangre para verificar la función hepática y los niveles sanguíneos. Si se aconseja una dieta cetogénica, se puede consultar a un dietista. Un experto en salud mental podría involucrarse si su hijo comienza a experimentar estrés, ansiedad o depresión. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Nella maggior parte dei casi, un gruppo di professionisti medici si occupa di pazienti epilettici. Medici, pediatri, farmacisti, infermieri, dietisti, specialisti della salute mentale e farmacisti sono esempi di membri del team. Se tuo figlio ha sintomi incontrollabili o reazioni negative, assicurati di informare il medico o il farmacista. Potrebbe essere necessario regolare il dosaggio o il tipo di farmaco. A seconda del farmaco assunto, il medico di base o il neurologo possono occasionalmente ordinare esami del sangue per controllare la funzionalità epatica e i livelli ematici. Se si consiglia una dieta chetogenica, è possibile consultare un dietologo. Un esperto di salute mentale potrebbe essere coinvolto se tuo figlio inizia a provare stress, ansia o depressione. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Большую часть времени пациентами с эпилепсией занимается группа медицинских работников. Врачи, педиатры, фармацевты, медсестры, диетологи, специалисты по психическому здоровью и фармацевты являются примерами членов команды. Если у вашего ребенка наблюдаются неконтролируемые симптомы или какие-либо негативные реакции, обязательно сообщите об этом его врачу или фармацевту. Возможно, потребуется скорректировать дозировку или вид лекарства. В зависимости от лекарства, которое вы принимаете, ваш лечащий врач или невролог может время от времени назначать анализы крови для проверки функции печени и уровня алкоголя в крови. Если вам будет рекомендована кетогенная диета, можно проконсультироваться с диетологом. Эксперт по психическому здоровью может вмешаться, если ваш ребенок начинает испытывать стресс, тревогу или депрессию. ",
+                            "transliteration": "bolshuyu chast vremeni patsientami s epilepsy zanimaetsya grupp meditsynsky rabotnikov. vrachi, pediatri, farmatevti, medsestra, diethologies, spetsialists pau psychical zdorovyu yi farmatevti yavlyayutsya primerami chlenov command. esli u vashego rebenka nablyudayutsya necontroliruemia symptoms eli kakie-libo negative reaction, obyazatelno soobshchite ob ethom ego vraciu eli farmatsevtu. vozmozhno, potrebuetsa scorrecting dozirovku eli vid lekarstva. vie zavisimosti ot lekarstva, kotoroye vy prinimaete, vas lechashchy vrach eli nevrolog moget vremya ot vremeni naznachat analysis krovi dla proverke functions peceni yi urovnya alcogol vie krovi. esli vam budet recommend ketogenic dieta, mozno proconsultiridaeya s diethologoma. expert pau psychical zdorovyu moget vmesatsja, esli vas rebenok nachinaet ispytivat stress, trevogu eli depression. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Çoğu zaman, bir grup tıp uzmanı epileptik hastalarla ilgilenir. Doktorlar, çocuk doktorları, eczacılar, hemşireler, diyetisyenler, ruh sağlığı uzmanları ve eczacılar ekip üyelerine örnektir. Çocuğunuzun kontrol edilemeyen semptomları veya herhangi bir olumsuz reaksiyonu varsa, doktorlarını veya eczacılarını bilgilendirdiğinizden emin olun. Dozu veya ilaç türünü ayarlamak gerekebilir. Aldığınız ilaca bağlı olarak, birinci basamak doktorunuz veya nöroloğunuz bazen karaciğer fonksiyonlarını ve kan seviyelerini kontrol etmek için kan testleri isteyebilir. Ketojenik diyet tavsiye edilirse, bir diyetisyene danışılabilir. Çocuğunuz stres, kaygı veya depresyon yaşamaya başlarsa bir akıl sağlığı uzmanı devreye girebilir. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "La plupart du temps, un groupe de professionnels de la santé s’occupe de patients épileptiques. Les médecins, les pédiatres, les pharmaciens, les infirmières, les diététistes, les spécialistes de la santé mentale et les pharmaciens sont des exemples de membres de l’équipe. Si votre enfant présente des symptômes incontrôlables ou des réactions négatives, assurez-vous d’en informer son médecin ou son pharmacien. Il peut être nécessaire d’ajuster la posologie ou le type de médicament. Selon les médicaments que vous prenez, votre médecin de soins primaires ou votre neurologue peut parfois vous prescrire des analyses sanguines pour vérifier la fonction hépatique et les taux sanguins. Si un régime cétogène est conseillé, un diététicien peut être consulté. Un expert en santé mentale peut intervenir si votre enfant commence à ressentir du stress, de l’anxiété ou de la dépression. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ほとんどの場合、医療専門家のグループがてんかん患者を処理します。医師、小児科医、薬剤師、看護師、栄養士、メンタルヘルスの専門家、薬剤師などがチームメンバーの例です。お子さんにコントロールできない症状や否定的な反応がある場合は、必ず医師または薬剤師に通知してください。.薬の投与量や種類を調整する必要があるかもしれません。服用している薬によっては、かかりつけ医や神経内科医が肝機能や血中濃度を調べるために血液検査を命じることがあります。ケトジェニックダイエットが推奨される場合は、栄養士に相談することができます。メンタルヘルスの専門家は、お子さんがストレス、不安、うつ病を経験し始めた場合に関与することがあります。",
+                            "transliteration": "hotondo no baai 、 iryou senmonka no group ga tenkan kanja wa shori shi masu .ishi 、 shounika i 、 yakuzaishi 、 kango shi 、 eiyoushi 、 mental health no senmonka 、 yakuzaishi nado ga chimu member no rei desu .okosan ni control deki nai shoujou ya hitei teki nani hanno ga aru baai wa 、 kanarazu ishi mataha yakuzaishi ni tsuuchi shi te kudasai . .yaku no touyo ryou ya shurui wa chousei suru hitsuyo ga aru kamo shire mase nichi .fukuyou shi te iru yaku niyotte wa 、 kakaritsuke i ya shinkei naika i ga kimo kinou ya chi naka noudo wa shiraberu tame ni ketsueki kensa wa meijiru koto ga ari masu .ketojenichdayett ga suishou sa reru baai wa 、 eiyoushi ni sodan suru koto ga deki masu .mental health no senmonka wa 、 okosan ga stress 、 fuan 、 utsubyou wa keiken shi hajime ta baai ni kanyo suru koto ga ari masu ."
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "prognosis",
+            "list": [
+                {
+                    "name": "What can I expect if my child has absence seizure?",
+                    "index": 0,
+                    "desc": "Anticonvulsant medication works for the majority of children. By the time they reach adolescence, up to 75% of children no longer require medication because their absence seizures have stopped. ",
+                    "name_lang": [
+                        {
+                            "name": "ja",
+                            "value": "子供が欠神発作を起こした場合、どのようなことが予想されますか?",
+                            "transliteration": "kodomo ga ketsu kami hossa wa okoshi ta baai 、 dono you nani koto ga yosou sa re masu ka ?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que posso esperar se meu filho tiver crise de ausência?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Чего я могу ожидать, если у моего ребенка абсансный приступ?",
+                            "transliteration": "chego ya mogu ozhidat, esli u moego rebenka absance pristup?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was kann ich erwarten, wenn mein Kind einen Absence-Anfall hat?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Cosa posso aspettarmi se mio figlio ha una crisi di assenza?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "아이가 결석 발작을 일으키면 어떻게 해야 하나요?",
+                            "transliteration": "aiga gyeolseok baljageul ireukimyeon eotteohge haeya hanayo?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما الذي يمكن أن أتوقعه إذا كان طفلي يعاني من نوبة غياب؟",
+                            "transliteration": "ma al-dhay yamken an atugaah idha can tafli iaani minn noba giabe"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Çocuğumun devamsızlık nöbeti geçirmesi durumunda ne bekleyebilirim?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Противосудорожные препараты помогают большинству детей. К тому времени, когда они достигают подросткового возраста, до 75% детей больше не нуждаются в лекарствах, потому что их абсансные приступы прекратились. ",
+                            "transliteration": "protivosudorozhnye preparates pomogayut bolshinstvu detey. k tomu vremeni, kogda oni dostigayut podrostkowogo vozrasta, do 75% detey bolsze nay nuzhdayutsya vie lekarstvakh, potomu chto ikh absance pristups prekratilis. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Les médicaments anticonvulsivants fonctionnent pour la majorité des enfants. À l’adolescence, jusqu’à 75 % des enfants n’ont plus besoin de médicaments parce que leurs crises d’absence ont cessé. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "항경련제는 대부분의 어린이에게 효과가 있습니다. 청소년기에 이르면 최대 75%의 어린이가 결석 발작이 멈췄기 때문에 더 이상 약물이 필요하지 않습니다. ",
+                            "transliteration": "hanggyeong daebubun eoriniege hyogwaga issseupnida. cheongsonyeongie ireumyeon choedae 75%yoo eoriniga gyeolseok baljagi meomchwossgi ttaemune de isang yakmuri piryohaji anhseupnida. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los medicamentos anticonvulsivos funcionan para la mayoría de los niños. Cuando llegan a la adolescencia, hasta el 75% de los niños ya no necesitan medicación porque sus crisis de ausencia han cesado. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "I farmaci anticonvulsivanti funzionano per la maggior parte dei bambini. Quando raggiungono l'adolescenza, fino al 75% dei bambini non ha più bisogno di farmaci perché le loro crisi di assenza si sono fermate. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "抗惊厥药多效于童子。 当其入青春期也,达75%童子不复须药,其失神发已止也。 "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Antikonvülsan ilaçlar çocukların çoğunda işe yarar. Ergenliğe ulaştıklarında, çocukların% 75'e kadarı artık ilaca ihtiyaç duymazlar çünkü devamsızlık nöbetleri durmuştur. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A medicação anticonvulsivante funciona para a maioria das crianças. Quando chegam à adolescência, até 75% das crianças já não necessitam de medicação porque as crises de ausência cessaram. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Obat antikonvulsan bekerja untuk sebagian besar anak-anak. Pada saat mereka mencapai usia remaja, hingga 75% anak-anak tidak lagi memerlukan pengobatan karena kejang ketidakhadiran mereka telah berhenti. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        }
+    ]
+}

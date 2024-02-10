@@ -1,0 +1,2371 @@
+{
+    "title": "Acromegaly",
+    "title_lang": [
+        {
+            "name": "de",
+            "value": "Akromegalie"
+        },
+        {
+            "name": "it",
+            "value": "Acromegalia"
+        },
+        {
+            "name": "ja",
+            "value": "先端巨大症",
+            "transliteration": "sentan kyodai shou"
+        },
+        {
+            "name": "ko",
+            "value": "말단비대증",
+            "transliteration": "maldan"
+        },
+        {
+            "name": "fr",
+            "value": "Acromégalie"
+        },
+        {
+            "name": "pt",
+            "value": "Acromegalia"
+        },
+        {
+            "name": "ru",
+            "value": "Акромегалии",
+            "transliteration": "acromegaly"
+        },
+        {
+            "name": "lzh",
+            "value": "肢体肥大"
+        },
+        {
+            "name": "ar",
+            "value": "ضخامة النهايات",
+            "transliteration": "dakhama nahayat"
+        },
+        {
+            "name": "tr",
+            "value": "Akromegali"
+        },
+        {
+            "name": "es",
+            "value": "Acromegalia"
+        },
+        {
+            "name": "id",
+            "value": "Akromegali"
+        }
+    ],
+    "desc": "When the body produces too much growth hormone, a rare but dangerous medical condition known as amyegaly develops. Your body's tissues and bones are impacted by amyelagalia, which results in abnormal tissue growth. Surgery, medication, and radiation therapy are the most often used treatments for acromegaly. ",
+    "desc_lang": [
+        {
+            "name": "tr",
+            "value": "Vücut çok fazla büyüme hormonu ürettiğinde, amyegali olarak bilinen nadir fakat tehlikeli bir tıbbi durum gelişir. Vücudunuzun dokuları ve kemikleri, anormal doku büyümesine neden olan amiyelagaliden etkilenir. Cerrahi, ilaç tedavisi ve radyasyon tedavisi akromegali için en sık kullanılan tedavilerdir. "
+        },
+        {
+            "name": "id",
+            "value": "Ketika tubuh memproduksi terlalu banyak hormon pertumbuhan, kondisi medis yang jarang namun berbahaya yang dikenal sebagai amyegaly berkembang. Jaringan dan tulang tubuh Anda dipengaruhi oleh amyelagalia, yang menghasilkan pertumbuhan jaringan abnormal. Pembedahan, pengobatan, dan terapi radiasi adalah perawatan yang paling sering digunakan untuk akromegali. "
+        },
+        {
+            "name": "pt",
+            "value": "Quando o corpo produz muito hormônio do crescimento, uma condição médica rara, mas perigosa conhecida como amyegaly se desenvolve. Os tecidos e ossos do seu corpo são afetados pela amielaga, o que resulta em crescimento anormal dos tecidos. Cirurgia, medicação e radioterapia são os tratamentos mais utilizados para a acromegalia. "
+        },
+        {
+            "name": "lzh",
+            "value": "多生长激素则生奇而危病,谓之阿米加利。 身体骨淀粉,以致生长。 手术、药、放射治疗,肢端肥大也。 "
+        },
+        {
+            "name": "ko",
+            "value": "신체에서 성장 호르몬이 너무 많이 생성되면 진테증으로 알려진 드물지만 위험한 질병이 발생합니다. 신체의 조직과 뼈는 척수골의 영향을 받아 비정상적인 조직 성장을 초래합니다. 수술, 약물 및 방사선 치료는 말단비대증에 가장 많이 사용되는 치료법입니다. ",
+            "transliteration": "sincheeseo seongjang hormones neomu manhi saengseongdoemyeon jintejeungeuro allyeojin deumuljiman woman jilbyeongi balsaenghapnida. sinche jojikgwa ppyeoneun chucksugol yeonghyangeul bada bijeongsangjeogin jojik seongjangeul choraehapnida. susul, yakmul mukgye bangsa chiryoneun maldan gajang manhi sayongdoeneun chiryobeopipnida. "
+        },
+        {
+            "name": "es",
+            "value": "Cuando el cuerpo produce demasiada hormona del crecimiento, se desarrolla una afección médica rara pero peligrosa conocida como amiegalia. Los tejidos y huesos del cuerpo se ven afectados por la amielagia, lo que provoca un crecimiento anormal de los tejidos. La cirugía, los medicamentos y la radioterapia son los tratamientos más utilizados para la acromegalia. "
+        },
+        {
+            "name": "it",
+            "value": "Quando il corpo produce troppo ormone della crescita, si sviluppa una condizione medica rara ma pericolosa nota come amiegalia. I tessuti e le ossa del tuo corpo sono influenzati dall'amielagallo, che si traduce in una crescita anormale dei tessuti. La chirurgia, i farmaci e la radioterapia sono i trattamenti più utilizzati per l'acromegalia. "
+        },
+        {
+            "name": "ru",
+            "value": "Когда организм вырабатывает слишком много гормона роста, развивается редкое, но опасное заболевание, известное как амиегали. Ткани и кости вашего тела подвергаются воздействию амиалагалии, что приводит к аномальному росту тканей. Хирургическое вмешательство, медикаментозное лечение и лучевая терапия являются наиболее часто используемыми методами лечения акромегалии. ",
+            "transliteration": "kogda organism vyrabativaet slishkom mnogo gormona rosta, razvivayetsya redkoye, noh opasnoye zabolevaniye, izvestnoye kak amiegali. tcani yi kosti vashego tela podvergayutsya vozdeystviy amyalagalia, chto privodite k anomalom rosto tkanei. khirurgicheskoye vmeshatelstvo, medicamentine lecheniye yi luchevaya therapy yavlyayutsya naiboleye chasto espolzuemimi metodami lecheniya acromegaly. "
+        },
+        {
+            "name": "ja",
+            "value": "体が成長ホルモンを過剰に産生すると、アミエガリーとして知られるまれではあるが危険な病状が発症します。体の組織や骨はアミエラガリアの影響を受け、その結果、異常な組織成長が起こります。手術、投薬、および放射線療法は、先端巨大症に対して最も頻繁に使用される治療法です。",
+            "transliteration": "tai ga seichou hormon wa kajou ni san sei suru to 、 amiegary toshite shira reru mare de wa aru ga kiken nani byoujou ga hasshou shi masu .tai no soshiki ya hone wa ami era galia no eikyou wa uke 、 sono kekka 、 ijou nani soshiki seichou ga okori masu .shujutsu 、 touyaku 、 oyobi houshasen ryouhou wa 、 sentan kyodai shou nitaishite mottomo hinpan ni shiyou sa reru chiryou hou desu ."
+        },
+        {
+            "name": "ar",
+            "value": "عندما ينتج الجسم الكثير من هرمون النمو ، تتطور حالة طبية نادرة ولكنها خطيرة تعرف باسم اللوزة. تتأثر أنسجة الجسم وعظامه بالأميلاجاليا ، مما يؤدي إلى نمو الأنسجة غير الطبيعي. الجراحة والأدوية والعلاج الإشعاعي هي العلاجات الأكثر استخداما لضخامة النهايات. ",
+            "transliteration": "andama yuntig al-jassam al-kathir minn hermon al-namu ، tetour hala tabia nadire callia khatira tarf bassem valania. tutather ansaja al-jassam ouazameh palamilagalia ، memma yode elly nemo al-ansaja ger al-tabiai. al-jaraha waladoya ouallage al-ishaai he al-alajat al-akthar estekhedama ludhama nahayat. "
+        },
+        {
+            "name": "fr",
+            "value": "Lorsque le corps produit trop d’hormone de croissance, une condition médicale rare mais dangereuse connue sous le nom d’amyegalie se développe. Les tissus et les os de votre corps sont touchés par l’amyélagalia, ce qui entraîne une croissance anormale des tissus. La chirurgie, les médicaments et la radiothérapie sont les traitements les plus souvent utilisés pour l’acromégalie. "
+        },
+        {
+            "name": "de",
+            "value": "Wenn der Körper zu viel Wachstumshormon produziert, entwickelt sich eine seltene, aber gefährliche Erkrankung, die als Amyegalie bekannt ist. Das Gewebe und die Knochen Ihres Körpers werden von Amyelagalia beeinflusst, was zu einem abnormalen Gewebewachstum führt. Operationen, Medikamente und Strahlentherapie sind die am häufigsten verwendeten Behandlungen für Akromegalie. "
+        }
+    ],
+    "data": [
+        {
+            "name": "symptomps",
+            "list": [
+                {
+                    "name": "What causes acromegaly?",
+                    "index": 0,
+                    "desc": "An excess of growth hormone (GH) is released by your pituitary gland due to a tumor known as a pituitary adenoma, which is the most common cause of acromegaly. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "id",
+                            "value": "Apa penyebab akromegali?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quelles sont les causes de l’acromégalie ?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que causa a acromegalia?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Что вызывает акромегалию?",
+                            "transliteration": "chto vyzyvaet acromegaly?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症の原因は何ですか?",
+                            "transliteration": "sentan kyodai shou no genin wa nani desu ka ?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las causas de la acromegalia?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "肢端肥大者何?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was verursacht Akromegalie?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegaliye ne sebep olur?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono le cause dell'acromegalia?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ar",
+                            "value": "يتم إفراز فائض من هرمون النمو (GH) من الغدة النخامية بسبب ورم يعرف باسم الورم الحميد في الغدة النخامية ، وهو السبب الأكثر شيوعا لضخامة النهايات. ",
+                            "transliteration": "yetem ifraz faedh minn hermon al-namu (GH) minn ghada al-nakhamiyya bespep warm yaraf bassem al-warm al-hamid fe ghada al-nakhamiyya ، waho el-sabeb al-akthar shioa ludhama nahayat. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Избыток гормона роста (ГР) высвобождается гипофизом из-за опухоли, известной как аденома гипофиза, которая является наиболее распространенной причиной акромегалии. ",
+                            "transliteration": "izbytok gormona rosta (gr) vysvobozhdayetsya gypophysomia iz-saa opukholi, izvestnoy kak adenoma gypophisa, kotoraya yavlyaetsya naiboleye rasprostranennoy prichinoy acromegaly. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "過剰な成長ホルモン(GH)は、先端巨大症の最も一般的な原因である下垂体腺腫として知られる腫瘍のために脳下垂体から放出されます。",
+                            "transliteration": "kajou nani seichou hormon ( gh ) wa 、 sentan kyodai shou no mottomo ippan teki nani genin de aru kasui tai senshu toshite shira reru shuyou no tame ni noukasuitai kara houshutsu sa re masu ."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Un eccesso di ormone della crescita (GH) viene rilasciato dalla ghiandola pituitaria a causa di un tumore noto come adenoma ipofisario, che è la causa più comune di acromegalia. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Un excès d’hormone de croissance (GH) est libéré par votre glande pituitaire en raison d’une tumeur connue sous le nom d’adénome hypophysaire, qui est la cause la plus fréquente d’acromégalie. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "뇌하수체에서 과도한 성장 호르몬(GH)이 분비되는데, 이는 말단비대증의 가장 흔한 원인인 뇌하수체 선종으로 알려진 종양으로 인해 발생합니다. ",
+                            "transliteration": "nehasucheeseo gwadohan seongjang hormones(GH)i bunbidoeneunde, ineun maldan gajang heunhan woninin nohasuce seonjongeuro allyeojin jongyangeuro inhae balsaenghapnida. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kelebihan hormon pertumbuhan (GH) dilepaskan oleh kelenjar pituitari Anda karena tumor yang dikenal sebagai adenoma hipofisis, yang merupakan penyebab paling umum dari akromegali. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Um excesso de hormônio do crescimento (GH) é liberado pela glândula pituitária devido a um tumor conhecido como adenoma hipofisário, que é a causa mais comum de acromegalia. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "La glándula pituitaria libera un exceso de hormona del crecimiento (GH) debido a un tumor conocido como adenoma hipofisario, que es la causa más común de acromegalia. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegalinin en yaygın nedeni olan hipofiz adenomu olarak bilinen bir tümör nedeniyle hipofiz beziniz tarafından fazla miktarda büyüme hormonu (GH) salınır. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Pituitary adenomas and acromegaly",
+                    "index": 1,
+                    "desc": "An almost universally benign (noncancerous) tumor is pituitary adenomas. You might not experience symptoms of excess growth hormone for years because the majority of adenomas that cause acromegaly grow slowly. Your pituitary gland produces other hormones, and the size and location of the adenoma may cause it to press against other pituitary tissue. In addition to pressing on adjacent brain regions, a large adenoma may cause headaches and visual impairments. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "es",
+                            "value": "Adenomas hipofisarios y acromegalia"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Adénomes hypophysaires et acromégalie"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Adenomas hipofisários e acromegalia"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Аденомы гипофиза и акромегалия",
+                            "transliteration": "adenoma gypophisa yi acromegaly"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "垂腺瘤肢端肥大症"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Adenoma hipofisis dan akromegali"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Hipofiz adenomları ve akromegali"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "下垂体腺腫と先端巨大症",
+                            "transliteration": "kasui tai senshu to sentan kyodai shou"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "أورام الغدة النخامية وضخامة الأطراف",
+                            "transliteration": "uram ghada al-nakhamiyya wadhama al-atraf"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Hypophysenadenome und Akromegalie"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Adenomi ipofisari e acromegalia"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ar",
+                            "value": "الورم الحميد (غير السرطاني) عالميا تقريبا هو أورام الغدة النخامية. قد لا تواجه أعراض هرمون النمو الزائد لسنوات لأن غالبية الأورام الغدية التي تسبب ضخامة الأطراف تنمو ببطء. تنتج الغدة النخامية هرمونات أخرى، وقد يتسبب حجم الورم الحميد وموقعه في ضغطه على أنسجة الغدة النخامية الأخرى. بالإضافة إلى الضغط على مناطق الدماغ المجاورة ، قد يسبب الورم الحميد الكبير الصداع وضعف البصر. ",
+                            "transliteration": "al-warm al-hamid (ger sartani) alemia takriba ho uram ghada al-nakhamiyya. qud la toage aradh hermon al-namu al-zaed lisnoat laan ghalebia al-awram ghadia alti tespeb dakhama al-atraf tenmo babta. tentig ghada al-nakhamiyya hermonat akhriel waqder etsebe hajam al-warm al-hamid lomogaah fe daghteh ola ansaja ghada al-nakhamiyya al-akhra. balidafa elly al-daght ola manateq al-dammagh magawera ، qud jaspeb al-warm al-hamid al-kabir al-sadda wadaf al-bassr. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Um tumor quase universalmente benigno (não canceroso) é o adenoma hipofisário. Você pode não experimentar sintomas de excesso de hormônio do crescimento por anos porque a maioria dos adenomas que causam acromegalia crescem lentamente. Sua glândula pituitária produz outros hormônios, e o tamanho e a localização do adenoma podem fazer com que ele pressione contra outro tecido hipofisário. Além de pressionar as regiões cerebrais adjacentes, um grande adenoma pode causar dores de cabeça e deficiências visuais. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "거의 보편적으로 양성(비암성) 종양은 뇌하수체 선종입니다. 말단비대증을 유발하는 대부분의 선종은 서서히 자라기 때문에 수년 동안 성장 호르몬 과잉 증상을 경험하지 못할 수 있습니다. 뇌하수체는 다른 호르몬을 생산하며, 선종의 크기와 위치로 인해 다른 뇌하수체 조직을 압박할 수 있습니다. 선종이 크면 인접한 뇌 부위를 누르는 것 외에도 두통과 시각 장애를 유발할 수 있습니다. ",
+                            "transliteration": "geoui bopyeonjeogeuro yangseong(biamseong) jongyangeun nohasuce seonjongipnida. maldan yubalhaneun daebubun seonjongeun sussahi jaragi ttaemune sunyeon dongan seongjang hormones guing jeungsangeul gyeongheomhaji moshal su issseupnida. noehasucheneun dareun hormone saengsanhamyeo, seonjongui keugiwa wichiro inhae dareun nohasuce jojigeul abbakhal su issseupnida. seonjongi keumyeon injeophan neu buwireul nureuneun geos oedo dutongo sigak jangaereul yubalhal su issseupnida. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ほぼ普遍的に良性(非癌性)腫瘍は下垂体腺腫です。先端巨大症を引き起こす腺腫の大部分はゆっくりと成長するため、過剰な成長ホルモンの症状を何年も経験しない可能性があります。下垂体は他のホルモンを産生し、腺腫の大きさと位置によっては、他の下垂体組織を圧迫する可能性があります。大きな腺腫は、隣接する脳領域を圧迫することに加えて、頭痛や視覚障害を引き起こす可能性があります。",
+                            "transliteration": "hobo fuhen teki ni ryousei ( hi gan shou ) shuyou wa kasui tai senshu desu .sentan kyodai shou wa hikiokosu senshu no dai bubun wa yukkuri to seichou suru tame 、 kajou nani seichou hormon no shoujou wa nannen mo keiken shi nai kanosei ga ari masu .kasui tai wa hoka no hormon wa san namashi 、 senshu no ooki sa to ichi niyotte wa 、 hoka no kasui tai soshiki wa appaku suru kanosei ga ari masu .ookina senshu wa 、 rinsetsu suru nou ryouiki wa appaku suru koto ni kuwae te 、 zutsuu ya shikaku shougai wa hikiokosu kanosei ga ari masu ."
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "垂体腺瘤者,良性(非癌性)肿瘤也。 或积年不生长激素多病,多致肢端肥腺瘤生迟也。 垂知生他激素,腺瘤大小位,或致压垂体。 非迫近之大脑外,大腺瘤犹或头痛视障。 "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Neredeyse evrensel olarak iyi huylu (kanserli olmayan) bir tümör hipofiz adenomlarıdır. Akromegaliye neden olan adenomların çoğu yavaş büyüdüğü için yıllarca aşırı büyüme hormonu belirtileri yaşamayabilirsiniz. Hipofiz beziniz başka hormonlar üretir ve adenomun boyutu ve yeri diğer hipofiz dokusuna baskı yapmasına neden olabilir. Komşu beyin bölgelerine baskı yapmanın yanı sıra, büyük bir adenom baş ağrısına ve görme bozukluklarına neden olabilir. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Почти всегда доброкачественной (нераковой) опухолью является аденома гипофиза. Вы можете не испытывать симптомов избытка гормона роста в течение многих лет, потому что большинство аденом, вызывающих акромегалию, растут медленно. Гипофиз вырабатывает другие гормоны, и размер и расположение аденомы могут привести к тому, что она будет давить на другие ткани гипофиза. Помимо давления на соседние участки мозга, большая аденома может вызывать головные боли и нарушения зрения. ",
+                            "transliteration": "posti vsegda dobrokachestvennoy (nerakovoy) opujolju yavlyaetsya adenoma gypophisa. vy mozhete nay ispytivat symptoms izbytka gormona rosta vie techeniye mnogich let, potomu chto bolshinstvo adenom, vyzyvayushchikh acromegaly, rastut medlenno. gypophysis vyrabativaet drugiye gormon, yi razmer yi raspolozheniye adenoma mogut privests k tomu, chto ona budet davit na drugiye tcani gypophisa. pomimo davlenia na sosedniye uchastki mozga, bolshaya adenoma moget vyzyvat golovnye boli yi narushenia zrenia. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Un tumor casi universalmente benigno (no canceroso) son los adenomas hipofisarios. Es posible que no experimente síntomas de exceso de hormona del crecimiento durante años porque la mayoría de los adenomas que causan acromegalia crecen lentamente. La glándula pituitaria produce otras hormonas, y el tamaño y la ubicación del adenoma pueden hacer que presione contra otro tejido pituitario. Además de presionar las regiones cerebrales adyacentes, un adenoma grande puede causar dolores de cabeza y deficiencias visuales. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tumor yang hampir universal jinak (non-kanker) adalah adenoma hipofisis. Anda mungkin tidak mengalami gejala kelebihan hormon pertumbuhan selama bertahun-tahun karena mayoritas adenoma yang menyebabkan acromegaly tumbuh perlahan. Kelenjar pituitari Anda menghasilkan hormon lain, dan ukuran dan lokasi adenoma dapat menyebabkannya menekan jaringan hipofisis lainnya. Selain menekan daerah otak yang berdekatan, adenoma besar dapat menyebabkan sakit kepala dan gangguan penglihatan. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What are the symptoms of acromegaly?",
+                    "index": 2,
+                    "desc": "The effects of acromegaly in adults include abnormal growth of the bones and tissues in your body. Other symptoms of acromegaly include: Acromegaly symptoms often begin slowly and can be hard to identify at first. These are symptoms that adults with the condition may have. Some people experience changes in their shoe size, particularly in width, or feel tightness in their regularly worn rings before realizing their hands have gotten larger. Speaking with your healthcare provider is crucial if you're exhibiting these symptoms. ",
+                    "pointers": [
+                        "Enlarged hands or feet.",
+                        "Changes in your face shape, including a more prominent jaw and/or forehead.",
+                        "Increase in size of your lips, nose and/or tongue.",
+                        "Excessive sweating or oily skin.",
+                        "Deepening of your voice.",
+                        "Headaches.",
+                        "Joint pain.",
+                        "Vision changes.",
+                        "Increase in the number of skin tags.",
+                        "Numbness in your hands.",
+                        "Sleep apnea.",
+                        "Carpal tunnel syndrome or spinal cord issues."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "lzh",
+                            "value": "肢端肥大者何?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증의 증상은?",
+                            "transliteration": "maldan jeungsangeun?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa saja gejala akromegali?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son los síntomas de la acromegalia?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais são os sintomas da acromegalia?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症の症状は何ですか?",
+                            "transliteration": "sentan kyodai shou no shoujou wa nani desu ka ?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegalinin belirtileri nelerdir?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Каковы симптомы акромегалии?",
+                            "transliteration": "kakovy symptoms acromegaly?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "pt",
+                            "value": "Os efeitos da acromegalia em adultos incluem o crescimento anormal dos ossos e tecidos em seu corpo. Outros sintomas da acromegalia incluem: Os sintomas da acromegalia geralmente começam lentamente e podem ser difíceis de identificar no início. Estes são sintomas que os adultos com a condição podem ter. Algumas pessoas experimentam mudanças no tamanho do sapato, particularmente na largura, ou sentem aperto em seus anéis usados regularmente antes de perceber que suas mãos ficaram maiores. Falar com seu médico é crucial se você estiver apresentando esses sintomas. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegalinin yetişkinlerdeki etkileri, vücudunuzdaki kemiklerin ve dokuların anormal büyümesini içerir. Akromegalinin diğer semptomları şunlardır: Akromegali semptomları genellikle yavaş başlar ve ilk başta tanımlanması zor olabilir. Bunlar, bu durumdaki yetişkinlerin sahip olabileceği belirtilerdir. Bazı insanlar, ellerinin büyüdüğünü fark etmeden önce ayakkabı numaralarında, özellikle genişlikte değişiklikler yaşar veya düzenli olarak takılan yüzüklerinde gerginlik hissederler. Bu semptomları sergiliyorsanız, sağlık uzmanınızla konuşmak çok önemlidir. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "成人の先端巨大症の影響には、体内の骨や組織の異常な成長が含まれます。先端巨大症の他の症状は次のとおりです。 先端巨大症の症状はゆっくりと始まることが多く、最初は識別が難しい場合があります。これらは、この状態の成人が持つ可能性のある症状です。靴のサイズ、特に幅の変化を経験したり、手が大きくなったことに気付く前に、定期的に着用しているリングに締め付けを感じたりする人もいます。これらの症状が現れている場合は、医療提供者に相談することが重要です。",
+                            "transliteration": "seijin no sentan kyodai shou no eikyou ni wa 、 tainai no hone ya soshiki no ijou nani seichou ga fukuma re masu .sentan kyodai shou no hoka no shoujou wa ji no toori desu . sentan kyodai shou no shoujou wa yukkuri to hajimaru koto ga ooku 、 saisho wa shikibetsu ga muzukashii baai ga ari masu .korera wa 、 kono joutai no seijin ga motsu kanosei no aru shoujou desu .kutsu no saize 、 tokuni haba no henka wa keiken shi tari 、 te ga ookiku natsu ta koto ni kidzuku mae ni 、 teiki teki ni chakuyou shi te iru ling ni shimetsuke wa kanji tari suru hito mo iya masu .korera no shoujou ga araware te iru baai wa 、 iryou teikyou mono ni sodan suru koto ga juuyou desu ."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los efectos de la acromegalia en adultos incluyen el crecimiento anormal de los huesos y tejidos del cuerpo. Otros síntomas de la acromegalia incluyen: Los síntomas de la acromegalia a menudo comienzan lentamente y pueden ser difíciles de identificar al principio. Estos son síntomas que pueden tener los adultos con esta afección. Algunas personas experimentan cambios en el tamaño de sus zapatos, particularmente en el ancho, o sienten tensión en sus anillos que usan regularmente antes de darse cuenta de que sus manos se han vuelto más grandes. Hablar con su proveedor de atención médica es crucial si presenta estos síntomas. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Последствия акромегалии у взрослых включают аномальный рост костей и тканей в организме. Другие симптомы акромегалии включают: Симптомы акромегалии часто начинаются медленно и поначалу их трудно определить. Это симптомы, которые могут быть у взрослых с этим заболеванием. Некоторые люди испытывают изменения в размере обуви, особенно в ширине, или чувствуют стеснение в своих регулярно носимых кольцах, прежде чем осознают, что их руки стали больше. Если у вас проявляются эти симптомы, очень важно поговорить со своим медицинским сотрудником. ",
+                            "transliteration": "posledstvia acromegaly u vzroslykh vklyuchayut anomalous rost costey yi tkanei vie organism. drugiye symptoms acromegaly vklyuchayut: symptoms acromegaly chasto nachinayutsya medlenno yi ponachalu ikh trudno opredelit. eto symptoms, kotorye mogut byt u vzroslykh s ethym zabolevaniem. necotoria ludy ispytyvayut ismenenia vie razmer obuvi, osobenno vie shirine, eli chuvstvuyut stesnenie vie svoikh regular nosimykh koltzach, prezde cham osoznayut, chto ikh ruki stahly bolsze. esli u vas proyavlyayutsya ethy symptoms, ochen vazhno pogovorit so svoim meditsynskyme sotrudnikom. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Les effets de l’acromégalie chez l’adulte comprennent une croissance anormale des os et des tissus de votre corps. Les autres symptômes de l’acromégalie comprennent : Les symptômes de l’acromégalie commencent souvent lentement et peuvent être difficiles à identifier au début. Ce sont des symptômes que les adultes atteints de la maladie peuvent avoir. Certaines personnes constatent des changements dans leur pointure, en particulier en largeur, ou ressentent des tiraillements dans leurs bagues régulièrement portées avant de se rendre compte que leurs mains sont devenues plus grandes. Il est essentiel de parler à votre fournisseur de soins de santé si vous présentez ces symptômes. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "肢端肥大症者,骨之生也。 支端肥大者: 肢端肥大者常缓,初难知也。 此有成人之病也。 或鞋码变化,尤为宽度,或在意识其手变大之前,常所著戒指为急。 如君有此症,与医疗保健提供者谈至重。 "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تشمل آثار ضخامة الأطراف لدى البالغين نموا غير طبيعي للعظام والأنسجة في جسمك. تشمل الأعراض الأخرى لضخامة الأطراف ما يلي: غالبا ما تبدأ أعراض ضخامة الأطراف ببطء ويمكن أن يكون من الصعب تحديدها في البداية. هذه هي الأعراض التي قد يعاني منها البالغون المصابون بهذه الحالة. يعاني بعض الأشخاص من تغيرات في حجم أحذيتهم ، خاصة في العرض ، أو يشعرون بضيق في خواتمهم التي يتم ارتداؤها بانتظام قبل أن يدركوا أن أيديهم أصبحت أكبر. يعد التحدث مع مقدم الرعاية الصحية الخاص بك أمرا بالغ الأهمية إذا كنت تظهر عليك هذه الأعراض. ",
+                            "transliteration": "tushmel athar dakhama al-atraf lada al-baleghin nemwa ger tabiai lazam walansja fe jasmak. tushmel al-arad al-akhra ludhama al-atraf ma lelle: galpa ma tabadaa aradh dakhama al-atraf babta wimken an yakon minn al-saab tahdidha fe al-badaya. huthe he al-arad alti qud iaani menha al-balgon al-masaboun bahadheh al-halah. iaani baad al-ashkhas minn teghirat fe hajam ahditiham ، khassa fe al-aradh ، oa yasharon badik fe khoatmehom alti yetem artadaouha bantzam qabel an yudrukwa an aideham asbaht akbar. yad al-tahdath ma mokaddam al-raya al-sahia al-khas beck amra balleg al-uhmia idha kent tadhar alik huthe al-arad. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "성인에서 말단비대증의 영향에는 신체의 뼈와 조직의 비정상적인 성장이 포함됩니다. 말단비대증의 다른 증상은 다음과 같습니다. 말단비대증 증상은 종종 서서히 시작되며 처음에는 식별하기 어려울 수 있습니다. 이러한 증상은 이 질환을 앓고 있는 성인이 겪을 수 있는 증상입니다. 어떤 사람들은 신발 사이즈, 특히 너비가 변하거나 손이 커졌다는 것을 깨닫기 전에 자주 착용하는 반지가 꽉 조이는 것을 느낍니다. 이러한 증상이 나타나는 경우 의료진과 상담하는 것이 중요합니다. ",
+                            "transliteration": "seongineseo maldan yeonghyangeneun sinche ppyeowa josic bijeongsangjeogin seongjangi pohamdoepnida. maldan dareun jeungsangeun daeumgwa gatseupnida. maldan jeungsangeun jongjong sussahi sijakdoemyeo cheoeumeneun sikbyeolhagi eoryeoul su issseupnida. ireohan jeungsangeun i jilhwaneul alhgo issneun seongin gyeokkeul su issneun jeungsangipnida. eotteon saramdeureun sinbal size, teukhi neobiga byeonhageona soni keojyeossdaneun geoseul kkaedatgi jeone jaju chagyonghaneun banjiga kkwak joineun geoseul neukkipnida. ireohan jeungsangi natananeun gyeongu uiryojingwa sangdamhaneun geosi jungyohapnida. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "زيادة في عدد الزوائد الجلدية.",
+                            "transliteration": "ziade fe aded al-zawaid al-jaldiye."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "زيادة في حجم شفتيك و / أو أنفك و / أو لسانك.",
+                            "transliteration": "ziade fe hajam chevtik wa / oa anfak wa / oa lesanc."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تغييرات في شكل وجهك ، بما في ذلك الفك و / أو الجبهة الأكثر بروزا.",
+                            "transliteration": "teghierat fe shakal weghk ، pama fe delk elvik wa / oa al-jabha al-akthar broza."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تغيرات الرؤية.",
+                            "transliteration": "teghirat ar-rawiya."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "الصداع.",
+                            "transliteration": "al-sadda."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "التعرق المفرط أو البشرة الدهنية.",
+                            "transliteration": "al-taraq al-mafrat oa bachra al-dhania."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "انقطاع النفس النومي.",
+                            "transliteration": "anqtaa al-nafs noumi."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تعميق صوتك.",
+                            "transliteration": "tamik sotak."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "睡息暂停。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "益唇鼻及/舌。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "腕管综合征或脊髓问。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "皮赘数增。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "手麻木。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "加深你的声音。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "关节痛。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Augmentation de la taille de vos lèvres, de votre nez et/ou de votre langue."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Maux."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Apnée du sommeil."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Augmentation du nombre d’acrochordons."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Transpiration excessive ou peau grasse."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Mains ou pieds hypertrophiés."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Douleurs articulaires."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Vergrößerte Hände oder Füße."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Vergrößerung der Lippen, der Nase und/oder der Zunge."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Kopfschmerzen."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Übermäßiges Schwitzen oder fettige Haut."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Das Sehvermögen verändert sich."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Schlafapnoe-Syndrom."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Vertiefung Ihrer Stimme."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Kulit berkeringat berlebihan atau berminyak."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Mati rasa di tangan Anda."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Peningkatan ukuran bibir, hidung dan / atau lidah Anda."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tangan atau kaki membesar."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Pendalaman suara Anda."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Nyeri sendi."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Perubahan visi."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Dolori articolari."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Intorpidimento delle mani."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Apnea notturna."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Aumento del numero di etichette cutanee."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Sindrome del tunnel carpale o problemi al midollo spinale."
+                        },
+                        {
+                            "name": "it",
+                            "value": "La visione cambia."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Aumento delle dimensioni delle labbra, del naso e/o della lingua."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Sudorazione eccessiva o pelle grassa."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Cambiamenti nella forma del viso, tra cui una mascella e/o una fronte più prominenti."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Mani o piedi ingrossati."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Mal."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Approfondimento della tua voce."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "唇、鼻、舌のサイズを大きくします。",
+                            "transliteration": "kuchibiru 、 hana 、 shita no saize wa ookiku shi masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "睡眠時無呼吸症候群。",
+                            "transliteration": "suimin ji mu kokyuu shoukougun ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "スキンタグの数の増加。",
+                            "transliteration": "skin tag no suu no zouka ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "過度の発汗や脂性肌。",
+                            "transliteration": "kado no hakkan ya shisei hada ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "手や足が肥大した。",
+                            "transliteration": "te ya ashi ga hidai shi ta ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "声を深めます。",
+                            "transliteration": "koe wa fukame masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "手根管症候群または脊髄の問題。",
+                            "transliteration": "te ne kan shoukougun mataha sekizui no mondai ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "頭痛。",
+                            "transliteration": "zutsuu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "顎や額が目立つなど、顔の形の変化。",
+                            "transliteration": "ago ya gaku ga medatsu nado 、 kao no kei no henka ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ビジョンが変わります。",
+                            "transliteration": "vision ga kawari masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "関節痛。",
+                            "transliteration": "kansetsu ita ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "手のしびれ。",
+                            "transliteration": "te no shibire ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "수면 무호흡증.",
+                            "transliteration": "sumyeon muhohupjeung."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "목소리가 깊어집니다.",
+                            "transliteration": "moksoriga gipeojipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "손목 터널 증후군 또는 척수 문제.",
+                            "transliteration": "sonmok teoneol jinghu ttoneun chucksu munje."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "손이 저립니다.",
+                            "transliteration": "soni jeoripnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "두통.",
+                            "transliteration": "doutong."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "관절통.",
+                            "transliteration": "gwanjeoltong."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "시력 변화.",
+                            "transliteration": "siryeok byeonhwa."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "입술, 코 및/또는 혀의 크기를 늘립니다.",
+                            "transliteration": "ipsul, ko mukgye/ttoneun heo keugireul neullipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "과도한 땀 또는 지성 피부.",
+                            "transliteration": "gwadohan ttam ttoneun jiseong pivou."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "스킨 태그의 수를 늘립니다.",
+                            "transliteration": "skin tag sureul neullipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "더 두드러진 턱 및/또는 이마를 포함한 얼굴형의 변화.",
+                            "transliteration": "de dudeureojin tuc mukgye/ttoneun imareul pohamhan eolgulhyeongui byeonhwa."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "손이나 발이 커진 경우.",
+                            "transliteration": "sonina bari keojin gyeongu."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Dormência em suas mãos."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Dor articular."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Cefaléias."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Mãos ou pés aumentados."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Síndrome do túnel do carpo ou problemas da medula espinhal."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Aumento do tamanho dos lábios, nariz e/ou língua."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Aumento do número de marcas na pele."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Aprofundamento da voz."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Sudorese excessiva ou pele oleosa."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Mudanças na forma do rosto, incluindo uma mandíbula e/ou testa mais proeminentes."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Apneia do sono."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Alterações na visão."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Увеличение количества папиллом.",
+                            "transliteration": "uvelicheniye kolichestva papillom."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Изменение формы лица, в том числе более выраженная челюсть и/или лоб.",
+                            "transliteration": "izmeneniye form litsa, vie tomme chisle boleye vyrazhennaya chelyust yi/eli lob."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Суставах.",
+                            "transliteration": "sustavakh."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Апноэ во сне.",
+                            "transliteration": "apneau vo sneh."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Более глубокий голос.",
+                            "transliteration": "boleye gluboky golos."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Онемение в руках.",
+                            "transliteration": "onemenie vie rukakh."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Увеличенные руки или ноги.",
+                            "transliteration": "uvelichennye ruki eli nogui."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Увеличение размера губ, носа и/или языка.",
+                            "transliteration": "uvelicheniye razmer goob, nossa yi/eli yazyka."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Profundización de la voz."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Dolor en las articulaciones."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Apnea del sueño."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Cambios en la visión."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Cambios en la forma de la cara, incluyendo una mandíbula y/o frente más prominentes."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Aumento del número de papilomas cutáneos."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Manos o pies agrandados."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Cefaleas."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Entumecimiento en las manos."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Síndrome del túnel carpiano o problemas de la médula espinal."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Sudoración excesiva o piel grasa."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Aumento del tamaño de los labios, la nariz y/o la lengua."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Baş ağrısı."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Ellerinizde uyuşma."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Büyütülmüş eller veya ayaklar."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Cilt etiketlerinin sayısında artış."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Karpal tünel sendromu veya omurilik sorunları."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aşırı terleme veya yağlı cilt."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Uyku apnesi."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Eklem ağrısı."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Sesinizin kalınlaşması."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Dudaklarınızın, burnunuzun ve/veya dilinizin boyutunda artış."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Vizyon değişiklikleri."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Daha belirgin bir çene ve/veya alın dahil olmak üzere yüz şeklinizdeki değişiklikler."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "diagnosis",
+            "list": [
+                {
+                    "name": "How is acromegaly diagnosed?",
+                    "index": 0,
+                    "desc": "The signs and symptoms of acromegaly frequently appear gradually over several years. Due to this, diagnosis is challenging. A physician who specializes in disorders relating to hormones, an endocrinologist, may be suggested by your healthcare provider. After a comprehensive clinical evaluation, specialized tests such as blood and imaging tests, and your medical history, they will diagnose you. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "it",
+                            "value": "Come viene diagnosticata l'acromegalia?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se diagnostica la acromegalia?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症はどのように診断されますか?",
+                            "transliteration": "sentan kyodai shou wa dono you ni shindan sa re masu ka ?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증은 어떻게 진단하나요?",
+                            "transliteration": "maldan eotteohge jindanhanayo?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以诊肢端肥大症?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali nasıl teşhis edilir?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Wie wird eine Akromegalie diagnostiziert?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como é diagnosticada a acromegalia?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "كيف يتم تشخيص ضخامة النهايات؟",
+                            "transliteration": "keef yetem chekhis dakhama nahayate"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как диагностируется акромегалия?",
+                            "transliteration": "kak diagnostiruetsya acromegaly?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bagaimana acromegaly didiagnosis?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "es",
+                            "value": "Los signos y síntomas de la acromegalia suelen aparecer gradualmente a lo largo de varios años. Debido a esto, el diagnóstico es un desafío. Su proveedor de atención médica puede sugerir un médico que se especialice en trastornos relacionados con las hormonas, un endocrinólogo. Después de una evaluación clínica integral, pruebas especializadas como análisis de sangre e imágenes, y su historial médico, lo diagnosticarán. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Die Anzeichen und Symptome einer Akromegalie treten häufig schleichend über mehrere Jahre auf. Aus diesem Grund ist die Diagnose schwierig. Ein Arzt, der sich auf Hormonstörungen spezialisiert hat, ein Endokrinologe, kann von Ihrem Arzt empfohlen werden. Nach einer umfassenden klinischen Untersuchung, spezialisierten Tests wie Blut- und Bildgebungstests und Ihrer Krankengeschichte werden Sie diagnostiziert. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "I segni e i sintomi dell'acromegalia compaiono spesso gradualmente nel corso di diversi anni. Per questo motivo, la diagnosi è difficile. Un medico specializzato in disturbi legati agli ormoni, un endocrinologo, può essere suggerito dal medico. Dopo una valutazione clinica completa, test specializzati come esami del sangue e di imaging e la tua storia medica, ti diagnosticheranno. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Les signes et symptômes de l’acromégalie apparaissent souvent progressivement sur plusieurs années. Pour cette raison, le diagnostic est difficile. Un médecin spécialisé dans les troubles liés aux hormones, un endocrinologue, peut être suggéré par votre fournisseur de soins de santé. Après une évaluation clinique complète, des tests spécialisés tels que des tests sanguins et d’imagerie, et vos antécédents médicaux, ils vous diagnostiqueront. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Os sinais e sintomas da acromegalia frequentemente aparecem gradualmente ao longo de vários anos. Devido a isso, o diagnóstico é desafiador. Um médico especializado em distúrbios relacionados aos hormônios, um endocrinologista, pode ser sugerido pelo seu profissional de saúde. Após uma avaliação clínica abrangente, exames especializados, como exames de sangue e de imagem, e seu histórico médico, eles irão diagnosticá-lo. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증의 징후와 증상은 수년에 걸쳐 서서히 나타나는 경우가 많습니다. 이로 인해 진단이 어렵습니다. 호르몬 관련 질환을 전문으로 하는 의사인 내분비학자가 의료 제공자로부터 상담을 받을 수 있습니다. 종합적인 임상 평가, 혈액 및 영상 검사와 같은 전문 검사, 병력을 거쳐 진단을 내립니다. ",
+                            "transliteration": "maldan jinghoua jeungsangeun sunyeone geolchyeo sussahi natananeun gyeonguga manhseupnida. iro inhae jindani eoryeopseupnida. hormones kwanryeon jilhwaneul jeonmuneuro haneun uisain naebunbi air jegongjarobuteo sangdameul badeul su issseupnida. jonghapjeogin imsang pyeongga, hyeoraek mukgye yeongsang geomsawa gateun jeonmun geomsa, byeongryeogeul geochyeo jindaneul naeripnida. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Признаки и симптомы акромегалии часто проявляются постепенно в течение нескольких лет. Из-за этого постановка диагноза затруднена. Врач, специализирующийся на гормональных расстройствах, эндокринолог, может быть рекомендован вашим лечащим врачом. После всестороннего клинического обследования, специализированных анализов, таких как анализы крови и визуализации, а также вашей истории болезни, они поставят вам диагноз. ",
+                            "transliteration": "priznaki yi symptoms acromegaly chasto proyavlyayutsya postepenno vie techeniye nescolcich let. iz-saa etogo postanovka diagnosis zatrudnena. vrach, spetsializiruyushyi na gormonalis rasstroistvach, endocrinology, moget byt recommend vashim lechashchim vrachom. posle vsestoronnego klinicheskogo obsledovania, spetsializirovannykh analyzov, takikh kak analysis krovi yi visoilization, a takze vashey australian bolezny, oni postavyat vam diagnosis. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegalinin belirti ve semptomları sıklıkla birkaç yıl içinde yavaş yavaş ortaya çıkar. Bu nedenle tanı zordur. Hormonlarla ilgili bozukluklarda uzmanlaşmış bir doktor, bir endokrinolog, sağlık uzmanınız tarafından önerilebilir. Kapsamlı bir klinik değerlendirme, kan ve görüntüleme testleri gibi özel testler ve tıbbi geçmişinizden sonra size teşhis koyacaklardır. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症の徴候と症状は、数年かけて徐々に現れることがよくあります。このため、診断は困難です。ホルモンに関連する障害を専門とする医師、内分泌科医は、医療提供者から提案される場合があります。総合的な臨床評価、血液検査や画像検査などの専門的な検査、病歴を経て、診断を受けます。",
+                            "transliteration": "sentan kyodai shou no choukou to shoujou wa 、 suu toshi kake te suhodoriji ni arawareru koto ga yoku ari masu .kono tame 、 shindan wa konnan desu .hormon ni kanren suru shougai wa senmon to suru ishi 、 naibunpitsu ka i wa 、 iryou teikyou mono kara teian sa reru baai ga ari masu .sougou teki nani rinshou hyouka 、 ketsueki kensa ya gazou kensa nado no senmon teki nani kensa 、 byoureki wa kyou te 、 shindan wa uke masu ."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "كثيرا ما تظهر علامات وأعراض ضخامة الأطراف تدريجيا على مدار عدة سنوات. ونتيجة لذلك ، فإن التشخيص يمثل تحديا. قد يقترح مقدم الرعاية الصحية الخاص بك طبيبا متخصصا في الاضطرابات المتعلقة بالهرمونات ، وهو أخصائي الغدد الصماء. بعد إجراء تقييم سريري شامل ، واختبارات متخصصة مثل اختبارات الدم والتصوير ، وتاريخك الطبي ، سيقومون بتشخيصك. ",
+                            "transliteration": "ktera ma tadhar alamat ouarad dakhama al-atraf tedrigia ola madar adda senouat. wantija ledlec ، fin al-tashkhis yemthel thadia. qud yaktereh mokaddam al-raya al-sahia al-khas beck tabiba metkhessa fe aladtrabat metalka balhermonat ، waho akhsai alghdd al-sama. baad igraa takiyem seriri shamil ، wachtbarat metkhessa methel akhtabarat al-dem waltswer ، vatarikhik al-tabi ، cicomon pechekhisk. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What tests will be done to diagnose acromegaly?",
+                    "index": 1,
+                    "desc": "In order to determine whether acromegaly has impacted other areas of your body, your doctor might prescribe further testing if you have been given this diagnosis. Among these tests are possibly:. ",
+                    "pointers": [
+                        "An echocardiogram to check for heart issues.",
+                        "Sleep study tests to check for sleep apnea.",
+                        "A colonoscopy to assess the health of your colon.",
+                        "X-rays or a DEXA (DXA) scan to check bone health."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "it",
+                            "value": "Quali esami verranno eseguiti per diagnosticare l'acromegalia?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali tanısı koymak için hangi testler yapılacak?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Какие анализы будут сделаны для диагностики акромегалии?",
+                            "transliteration": "kakie analysis budut sdelany dla diagnostics acromegaly?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Qué pruebas se realizarán para diagnosticar la acromegalia?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais exames serão feitos para diagnosticar a acromegalia?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quels tests seront effectués pour diagnostiquer l’acromégalie ?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Welche Tests werden durchgeführt, um Akromegalie zu diagnostizieren?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tes apa yang akan dilakukan untuk mendiagnosis akromegali?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以验肢端肥大症?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증을 진단하기 위해 어떤 검사를 해야 하나요?",
+                            "transliteration": "maldan jindanhagi wihae eotteon geomsareul haeya hanayo?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "pt",
+                            "value": "A fim de determinar se a acromegalia impactou outras áreas do seu corpo, seu médico pode prescrever testes adicionais se você recebeu esse diagnóstico. Entre esses testes estão, possivelmente:. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Al fine di determinare se l'acromegalia ha avuto un impatto su altre aree del corpo, il medico potrebbe prescrivere ulteriori test se ti è stata data questa diagnosi. Tra questi test ci sono possibilmente:. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Чтобы определить, повлияла ли акромегалия на другие области вашего тела, ваш врач может назначить дальнейшее обследование, если вам был поставлен этот диагноз. Среди этих тестов возможны: ",
+                            "transliteration": "chtoby opredelit, povliyala lee acromegaly na drugiye oblasts vashego tela, vas vrach moget naznachit dalneischee obsledovanie, esli vam byl postavlen ethot diagnosis. sredi etich testov vozmozhny: "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症が体の他の領域に影響を与えたかどうかを判断するために、この診断を受けた場合、医師はさらなる検査を処方する場合があります。これらのテストの中には、おそらく次のものがあります。",
+                            "transliteration": "sentan kyodai shou ga tai no hoka no ryouiki ni eikyou wa atae ta ka dou ka wa handan suru tame ni 、 kono shindan wa uke ta baai 、 ishi wa saranaru kensa wa shohou suru baai ga ari masu .korera no test no naka ni wa 、 osoraku ji no mono ga ari masu ."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegalinin vücudunuzun diğer bölgelerini etkileyip etkilemediğini belirlemek için, bu tanı size verilmişse doktorunuz daha fazla test önerebilir. Bu testler arasında muhtemelen: "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Con el fin de determinar si la acromegalia ha afectado otras áreas de su cuerpo, su médico podría recetarle más pruebas si le han dado este diagnóstico. Entre estas pruebas se encuentran, posiblemente: "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증이 신체의 다른 부위에 영향을 미쳤는지 확인하기 위해 의사는 이 진단을 받은 경우 추가 검사를 처방할 수 있습니다. 이러한 테스트 중에는 다음과 같은 것이 있습니다. ",
+                            "transliteration": "maldan sinche dareun buwie yeonghyangeul michyeossneunji hwaginhagi wihae uisaneun i jindaneul badeun gyeongu chuga geomsareul cheobanghal su issseupnida. ireohan test jungeneun daeumgwa gateun geosi issseupnida. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "مخطط صدى القلب للتحقق من مشاكل القلب.",
+                            "transliteration": "makhtattat sadde al-qalb lathaghg minn mushakil al-qalb."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "الأشعة السينية أو فحص DEXA (DXA) للتحقق من صحة العظام.",
+                            "transliteration": "al-ashaa senia oa fahs DEXA (DXA) lathaghg minn saha al-azzam."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "X 射线 DEXA (DXA) 扫描以省骨骼。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "超声心动图省心。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "眠眠考试以验睡息暂停。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Des radiographies ou une scintigraphie DEXA (DXA) pour vérifier la santé des os."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Une coloscopie pour évaluer la santé de votre côlon."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Un échocardiogramme pour vérifier les problèmes cardiaques."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Eine Darmspiegelung, um die Gesundheit Ihres Dickdarms zu beurteilen."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Röntgenaufnahmen oder ein DEXA (DXA)-Scan zur Überprüfung der Knochengesundheit."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Sinar-X atau pemindaian DEXA (DXA) untuk memeriksa kesehatan tulang."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tes studi tidur untuk memeriksa sleep apnea."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kolonoskopi untuk menilai kesehatan usus besar Anda."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Test di studio del sonno per verificare l'apnea notturna."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Una colonscopia per valutare la salute del colon."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Un ecocardiogramma per verificare la presenza di problemi cardiaci."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "心臓の問題をチェックするための心エコー図。",
+                            "transliteration": "shinzou no mondai wa check suru tame no kokoro eco zu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "結腸の健康状態を評価するための大腸内視鏡検査。",
+                            "transliteration": "ketchou no kenkou joutai wa hyouka suru tame no daichou naishikyou kensa ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "X線またはDEXA(DXA)スキャンで骨の健康状態を確認します。",
+                            "transliteration": "x shima mataha dexa ( dxa ) scan de hone no kenkou joutai wa kakunin shi masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "睡眠時無呼吸症候群をチェックするための睡眠研究テスト。",
+                            "transliteration": "suimin ji mu kokyuu shoukougun wa check suru tame no suimin kenkyuu test ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "수면 무호흡증을 확인하기 위한 수면 연구 테스트.",
+                            "transliteration": "sumyeon muhoheupjeungeul hwaginhagi wihan sumyeon inc test."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "심장 문제를 확인하기 위한 심장 초음파.",
+                            "transliteration": "simjang munjereul hwaginhagi wihan simjang choeumpa."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "뼈 건강을 확인하기 위한 X선 또는 DEXA(DXA) 스캔.",
+                            "transliteration": "ppyeo geongangeul hwaginhagi wihan Xshan ttoneun DEXA(DXA) scan."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Uma colonoscopia para avaliar a saúde do cólon."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Raios-X ou um exame DEXA (DXA) para verificar a saúde óssea."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Um ecocardiograma para verificar se há problemas cardíacos."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Testes de estudo do sono para verificar se há apneia do sono."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Эхокардиограмма для проверки проблем с сердцем.",
+                            "transliteration": "echocardiogram dla proverke problem s serdtsem."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Колоноскопия для оценки состояния толстой кишки.",
+                            "transliteration": "colonoscopy dla otsenki sostoyaniya tolstoy kiszki."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Рентген или DEXA (DXA) для проверки здоровья костей.",
+                            "transliteration": "rontgen eli DEXA (DXA) dla proverke zdorovya costey."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Исследования сна для проверки апноэ во сне.",
+                            "transliteration": "issledovania sna dla proverke apneau vo sneh."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Radiografías o una gammagrafía DEXA (DXA) para verificar la salud de los huesos."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Pruebas de estudio del sueño para detectar apnea del sueño."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Un ecocardiograma para detectar problemas cardíacos."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Kolonunuzun sağlığını değerlendirmek için kolonoskopi."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Uyku apnesini kontrol etmek için uyku çalışması testleri."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kalp sorunlarını kontrol etmek için bir ekokardiyogram."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kemik sağlığını kontrol etmek için X-ışınları veya DEXA (DXA) taraması."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "treatment",
+            "list": [
+                {
+                    "name": "How is acromegaly treated?",
+                    "index": 0,
+                    "desc": "For acromegaly, there are various treatment choices. Before suggesting a course of treatment that is best for you, your healthcare provider will take your symptoms and situation into account. For acromegaly, surgery, medication, and radiation therapy are the most common treatments. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "de",
+                            "value": "Wie wird Akromegalie behandelt?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali nasıl tedavi edilir?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come viene trattata l'acromegalia?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как лечится акромегалия?",
+                            "transliteration": "kak lechitsya acromegaly?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se trata la acromegalia?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como a acromegalia é tratada?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bagaimana acromegaly dirawat?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症はどのように治療されますか?",
+                            "transliteration": "sentan kyodai shou wa dono you ni chiryou sa re masu ka ?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증은 어떻게 치료하나요?",
+                            "transliteration": "maldan eotteohge chiryohanayo?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "pt",
+                            "value": "Para a acromegalia, existem várias opções de tratamento. Antes de sugerir um curso de tratamento que é melhor para você, seu médico levará seus sintomas e situação em consideração. Para acromegalia, cirurgia, medicação e radioterapia são os tratamentos mais comuns. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症には、さまざまな治療法の選択肢があります。あなたに最適な治療方針を提案する前に、医療提供者はあなたの症状と状況を考慮に入れます。先端巨大症の場合、手術、投薬、および放射線療法が最も一般的な治療法です。",
+                            "transliteration": "sentan kyodai shou ni wa 、 samazama nani chiryou hou no sentakushi ga ari masu .anata ni saiteki nani chiryou houshin wa teian suru mae ni 、 iryou teikyou mono wa anata no shoujou to joukyou wa kouryo ni ire masu .sentan kyodai shou no baai 、 shujutsu 、 touyaku 、 oyobi houshasen ryouhou ga mottomo ippan teki nani chiryou hou desu ."
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "其于肢端肥大症,多所治择。 先治之时,医疗保健提供者思其状。 其于肢端肥大症,手术、药、放疗,治之常也。 "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Per l'acromegalia, ci sono varie scelte di trattamento. Prima di suggerire un corso di trattamento più adatto a te, il tuo medico terrà conto dei tuoi sintomi e della tua situazione. Per l'acromegalia, la chirurgia, i farmaci e la radioterapia sono i trattamenti più comuni. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Для лечения акромегалии существуют различные варианты лечения. Прежде чем предложить наиболее подходящий для вас курс лечения, ваш медицинский сотрудник примет во внимание ваши симптомы и ситуацию. При акромегалии хирургическое вмешательство, медикаментозное лечение и лучевая терапия являются наиболее распространенными методами лечения. ",
+                            "transliteration": "dla lecheniya acromegaly sushchestvoyut razlichnye variantes lecheniya. prezde cham predlozit naiboleye podkhodyashchiy dla vas course lecheniya, vas meditsynsky sotrudnik primet vo vnimanie vashi symptoms yi situation. pri acromegaly khirurgicheskoye vmeshatelstvo, medicamentine lecheniye yi luchevaya therapy yavlyayutsya naiboleye rasprostranennymi metodami lecheniya. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "بالنسبة لضخامة النهايات ، هناك العديد من خيارات العلاج. قبل اقتراح مسار العلاج الأفضل لك ، سيأخذ مقدم الرعاية الصحية الخاص بك الأعراض والوضع في الاعتبار. بالنسبة لضخامة النهايات ، تعد الجراحة والأدوية والعلاج الإشعاعي هي العلاجات الأكثر شيوعا. ",
+                            "transliteration": "balensba ludhama nahayat ، hanak al-adid minn khiarat al-allage. qabel eqtrah massar al-allage al-afdal lek ، siakhed mokaddam al-raya al-sahia al-khas beck al-arad walloude fe al-atbar. balensba ludhama nahayat ، tad al-jaraha waladoya ouallage al-ishaai he al-alajat al-akthar shioa. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali için çeşitli tedavi seçenekleri vardır. Sizin için en iyi olan bir tedavi yöntemi önermeden önce, sağlık uzmanınız belirtilerinizi ve durumunuzu dikkate alacaktır. Akromegali için cerrahi, ilaç tedavisi ve radyasyon tedavisi en yaygın tedavilerdir. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Para la acromegalia, existen varias opciones de tratamiento. Antes de sugerir un curso de tratamiento que sea mejor para usted, su proveedor de atención médica tendrá en cuenta sus síntomas y su situación. Para la acromegalia, la cirugía, la medicación y la radioterapia son los tratamientos más comunes. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Pour l’acromégalie, il existe différents choix de traitement. Avant de vous proposer le traitement qui vous convient le mieux, votre fournisseur de soins de santé tiendra compte de vos symptômes et de votre situation. Pour l’acromégalie, la chirurgie, les médicaments et la radiothérapie sont les traitements les plus courants. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Surgery for acromegaly",
+                    "index": 1,
+                    "desc": "Surgery often fully corrects the condition or significantly reduces the symptoms of acromegaly. Surgery through the nose and sphenoid sinus, a hollow space in your skull behind the nasal passages and beneath your brain, is the most common type of transsphenoidal surgery used by surgeons. Based on the tumor's location and size, the surgical technique will be customized. A tumor that is producing too much growth hormone must be completely removed during surgery. Your surgeon might be able to remove the tumor entirely, in which case you might not require any more care. Radiation therapy or medication may be necessary to control your symptoms and lower growth hormone production if your surgeon is only able to remove a portion of the tumor. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症の手術",
+                            "transliteration": "sentan kyodai shou no shujutsu"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Chirurgia per acromegalia"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Cirurgia para acromegalia"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Cirugía para la acromegalia"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali cerrahisi"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Chirurgie bei Akromegalie"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Операция при акромегалии",
+                            "transliteration": "operations pri acromegaly"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Pembedahan untuk acromegaly"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "肢端肥大症手术"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증 수술",
+                            "transliteration": "maldan susul"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "pt",
+                            "value": "A cirurgia muitas vezes corrige totalmente a condição ou reduz significativamente os sintomas da acromegalia. A cirurgia através do nariz e seio esfenoidal, um espaço oco no crânio atrás das passagens nasais e abaixo do cérebro, é o tipo mais comum de cirurgia transesfenoidal usada pelos cirurgiões. Com base na localização e tamanho do tumor, a técnica cirúrgica será personalizada. Um tumor que está produzindo muito hormônio do crescimento deve ser completamente removido durante a cirurgia. Seu cirurgião pode ser capaz de remover o tumor completamente, caso em que você pode não precisar de mais cuidados. Radioterapia ou medicação pode ser necessária para controlar seus sintomas e diminuir a produção de hormônio do crescimento se o cirurgião só é capaz de remover uma parte do tumor. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "L'intervento chirurgico spesso corregge completamente la condizione o riduce significativamente i sintomi dell'acromegalia. La chirurgia attraverso il naso e il seno sfenoidale, uno spazio cavo nel cranio dietro i passaggi nasali e sotto il cervello, è il tipo più comune di chirurgia transfenoidale utilizzata dai chirurghi. In base alla posizione e alle dimensioni del tumore, la tecnica chirurgica sarà personalizzata. Un tumore che produce troppo ormone della crescita deve essere completamente rimosso durante l'intervento chirurgico. Il chirurgo potrebbe essere in grado di rimuovere completamente il tumore, nel qual caso potrebbe non essere necessaria alcuna cura. La radioterapia o i farmaci possono essere necessari per controllare i sintomi e ridurre la produzione di ormone della crescita se il chirurgo è in grado di rimuovere solo una parte del tumore. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "La cirugía a menudo corrige completamente la afección o reduce significativamente los síntomas de la acromegalia. La cirugía a través de la nariz y el seno esfenoidal, un espacio hueco en el cráneo detrás de las fosas nasales y debajo del cerebro, es el tipo más común de cirugía transesfenoidal utilizada por los cirujanos. En función de la ubicación y el tamaño del tumor, la técnica quirúrgica se personalizará. Un tumor que produce demasiada hormona del crecimiento debe extirparse por completo durante la cirugía. Es posible que el cirujano pueda extirpar el tumor por completo, en cuyo caso es posible que no necesites más atención. Es posible que se necesite radioterapia o medicamentos para controlar los síntomas y reducir la producción de la hormona del crecimiento si el cirujano solo puede extirpar una parte del tumor. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "غالبا ما تصحح الجراحة الحالة بشكل كامل أو تقلل بشكل كبير من أعراض ضخامة النهايات. الجراحة من خلال الأنف والجيوب الأنفية الوتدية، وهي مساحة مجوفة في جمجمتك خلف الممرات الأنفية وتحت الدماغ، هي النوع الأكثر شيوعا من الجراحة عبر الوتدي التي يستخدمها الجراحون. بناء على موقع الورم وحجمه ، سيتم تخصيص التقنية الجراحية. يجب إزالة الورم الذي ينتج الكثير من هرمون النمو بالكامل أثناء الجراحة. قد يكون الجراح قادرا على إزالة الورم بالكامل، وفي هذه الحالة قد لا تحتاج إلى مزيد من الرعاية. قد يكون العلاج الإشعاعي أو الدواء ضروريا للسيطرة على الأعراض وخفض إنتاج هرمون النمو إذا كان الجراح قادرا فقط على إزالة جزء من الورم. ",
+                            "transliteration": "galpa ma sahath al-jaraha al-halah beshkel kamel oa tiklil beshkel kabir minn aradh dakhama nahayat. al-jaraha minn khallal al-anf walgiob al-anfiya al-watdie wahi masaha majoufa fe jomjmetic khalaf momrat al-anfiya wathat al-damagher he noa al-akthar shioa minn al-jaraha abr watedi alti yestkhedmeha al-grahon. banaa ola moga al-warm wahajmeh ، setem takhsis tagnia al-jarahia. yegeb ezala al-warm al-dhay yuntig al-kathir minn hermon al-namu balkamel aznaa al-jaraha. qud yakon al-jarrah kadara ola ezala al-warm balkamle fafi huthe al-halah qud la thataj elly mazid minn al-raya. qud yakon al-allage al-ishaai oa al-dawa druria lisitra ola al-arad akhafed entag hermon al-namu idha can al-jarrah kadara fakt ola ezala jaza minn al-warm. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Eine Operation korrigiert den Zustand oft vollständig oder reduziert die Symptome der Akromegalie erheblich. Die Operation durch die Nase und die Keilbeinhöhle, einen Hohlraum im Schädel hinter den Nasengängen und unter dem Gehirn, ist die häufigste Art der transsphenoidalen Chirurgie, die von Chirurgen verwendet wird. Basierend auf der Lage und Größe des Tumors wird die Operationstechnik individuell angepasst. Ein Tumor, der zu viel Wachstumshormon produziert, muss während der Operation vollständig entfernt werden. Ihr Chirurg kann den Tumor möglicherweise vollständig entfernen, in diesem Fall benötigen Sie möglicherweise keine weitere Behandlung. Eine Strahlentherapie oder Medikamente können notwendig sein, um Ihre Symptome zu kontrollieren und die Wachstumshormonproduktion zu senken, wenn Ihr Chirurg nur einen Teil des Tumors entfernen kann. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Хирургическое вмешательство часто полностью корректирует состояние или значительно уменьшает симптомы акромегалии. Операция через нос и клиновидную пазуху, полое пространство в черепе позади носовых ходов и под мозгом, является наиболее распространенным типом транссфеноидальной хирургии, используемой хирургами. В зависимости от расположения и размера опухоли будет подбираться индивидуальная техника хирургического вмешательства. Опухоль, которая вырабатывает слишком много гормона роста, должна быть полностью удалена во время операции. Ваш хирург может полностью удалить опухоль, и в этом случае вам может не потребоваться дополнительное лечение. Радиотерапия или лекарства могут быть необходимы для контроля симптомов и снижения выработки гормона роста, если хирург может удалить только часть опухоли. ",
+                            "transliteration": "khirurgicheskoye vmeshatelstvo chasto polnostyu correctiruet sostoyaniye eli znachitelno umenshayet symptoms acromegaly. operations cherez noss yi klinovidnuyu pazukhu, poloye prostransmistan vie cherepe posady nosovykh khodov yi pod mozgom, yavlyaetsya naiboleye rasprostranennym tipom transsphenoidal khirurgii, ispolzuemoi khirurgami. vie zavisimosti ot raspologenia yi razmer opukholi budet podbiratsia individual technical chirurgical vmeshatelstva. opujol, kotoraya vyrabativaet slishkom mnogo gormona rosta, dolzna byt polnostyu udalena vo vremya operations. vas khirurg moget polnostyu udalit opujol, yi vie ethom sluchae vam moget nay potrebovatsya dopolnitelnoye lecheniye. radiotherapy eli lekarstva mogut byt neobkhodimy dla control symptoms yi snizheniya vyrabotki gormona rosta, esli khirurg moget udalit tolko chast opukholi. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Pembedahan sering sepenuhnya memperbaiki kondisi atau secara signifikan mengurangi gejala akromegali. Operasi melalui hidung dan sinus sphenoid, ruang berongga di tengkorak Anda di belakang saluran hidung dan di bawah otak Anda, adalah jenis operasi transsphenoidal yang paling umum digunakan oleh ahli bedah. Berdasarkan lokasi dan ukuran tumor, teknik bedah akan disesuaikan. Tumor yang memproduksi terlalu banyak hormon pertumbuhan harus benar-benar dihapus selama operasi. Dokter bedah Anda mungkin dapat mengangkat tumor sepenuhnya, dalam hal ini Anda mungkin tidak memerlukan perawatan lagi. Terapi radiasi atau obat-obatan mungkin diperlukan untuk mengontrol gejala dan menurunkan produksi hormon pertumbuhan jika dokter bedah Anda hanya mampu mengangkat sebagian tumor. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Cerrahi genellikle durumu tamamen düzeltir veya akromegali semptomlarını önemli ölçüde azaltır. Burun ve sfenoid sinüs yoluyla cerrahi, kafatasınızda burun pasajlarının arkasında ve beyninizin altında içi boş bir alan, cerrahlar tarafından kullanılan en yaygın transsfenoidal cerrahi türüdür. Tümörün konumuna ve boyutuna bağlı olarak cerrahi teknik özelleştirilecektir. Çok fazla büyüme hormonu üreten bir tümör ameliyat sırasında tamamen çıkarılmalıdır. Cerrahınız tümörü tamamen çıkarabilir, bu durumda daha fazla bakıma ihtiyacınız olmayabilir. Cerrahınız tümörün sadece bir kısmını çıkarabiliyorsa, semptomlarınızı kontrol etmek ve büyüme hormonu üretimini azaltmak için radyasyon tedavisi veya ilaç tedavisi gerekebilir. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "手術はしばしば状態を完全に矯正するか、先端巨大症の症状を大幅に軽減します。鼻と蝶形骨洞(鼻腔の後ろと脳の下にある頭蓋骨の空洞)からの手術は、外科医が使用する最も一般的なタイプの経蝶形骨手術です。腫瘍の位置とサイズに基づいて、手術手技がカスタマイズされます。成長ホルモンを過剰に産生している腫瘍は、手術中に完全に切除する必要があります。外科医が腫瘍を完全に切除できる場合があり、その場合はそれ以上の治療は必要ないかもしれません。外科医が腫瘍の一部しか切除できない場合は、症状をコントロールし、成長ホルモンの産生を抑えるために、放射線療法や投薬が必要になることがあります。",
+                            "transliteration": "shujutsu wa shibashiba joutai wa kanzen ni kyousei suru ka 、 sentan kyodai shou no shoujou wa oohaba ni keigen shi masu .hana to cho kei hone hora ( bikou no ushiro to nou no ge ni aru tougaikotsu no kuudou ) kara no shujutsu wa 、 geka i ga shiyou suru mottomo ippan teki nani type no kyou cho kei hone shujutsu desu .shuyou no ichi to saize ni motozui te 、 shujutsu shugi ga customize sa re masu .seichou hormon wa kajou ni san namashi te iru shuyou wa 、 shujutsu naka ni kanzen ni setsujo suru hitsuyo ga ari masu .geka i ga shuyou wa kanzen ni setsujo dekiru baai ga ari 、 sono baai wa sore ijou no chiryou wa hitsuyo nai kamo shire mase nichi .geka i ga shuyou no ichibu shika setsujo deki nai baai wa 、 shoujou wa control shi 、 seichou hormon no san sei wa osaeru tame ni 、 houshasen ryouhou ya touyaku ga hitsuyo ni naru koto ga ari masu ."
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Medications for acromegaly",
+                    "index": 2,
+                    "desc": "A single drug or a mix of medications may be prescribed by your healthcare provider. Different methods are used by medications to improve symptoms and return your body's growth hormone levels to normal. Until the tumor has shrunk, a person may occasionally take medication. It can then be safely removed by a surgeon thanks to this. To effectively control growth hormone levels and symptoms, other people might need to take medication over the long term. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "it",
+                            "value": "Farmaci per l'acromegalia"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Medicamentos para la acromegalia"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症の薬",
+                            "transliteration": "sentan kyodai shou no yaku"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali ilaçları"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Лекарства от акромегалии",
+                            "transliteration": "lekarstva ot acromegaly"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Medikamente gegen Akromegalie"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Medicamentos para acromegalia"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "肢端肥大症之药"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증 치료제",
+                            "transliteration": "maldan chiryoje"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ar",
+                            "value": "يمكن وصف دواء واحد أو مزيج من الأدوية من قبل مقدم الرعاية الصحية الخاص بك. يتم استخدام طرق مختلفة من قبل الأدوية لتحسين الأعراض وإعادة مستويات هرمون النمو في الجسم إلى وضعها الطبيعي. حتى يتقلص الورم ، قد يتناول الشخص الدواء أحيانا. يمكن بعد ذلك إزالته بأمان من قبل الجراح بفضل هذا. للسيطرة بشكل فعال على مستويات هرمون النمو والأعراض, قد يحتاج أشخاص آخرون إلى تناول الدواء على المدى الطويل. ",
+                            "transliteration": "yamken wasf douaa wahid oa mazij minn ad-awiya minn qabel mokaddam al-raya al-sahia al-khas beck. yetem estekhdam taraq makhtalfa minn qabel ad-awiya lathisine al-arad weeada mastoyat hermon al-namu fe al-jassam elly ouadaha al-tabiai. hetti yitkles al-warm ، qud yatnaul shakhes al-dawa ahyana. yamken baad delk ezalte baaman minn qabel al-jarrah bafdal hudha. lisitra beshkel faal ola mastoyat hermon al-namu al-araradh, qud yahtaj ashkhas acheron elly tanaul al-dawa ola meda al-tawil. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Um único medicamento ou uma mistura de medicamentos pode ser prescrito pelo seu profissional de saúde. Diferentes métodos são usados por medicamentos para melhorar os sintomas e retornar os níveis de hormônio do crescimento do seu corpo ao normal. Até que o tumor tenha encolhido, uma pessoa pode ocasionalmente tomar medicação. Ele pode então ser removido com segurança por um cirurgião graças a isso. Para controlar eficazmente os níveis de hormônio do crescimento e sintomas, outras pessoas podem precisar tomar medicação a longo prazo. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Ein einzelnes Medikament oder eine Mischung von Medikamenten kann von Ihrem Arzt verschrieben werden. Verschiedene Methoden werden von Medikamenten verwendet, um die Symptome zu verbessern und den Wachstumshormonspiegel Ihres Körpers wieder zu normalisieren. Bis der Tumor geschrumpft ist, kann eine Person gelegentlich Medikamente einnehmen. Dadurch kann es dann von einem Chirurgen sicher entfernt werden. Um den Wachstumshormonspiegel und die Symptome effektiv zu kontrollieren, müssen andere Menschen möglicherweise langfristig Medikamente einnehmen. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Un seul médicament ou une combinaison de médicaments peut être prescrit par votre fournisseur de soins de santé. Différentes méthodes sont utilisées par les médicaments pour améliorer les symptômes et ramener les niveaux d’hormone de croissance de votre corps à la normale. Jusqu’à ce que la tumeur ait rétréci, une personne peut occasionnellement prendre des médicaments. Il peut ensuite être retiré en toute sécurité par un chirurgien grâce à cela. Pour contrôler efficacement les niveaux et les symptômes de l’hormone de croissance, d’autres personnes pourraient avoir besoin de prendre des médicaments à long terme. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Sağlık uzmanınız tarafından tek bir ilaç veya bir ilaç karışımı reçete edilebilir. Semptomları iyileştirmek ve vücudunuzun büyüme hormonu seviyelerini normale döndürmek için ilaçlar tarafından farklı yöntemler kullanılır. Tümör küçülene kadar, bir kişi ara sıra ilaç alabilir. Daha sonra bu sayede bir cerrah tarafından güvenli bir şekilde çıkarılabilir. Büyüme hormonu seviyelerini ve semptomlarını etkili bir şekilde kontrol etmek için, diğer kişilerin uzun vadede ilaç alması gerekebilir. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Ваш медицинский сотрудник может назначить один препарат или комбинацию лекарств. Лекарства используют различные методы, чтобы облегчить симптомы и вернуть уровень гормона роста в организме в норму. До тех пор, пока опухоль не уменьшится, человек может время от времени принимать лекарства. Благодаря этому он может быть безопасно удален хирургом. Чтобы эффективно контролировать уровень гормона роста и симптомы, другим людям может потребоваться принимать лекарства в течение длительного времени. ",
+                            "transliteration": "vas meditsynsky sotrudnik moget naznachit odin preparat eli combination lecarstview. lekarstva espolzuut razlichnye method, chtoby oblegchit symptoms yi vernut uroven gormona rosta vie organism vie normu. do tech por, poca opujol nay umenshitsya, celovek moget vremya ot vremeni prinimat lekarstva. blagodarya etomu on moget byt bezopasno udalen khirurgom. chtoby effective counterster uroven gormona rosta yi symptoms, drugim lyudyam moget potrebovatsya prinimat lekarstva vie techeniye dlitelnogo vremeni. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "単一の薬または複数の薬の組み合わせが医療提供者によって処方される場合があります。症状を改善し、体の成長ホルモンレベルを正常に戻すために、薬によってさまざまな方法が使用されます。腫瘍が縮小するまでは、薬を飲むことがあります。これにより、外科医が安全に取り外すことができます。成長ホルモンのレベルと症状を効果的にコントロールするために、他の人は長期的に薬を服用する必要があるかもしれません。",
+                            "transliteration": "tanitsu no yaku mataha fukusuu no yaku no kumiawase ga iryou teikyou mono niyotte shohou sa reru baai ga ari masu .shoujou wa kaizen shi 、 tai no seichou hormon level wa seijou ni modosu tame ni 、 yaku niyotte samazama nani houhou ga shiyou sa re masu .shuyou ga shukushou suru made wa 、 yaku wa nomu koto ga ari masu .kore niyori 、 geka i ga anzen ni torihazusu koto ga deki masu .seichou hormon no level to shoujou wa kouka teki ni control suru tame ni 、 hoka no hito wa chouki teki ni yaku wa fukuyou suru hitsuyo ga aru kamo shire mase nichi ."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Un singolo farmaco o un mix di farmaci può essere prescritto dal medico. I farmaci utilizzano diversi metodi per migliorare i sintomi e riportare i livelli di ormone della crescita del corpo alla normalità. Fino a quando il tumore non si è ridotto, una persona può occasionalmente assumere farmaci. Grazie a questo, può quindi essere rimosso in modo sicuro da un chirurgo. Per controllare efficacemente i livelli e i sintomi dell'ormone della crescita, altre persone potrebbero aver bisogno di assumere farmaci a lungo termine. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Su proveedor de atención médica puede recetarle un solo medicamento o una combinación de medicamentos. Los medicamentos utilizan diferentes métodos para mejorar los síntomas y devolver los niveles de la hormona del crecimiento del cuerpo a la normalidad. Hasta que el tumor se haya reducido, una persona puede tomar medicamentos de vez en cuando. Gracias a esto, un cirujano puede extraerlo de forma segura. Para controlar eficazmente los niveles y los síntomas de la hormona del crecimiento, es posible que otras personas necesiten tomar medicamentos a largo plazo. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "子之医疗保健提供者,或开一药,或百药之组。 药用异法,令身生长激素平。 当肿缩之前,偶服药物。 故外科医生可以安移除。 制生长激素水平,余可久服。 "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "의료 제공자는 단일 약물 또는 혼합 약물을 처방할 수 있습니다. 증상을 개선하고 신체의 성장 호르몬 수치를 정상으로 되돌리기 위해 약물은 다양한 방법을 사용합니다. 종양이 줄어들 때까지 때때로 약물을 복용할 수 있습니다. 이 덕분에 외과 의사가 안전하게 제거할 수 있습니다. 성장 호르몬 수치와 증상을 효과적으로 조절하기 위해서는 장기간 약물을 복용해야 할 수도 있습니다. ",
+                            "transliteration": "air jegongjaneun danil yakmul ttoneun honhap yakmureul cheobanghal su issseupnida. jeungsangeul gaeseonhago sinche seongjang hormones suchireul jeongsangeuro doedolligi wihae yakmureun dayanghan bangbeopeul sayonghapnida. jongyangi jureodeul ttaekkaji ttaettaero yakmureul bogyonghal su issseupnida. i deokbune ogwa uisaga anjeonhage jegeohal su issseupnida. seongjang hormones suchiwa jeungsangeul hyogwajeogeuro jojeolhagi wihaeseoneun janggigan yakmureul bokyonghaeya hal south issseupnida. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Is acromegaly curable?",
+                    "index": 3,
+                    "desc": "In some circumstances, but not all, amnesia can be cured. When a pituitary tumor causes acromegaly, roughly 85% of small tumors can be surgically removed; for large tumors, the cure rate ranges from 40% to 50%. Medication provides safe, long-term treatment for acromegaly, but it cannot cure it. ",
+                    "name_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Излечима ли акромегалия?",
+                            "transliteration": "izlechima lee acromegaly?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Es curable la acromegalia?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症は治りますか?",
+                            "transliteration": "sentan kyodai shou wa naori masu ka ?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A acromegalia tem cura?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증은 치료가 가능한가요?",
+                            "transliteration": "maldan chiryoga ganeunghan?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "肢端肥大者可已乎?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apakah acromegaly dapat disembuhkan?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali tedavi edilebilir mi?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Ist Akromegalie heilbar?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ja",
+                            "value": "すべてではありませんが、状況によっては、健忘症を治すことができます。下垂体腫瘍が先端巨大症を引き起こす場合、小さな腫瘍の約85%を外科的に切除できます。大きな腫瘍の場合、治癒率は40%から50%の範囲です。先端巨大症には薬物療法による安全で長期的な治療ができますが、治癒することはできません。",
+                            "transliteration": "subete de wa ari mase nichi ga 、 joukyou niyotte wa 、 kenboushou wa naosu koto ga deki masu .kasui tai shuyou ga sentan kyodai shou wa hikiokosu baai 、 chiisana shuyou no yaku 85% wa geka teki ni setsujo deki masu .ookina shuyou no baai 、 chiyu ritsu wa 40% kara 50% no hani desu .sentan kyodai shou ni wa yakubutsu ryouhou niyoru anzen de chouki teki nani chiryou ga deki masu ga 、 chiyu suru koto wa deki mase nichi ."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "في بعض الحالات ، ولكن ليس كلها ، يمكن علاج فقدان الذاكرة. عندما يسبب ورم الغدة النخامية ضخامة النهايات ، يمكن إزالة ما يقرب من 85 ٪ من الأورام الصغيرة جراحيا. بالنسبة للأورام الكبيرة ، يتراوح معدل الشفاء من 40٪ إلى 50٪. يوفر الدواء علاجا آمنا وطويل الأمد لضخامة الأطراف، ولكنه لا يستطيع علاجه. ",
+                            "transliteration": "fe baad al-halat ، wilkin les kalha ، yamken allaj fakdan al-dhakra. andama jaspeb warm ghada al-nakhamiyya dakhama nahayat ، yamken ezala ma yakirb minn 85 ٪ minn al-awram sghira gragia. balensba lauram al-kabira ، yatrawh maadel shafa minn 40٪ elly 50٪. jofer al-dawa alaga amna watwell al-amad ludhama al-atrafes walkaneh la jestatia allageh. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Em algumas circunstâncias, mas não em todas, a amnésia pode ser curada. Quando um tumor hipofisário causa acromegalia, cerca de 85% dos pequenos tumores podem ser removidos cirurgicamente; Para tumores grandes, a taxa de cura varia de 40% a 50%. A medicação fornece tratamento seguro e de longo prazo para a acromegalia, mas não pode curá-la. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "En algunas circunstancias, pero no en todas, la amnesia se puede curar. Cuando un tumor hipofisario causa acromegalia, aproximadamente el 85% de los tumores pequeños se pueden extirpar quirúrgicamente; En el caso de los tumores grandes, la tasa de curación oscila entre el 40 % y el 50 %. Los medicamentos proporcionan un tratamiento seguro y a largo plazo para la acromegalia, pero no pueden curarla. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Dalam beberapa keadaan, tetapi tidak semua, amnesia dapat disembuhkan. Ketika tumor hipofisis menyebabkan akromegali, sekitar 85% tumor kecil dapat diangkat melalui pembedahan; Untuk tumor besar, tingkat kesembuhan berkisar antara 40% hingga 50%. Obat memberikan pengobatan jangka panjang yang aman untuk acromegaly, tetapi tidak dapat menyembuhkannya. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Bazı durumlarda, ancak hepsinde değil, amnezi tedavi edilebilir. Bir hipofiz tümörü akromegaliye neden olduğunda, küçük tümörlerin kabaca %85'i cerrahi olarak çıkarılabilir; Büyük tümörler için iyileşme oranı %40 ila %50 arasında değişmektedir. İlaçlar akromegali için güvenli, uzun süreli tedavi sağlar, ancak tedavi edemez. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "В некоторых случаях, но не во всех, амнезию можно вылечить. Когда опухоль гипофиза вызывает акромегалию, примерно 85% небольших опухолей могут быть удалены хирургическим путем; При больших опухолях процент излечения колеблется от 40% до 50%. Лекарства обеспечивают безопасное, долгосрочное лечение акромегалии, но не могут ее вылечить. ",
+                            "transliteration": "vie necotoric sluchayakh, noh nay vo vsekh, amnesia mozno vylechit. kogda opujol gypophisa vyzyvaet acromegaly, primerno 85% nebolschich opukholey mogut byt udalena khirurgicheskim putem; pri bolshikh opukholyakh protsent izlecheniya kolebletsya ot 40% do 50%. lekarstva obespechivayut bezopasnoye, dolgosrochnoye lecheniye acromegaly, noh nay mogut eye vylechit. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "In alcune circostanze, ma non in tutte, l'amnesia può essere curata. Quando un tumore ipofisario causa acromegalia, circa l'85% dei piccoli tumori può essere rimosso chirurgicamente; Per i tumori di grandi dimensioni, il tasso di guarigione varia dal 40% al 50%. I farmaci forniscono un trattamento sicuro e a lungo termine per l'acromegalia, ma non possono curarla. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "不然,健忘症可已也。 当垂体瘤之起肢端肥大症也,大约 85% 小瘤可通手术切除。 其于大肿瘤,治愈率在40%-50%间。 药为肢端肥大症安久治,不可治。 "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "prognosis",
+            "list": [
+                {
+                    "name": "What is the prognosis (outlook) for acromegaly?",
+                    "index": 0,
+                    "desc": "The severity of the condition and how well treatments address the symptoms determine the prognosis (or future prospects) for acromegaly. Following treatment, a large number of individuals with acromegaly experience a notable reduction in symptoms. Your appearance and bone structure may be drastically altered by acromegaly if it is left untreated. Your quality of life and self-image may suffer significantly as a result of these problems. Some people with acromegaly find that support groups help them manage the difficulties they encounter. Heart disease and Type 2 diabetes are two health issues associated with acromegaly that can lower quality of life and potentially shorten lifespans. For this reason, if you're having symptoms, get in touch with your doctor, and if you've already been diagnosed, follow your treatment plan. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Каков прогноз (перспектива) при акромегалии?",
+                            "transliteration": "kakov prognosis (perspective) pri acromegaly?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Qual é o prognóstico (perspectiva) para acromegalia?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症の予後(見通し)は?",
+                            "transliteration": "sentan kyodai shou no yogo ( mitooshi ) wa ?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Qual è la prognosi (prognosi) per l'acromegalia?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali için prognoz (görünüm) nedir?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증의 예후(전망)는 어떻습니까?",
+                            "transliteration": "maldan yhehu(jeonmang)neun eotteohseupnikka?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuál es el pronóstico de la acromegalia?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هو التشخيص (التوقعات) لضخامة النهايات؟",
+                            "transliteration": "ma ho al-tashkhis (al-toqaat) ludhama nahayate"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa prognosis (pandangan) untuk acromegaly?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "de",
+                            "value": "Der Schweregrad der Erkrankung und die Art und Weise, wie gut die Behandlungen die Symptome behandeln, bestimmen die Prognose (oder die Zukunftsaussichten) der Akromegalie. Nach der Behandlung kommt es bei einer großen Anzahl von Personen mit Akromegalie zu einer deutlichen Verringerung der Symptome. Ihr Aussehen und Ihre Knochenstruktur können durch Akromegalie drastisch verändert werden, wenn sie unbehandelt bleibt. Ihre Lebensqualität und Ihr Selbstbild können unter diesen Problemen erheblich leiden. Einige Menschen mit Akromegalie stellen fest, dass Selbsthilfegruppen ihnen helfen, die Schwierigkeiten zu bewältigen, auf die sie stoßen. Herzerkrankungen und Typ-2-Diabetes sind zwei Gesundheitsprobleme, die mit Akromegalie in Verbindung gebracht werden und die Lebensqualität beeinträchtigen und möglicherweise die Lebenserwartung verkürzen können. Aus diesem Grund sollten Sie sich bei Symptomen an Ihren Arzt wenden, und wenn Sie bereits diagnostiziert wurden, befolgen Sie Ihren Behandlungsplan. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "状態の重症度と治療が症状にどれだけうまく対処するかによって、先端巨大症の予後(または将来の見通し)が決まります。治療後、先端巨大症の多数の個人は症状の顕著な軽減を経験します。あなたの外観と骨の構造は、治療せずに放置すると先端巨大症によって劇的に変化する可能性があります。これらの問題の結果として、あなたの生活の質と自己イメージが著しく損なわれる可能性があります。先端巨大症の人の中には、サポートグループが遭遇する困難を管理するのに役立つと感じる人もいます。心臓病と2型糖尿病は、先端巨大症に関連する2つの健康問題であり、生活の質を低下させ、寿命を縮める可能性があります。このため、症状がある場合は医師に連絡し、すでに診断されている場合は治療計画に従ってください。",
+                            "transliteration": "joutai no juushou do to chiryou ga shoujou ni dore dake umaku taisho suru ka niyotte 、 sentan kyodai shou no yogo ( mataha shourai no mitooshi ) ga kimari masu .chiryou go 、 sentan kyodai shou no tasuu no kojin wa shoujou no kencho nani keigen wa keiken shi masu .anata no gaikan to hone no kouzou wa 、 chiryou se zu ni houchi suru to sentan kyodai shou niyotte gekiteki ni henka suru kanosei ga ari masu .korera no mondai no kekka toshite 、 anata no seikatsu no shitsu to jiko image ga ichijirushiku sonnawa reru kanosei ga ari masu .sentan kyodai shou no hito no naka ni wa 、 saport group ga souguu suru konnan wa kanri suru no ni yakudatsu to kanjir hito mo iya masu .shinzou byou to 2 gata tounyoubyou wa 、 sentan kyodai shou ni kanren suru 2 tsu no kenkou mondai de ari 、 seikatsu no shitsu wa teika sa se 、 jumyou wa chijimeru kanosei ga ari masu .kono tame 、 shoujou ga aru baai wa ishi ni renraku shi 、 sudeni shindan sa re te iru baai wa chiryou keikaku ni shitagatsu te kudasai ."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Durumun ciddiyeti ve tedavilerin semptomları ne kadar iyi ele aldığı, akromegali için prognozu (veya gelecekteki beklentileri) belirler. Tedaviyi takiben, akromegali hastalarının büyük bir kısmı semptomlarda kayda değer bir azalma yaşar. Tedavi edilmezse görünümünüz ve kemik yapınız akromegali tarafından büyük ölçüde değiştirilebilir. Bu sorunların bir sonucu olarak yaşam kaliteniz ve kendi imajınız önemli ölçüde zarar görebilir. Akromegali hastalarının bazıları, destek gruplarının karşılaştıkları zorluklarla başa çıkmalarına yardımcı olduğunu fark ederler. Kalp hastalığı ve Tip 2 diyabet, yaşam kalitesini düşürebilen ve potansiyel olarak yaşam sürelerini kısaltabilen akromegali ile ilişkili iki sağlık sorunudur. Bu nedenle, semptomlarınız varsa, doktorunuzla iletişime geçin ve zaten teşhis konduysa, tedavi planınızı takip edin. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "La gravedad de la afección y la eficacia de los tratamientos para abordar los síntomas determinan el pronóstico (o las perspectivas futuras) de la acromegalia. Después del tratamiento, un gran número de personas con acromegalia experimentan una reducción notable de los síntomas. Su apariencia y estructura ósea pueden verse drásticamente alteradas por la acromegalia si no se trata. Su calidad de vida y su autoimagen pueden verse afectadas significativamente como resultado de estos problemas. Algunas personas con acromegalia descubren que los grupos de apoyo les ayudan a manejar las dificultades que encuentran. La enfermedad cardíaca y la diabetes tipo 2 son dos problemas de salud asociados con la acromegalia que pueden disminuir la calidad de vida y potencialmente acortar la esperanza de vida. Por esta razón, si tienes síntomas, comunícate con tu médico y, si ya te han diagnosticado, sigue tu plan de tratamiento. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "其甚者,治肢端肥大(及未来)。 治之,大肢端肥大症其状明减。 若不治,肢端肥大,大变外骨。 由此言之,则君之生也,与吾形之害也。 诸肢端肥大者,相助小组可以助其难。 心病 2 糖尿病者,肢端肥大之二健也,降生而促寿也。 故君有状,请通于医,已诊,请循其计。 "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Тяжесть состояния и то, насколько хорошо лечение устраняет симптомы, определяют прогноз (или будущие перспективы) акромегалии. После лечения у большого количества людей с акромегалией наблюдается заметное уменьшение симптомов. Ваша внешность и структура костей могут быть радикально изменены акромегалией, если ее не лечить. Качество вашей жизни и самооценка могут значительно пострадать в результате этих проблем. Некоторые люди, страдающие акромегалией, считают, что группы поддержки помогают им справиться с трудностями, с которыми они сталкиваются. Сердечно-сосудистые заболевания и диабет 2 типа являются двумя проблемами со здоровьем, связанными с акромегалией, которые могут снизить качество жизни и потенциально сократить продолжительность жизни. По этой причине, если у вас появились симптомы, обратитесь к врачу, а если вам уже поставлен диагноз, следуйте плану лечения. ",
+                            "transliteration": "tiajest sostoyaniya yi to, naskolko choroso lecheniye ustranyayet symptoms, opredelyayut prognosis (eli budushchie perspectives) acromegaly. posle lecheniya u bolshogo kolichestva ludey s acromegaly nablyudaetsya zametnoye umenshenie symptoms. vasha vneshnost yi structure costey mogut byt radicalno izmenen acromegaly, esli eye nay lechit. kachestvo vashey zhizni yi samootsenka mogut znachitelno postradat vie resultate etich problem. necotoria ludy, stradayushchie acromegaly, schitayut, chto group podderzki pomogayut im spravitsya s trudnostyami, s kotorymy oni stalkivayutsya. serdecno-sosudistye zabolevania yi diabeth 2 tipa yavlyayutsya dvuma problemami so zdorovyem, svyazannymi s acromegaly, kotorye mogut snizit kachestvo zhizni yi potential sokratit prodolzhytelnost zhizni. pau etoy pricine, esli u vas poyavilys symptoms, obratytes k vraciu, a esli vam uje postavlen diagnosis, sleduyte planu lecheniya. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증의 중증도와 치료법이 증상을 얼마나 잘 해결하느냐에 따라 말단비대증의 예후(또는 향후 전망)가 결정됩니다. 치료 후 말단비대증을 앓고 있는 많은 사람들이 증상이 눈에 띄게 감소하는 것을 경험합니다. 말단비대증을 치료하지 않고 방치하면 외모와 뼈 구조가 크게 바뀔 수 있습니다. 이러한 문제로 인해 삶의 질과 자아상이 크게 저하될 수 있습니다. 말단비대증을 앓고 있는 일부 사람들은 지원 그룹이 그들이 직면한 어려움을 관리하는 데 도움이 된다는 것을 알게 됩니다. 심장병과 제2형 당뇨병은 말단비대증과 관련된 두 가지 건강 문제로, 삶의 질을 떨어뜨리고 잠재적으로 수명을 단축시킬 수 있습니다. 따라서 증상이 있는 경우 의사와 연락하고, 이미 진단을 받았다면 치료 계획을 따라야 한다. ",
+                            "transliteration": "maldan jungjeungdowa chiryobeopi jeungsangeul eolmana jal haegyeolhaneunyae ttara maldan yhehu(ttoneun hyang jeonmang)ga gyeoljeongdoepnida. chiryo hu maldan alhgo issneun manheun saramdeuri jeungsangi nune ttuige gamsohaneun geoseul gyeongheomhapnida. maldan chiryohaji anhgo bangchihamyeon oemowa ppyeo gujoga keuge bakkwil su issseupnida. ireohan munjero inhae salmui jilgwa jaasangi keuge jeohadoel su issseupnida. maldan alhgo issneun ilbu saramdeureun jiwon grubi geudeuri jikmyeonhan eoryeoumeul gwanrihaneun de doumi doendaneun geoseul alge doepnida. simjangbyeonggwa jie2hyeong dangnyobyeongeun maldan gwanryeondoen du ghaji geongang munjero, salmui jireul tteoreotteurigo jamjaejeogeuro sumyeongeul danchukshikil su issseupnida. ttaraseo jeungsangi issneun gyeongu uisawa yeonrakhago, imi jindaneul badassdamyeon chiryo gyehoegeul ttaraya handa. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "La gravità della condizione e il modo in cui i trattamenti affrontano i sintomi determinano la prognosi (o le prospettive future) per l'acromegalia. Dopo il trattamento, un gran numero di individui con acromegalia sperimenta una notevole riduzione dei sintomi. L'aspetto e la struttura ossea possono essere drasticamente alterati dall'acromegalia se non viene trattata. La qualità della vita e l'immagine di sé possono risentirne in modo significativo a causa di questi problemi. Alcune persone con acromegalia scoprono che i gruppi di supporto li aiutano a gestire le difficoltà che incontrano. Le malattie cardiache e il diabete di tipo 2 sono due problemi di salute associati all'acromegalia che possono ridurre la qualità della vita e potenzialmente accorciare la durata della vita. Per questo motivo, se hai sintomi, contatta il tuo medico e, se ti è già stata diagnosticata, segui il tuo piano di trattamento. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What are the complications of acromegaly?",
+                    "index": 1,
+                    "desc": "Following treatment, acromegaly may result in the following complications:. ",
+                    "pointers": [
+                        "Type 2 diabetes.",
+                        "High blood pressure (hypertension).",
+                        "Heart disease.",
+                        "Cardiomyopathy (disease of your heart muscle).",
+                        "Arthritis.",
+                        "Colon polyps, which can potentially turn into colon cancer if left untreated.",
+                        "Organ failure."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Какие бывают осложнения акромегалии?",
+                            "transliteration": "kakie bivoiute oslozhneniya acromegaly?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegalinin komplikasyonları nelerdir?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症の合併症は何ですか?",
+                            "transliteration": "sentan kyodai shou no gappeishou wa nani desu ka ?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هي مضاعفات ضخامة النهايات?",
+                            "transliteration": "ma he medaafat dakhama nahayat?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las complicaciones de la acromegalia?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was sind die Komplikationen der Akromegalie?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais são as complicações da acromegalia?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증의 합병증은?",
+                            "transliteration": "maldan hapbyeongjeungeun?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa komplikasi acromegaly?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono le complicanze dell'acromegalia?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ru",
+                            "value": "После лечения акромегалия может привести к следующим осложнениям: ",
+                            "transliteration": "posle lecheniya acromegaly moget privests k sleduyushchim oslozhneniyam: "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "治療後、先端巨大症は以下の合併症を引き起こす可能性があります。",
+                            "transliteration": "chiryou go 、 sentan kyodai shou wa ika no gappeishou wa hikiokosu kanosei ga ari masu ."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Después del tratamiento, la acromegalia puede dar lugar a las siguientes complicaciones: "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tedaviyi takiben, akromegali aşağıdaki komplikasyonlara neden olabilir: "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Após o tratamento, a acromegalia pode resultar nas seguintes complicações:. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Dopo il trattamento, l'acromegalia può causare le seguenti complicanze:. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "مرض القلب.",
+                            "transliteration": "mard al-qalb."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "اعتلال عضلة القلب (مرض عضلة القلب).",
+                            "transliteration": "atelal adla al-qalb (mard adla al-qalb)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ارتفاع ضغط الدم (ارتفاع ضغط الدم).",
+                            "transliteration": "artfaa daghat al-dem (artfaa daghat al-dem)."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "心肌病(心肌疾)。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "2刘糖尿病。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "心病。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Maladie cardiaque."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Défaillance d’organe."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Diabète de type 2."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Arthritis."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Kardiomyopathie (Erkrankung des Herzmuskels)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Bluthochdruck (Hypertonie)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Herzkrankheit."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Arthritis."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Penyakit jantung."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kegagalan organ."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Polip usus besar, yang berpotensi berubah menjadi kanker usus besar jika tidak diobati."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tekanan darah tinggi (hipertensi)."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Cardiomyopathy (penyakit otot jantung Anda)."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Diabetes tipe 2."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Artrite."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Cardiomiopatia (malattia del muscolo cardiaco)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Diabete di tipo 2."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Cardiopatia."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Pressione sanguigna alta (ipertensione)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Polipi del colon, che possono potenzialmente trasformarsi in cancro del colon se non trattati."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Insufficienza d'organo."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "2型糖尿病。",
+                            "transliteration": "2 gata tounyoubyou ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "関節炎。",
+                            "transliteration": "kansetsu hono ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "臓器不全。",
+                            "transliteration": "zouki fuzen ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "高血圧(高血圧)。",
+                            "transliteration": "kouketsuatsu ( kouketsuatsu ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "心筋症(心筋の病気)。",
+                            "transliteration": "shinkin shou ( shinkin no byouki ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "大腸ポリープは、治療せずに放置すると結腸がんになる可能性があります。",
+                            "transliteration": "daichou polipu wa 、 chiryou se zu ni houchi suru to ketchou gan ni naru kanosei ga ari masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "心臓病。",
+                            "transliteration": "shinzou byou ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "심근병증(심장 근육 질환).",
+                            "transliteration": "simgeunbyeongjeung(simjang geunyuk jilhwan)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "심장병.",
+                            "transliteration": "simjangbyeong."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "장기 부전.",
+                            "transliteration": "janggi bujeon."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "관절염.",
+                            "transliteration": "gwanjeoryeom."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "제2형 당뇨병.",
+                            "transliteration": "jie2hyeong dangnyobyeong."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Artrite."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Falência orgânica."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Diabetes tipo 2."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Cardiomiopatia (doença do músculo cardíaco)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pólipos de cólon, que podem potencialmente se transformar em câncer de cólon se não forem tratados."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Cardiopatia."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pressão arterial elevada (hipertensão)."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Кардиомиопатия (заболевание сердечной мышцы).",
+                            "transliteration": "cardiomyopathy (zabolevaniye serdechnoy mysztsy)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Артрит.",
+                            "transliteration": "arthrite."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Сахарный диабет 2 типа.",
+                            "transliteration": "sakharny diabeth 2 tipa."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Органная недостаточность.",
+                            "transliteration": "organnaya nedostatochnost."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Повышенное артериальное давление (гипертония).",
+                            "transliteration": "povyshennoye arterial davlenie (gippertonia)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Полипы толстой кишки, которые потенциально могут превратиться в рак толстой кишки, если их не лечить.",
+                            "transliteration": "polyp tolstoy kiszki, kotorye potential mogut prevratitsya vie rak tolstoy kiszki, esli ikh nay lechit."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Болезни сердца.",
+                            "transliteration": "bolezny serdtsa."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Pólipos en el colon, que pueden convertirse en cáncer de colon si no se tratan."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Artritis."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Enfermedad cardíaca."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Miocardiopatía (enfermedad del músculo cardíaco)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Diabetes tipo 2."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Insuficiencia orgánica."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Presión arterial alta (hipertensión)."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Artrit."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tip 2 diyabet."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Yüksek tansiyon (hipertansiyon)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kardiyomiyopati (kalp kası hastalığı)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Organ yetmezliği."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tedavi edilmezse potansiyel olarak kolon kanserine dönüşebilen kolon polipleri."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kalp hastalığı."
+                        }
+                    ]
+                },
+                {
+                    "name": "What is the life expectancy of someone with acromegaly?",
+                    "index": 2,
+                    "desc": "Acromegaly can have a range of effects on a person's life expectancy, depending on how severe it is and whether or not they have other health issues. Acromegaly is typically irreversible. Your lifespan may be shortened by about ten years if you have uncontrolled growth hormone levels and coexisting medical conditions like Type 2 diabetes and heart disease. Your chances of living a normal life are high if your acromegaly is appropriately treated and your growth hormone and insulin-like growth factor 1 (IGF-1) levels are stable. ",
+                    "name_lang": [
+                        {
+                            "name": "es",
+                            "value": "¿Cuál es la esperanza de vida con acromegalia?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "말단비대증 환자의 기대 수명은 얼마입니까?",
+                            "transliteration": "maldan hwanja gidae sumyeongeun almipe?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali hastalarının yaşam beklentisi ne kadardır?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Какова продолжительность жизни человека с акромегалией?",
+                            "transliteration": "kakova prodolzhytelnost zhizni cheloveka s acromegaly?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هو متوسط العمر المتوقع لشخص مصاب بضخامة النهايات؟",
+                            "transliteration": "ma ho mutaust al-amar al-mutawqa leshches massab badkhama nahayate"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quelle est l’espérance de vie d’une personne atteinte d’acromégalie ?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Qual é a esperança de vida com acromegalia?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "肢端肥大者,寿几何?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Qual è l'aspettativa di vita con l'acromegalia?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症の人の平均余命はどれくらいですか?",
+                            "transliteration": "sentan kyodai shou no hito no heikin yomei wa dore kurai desu ka ?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ar",
+                            "value": "يمكن أن يكون لضخامة النهايات مجموعة من التأثيرات على متوسط العمر المتوقع للشخص ، اعتمادا على مدى شدته وما إذا كان يعاني من مشاكل صحية أخرى أم لا. ضخامة الأطراف عادة لا رجعة فيها. قد يتم تقصير عمرك بحوالي عشر سنوات إذا كان لديك مستويات هرمون النمو غير المنضبط والظروف الطبية المتعايشة مثل مرض السكري من النوع 2 وأمراض القلب. فرصك في عيش حياة طبيعية عالية إذا تم علاج ضخامة الأطراف بشكل مناسب وكانت مستويات هرمون النمو وعامل النمو الشبيه بالأنسولين 1 (IGF-1) مستقرة. ",
+                            "transliteration": "yamken an yakon ludhama nahayat mejmoua minn al-tathirat ola mutaust al-amar al-mutawqa leshecheches ، aetmada ola meda shadteh oma idha can iaani minn mushakil sahia akhra om la. dakhama al-atraf adeh la rajaa feha. qud yetem taksir omerik bahawali ashr senouat idha can ledic mastoyat hermon al-namu ger mundhebet lazrov al-tabia al-mataishah methel mard al-sukri minn noa 2 ouamradh al-qalb. farsak fe ish hayat tabiaia alia idha tem allaj dakhama al-atraf beshkel manasib wakant mastoyat hermon al-namu wamil al-namu shabih balancolin 1 (IGF-1) mostakara. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "La acromegalia puede tener una serie de efectos en la esperanza de vida de una persona, dependiendo de su gravedad y de si tiene o no otros problemas de salud. La acromegalia suele ser irreversible. Su esperanza de vida puede acortarse en unos diez años si tiene niveles descontrolados de la hormona del crecimiento y afecciones médicas coexistentes como diabetes tipo 2 y enfermedades cardíacas. Sus probabilidades de llevar una vida normal son altas si su acromegalia se trata adecuadamente y sus niveles de hormona de crecimiento y factor de crecimiento similar a la insulina 1 (IGF-1) son estables. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akromegali, ne kadar şiddetli olduğuna ve başka sağlık sorunları olup olmadığına bağlı olarak, bir kişinin yaşam beklentisi üzerinde çeşitli etkilere sahip olabilir. Akromegali tipik olarak geri döndürülemez. Kontrolsüz büyüme hormonu seviyeleriniz ve Tip 2 diyabet ve kalp hastalığı gibi birlikte var olan tıbbi durumlarınız varsa, ömrünüz yaklaşık on yıl kısalabilir. Akromegaliniz uygun şekilde tedavi edilirse ve büyüme hormonu ve insülin benzeri büyüme faktörü 1 (IGF-1) seviyeleriniz stabilse, normal bir yaşam sürme şansınız yüksektir. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "先端巨大症は、その重症度や他の健康上の問題を抱えているかどうかに応じて、人の平均余命にさまざまな影響を与える可能性があります。先端巨大症は通常、不可逆的です。成長ホルモンレベルが制御されておらず、2型糖尿病や心臓病などの病状が併存している場合、寿命が約10年短くなる可能性があります。先端巨大症が適切に治療され、成長ホルモンとインスリン様成長因子1(IGF-1)のレベルが安定している場合、通常の生活を送る可能性は高くなります。",
+                            "transliteration": "sentan kyodai shou wa 、 sono juushou do ya hoka no kenkou ue no mondai wa kakae te iru ka dou ka ni ouji te 、 hito no heikin yomei ni samazama nani eikyou wa ataeru kanosei ga ari masu .sentan kyodai shou wa tsuujou 、 fukagyaku teki desu .seichou hormon level ga seigyo sa re te ora zu 、 2 gata tounyoubyou ya shinzou byou nado no byoujou ga heizon shi te iru baai 、 jumyou ga yaku 10toshi mijikaku naru kanosei ga ari masu .sentan kyodai shou ga tekisetsu ni chiryou sa re 、 seichou hormon to inslin sama seichou inshi 1 ( igf-1 ) no level ga antei shi te iru baai 、 tsuujou no seikatsu wa okuru kanosei wa takaku nari masu ."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Акромегалия может иметь ряд последствий для продолжительности жизни человека, в зависимости от того, насколько она серьезна и есть ли у него другие проблемы со здоровьем. Акромегалия, как правило, необратима. Продолжительность вашей жизни может сократиться примерно на десять лет, если у вас неконтролируемый уровень гормона роста и сопутствующие заболевания, такие как диабет 2 типа и болезни сердца. Ваши шансы жить нормальной жизнью высоки, если ваша акромегалия должным образом лечится, а уровень гормона роста и инсулиноподобного фактора роста 1 (ИФР-1) стабилен. ",
+                            "transliteration": "acromegaly moget imet ryad posledstviy dla prodolzhytelnosty zhizni cheloveka, vie zavisimosti ot togo, naskolko ona seriezna yi yest lee u nego drugiye problems so zdorovyem. acromegaly, kak pravilo, neobratima. prodolzhytelnost vashey zhizni moget sokratitsya primerno na desyat let, esli u vas necontroliruemium uroven gormona rosta yi soputstvuyushchie zabolevania, takiye kak diabeth 2 tipa yi bolezny serdtsa. vashi shanse zhit normalic zhiznyu vysoki, esli vasha acromegaly dolzhnym obrazom lechitsya, a uroven gormona rosta yi insulinopodobic factor rosta 1 (yffre-1) stabilen. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A acromegalia pode ter uma série de efeitos na expectativa de vida de uma pessoa, dependendo de quão grave é e se eles têm ou não outros problemas de saúde. A acromegalia é tipicamente irreversível. Sua expectativa de vida pode ser encurtada por cerca de dez anos se você tiver níveis descontrolados de hormônio do crescimento e condições médicas coexistentes, como diabetes tipo 2 e doença cardíaca. Suas chances de viver uma vida normal são altas se sua acromegalia é adequadamente tratada e seu hormônio do crescimento e fator de crescimento semelhante à insulina 1 (IGF-1) níveis são estáveis. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        }
+    ]
+}

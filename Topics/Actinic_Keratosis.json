@@ -1,0 +1,1783 @@
+{
+    "title": "Actinic Keratosis",
+    "title_lang": [
+        {
+            "name": "it",
+            "value": "Cheratosi attinica"
+        },
+        {
+            "name": "id",
+            "value": "Keratosis aktinik"
+        },
+        {
+            "name": "tr",
+            "value": "Aktinik Keratoz"
+        },
+        {
+            "name": "ar",
+            "value": "التقران السفعي",
+            "transliteration": "altakran al-safai"
+        },
+        {
+            "name": "ko",
+            "value": "광선각화증",
+            "transliteration": "gwangseon"
+        },
+        {
+            "name": "fr",
+            "value": "Kératose actinique"
+        },
+        {
+            "name": "de",
+            "value": "Aktinische Keratose"
+        },
+        {
+            "name": "ja",
+            "value": "光線性角化症",
+            "transliteration": "kousen shou kado ka shou"
+        },
+        {
+            "name": "es",
+            "value": "Queratosis actínica"
+        },
+        {
+            "name": "ru",
+            "value": "Актинический кератоз",
+            "transliteration": "actinical keratosis"
+        },
+        {
+            "name": "lzh",
+            "value": "光化性角化病"
+        }
+    ],
+    "desc": "Rough, scaly patches on the skin are a symptom of actinic keratosis (AK). A skin cancer known as squamous cell carcinoma can develop from AK if treatment is not received. Preserving your skin from sun damage is the best way to avoid AK. Contact your doctor for a diagnosis and treatment if you develop any new red or rough pimples on your skin. ",
+    "desc_lang": [
+        {
+            "name": "tr",
+            "value": "Derideki pürüzlü, pullu lekeler aktinik keratozun (AK) bir belirtisidir. Skuamöz hücreli karsinom olarak bilinen bir cilt kanseri, tedavi alınmazsa AK'den gelişebilir. Cildinizi güneşin zararlarından korumak, AK'den kaçınmanın en iyi yoludur. Cildinizde yeni kırmızı veya pürüzlü sivilceler geliştirirseniz teşhis ve tedavi için doktorunuza başvurun. "
+        },
+        {
+            "name": "it",
+            "value": "Le chiazze ruvide e squamose sulla pelle sono un sintomo di cheratosi attinica (AK). Un tumore della pelle noto come carcinoma a cellule squamose può svilupparsi dall'AK se non si riceve un trattamento. Preservare la pelle dai danni del sole è il modo migliore per evitare l'AK. Contatta il tuo medico per una diagnosi e un trattamento se sviluppi nuovi brufoli rossi o ruvidi sulla pelle. "
+        },
+        {
+            "name": "ja",
+            "value": "皮膚の粗いうろこ状の斑点は、光線性角化症(AK)の症状です。扁平上皮がんとして知られる皮膚がんは、治療を受けないとAKから発症する可能性があります。日焼けによるダメージから肌を守ることは、AKを避けるための最良の方法です。皮膚に新しい赤やざらざらしたにきびが発生した場合は、診断と治療について医師に連絡してください。",
+            "transliteration": "hifu no arai uroko jou no hanten wa 、 kousen shou kado ka shou ( ak ) no shoujou desu .henpei jouhi gan toshite shira reru hifu gan wa 、 chiryou wa uke nai to ak kara hasshou suru kanosei ga ari masu .hiyake niyoru damaj kara hada wa mamoru koto wa 、 ak wa yokeru tame no sairyou no houhou desu .hifu ni atarashii aka ya zarazara shi ta nikibi ga hassei shi ta baai wa 、 shindan to chiryou nitsuite ishi ni renraku shi te kudasai ."
+        },
+        {
+            "name": "pt",
+            "value": "Manchas ásperas e escamosas na pele são um sintoma de queratose actínica (CA). Um câncer de pele conhecido como carcinoma de células escamosas pode se desenvolver a partir de CA se o tratamento não for recebido. Preservar a pele dos danos causados pelo sol é a melhor maneira de evitar a AK. Contacte o seu médico para um diagnóstico e tratamento se desenvolver novas espinhas vermelhas ou ásperas na sua pele. "
+        },
+        {
+            "name": "es",
+            "value": "Las manchas ásperas y escamosas en la piel son un síntoma de queratosis actínica (QA). Un cáncer de piel conocido como carcinoma de células escamosas puede desarrollarse a partir de la queratosis quística si no se recibe tratamiento. Preservar la piel del daño solar es la mejor manera de evitar la AK. Comunícate con tu médico para obtener un diagnóstico y tratamiento si desarrollas nuevas espinillas rojas o ásperas en la piel. "
+        },
+        {
+            "name": "ru",
+            "value": "Грубые, чешуйчатые пятна на коже являются симптомом актинического кератоза (АК). Рак кожи, известный как плоскоклеточная карцинома, может развиться из АК, если не получить лечение. Защита кожи от солнечных лучей — лучший способ избежать АК. Обратитесь к врачу для постановки диагноза и лечения, если у вас появились новые красные или грубые прыщи на коже. ",
+            "transliteration": "grubye, cheshuichatye pyatna na kozhe yavlyayutsya symptoms actinicity keratose (ac). rak kozhi, izvestny kak ploscocletoceas kartsinoma, moget razvitsa iz ac, esli nay poluchit lecheniye. zashchita kozhi ot solnechnykh luchey — luchshiy sposobian izbezhat ac. obratytes k vraciu dla postanovki diagnosis yi lecheniya, esli u vas poyavilys novye krasnye eli grubye pryshchi na kozhe. "
+        },
+        {
+            "name": "id",
+            "value": "Bercak kasar dan bersisik pada kulit adalah gejala keratosis aktinik (AK). Kanker kulit yang dikenal sebagai karsinoma sel skuamosa dapat berkembang dari AK jika pengobatan tidak diterima. Menjaga kulit Anda dari kerusakan akibat sinar matahari adalah cara terbaik untuk menghindari AK. Hubungi dokter Anda untuk diagnosis dan perawatan jika Anda mengembangkan jerawat merah atau kasar baru pada kulit Anda. "
+        },
+        {
+            "name": "fr",
+            "value": "Des plaques rugueuses et squameuses sur la peau sont un symptôme de kératose actinique (AK). Un cancer de la peau connu sous le nom de carcinome épidermoïde peut se développer à partir de l’AK si le traitement n’est pas reçu. Préserver votre peau des dommages causés par le soleil est le meilleur moyen d’éviter l’AK. Contactez votre médecin pour un diagnostic et un traitement si vous développez de nouveaux boutons rouges ou rugueux sur votre peau. "
+        },
+        {
+            "name": "ko",
+            "value": "피부의 거칠고 비늘 모양의 반점은 광선각화증(AK)의 증상입니다. 편평상피세포암으로 알려진 피부암은 치료를 받지 않으면 AK로 인해 발생할 수 있습니다. 햇빛으로 인한 손상으로부터 피부를 보호하는 것이 AK를 피하는 가장 좋은 방법입니다. 피부에 새로운 붉거나 거친 여드름이 생기면 의사와 연락하여 진단과 치료를 받으십시오. ",
+            "transliteration": "phoeboo geochilgo bineul moyang banjeomeun gwangseon(AK)yoo jeungsangipnida. pyeonpyeongrowe allyeojin pibuameun chiryoreul batji anheumyeon AKrowe inhae balsaenghal su issseupnida. haesbicceuro inhan sonsang pibureul bohohaneun geosi AKreul pihaneun gajang joheun bangbeopipnida. pibue saeroun bulkgeona geochin yeodeureumi saenggimyeon uisawa yeonrakhayeo jindan chiryoreul batsipsio. "
+        },
+        {
+            "name": "lzh",
+            "value": "麤者鳞状斑块光化性角化病 (AK) 也。 不受者,AK 谓之鳞状细胞癌皮肤癌。 护皮免日光伤者,避 AK 之最善者也。 如君皮上有新红粗粝丘疹,请系医诊治。 "
+        },
+        {
+            "name": "de",
+            "value": "Raue, schuppige Flecken auf der Haut sind ein Symptom der aktinischen Keratose (AK). Ein Hautkrebs, das sogenannte Plattenepithelkarzinom, kann sich aus AK entwickeln, wenn keine Behandlung erfolgt. Ihre Haut vor Sonnenschäden zu schützen, ist der beste Weg, um AK zu vermeiden. Wenden Sie sich an Ihren Arzt, um eine Diagnose und Behandlung zu erhalten, wenn Sie neue rote oder raue Pickel auf Ihrer Haut entwickeln. "
+        }
+    ],
+    "data": [
+        {
+            "name": "symptomps",
+            "list": [
+                {
+                    "name": "What causes actinic keratosis?",
+                    "index": 0,
+                    "desc": "Excessive ultraviolet (UV) light exposure is the most common cause of actinic keratosis. Solar radiation and indoor tanning devices, like tanning beds, are the sources of UV light. Keratinocytes, the cells that make up your skin's outermost layer, can be harmed by UV light. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "pt",
+                            "value": "O que causa a ceratose actínica?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما الذي يسبب التقران السفعي؟",
+                            "transliteration": "ma al-dhay jaspeb altakran al-safai"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono le cause della cheratosi attinica?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광선각화증의 원인은 무엇입니까?",
+                            "transliteration": "gwangseon wonineun mueosipnikka?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratoza ne sebep olur?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以致光化性角化病?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was verursacht aktinische Keratose?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las causas de la queratosis actínica?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症の原因は何ですか?",
+                            "transliteration": "kousen shou kado ka shou no genin wa nani desu ka ?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Что вызывает актинический кератоз?",
+                            "transliteration": "chto vyzyvaet actinical keratosis?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ar",
+                            "value": "التعرض المفرط للأشعة فوق البنفسجية (UV) هو السبب الأكثر شيوعا للتقران السفعي. الإشعاع الشمسي وأجهزة الدباغة الداخلية ، مثل أسرة الدباغة ، هي مصادر الأشعة فوق البنفسجية. يمكن أن تتضرر الخلايا الكيراتينية ، وهي الخلايا التي تشكل الطبقة الخارجية لبشرتك ، من الأشعة فوق البنفسجية. ",
+                            "transliteration": "al-tarad al-mafrat lashaa fouq al-banfasjiya (UV) ho el-sabeb al-akthar shioa latagran al-safai. al-ishaa shamsi ogehsa al-dabbagha al-dakhliyya ، methel asra al-dabbagha ، he massadir al-ashaa fouq al-banfasjiya. yamken an tedrer al-khalaya al-kiratinia ، wahi al-khalaya alti chikal tabaqa al-kharijiya labchertak ، minn al-ashaa fouq al-banfasjiya. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "L'eccessiva esposizione alla luce ultravioletta (UV) è la causa più comune di cheratosi attinica. La radiazione solare e i dispositivi abbronzanti indoor, come i lettini abbronzanti, sono le fonti di luce UV. I cheratinociti, le cellule che compongono lo strato più esterno della pelle, possono essere danneggiati dai raggi UV. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aşırı ultraviyole (UV) ışığa maruz kalma, aktinik keratozun en yaygın nedenidir. Güneş radyasyonu ve bronzlaşma yatakları gibi iç mekan bronzlaşma cihazları UV ışığının kaynaklarıdır. Cildinizin en dış katmanını oluşturan hücreler olan keratinositler UV ışığından zarar görebilir. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Чрезмерное воздействие ультрафиолетового (УФ) света является наиболее распространенной причиной актинического кератоза. Солнечная радиация и солярии, такие как солярии, являются источниками ультрафиолетового света. Кератиноциты, клетки, составляющие внешний слой кожи, могут быть повреждены ультрафиолетовым излучением. ",
+                            "transliteration": "chrezmernoye vozdeystviye ultrafioletovog (ouf) sveta yavlyaetsya naiboleye rasprostranennoy prichinoy actinicity keratose. solnechnaya radiation yi solaria, takiye kak solaria, yavlyayutsya istochnikami ultrafioletovog sveta. keratinocyte, kletki, sostavlyayushchie vneshny sloy kozhi, mogut byt povrezdeny ultrafiolet izlucheniyem. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "L’exposition excessive aux rayons ultraviolets (UV) est la cause la plus fréquente de kératose actinique. Le rayonnement solaire et les appareils de bronzage artificiel, comme les lits de bronzage, sont les sources de lumière UV. Les kératinocytes, les cellules qui composent la couche la plus externe de votre peau, peuvent être endommagés par la lumière UV. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "과도한 자외선(UV) 노출은 광선각화증의 가장 흔한 원인입니다. 태양 복사와 태닝 침대와 같은 실내 태닝 장치는 자외선의 원천입니다. 피부의 가장 바깥층을 구성하는 세포인 각질세포는 자외선에 의해 손상될 수 있습니다. ",
+                            "transliteration": "gwadohan jooseon(UV) nochureun gwangseon gajang heunhan woninipnida. taeyang boksawa tanning chimdaewa gateun silnae tanning jangchineun jaosson woncheon. phoeboo gajang bakkatcheungeul guseonghaneun sepoin gakjilseponeun jaoseone uihae sonsangdoel su issseupnida. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "過度の紫外線(UV)曝露は、光線性角化症の最も一般的な原因です。日射や日焼けベッドなどの屋内日焼け装置は、紫外線の源です。皮膚の最外層を構成する細胞であるケラチノサイトは、紫外線によって損傷を受ける可能性があります。",
+                            "transliteration": "kado no shigaisen ( uv ) bakuro wa 、 kousen shou kado ka shou no mottomo ippan teki nani genin desu .nissha ya hiyake bed nado no okunai hiyake souchi wa 、 shigaisen no gen desu .hifu no sai gaisou wa kousei suru saibou de aru kera chino site wa 、 shigaisen niyotte sonshou wa ukeru kanosei ga ari masu ."
+                        },
+                        {
+                            "name": "es",
+                            "value": "La exposición excesiva a la luz ultravioleta (UV) es la causa más común de queratosis actínica. La radiación solar y los dispositivos de bronceado en interiores, como las camas solares, son las fuentes de luz ultravioleta. Los queratinocitos, las células que forman la capa más externa de la piel, pueden ser dañados por la luz ultravioleta. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A exposição excessiva à luz ultravioleta (UV) é a causa mais comum de ceratose actínica. A radiação solar e os dispositivos de bronzeamento interno, como as camas de bronzeamento, são as fontes de luz UV. Os queratinócitos, as células que compõem a camada mais externa da pele, podem ser prejudicados pela luz UV. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Paparan sinar ultraviolet (UV) yang berlebihan adalah penyebab paling umum dari keratosis aktinik. Radiasi matahari dan perangkat penyamakan dalam ruangan, seperti tanning bed, adalah sumber sinar UV. Keratinosit, sel-sel yang membentuk lapisan terluar kulit Anda, dapat dirugikan oleh sinar UV. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What are the symptoms of actinic keratosis?",
+                    "index": 1,
+                    "desc": "Your skin will typically develop rough, elevated bumps as the initial indication of actinic keratosis. Although they come in a variety of colors, they frequently have a brown or yellow exterior. These lumps could be: Other potential symptoms are:. ",
+                    "pointers": [
+                        "Gray.",
+                        "Pink.",
+                        "Red.",
+                        "The same color as your skin.",
+                        "Bleeding.",
+                        "Burning, stinging or itching.",
+                        "Dry, scaly lips.",
+                        "Hornlike skin growths that stick out (like an animal’s horn).",
+                        "Loss of color in the lips.",
+                        "Pain or tenderness."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "ما هي أعراض التقران السفعي؟",
+                            "transliteration": "ma he aradh altakran al-safai"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症の症状は何ですか?",
+                            "transliteration": "kousen shou kado ka shou no shoujou wa nani desu ka ?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais são os sintomas da ceratose actínica?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광선각화증의 증상은 무엇입니까?",
+                            "transliteration": "gwangseon jeungsangeun mueosipnikka?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "光化性角化病之状何如?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono i sintomi della cheratosi attinica?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratozun belirtileri nelerdir?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son los síntomas de la queratosis actínica?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa saja gejala keratosis aktinik?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "pt",
+                            "value": "Sua pele normalmente desenvolverá inchaços ásperos e elevados como indicação inicial de queratose actínica. Embora eles vêm em uma variedade de cores, eles frequentemente têm um exterior marrom ou amarelo. Esses nódulos podem ser: Outros sintomas potenciais são:. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "皮肤常有粗肿,此光化性角化病之始迹也。 虽有多色,常有棕色黄之观。 其肿或: 他伏也。 "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "عادة ما يصاب جلدك بنتوءات خشنة ومرتفعة كمؤشر أولي للتقران السفعي. على الرغم من أنها تأتي في مجموعة متنوعة من الألوان ، إلا أنها غالبا ما يكون لها مظهر خارجي بني أو أصفر. يمكن أن تكون هذه الكتل: الأعراض المحتملة الأخرى هي:. ",
+                            "transliteration": "adeh ma yasab goldick bentoat khashna wimratvaa kamoshar ollie latagran al-safai. ola regham minn anha tati fe mejmoua metinoua minn al-alwan ، ella anha galpa ma yakon laha mazhar kharji beni oa osfer. yamken an tecon huthe al-kattal: al-arad al-mahtamlah al-akhra he:. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "La tua pelle svilupperà in genere protuberanze ruvide ed elevate come indicazione iniziale di cheratosi attinica. Sebbene siano disponibili in una varietà di colori, spesso hanno un esterno marrone o giallo. Questi noduli potrebbero essere: Altri potenziali sintomi sono:. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Por lo general, la piel desarrollará protuberancias ásperas y elevadas como indicación inicial de queratosis actínica. Aunque vienen en una variedad de colores, con frecuencia tienen un exterior marrón o amarillo. Estos bultos pueden ser: Otros síntomas potenciales son: "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "На коже, как правило, появляются грубые, приподнятые бугры, что является начальным признаком актинического кератоза. Хотя они бывают разных цветов, они часто имеют коричневый или желтый внешний вид. Эти уплотнения могут быть: Другими потенциальными симптомами являются: ",
+                            "transliteration": "na kozhe, kak pravilo, poyavlyayutsya grubye, prypodnatie bugry, chto yavlyaetsya nochelnym priznakom actinicity keratose. khotya oni bivoiute raznykh tsvetov, oni chasto imeut korychnevy eli zhelty vneshny vid. ethy upplotnenia mogut byt: drugimi potentiality symptoma yavlyayutsya: "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Cildiniz tipik olarak aktinik keratozun ilk belirtisi olarak pürüzlü, kabarık şişlikler geliştirecektir. Çeşitli renklerde olmalarına rağmen, genellikle kahverengi veya sarı bir dış cepheye sahiptirler. Bu topaklar şunlar olabilir: Diğer potansiyel semptomlar şunlardır: "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "피부는 일반적으로 광선각화증의 초기 징후로 거칠고 융기된 융기가 생깁니다. 다양한 색상으로 제공되지만 외관은 종종 갈색 또는 노란색입니다. 이러한 덩어리는 다음과 같을 수 있습니다. 다른 잠재적인 증상은 다음과 같습니다. ",
+                            "transliteration": "pibuneun ilbanjeogeuro gwangseon chogi jinghuro geochilgo yonggidoen yunggiga saenggipnida. dayanghan saeksangeuro jegongdoejiman oegwaneun jongjong galsaek ttoneun noransaegipnida. ireohan deongeorineun daeumgwa gateul su issseupnida. dareun jamjaejeogin jeungsangeun daeumgwa gatseupnida. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "通常、皮膚は光線性角化症の最初の兆候として、粗く隆起した隆起を発症します。さまざまな色がありますが、多くの場合、外観は茶色または黄色です。これらのしこりは次のとおりです。 その他の潜在的な症状は次のとおりです。",
+                            "transliteration": "tsuujou 、 hifu wa kousen shou kado ka shou no saisho no choukou toshite 、 araku ryuuki shi ta ryuuki wa hasshou shi masu .samazama nani iro ga ari masu ga 、 ooku no baai 、 gaikan wa chairo mataha kiiro desu .korera no shikori wa ji no toori desu . sonota no senzai teki nani shoujou wa ji no toori desu ."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Votre peau développera généralement des bosses rugueuses et surélevées comme indication initiale de la kératose actinique. Bien qu’ils soient disponibles dans une variété de couleurs, ils ont souvent un extérieur brun ou jaune. Ces bosses pourraient être : D’autres symptômes potentiels sont : "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "ألم أو إيلام.",
+                            "transliteration": "alem oa elam."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "وردي.",
+                            "transliteration": "wardi."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "رمادي.",
+                            "transliteration": "ramadi."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "حرقان أو لاذع أو حكة.",
+                            "transliteration": "horqan oa ladha oa haka."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "نفس لون بشرتك.",
+                            "transliteration": "nafs lone bochortak."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "شفاه جافة ومتقشرة.",
+                            "transliteration": "shafah jafa wimtikshara."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "أحمر.",
+                            "transliteration": "ahmar."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "نزف.",
+                            "transliteration": "nezf."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "与卿皮色同。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "痛压痛。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "唇失色。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "红。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "血出。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "唇干有鳞。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "奇角状皮肤(如物之角)。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "灼热刺痛瘙痒。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "灰色。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "粉红。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Brûlures, picotements ou démangeaisons."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Perte de couleur dans les lèvres."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Rose."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Blutung."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Die gleiche Farbe wie Ihre Haut."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Rot."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Schmerz oder Zärtlichkeit."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Terbakar, menyengat atau gatal."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Rasa sakit atau nyeri."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kehilangan warna di bibir."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bibir kering dan bersisik."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Rosa."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Lo stesso colore della tua pelle."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Bruciore, bruciore o prurito."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Escrescenze cutanee simili a corna che sporgono (come le corna di un animale)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Sanguinante."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Perdita di colore nelle labbra."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Labbra secche e squamose."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Dolore o tenerezza."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Grigio."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "赤い。",
+                            "transliteration": "akai ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "出血。",
+                            "transliteration": "shukketsu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "唇の色の損失。",
+                            "transliteration": "kuchibiru no iro no sonshitsu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ピンク。",
+                            "transliteration": "pinku ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "乾燥したうろこ状の唇。",
+                            "transliteration": "kansou shi ta uroko jou no kuchibiru ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "灼熱感、刺すような痛み、かゆみ。",
+                            "transliteration": "shakunetsu kan 、 sasu you nani itami 、 kayumi ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "お肌と同じ色。",
+                            "transliteration": "o hada to onaji iro ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "痛みや圧痛。",
+                            "transliteration": "itami ya atsu ita ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "灰色。",
+                            "transliteration": "haiiro ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "突き出た角のような皮膚の成長(動物の角のように)。",
+                            "transliteration": "tsukide ta kado no you nani hifu no seichou ( dobutsuenmae no kado no you ni ) ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "빨강.",
+                            "transliteration": "ppalgang."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "회색.",
+                            "transliteration": "hoesaek."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "당신의 피부와 같은 색입니다.",
+                            "transliteration": "dangsinui phibuwa gateun saegipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "화끈거림, 따끔거림 또는 가려움증.",
+                            "transliteration": "hwakkeungeorim, ttakkeumgeorim ttoneun garyeoumjung."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "튀어나온 뿔 모양의 피부 성장(동물의 뿔처럼).",
+                            "transliteration": "twieonaon ppul moyang pivou seongjang(dongmurui ppulcheoreom)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "건조하고 비늘 같은 입술.",
+                            "transliteration": "geonjohago bineul gateun ipsul."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "분홍색.",
+                            "transliteration": "bunhongsaek."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "통증 또는 압통.",
+                            "transliteration": "tongjeung ttoneun abtong."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "입술의 색 손실.",
+                            "transliteration": "ipsurui saek sonsil."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Lábios secos e escamosos."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Dor ou sensibilidade."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Perda de cor nos lábios."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Vermelho."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Hemorragia."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Ardor, ardência ou coceira."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Cinza."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Crescimentos de pele semelhantes a chifres que se destacam (como o chifre de um animal)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Rosa."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A mesma cor da sua pele."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Потеря цвета губ.",
+                            "transliteration": "poterya tsveta goob."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Розовый.",
+                            "transliteration": "rozovyi."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Рогообразные кожные наросты, которые торчат наружу (как рог животного).",
+                            "transliteration": "rogoobraznye kozhnye narosta, kotorye torchat naruju (kak rog zhivotnogo)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Боль или болезненность.",
+                            "transliteration": "boll eli boleznennost."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Сухие, шелушащиеся губы.",
+                            "transliteration": "sukhiye, shelushashchies guba."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Кровотечение.",
+                            "transliteration": "krovotecheniye."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Того же цвета, что и ваша кожа.",
+                            "transliteration": "togo ze tsveta, chto yi vasha kozha."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Серый.",
+                            "transliteration": "sery."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Жжение, покалывание или зуд.",
+                            "transliteration": "zhenie, pokalyvaniye eli zud."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Dolor o sensibilidad."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Crecimientos cutáneos en forma de cuernos que sobresalen (como el cuerno de un animal)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Hemorragia."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Ardor, escozor o picazón."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Gris."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Del mismo color que tu piel."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Pérdida de color en los labios."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Dudaklarda renk kaybı."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kuru, pullu dudaklar."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kırmızı."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Ağrı veya hassasiyet."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Pembe."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Cildinizle aynı renk."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Dışarı çıkan boynuz benzeri deri büyümeleri (bir hayvanın boynuzu gibi)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kanama."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Yanma, batma veya kaşıntı."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Gri."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "diagnosis",
+            "list": [
+                {
+                    "name": "How is actinic keratosis diagnosed?",
+                    "index": 0,
+                    "desc": "Using a magnifying glass and a close examination of your skin, your primary care physician, a dermatologist, or another medical professional can frequently identify actinic keratosis. Your physician might advise a skin biopsy if they are unsure or if the skin appears abnormal. By using a microscope to examine your skin cells, a precise diagnosis can be made with this quick, minimally invasive procedure. ",
+                    "name_lang": [
+                        {
+                            "name": "id",
+                            "value": "Bagaimana keratosis aktinik didiagnosis?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광선각화증은 어떻게 진단하나요?",
+                            "transliteration": "gwangseon eotteohge jindanhanayo?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как диагностируется актинический кератоз?",
+                            "transliteration": "kak diagnostiruetsya actinical keratosis?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症はどのように診断されますか?",
+                            "transliteration": "kousen shou kado ka shou wa dono you ni shindan sa re masu ka ?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratoz nasıl teşhis edilir?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come viene diagnosticata la cheratosi attinica?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se diagnostica la queratosis actínica?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ko",
+                            "value": "돋보기를 사용하여 피부를 면밀히 검사하면 주치의, 피부과 전문의 또는 기타 의료 전문가가 광선각화증을 자주 확인할 수 있습니다. 의사는 확실하지 않거나 피부가 비정상적으로 보이는 경우 피부 생검을 조언할 수 있습니다. 현미경을 사용하여 피부 세포를 검사하면 이 빠르고 최소 침습적인 절차로 정확한 진단을 내릴 수 있습니다. ",
+                            "transliteration": "dotbogireul sayonghayeo pibureul myeonmilhi geomsahamyeon juchi, pibugua jeonmunui ttoneun gita air jeonmungaga gwangseon jaju hwaginhal su issseupnida. uisaneun hwaksilhaji anhgeona pibuga bijeongsangjeogeuro boineun gyeongu pivou saenggeomeul joeonhal su issseupnida. hyeonmigyeongeul sayonghayeo pivou seporl geomsahamyeon i ppareugo choeso chimseupjeogin jeolcharo jeonghwakhan jindaneul naeril su issseupnida. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Usando uma lupa e um exame minucioso de sua pele, seu médico de cuidados primários, um dermatologista ou outro profissional médico pode frequentemente identificar queratose actínica. Seu médico pode aconselhar uma biópsia de pele se eles não tiverem certeza ou se a pele parecer anormal. Usando um microscópio para examinar as células da pele, um diagnóstico preciso pode ser feito com este procedimento rápido e minimamente invasivo. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Bir büyüteç kullanarak ve cildinizi yakından muayene ederek, birinci basamak doktorunuz, dermatologunuz veya başka bir tıp uzmanınız sıklıkla aktinik keratozu tanımlayabilir. Doktorunuz emin değilse veya cilt anormal görünüyorsa cilt biyopsisi önerebilir. Cilt hücrelerinizi incelemek için bir mikroskop kullanarak, bu hızlı, minimal invaziv prosedürle kesin bir teşhis konulabilir. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Usando una lupa y un examen minucioso de la piel, su médico de atención primaria, un dermatólogo u otro profesional médico pueden identificar con frecuencia la queratosis actínica. Su médico podría recomendar una biopsia de piel si no está seguro o si la piel parece anormal. Al usar un microscopio para examinar las células de la piel, se puede hacer un diagnóstico preciso con este procedimiento rápido y mínimamente invasivo. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Используя увеличительное стекло и внимательно осматривая кожу, ваш лечащий врач, дерматолог или другой медицинский работник часто может определить актинический кератоз. Ваш врач может посоветовать биопсию кожи, если вы не уверены или если кожа выглядит ненормальной. Используя микроскоп для изучения клеток кожи, можно поставить точный диагноз с помощью этой быстрой, минимально инвазивной процедуры. ",
+                            "transliteration": "ispolzuya uvelichitelnoye stecklo yi vnimatelno osmatric kozhu, vas lechashchy vrach, dermatology eli drugoi meditsynsky rabotnik chasto moget opredelit actinical keratosis. vas vrach moget posovetovat biopsy kozhi, esli vy nay uverens eli esli kozha vyglyadit nenormality. ispolzuya microscope dla izucheniya kletok kozhi, mozno postavit tochny diagnosis s pomoshchyu etoy bystroy, minimalno invasive protsedury. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Mit einer Lupe und einer genauen Untersuchung Ihrer Haut kann Ihr Hausarzt, ein Dermatologe oder eine andere medizinische Fachkraft häufig eine aktinische Keratose feststellen. Ihr Arzt kann eine Hautbiopsie empfehlen, wenn er sich unsicher ist oder wenn die Haut abnormal erscheint. Durch die Untersuchung Ihrer Hautzellen mit dem Mikroskop kann mit diesem schnellen, minimalinvasiven Verfahren eine präzise Diagnose gestellt werden. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Utilizzando una lente d'ingrandimento e un attento esame della pelle, il medico di base, un dermatologo o un altro professionista medico possono spesso identificare la cheratosi attinica. Il medico potrebbe consigliare una biopsia cutanea se non è sicuro o se la pelle appare anormale. Utilizzando un microscopio per esaminare le cellule della pelle, è possibile fare una diagnosi precisa con questa procedura rapida e minimamente invasiva. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "虫眼鏡を使用して皮膚を綿密に検査すると、かかりつけ医、皮膚科医、またはその他の医療専門家が光線性角化症を頻繁に特定できます。医師は、不明な場合、または皮膚が異常に見える場合は、皮膚生検を勧める場合があります。顕微鏡を使用して皮膚細胞を検査することにより、この迅速で低侵襲な手順で正確な診断を行うことができます。",
+                            "transliteration": "mushimegane wa shiyou shi te hifu wa menmitsu ni kensa suru to 、 kakaritsuke i 、 hifu ka i 、 mataha sonota no iryou senmonka ga kousen shou kado ka shou wa hinpan ni tokutei deki masu .ishi wa 、 fumei nani baai 、 mataha hifu ga ijou ni mieru baai wa 、 hifu seiken wa susumeru baai ga ari masu .kenbikyou wa shiyou shi te hifu saibou wa kensa suru koto niyori 、 kono jinsoku de hiku shin shuu nani tejun de seikaku nani shindan wa okonau koto ga deki masu ."
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "用放大镜审皮肤,初级保健医皮肤科医,常知光化性角化病。 医不定皮异者,皮活检。 以显微镜验皮肤细胞,可以速微创手术精之。 "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "باستخدام عدسة مكبرة وفحص دقيق لجلدك ، يمكن لطبيب الرعاية الأولية أو طبيب الأمراض الجلدية أو أي أخصائي طبي آخر تحديد التقران السفعي بشكل متكرر. قد ينصح طبيبك بإجراء خزعة من الجلد إذا كان غير متأكد أو إذا كان الجلد يبدو غير طبيعي. باستخدام المجهر لفحص خلايا الجلد ، يمكن إجراء تشخيص دقيق باستخدام هذا الإجراء السريع طفيف التوغل. ",
+                            "transliteration": "bastikhedam adsa moukbara vifhas daqiq legeldeck ، yamken latbib al-raya al-oulia oa tabib al-amradh al-jaldiye oa ei akhsai tabi acher tahdid altakran al-safai beshkel mitkrar. qud yansah tabibak bejra khazaa minn al-jald idha can ger motaked oa idha can al-jald yebdo ger tabiai. bastikhedam mujahr lafhas khlaya al-jald ، yamken igraa chekhis daqiq bastikhedam hudha al-ijra sarie tafif altougl. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "treatment",
+            "list": [
+                {
+                    "name": "How is actinic keratosis treated?",
+                    "index": 0,
+                    "desc": "Your choices for treatment will vary based on the number and appearance of actinic keratoses (AKs). Removing the skin patches during an office visit may be advised by your healthcare provider. Your physician may employ: to treat actinic keratosis. ",
+                    "pointers": [
+                        "Chemical peels: A chemical peel is like a medical-grade face mask. Your healthcare provider applies the peel during an office visit. The chemicals in the treatment safely destroy unwanted patches in your top layer of skin. In the first few days, the treated area will be sore and red. As the skin heals, you will see a new, healthy layer of skin.",
+                        "Cryotherapy: If you have one or two AKs, your provider may use cryotherapy. During this treatment, your provider uses a cold substance such as liquid nitrogen to freeze skin growths. Within a few days, these growths will blister and peel off.",
+                        "Excision: During this treatment, your healthcare provider first numbs the skin around your AK. Your provider then scrapes away or cuts out the AKs and stitches the area back together. Usually, your wound will heal in two to three weeks.",
+                        "Photodynamic therapy: If you have multiple AKs or AKs that return after treatment, your provider may recommend photodynamic therapy. This treatment uses creams and special light therapy to destroy precancerous skin cells. You will need to stay out of the sun for a few days while the treated skin heals."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratoz nasıl tedavi edilir?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come si cura la cheratosi attinica?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как лечится актинический кератоз?",
+                            "transliteration": "kak lechitsya actinical keratosis?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광선각화증은 어떻게 치료하나요?",
+                            "transliteration": "gwangseon eotteohge chiryohanayo?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bagaimana keratosis aktinik diobati?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se trata la queratosis actínica?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "كيف يتم علاج التقران السفعي؟",
+                            "transliteration": "keef yetem allaj altakran al-safai"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症はどのように治療されますか?",
+                            "transliteration": "kousen shou kado ka shou wa dono you ni chiryou sa re masu ka ?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como a ceratose actínica é tratada?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以治光化性角化病?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "fr",
+                            "value": "Vos choix de traitement varieront en fonction du nombre et de l’apparence des kératoses actiniques (AK). L’enlèvement des plaques cutanées lors d’une visite au bureau peut être conseillé par votre fournisseur de soins de santé. Votre médecin peut employer : pour traiter la kératose actinique. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ستختلف اختياراتك للعلاج بناء على عدد ومظهر التقران السفعي (AKs). قد ينصح مقدم الرعاية الصحية الخاص بك بإزالة بقع الجلد أثناء زيارة العيادة. قد يوظف طبيبك ما يلي: لعلاج التقران السفعي. ",
+                            "transliteration": "setelve akhtiaratik laalaj banaa ola aded wamzhar altakran al-safai (AKs). qud yansah mokaddam al-raya al-sahia al-khas beck bezala baqa al-jald aznaa ziara al-ayyada. qud jozf tabibak ma lelle: lallag altakran al-safai. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tedavi seçenekleriniz, aktinik keratozların (AK'ler) sayısına ve görünümüne göre değişecektir. Bir ofis ziyareti sırasında cilt lekelerinin çıkarılması sağlık uzmanınız tarafından önerilebilir. Doktorunuz şunları kullanabilir: aktinik keratozu tedavi etmek için. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Sus opciones de tratamiento variarán según la cantidad y la apariencia de las queratosis actínicas (QA). Es posible que su proveedor de atención médica le recomiende quitarse los parches cutáneos durante una visita al consultorio. Su médico puede emplear: para tratar la queratosis actínica. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Ihre Wahl für die Behandlung hängt von der Anzahl und dem Auftreten der aktinischen Keratosen (AKs) ab. Das Entfernen der Hautflecken während eines Arztbesuchs kann von Ihrem Arzt empfohlen werden. Ihr Arzt kann Folgendes anwenden: zur Behandlung von aktinischer Keratose. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "치료에 대한 선택은 광선각화증(AK)의 수와 모양에 따라 달라집니다. 진료실 방문 중 피부 패치를 제거하는 것은 의료 제공자가 조언할 수 있습니다. 의사는 광선 각화증을 치료하기 위해 다음을 사용할 수 있습니다. ",
+                            "transliteration": "chiryoe dahan seontaegeun gwangseon(AK)yoo suwa moyange ttara dallajipnida. jinryoshil bangmun jiong pivou paechireul jegeohaneun geoseun air jegongjaga joeonhal su issseupnida. uisaneun gwangseon gakhwajeungeul chiryohagi wihae daeumeul sayonghal su issseupnida. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Suas escolhas de tratamento variam de acordo com o número e a aparência das queratoses actínicas (CAs). A remoção das manchas de pele durante uma visita ao consultório pode ser aconselhada pelo seu médico. Seu médico pode empregar: para tratar a ceratose actínica. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Выбор лечения будет варьироваться в зависимости от количества и внешнего вида актинических кератозов (АК). Удаление кожных пластырей во время визита к врачу может быть рекомендовано вашим медицинским сотрудником. Ваш врач может использовать: для лечения актинического кератоза. ",
+                            "transliteration": "vybor lecheniya budet varyirovatsya vie zavisimosti ot kolichestva yi vneshnego vida actinicity keratozov (ac). udalenie kozhnykh plastyreus vo vremya visita k vraciu moget byt recommendoval vashim meditsynskyme sotrudnikom. vas vrach moget ispolzovat: dla lecheniya actinicity keratose. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Le scelte per il trattamento variano in base al numero e all'aspetto delle cheratosi attiniche (AK). La rimozione dei cerotti cutanei durante una visita ambulatoriale può essere consigliata dal medico. Il medico può impiegare: per trattare la cheratosi attinica. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "治療の選択肢は、光線性角化症(AK)の数と外観によって異なります。診察中に皮膚パッチを取り除くことは、医療提供者からアドバイスされる場合があります。医師は、光線性角化症を治療するために以下を採用することがあります。",
+                            "transliteration": "chiryou no sentakushi wa 、 kousen shou kado ka shou ( ak ) no suu to gaikan niyotte kotonari masu .shinsatsu naka ni hifu patch wa torinozoku koto wa 、 iryou teikyou mono kara advice sa reru baai ga ari masu .ishi wa 、 kousen shou kado ka shou wa chiryou suru tame ni ika wa saiyou suru koto ga ari masu ."
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "العلاج بالتبريد: إذا كان لديك واحد أو اثنين من AKs ، فقد يستخدم مزودك العلاج بالتبريد. خلال هذا العلاج، يستخدم مزودك مادة باردة مثل النيتروجين السائل لتجميد نمو الجلد. في غضون أيام قليلة ، سوف تتفسد هذه الزوائد وتقشر.",
+                            "transliteration": "al-allage baltbrid: idha can ledic wahid oa athnin minn AKs ، faqed yestkhedem mazudak al-allage baltbrid. khallal hudha alajil yestkhedem mazudak mada bareda methel alnitrugin al-saeel latjamid nemo al-jald. fe ghodon ayam kalila ، sov tetvesd huthe al-zawaid watakshar."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "التقشير الكيميائي: التقشير الكيميائي يشبه قناع الوجه الطبي. يقوم مقدم الرعاية الصحية الخاص بك بتطبيق التقشير أثناء زيارة العيادة. المواد الكيميائية في العلاج تدمر بأمان البقع غير المرغوب فيها في الطبقة العليا من الجلد. في الأيام القليلة الأولى ، ستكون المنطقة المعالجة مؤلمة وحمراء. عندما يشفى الجلد ، سترى طبقة جديدة وصحية من الجلد.",
+                            "transliteration": "al-takshir al-kimiyae: al-takshir al-kimiyae yeshbeh kanaa allouge al-tabi. yikom mokaddam al-raya al-sahia al-khas beck bettebik al-takshir aznaa ziara al-ayyada. almoad al-kimiya fe al-allage tadmor baaman al-baqaa ger al-murgoub feha fe tabaqa lalia minn al-jald. fe al-ayyam al-qulayla al-awla ، sticon al-montaqa maalja moulma wahmara. andama yeshfi al-jald ، setre tabaka godida wasshia minn al-jald."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "切除术曰:医务人员先痹 AK 皮肤。 然后医务人员刮掉切掉 AK,合其域。 常伤两到三周内愈合。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "化学换肤:化学换肤如医用口罩。 子之医疗保健提供者用果皮于就诊。 治中化学物质安破皮肤不须斑块。 初数日,治头痛赤。 随皮愈合,君看新健皮。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Cryothérapie : Si vous avez un ou deux AK, votre fournisseur peut utiliser la cryothérapie. Au cours de ce traitement, votre fournisseur utilise une substance froide telle que l’azote liquide pour geler les excroissances cutanées. En quelques jours, ces excroissances se cloqueront et se décolleront."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Excision : Au cours de ce traitement, votre fournisseur de soins de santé engourdit d’abord la peau autour de votre AK. Votre fournisseur gratte ou découpe ensuite les AK et recoud la zone. Habituellement, votre plaie guérira en deux à trois semaines."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Peelings chimiques : Un peeling chimique est comme un masque facial de qualité médicale. Votre fournisseur de soins de santé applique le peeling lors d’une visite au cabinet. Les produits chimiques contenus dans le traitement détruisent en toute sécurité les zones indésirables de la couche supérieure de votre peau. Au cours des premiers jours, la zone traitée sera douloureuse et rouge. Au fur et à mesure que la peau guérit, vous verrez une nouvelle couche de peau saine."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Photodynamische Therapie: Wenn Sie mehrere AKs oder AKs haben, die nach der Behandlung zurückkehren, kann Ihr Arzt eine photodynamische Therapie empfehlen. Bei dieser Behandlung werden Cremes und eine spezielle Lichttherapie verwendet, um präkanzeröse Hautzellen zu zerstören. Sie müssen sich einige Tage lang von der Sonne fernhalten, während die behandelte Haut heilt."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Chemische Peelings: Ein chemisches Peeling ist wie eine medizinische Gesichtsmaske. Ihr Arzt wendet das Peeling während eines Arztbesuchs an. Die Chemikalien in der Behandlung zerstören sicher unerwünschte Flecken in Ihrer obersten Hautschicht. In den ersten Tagen ist die behandelte Stelle wund und gerötet. Wenn die Haut heilt, werden Sie eine neue, gesunde Hautschicht sehen."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Eksisi: Selama perawatan ini, penyedia layanan kesehatan Anda pertama-tama mematikan kulit di sekitar AK Anda. Penyedia Anda kemudian mengikis atau memotong AK dan menjahit area itu kembali. Biasanya, luka Anda akan sembuh dalam dua hingga tiga minggu."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Terapi fotodinamik: Jika Anda memiliki beberapa AK atau AK yang kembali setelah perawatan, penyedia Anda dapat merekomendasikan terapi fotodinamik. Perawatan ini menggunakan krim dan terapi cahaya khusus untuk menghancurkan sel-sel kulit prakanker. Anda akan perlu untuk tetap keluar dari matahari selama beberapa hari sementara kulit yang dirawat menyembuhkan."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Pengelupasan kimia: Pengelupasan kimia seperti masker wajah kelas medis. Penyedia layanan kesehatan Anda menerapkan pengelupasan selama kunjungan kantor. Bahan kimia dalam perawatan dengan aman menghancurkan tambalan yang tidak diinginkan di lapisan atas kulit Anda. Dalam beberapa hari pertama, area yang dirawat akan terasa sakit dan merah. Saat kulit sembuh, Anda akan melihat lapisan kulit baru yang sehat."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Peeling chimici: un peeling chimico è come una maschera facciale di grado medico. Il medico applica il peeling durante una visita ambulatoriale. Le sostanze chimiche contenute nel trattamento distruggono in modo sicuro le macchie indesiderate nello strato superiore della pelle. Nei primi giorni, l'area trattata sarà dolorante e arrossata. Man mano che la pelle guarisce, vedrai un nuovo strato di pelle sano."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Terapia fotodinamica: se si dispone di più AK o AK che ritornano dopo il trattamento, il medico può raccomandare la terapia fotodinamica. Questo trattamento utilizza creme e una speciale terapia della luce per distruggere le cellule precancerose della pelle. Dovrai stare lontano dal sole per alcuni giorni mentre la pelle trattata guarisce."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Escissione: durante questo trattamento, il medico intorpidisce prima la pelle intorno all'AK. Il tuo fornitore quindi raschia via o ritaglia gli AK e ricucie l'area. Di solito, la ferita guarisce in due o tre settimane."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Crioterapia: se hai uno o due AK, il tuo medico può utilizzare la crioterapia. Durante questo trattamento, il medico utilizza una sostanza fredda come l'azoto liquido per congelare le escrescenze cutanee. Nel giro di pochi giorni, queste escrescenze si staccheranno e si staccheranno."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "光線力学療法:治療後に再発するAKまたはAKが複数ある場合、プロバイダーは光線力学療法を勧める場合があります。この治療法は、クリームと特別な光線療法を使用して、前癌性の皮膚細胞を破壊します。治療した皮膚が治癒するまで、数日間は日光から遠ざかる必要があります。",
+                            "transliteration": "kousen rikigaku ryouhou : chiryou go ni saihatsu suru ak mataha ak ga fukusuu aru baai 、 provider wa kousen rikigaku ryouhou wa susumeru baai ga ari masu .kono chiryou hou wa 、 cream to tokubetsu nani kousen ryouhou wa shiyou shi te 、 mae gan shou no hifu saibou wa hakai shi masu .chiryou shi ta hifu ga chiyu suru made 、 suu nikkan wa nikkou kara toozakaru hitsuyo ga ari masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ケミカルピーリング:ケミカルピーリングは、医療グレードのフェイスマスクのようなものです。医療従事者は、診察中にピーリングを塗布します。トリートメントに含まれる化学物質は、皮膚の最上層にある不要なパッチを安全に破壊します。最初の数日間は、治療部位が痛くて赤くなります。皮膚が治癒するにつれて、新しい健康な皮膚の層が見えます。",
+                            "transliteration": "chemical pering : chemical pering wa 、 iryou grade no face mask no you nani mono desu .iryou juuji mono wa 、 shinsatsu naka ni pering wa tofu shi masu .treatment ni fukuma reru kagaku busshitsu wa 、 hifu no sai jousou ni aru fuyou nani patch wa anzen ni hakai shi masu .saisho no suu nikkan wa 、 chiryou bui ga itaku te akaku nari masu .hifu ga chiyu suru nitsurete 、 atarashii kenkou nani hifu no sou ga mie masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "切除:この治療中、医療提供者は最初にAKの周りの皮膚を麻痺させます。次に、プロバイダーがAKをこすり落とすか切り取り、その領域を縫い合わせます。通常、傷は2〜3週間で治ります。",
+                            "transliteration": "setsujo : kono chiryou naka 、 iryou teikyou mono wa saisho ni ak no mawari no hifu wa mahi sa se masu .ji ni 、 provider ga ak wa kosuri otosu ka kiritori 、 sono ryouiki wa nuiawase masu .tsuujou 、 shou wa 2 〜 3 shuukan de naori masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "クライオセラピー:AKが1つまたは2つある場合、プロバイダーはクライオセラピーを使用する場合があります。この治療中、プロバイダーは液体窒素などの冷たい物質を使用して皮膚の成長を凍結します。数日以内に、これらの成長は水ぶくれになり、剥がれ落ちます。",
+                            "transliteration": "clio serapi : ak ga 1 tsu mataha 2 tsu aru baai 、 provider wa clio serapi wa shiyou suru baai ga ari masu .kono chiryou naka 、 provider wa ekitai chisso nado no tsumetai busshitsu wa shiyou shi te hifu no seichou wa touketsu shi masu .suu nichi inai ni 、 korera no seichou wa mizubukure ni nari 、 hagare ochi masu ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "절제: 이 치료를 하는 동안 의료진은 먼저 AK 주변의 피부를 마비시킵니다. 그런 다음 제공자는 AK를 긁어내거나 잘라내고 해당 부위를 다시 꿰맸습니다. 보통 상처는 2-3주 안에 치유된다.",
+                            "transliteration": "jeolje: i chiryoreul haneun dongan uiryojineun meonjeo AK jubyeonui pibureul mavisickipnida. geureon daeum jegongjaneun AKreul geulkeonaegeona jallanaego haedang buwireul dasi kkwemaessseupnida. potong sangcheoneun 2-3jsu ane chiyudoenda."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "케미컬 필링: 케미컬 필링은 의료용 안면 마스크와 같습니다. 담당 의사는 진료실 방문 중에 필링을 적용합니다. 트리트먼트의 화학 물질은 피부 최상층의 원치 않는 패치를 안전하게 파괴합니다. 처음 며칠 동안은 치료 부위가 아프고 빨갛게 변한다. 피부가 치유됨에 따라 새롭고 건강한 피부층을 볼 수 있습니다.",
+                            "transliteration": "kemical pilling: kemical pillingeun uiryoyong anmyeon masques gatseupnida. damdang uisaneun jinryoshil bangmun junge pillingeul jeogyonghapnida. treatmant hwahak muljireun pivou choesangcheungui wonchi anneun paechireul anjeonhage pagohapnida. cheoeum myeochil donganeun chiryo buyga apeugo ppalgahge byeonhanda. pibuga chiyudoeme ttara saeropgo geonganghan pibucheungeul boll su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "냉동 요법: 하나 또는 두 개의 AK가 있는 경우 제공자가 냉동 요법을 사용할 수 있습니다. 이 치료 중에 제공자는 액체 질소와 같은 차가운 물질을 사용하여 피부 성장을 얼립니다. 며칠 내로 이러한 종양은 물집이 잡히고 벗겨집니다.",
+                            "transliteration": "naengdong yoboup: hannah ttoneun du gaeui AKga issneun gyeongu jegongjaga naengdong yobeobeul sayonghal su issseupnida. i chiryo junge jegongjaneun acche jilsowa gateun chagaun muljireul sayonghayeo pivou seongjangeul eollipnida. myeochil naero ireohan jongyangeun muljibi japhigo beosgyeojipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광역학 요법: 치료 후 재발하는 AK 또는 AK가 여러 개 있는 경우 제공자가 광역학 요법을 권장할 수 있습니다. 이 치료법은 크림과 특수 광선 요법을 사용하여 전암성 피부 세포를 파괴합니다. 치료된 피부가 치유되는 동안 며칠 동안 햇볕을 피해야 합니다.",
+                            "transliteration": "gwangyeokhak yoboup: chiryo hu jaebalhaneun AK ttoneun AKga yeoreo gae issneun gyeongu jegongjaga gwangyeokhak yobeobeul gwonjanghal su issseupnida. i chiryobeopeun krimgwa tess gwangseon yobeobeul sayonghayeo jeonamseong pivou seporl pagohapnida. chiryodoen pibuga chiyudoeneun dongan myeochil dongan haesbyeoteul pihaeya hapnida."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Excisão: Durante este tratamento, o seu médico primeiro dorme a pele em torno da sua AK. Seu provedor então raspa ou corta as AKs e costura a área novamente. Normalmente, sua ferida cicatrizará em duas a três semanas."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Peelings químicos: Um peeling químico é como uma máscara facial de grau médico. Seu médico aplica o peeling durante uma visita ao consultório. Os produtos químicos no tratamento destroem com segurança manchas indesejadas na camada superior da pele. Nos primeiros dias, a área tratada ficará dolorida e vermelha. À medida que a pele cicatriza, você verá uma nova camada saudável de pele."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Terapia fotodinâmica: Se você tem várias CAs ou CAs que retornam após o tratamento, seu médico pode recomendar a terapia fotodinâmica. Este tratamento usa cremes e terapia de luz especial para destruir as células pré-cancerosas da pele. Você precisará ficar fora do sol por alguns dias enquanto a pele tratada cicatriza."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Химический пилинг: Химический пилинг похож на медицинскую маску для лица. Ваш медицинский сотрудник наносит пилинг во время визита к врачу. Химические вещества, входящие в состав процедуры, безопасно уничтожают нежелательные участки в верхнем слое кожи. В первые несколько дней обработанный участок будет болезненным и красным. По мере заживления кожи вы увидите новый, здоровый слой кожи.",
+                            "transliteration": "khimichesky piling: khimichesky piling pochoz na meditsynsky mascou dla litsa. vas meditsynsky sotrudnik nanosite piling vo vremya visita k vraciu. khimicheskiye veshchestva, vkhodyashchie vie sostav protsedury, bezopasno unichtozhayut negelatelnae uchastki vie verkhnem sloe kozhi. vie pervye neskolko dney obrabotanny uchastok budet boleznennym yi krasnym. pau mere zazivlenija kozhi vy uvidite novy, zdorovyi sloy kozhi."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Криотерапия: Если у вас есть один или два АК, ваш врач может использовать криотерапию. Во время этой процедуры врач использует холодное вещество, такое как жидкий азот, для замораживания кожных новообразований. В течение нескольких дней эти наросты покрываются волдырями и шелушатся.",
+                            "transliteration": "kryotherapy: esli u vas yest odin eli dva ac, vas vrach moget ispolzovat krioterapium. vo vremya etoy protsedury vrach espolzuet kholodnoye veshchestvo, takoye kak zhidkiy azot, dla zamorazyvanya kozhnykh novoobrazovany. vie techeniye nescolcich dney ethy narosta pokryvayutsya voldyryami yi shelushatsya."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Иссечение: Во время этого лечения ваш медицинский сотрудник сначала обезболивает кожу вокруг АК. Затем врач соскребает или вырезает AK и сшивает область заново. Обычно рана заживает в течение двух-трех недель.",
+                            "transliteration": "issechenie: vo vremya etogo lecheniya vas meditsynsky sotrudnik snachala obezbolivaet kozhu vokrug ac. zathem vrach soskrebaet eli vyrezaet AK yi schivaet oblast zanovo. obychno rana zazhivaet vie techeniye dvukh-trech nedel."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Фотодинамическая терапия: Если у вас есть несколько АК или АК, которые возвращаются после лечения, ваш врач может порекомендовать фотодинамическую терапию. В этой процедуре используются кремы и специальная светотерапия для уничтожения предраковых клеток кожи. Вам нужно будет держаться подальше от солнца в течение нескольких дней, пока обработанная кожа не заживет.",
+                            "transliteration": "photodynamical therapy: esli u vas yest neskolko ac eli ac, kotorye vozvrashchayutsya posle lecheniya, vas vrach moget porecomendovate photodynamical therapy. vie etoy protsedure espolzuyutsya kremy yi spetsialis svetotherapy dla unichtozheniya predrakovykh kletok kozhi. vam nuzno budet derzhatsya podalsze ot solntsa vie techeniye nescolcich dney, poca obrabotannaya kozha nay zazivet."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Crioterapia: Si tiene una o dos QA, su proveedor puede usar crioterapia. Durante este tratamiento, el proveedor de atención médica utiliza una sustancia fría, como nitrógeno líquido, para congelar los crecimientos de la piel. En unos pocos días, estos crecimientos se ampollarán y se desprenderán."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Eksizyon: Bu tedavi sırasında, sağlık uzmanınız önce AK'nizin etrafındaki cildi uyuşturur. Sağlayıcınız daha sonra AK'leri sıyırır veya keser ve alanı tekrar bir araya getirir. Genellikle, yaranız iki ila üç hafta içinde iyileşir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kriyoterapi: Bir veya iki AK'niz varsa, sağlayıcınız kriyoterapi kullanabilir. Bu tedavi sırasında, sağlayıcınız cilt büyümelerini dondurmak için sıvı nitrojen gibi soğuk bir madde kullanır. Birkaç gün içinde bu büyümeler kabarır ve soyulur."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Fotodinamik tedavi: Tedaviden sonra geri dönen birden fazla AK'niz veya AK'niz varsa, sağlayıcınız fotodinamik terapi önerebilir. Bu tedavi, kanser öncesi cilt hücrelerini yok etmek için kremler ve özel ışık terapisi kullanır. Tedavi edilen cilt iyileşene kadar birkaç gün güneşten uzak durmanız gerekecektir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kimyasal peeling: Kimyasal peeling, tıbbi sınıf bir yüz maskesi gibidir. Sağlık uzmanınız peelingi bir ofis ziyareti sırasında uygular. Tedavideki kimyasallar, cildinizin üst tabakasındaki istenmeyen lekeleri güvenli bir şekilde yok eder. İlk birkaç gün, tedavi edilen bölge ağrılı ve kırmızı olacaktır. Cilt iyileştikçe, yeni ve sağlıklı bir cilt tabakası göreceksiniz."
+                        }
+                    ]
+                },
+                {
+                    "name": "Can I treat actinic keratosis at home?",
+                    "index": 1,
+                    "desc": "Your healthcare provider might recommend at-home treatment if you have multiple scaly patches or hard-to-see actinic keratoses (AKs). Medicated creams are usually applied to the skin as part of at-home therapy. For up to four months, you might need to use these creams. It is not advised to use Voltaren® gel to treat AK unless your provider specifically recommends it, even though it is now available over-the-counter. These are a few instances of these creams. ",
+                    "pointers": [
+                        "Diclofenac skin gel (Voltaren® gel).",
+                        "Fluorouracil, or 5-FU skin cream (Fluorac®).",
+                        "Imiquimod skin cream (Aldara or Zyclara®).",
+                        "Ingenol mebutate topical gel (Picato®)."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Можно ли лечить актинический кератоз в домашних условиях?",
+                            "transliteration": "mozno lee lechit actinical keratosis vie domashnikh usloviakh?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Posso trattare la cheratosi attinica a casa?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratozu evde tedavi edebilir miyim?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Puis-je traiter la kératose actinique à la maison ?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症を自宅で治療できますか?",
+                            "transliteration": "kousen shou kado ka shou wa jitaku de chiryou deki masu ka ?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "吾可以在家治光化性角化病乎?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Posso tratar a ceratose actínica em casa?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광선각화증을 집에서 치료할 수 있나요?",
+                            "transliteration": "gwangseon jibeseo chiryohal su issnayo?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Puedo tratar la queratosis actínica en casa?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bisakah saya mengobati keratosis aktinik di rumah?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ar",
+                            "value": "قد يوصي مقدم الرعاية الصحية الخاص بك بالعلاج في المنزل إذا كان لديك بقع متقشرة متعددة أو تقران سفعي يصعب رؤيته (AKs). عادة ما يتم تطبيق الكريمات الطبية على الجلد كجزء من العلاج المنزلي. لمدة تصل إلى أربعة أشهر ، قد تحتاج إلى استخدام هذه الكريمات. لا ينصح باستخدام جل فولتارين® لعلاج AK ما لم يوصي مزودك بذلك على وجه التحديد ، على الرغم من أنه متاح الآن بدون وصفة طبية. هذه أمثلة قليلة من هذه الكريمات. ",
+                            "transliteration": "qud yosi mokaddam al-raya al-sahia al-khas beck balallag fe monzel idha can ledic baqa metekshra metedda oa takran sefai isab ruaiteh (AKs). adeh ma yetem tatbik al-karimat al-tabia ola al-jald kajza minn al-allage al-manzali. lamda tasl elly arbaa ashahr ، qud thataj elly estekhdam huthe al-karimat. la yansah bastikhedam gell voltaren® lallag AK ma lem yosi mazudak bezelk ola wageh al-tahdid ، ola regham minn anne metah alaan badon wasfa tabia. huthe amthla kalila minn huthe al-karimat. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Penyedia layanan kesehatan Anda mungkin merekomendasikan perawatan di rumah jika Anda memiliki beberapa bercak bersisik atau keratosis aktinik (AK) yang sulit dilihat. Krim obat biasanya diterapkan pada kulit sebagai bagian dari terapi di rumah. Hingga empat bulan, Anda mungkin perlu menggunakan krim ini. Hal ini tidak disarankan untuk menggunakan gel Voltaren® untuk mengobati AK kecuali penyedia Anda secara khusus merekomendasikannya, meskipun sekarang tersedia over-the-counter. Ini adalah beberapa contoh krim ini. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Votre fournisseur de soins de santé pourrait recommander un traitement à domicile si vous avez plusieurs plaques squameuses ou des kératoses actiniques difficiles à voir. Les crèmes médicamenteuses sont généralement appliquées sur la peau dans le cadre d’une thérapie à domicile. Jusqu’à quatre mois, vous devrez peut-être utiliser ces crèmes. Il n’est pas conseillé d’utiliser le gel Voltaren® pour traiter l’AK à moins que votre professionnel de la santé ne le recommande expressément, même s’il est maintenant disponible en vente libre. Ce sont quelques exemples de ces crèmes. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Il medico potrebbe raccomandare un trattamento domiciliare in caso di chiazze squamose multiple o cheratosi attiniche (AK) difficili da vedere. Le creme medicate vengono solitamente applicate sulla pelle come parte della terapia domiciliare. Per un massimo di quattro mesi, potrebbe essere necessario utilizzare queste creme. Non è consigliabile utilizzare il gel Voltaren® per trattare l'AK a meno che il medico non lo raccomandi specificamente, anche se ora è disponibile senza prescrizione medica. Questi sono alcuni esempi di queste creme. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Birden fazla pullu yamanız veya görülmesi zor aktinik keratozlarınız (AK'ler) varsa, sağlık uzmanınız evde tedavi önerebilir. İlaçlı kremler genellikle evde tedavinin bir parçası olarak cilde uygulanır. Dört aya kadar bu kremleri kullanmanız gerekebilir. Sağlayıcınız özellikle önermedikçe AK'yi tedavi etmek için Voltaren® jeli kullanılması tavsiye edilmez., şu anda reçetesiz olarak mevcut olsa bile. Bunlar, bu kremlerin birkaç örneğidir. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "의료진은 여러 개의 비늘 모양의 반점이나 보기 어려운 광선각화증(AK)이 있는 경우 재택 치료를 권장할 수 있습니다. 약용 크림은 일반적으로 재택 요법의 일환으로 피부에 바릅니다. 최대 4개월 동안 이 크림을 사용해야 할 수도 있습니다. 현재 처방전 없이 구입할 수 있지만 제공자가 특별히 권장하지 않는 한 AK를 치료하기 위해 Voltaren® 젤을 사용하는 것은 권장되지 않습니다. 이것들은 이러한 크림의 몇 가지 예입니다. ",
+                            "transliteration": "uiryojineun yeoreo gaeui bineul moyang banjeomina boggie eoryeoun gwangseon(AK)i issneun gyeongu jatac chiryoreul gwonjanghal su issseupnida. yakyong krimm ilbanjeogeuro jatac yobeop ilhwaneuro pibue barbnida. choedae 4gaewol dongan i krimel sayonghaeya hal south issseupnida. hyeonjae cheobangjeon eopsi guibhal su issjiman jegongjaga teukbyeolhi gwonjanghaji anneun han AKreul chiryohagi wihae Voltaren® jereul sayonghaneun geoseun gwonjangdoeji anhseupnida. igeosdeureun ireohan krim myeot ghaji yeipnida. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Es posible que su proveedor de atención médica le recomiende un tratamiento en el hogar si tiene varios parches escamosos o queratosis actínicas (QA) difíciles de ver. Las cremas medicinales generalmente se aplican sobre la piel como parte de la terapia en el hogar. Durante un máximo de cuatro meses, es posible que deba usar estas cremas. No se recomienda usar el gel Voltaren® para tratar la queratosis quística a menos que su proveedor lo recomiende específicamente, aunque ahora está disponible sin receta. Estos son algunos ejemplos de estas cremas. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "医療提供者は、複数のうろこ状の斑点や見えにくい光線性角化症(AK)がある場合、在宅治療を勧める場合があります。薬用クリームは通常、在宅療法の一環として皮膚に塗布されます。最大4か月間、これらのクリームを使用する必要がある場合があります。現在店頭で入手可能ですが、プロバイダーが特に推奨しない限り、AKの治療にボルタレン®ゲルを使用することはお勧めしません。これらはこれらのクリームのいくつかの例です。",
+                            "transliteration": "iryou teikyou mono wa 、 fukusuu no uroko jou no hanten ya mie nikui kousen shou kado ka shou ( ak ) ga aru baai 、 zaitaku chiryou wa susumeru baai ga ari masu .yakuyou cream wa tsuujou 、 zaitaku ryouhou no ikkan toshite hifu ni tofu sa re masu .saidai 4 ka gekkan 、 korera no cream wa shiyou suru hitsuyo ga aru baai ga ari masu .genzai tentou de nyuushu kanou desu ga 、 provider ga tokuni suishou shi nai kagiri 、 ak no chiryou ni bolta ren ® geru wa shiyou suru koto wa o susume shi mase nichi .korera wa korera no cream no ikutsu ka no rei desu ."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Ihr Arzt empfiehlt möglicherweise eine Behandlung zu Hause, wenn Sie mehrere schuppige Flecken oder schwer sichtbare aktinische Keratosen (AKs) haben. Medizinische Cremes werden in der Regel im Rahmen der Therapie zu Hause auf die Haut aufgetragen. Bis zu vier Monate lang müssen Sie diese Cremes möglicherweise verwenden. Es wird nicht empfohlen, Voltaren-Gel® zur Behandlung von AK zu verwenden, es sei denn, Ihr Arzt empfiehlt es ausdrücklich, auch wenn es jetzt rezeptfrei erhältlich ist. Dies sind einige Beispiele für diese Cremes. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Ваш медицинский сотрудник может порекомендовать лечение в домашних условиях, если у вас есть несколько чешуйчатых пятен или трудно различимые актинические кератозы (АК). Лечебные кремы обычно наносятся на кожу в рамках домашней терапии. Возможно, вам придется использовать эти кремы в течение четырех месяцев. Не рекомендуется использовать гель Вольтарен® для лечения АК, если только ваш врач специально не рекомендует его, даже несмотря на то, что в настоящее время он доступен без рецепта. Вот несколько экземпляров этих кремов. ",
+                            "transliteration": "vas meditsynsky sotrudnik moget porecomendovate lecheniye vie domashnikh usloviakh, esli u vas yest neskolko cheshuychatykh pyaten eli trudno razlichimye actinical keratosis (ac). lechebnye kremy obychno nanosyatsya na kozhu vie ramkach domashney therapy. vozmozhno, vam pridetsya ispolzovat ethy kremy vie techeniye chetyrekh mesyatsev. nay recommanduatso ispolzovat gell voltaren® dla lecheniya ac, esli tolko vas vrach spetsialno nay recommenduet ego, dajeh nesmotrya na to, chto vie nastoyashcheye vremya on dostupen bez retsepta. voth neskolko exemplarov etich kremov. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "如君多处鳞屑斑块或难见之光化性角化病 (AK),医务人员可建议您在家治之。 为家治疗者,药膏常涂皮肤。 四月之间,君其用此面霜。 不言用 Voltaren® 凝胶治 AK,非君提供者特荐之,虽今是非处方药。 此数面霜也。 "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "كريم البشرة إميكويمود (ألدارا أو زيكلارا®).",
+                            "transliteration": "karim bachra emechoymud (aldara oa ziclara®)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "إنجينول ميبوتات جل موضعي (بيكاتو®).",
+                            "transliteration": "engenol miputat gell moudhai (pecato®)."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "咪喹莫特护肤霜(Aldara或Zyclara®)。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Crème pour la peau Imiquimod (Aldara ou Zyclara®)."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Gel cutané de diclofénac (gel Voltaren®)."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Imiquimod Hautcreme (Aldara oder Zyclara®)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Diclofenac-Hautgel (Voltaren-Gel®)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Fluorouracil oder 5-FU-Hautcreme (Fluorac®)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Ingenol Mebutat topisches Gel (Picato®)."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Ingenol mebutate topikal gel (Picato®)."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Gel kulit diklofenak (gel Voltaren®)."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Krim kulit Imiquimod (Aldara atau Zyclara®)."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Fluorouracil, atau krim kulit 5-FU (Fluorac®)."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Gel topico di ingenolo mebutato (Picato®)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Gel cutaneo di diclofenac (gel di Voltaren®)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Crema per la pelle a base di imiquimod (Aldara o Zyclara®)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Fluorouracile o crema per la pelle 5-FU (Fluorac®)."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "イミキモドスキンクリーム(アルダラまたはザイクララ®)。",
+                            "transliteration": "imi kimo doskin cream ( aldara mataha siglara ® ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ジクロフェナクスキンジェル(ボルタレン®ゲル)。",
+                            "transliteration": "diclofenac skin ger ( bolta ren ® geru ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "インゲノールメブテート局所ゲル(ピカート®)。",
+                            "transliteration": "ingenolmebutate kyokusho geru ( picato ® ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "フルオロウラシル、または5-FUスキンクリーム(フルオラック®)。",
+                            "transliteration": "fluorowrasil 、 mataha 5-fu skin cream ( fluolac ® ) ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "디클로페낙 스킨 젤(볼타렌® 젤).",
+                            "transliteration": "dichlopenace skin jell(boltaren® jell)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "플루오로우라실 또는 5-FU 스킨 크림(플루오락®).",
+                            "transliteration": "pluoroprowrashil ttoneun 5-FU skin krim(pluorak®)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "Imiquimod 스킨 크림 (Aldara 또는 Zyclara®).",
+                            "transliteration": "Imiquimod skin krim (Aldara ttoneun Zyclara®)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "Ingenol mebutate 국소 젤 (Picato®).",
+                            "transliteration": "Ingenol mebutate guxo jell (Picato®)."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Diclofenac gel para a pele (Voltaren® gel)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Imiquimod creme para a pele (Aldara ou Zyclara®)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Fluorouracil, ou creme para a pele de 5-FU (Fluorac®)."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Фторурацил, или крем для кожи 5-FU (Fluorac®).",
+                            "transliteration": "ftoruracil, eli krem dla kozhi 5-FU (Fluorac®)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Гель для местного применения Ingenol mebutate (Пикато®).",
+                            "transliteration": "gell dla mestnogo primenenia Ingenol mebutate (picato®)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Крем для кожи Imiquimod (Aldara или Zyclara®).",
+                            "transliteration": "krem dla kozhi Imiquimod (Aldara eli Zyclara®)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Диклофенак гель для кожи (Вольтарен® гель).",
+                            "transliteration": "diclofenac gell dla kozhi (voltaren® gell)."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Crema para la piel Imiquimod (Aldara o Zyclara®)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Gel tópico de mebutato de ingenol (Picato®)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Fluorouracilo o crema para la piel con 5-FU (Fluorac®)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Gel cutáneo de diclofenaco (Gel Voltaren®)."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Imiquimod cilt kremi (Aldara veya Zyclara®)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Diklofenak cilt jeli (Voltaren® jeli)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Fluorourasil veya 5-FU cilt kremi (Fluorac®)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Ingenol mebutat topikal jel (Picato®)."
+                        }
+                    ]
+                },
+                {
+                    "name": "How long does it take for actinic keratosis to go away?",
+                    "index": 2,
+                    "desc": "It may take up to three months for actinic keratoses (AKs) to go away after treatment is finished, depending on their size and quantity. You should make an appointment with your doctor for a checkup once or twice a year after the AKs go away. You might need to see your dermatologist four or six times a year if you have a compromised immune system, which raises your risk for AKs. ",
+                    "name_lang": [
+                        {
+                            "name": "id",
+                            "value": "Berapa lama waktu yang dibutuhkan keratosis aktinik untuk hilang?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuánto tiempo tarda en desaparecer la queratosis actínica?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症が消えるのにどのくらい時間がかかりますか?",
+                            "transliteration": "kousen shou kado ka shou ga kieru nonie dono kurai jikan ga kakari masu ka ?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quanto tempo impiega la cheratosi attinica a scomparire?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광선각화증이 사라지는 데 얼마나 걸립니까?",
+                            "transliteration": "gwangseon sarajineun de eolmana geollipnikka?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Сколько времени нужно, чтобы актинический кератоз прошел?",
+                            "transliteration": "skolko vremeni nuzno, chtoby actinical keratosis prochelles?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Wie lange dauert es, bis die aktinische Keratose verschwindet?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "كم من الوقت يستغرق التقران السفعي حتى يختفي؟",
+                            "transliteration": "kim minn al-waqqat yistigerg altakran al-safai hetti ekhetville"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratozun geçmesi ne kadar sürer?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "it",
+                            "value": "Possono essere necessari fino a tre mesi prima che le cheratosi attiniche (AK) scompaiano al termine del trattamento, a seconda delle loro dimensioni e quantità. Dovresti fissare un appuntamento con il tuo medico per un controllo una o due volte all'anno dopo che gli AK sono scomparsi. Potrebbe essere necessario consultare il dermatologo quattro o sei volte all'anno se si ha un sistema immunitario compromesso, il che aumenta il rischio di AK. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratozların (AK'ler) tedavi bittikten sonra kaybolması, boyutlarına ve miktarlarına bağlı olarak üç ay kadar sürebilir. AK'ler gittikten sonra yılda bir veya iki kez kontrol için doktorunuzdan randevu almalısınız. Bağışıklık sisteminiz zayıfsa, dermatoloğunuzu yılda dört veya altı kez görmeniz gerekebilir, bu da AK riskinizi artırır. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症(AK)は、その大きさや量によっては、治療終了後に消失するまでに最大3か月かかる場合があります。AKがなくなった後、年に1〜2回、医師に診察の予約をする必要があります。免疫力が低下している場合は、年に4〜6回皮膚科医の診察を受ける必要があり、AKのリスクが高まります。",
+                            "transliteration": "kousen shou kado ka shou ( ak ) wa 、 sono ooki sa ya ryou niyotte wa 、 chiryou shuuryou go ni shoushitsu suru made ni saidai 3 kagetsu kakaru baai ga ari masu .ak ga nakunatsu ta go 、 toshi ni 1 〜 2 kai 、 ishi ni shinsatsu no yoyaku wa suru hitsuyo ga ari masu .meneki chikara ga teika shi te iru baai wa 、 toshi ni 4 〜 6 kai hifu ka i no shinsatsu wa ukeru hitsuyo ga ari 、 ak no lisk ga takamari masu ."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Je nach Größe und Menge kann es bis zu drei Monate dauern, bis aktinische Keratosen (AKs) nach Abschluss der Behandlung verschwunden sind. Sie sollten ein- bis zweimal im Jahr einen Termin mit Ihrem Arzt vereinbaren, um sich untersuchen zu lassen, nachdem die AKs verschwunden sind. Möglicherweise müssen Sie vier- oder sechsmal im Jahr Ihren Dermatologen aufsuchen, wenn Sie ein geschwächtes Immunsystem haben, was Ihr Risiko für AKs erhöht. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Mungkin diperlukan waktu hingga tiga bulan untuk keratosis aktinik (AK) untuk pergi setelah perawatan selesai, tergantung pada ukuran dan kuantitasnya. Anda harus membuat janji dengan dokter Anda untuk pemeriksaan sekali atau dua kali setahun setelah AK pergi. Anda mungkin perlu menemui dokter kulit Anda empat atau enam kali setahun jika Anda memiliki sistem kekebalan tubuh yang terganggu, yang meningkatkan risiko Anda untuk AK. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "قد يستغرق الأمر ما يصل إلى ثلاثة أشهر حتى يختفي التقران السفعي (AKs) بعد انتهاء العلاج ، اعتمادا على حجمها وكميتها. يجب عليك تحديد موعد مع طبيبك لإجراء فحص مرة أو مرتين في السنة بعد اختفاء AKs. قد تحتاج إلى زيارة طبيب الأمراض الجلدية الخاص بك أربع أو ست مرات في السنة إذا كان لديك جهاز مناعي ضعيف ، مما يزيد من خطر الإصابة ب AKs. ",
+                            "transliteration": "qud yistigerg al-amar ma yasal elly thlatha ashahr hetti yekhtevy altakran al-safai (AKs) baad antahaa al-allage ، aetmada ola hajamaha chmitha. yegeb alik tahdid moad ma tabibak ligra fahs morra oa mertin fe al-sannah baad akhtafa AKs. qud thataj elly ziara tabib al-amradh al-jaldiye al-khas beck arba oa set merat fe al-sannah idha can ledic jahaz menaei zaaef ، memma yazid minn khater alisabe be AKs. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pode levar até três meses para que as ceratoses actínicas (CAs) desapareçam após o término do tratamento, dependendo de seu tamanho e quantidade. Você deve marcar uma consulta com seu médico para um check-up uma ou duas vezes por ano após as AKs desaparecerem. Você pode precisar ver seu dermatologista quatro ou seis vezes por ano se você tem um sistema imunológico comprometido, o que aumenta o risco de AKs. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "治毕,光化性角化病 (AK) 三月乃消,大小数也。 宜于 AK 消息后岁一与医者期一再省之。 若免疫系统损,则岁视皮肤科医四到六,是益君患 AK 之险也。 "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Las queratosis actínicas (QA) pueden tardar hasta tres meses en desaparecer una vez finalizado el tratamiento, dependiendo de su tamaño y cantidad. Debe hacer una cita con su médico para un chequeo una o dos veces al año después de que desaparezcan las QA. Es posible que deba consultar a su dermatólogo cuatro o seis veces al año si tiene un sistema inmunológico comprometido, lo que aumenta su riesgo de quebrania. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광선각화증(AK)은 치료가 끝난 후 크기와 양에 따라 사라지기까지 최대 3개월이 걸릴 수 있습니다. AK가 사라진 후 일년에 한두 번 의사와 검진을 예약해야 합니다. 면역 체계가 손상된 경우 일년에 4-6번 피부과 의사를 만나야 할 수도 있으며, 이로 인해 AK에 대한 위험이 높아집니다. ",
+                            "transliteration": "gwangseon(AK)eun chiryoga kkeutnan hu keugiwa yeung ttara sarajigikkaji choedae 3gaewori geollil su issseupnida. AKga sarajin hu ilnyeone handu beon uisawa geomjineul yeyakhaeya hapnida. myeonyeok chegyega sonsangdoen gyeongu ilnyeone 4-6beon pibugua uisareul mannaya hal south isseumyeo, iro inhae AKe dahan wiheomi nopajipnida. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "После окончания лечения может потребоваться до трех месяцев, чтобы актинические кератозы (АК) исчезли, в зависимости от их размера и количества. Вы должны записаться на прием к врачу для осмотра один или два раза в год после того, как АК исчезают. Возможно, вам придется посещать дерматолога четыре или шесть раз в год, если у вас ослаблена иммунная система, которая повышает риск развития АК. ",
+                            "transliteration": "posle okonchaniya lecheniya moget potrebovatsya do trech mesyatsev, chtoby actinical keratosis (ac) ischezli, vie zavisimosti ot ikh razmer yi kolichestva. vy dolzny zapisatsya na priem k vraciu dla osmotra odin eli dva raza vie god posle togo, kak ac ischezaiut. vozmozhno, vam pridetsya posescat dermatologa chetyre eli shest raz vie god, esli u vas oslablena immunnaya systems, kotoraya povyshaet risk razvitia ac. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "prognosis",
+            "list": [
+                {
+                    "name": "What is the outlook for people with actinic keratosis?",
+                    "index": 0,
+                    "desc": "Treatment is usually effective in eliminating actinic keratoses (AKs). People who have actinic keratosis rarely get skin cancer—about 90% of them do not. Still, AKs were the initial diagnosis for the majority of squamous cell carcinomas. It’s crucial to see your doctor as soon as possible if you suspect you have an AK. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "it",
+                            "value": "Quali sono le prospettive per le persone affette da cheratosi attinica?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Wie sind die Aussichten für Menschen mit aktinischer Keratose?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症の人の見通しは?",
+                            "transliteration": "kousen shou kado ka shou no hito no mitooshi wa ?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Каков прогноз для людей с актиническим кератозом?",
+                            "transliteration": "kakov prognosis dla ludey s actinicity keratosome?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa prospek untuk orang dengan keratosis aktinik?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratozlu insanlar için görünüm nedir?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuál es el pronóstico para las personas con queratosis actínica?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Qual é a perspectiva para as pessoas com ceratose actínica?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quelles sont les perspectives pour les personnes atteintes de kératose actinique ?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هي التوقعات للأشخاص الذين يعانون من التقران السفعي؟",
+                            "transliteration": "ma he al-toqaat lashekhas al-thain yaanon minn altakran al-safai"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ja",
+                            "value": "治療は通常、光線性角化症(AK)の除去に効果的です。光線性角化症の人は皮膚がんになることはめったになく、約90%は皮膚がんになりません。それでも、AKは扁平上皮がんの大部分の初期診断でした。AKが疑われる場合は、できるだけ早く医師の診察を受けることが重要です。",
+                            "transliteration": "chiryou wa tsuujou 、 kousen shou kado ka shou ( ak ) no jokyo ni kouka teki desu .kousen shou kado ka shou no hito wa hifu gan ni naru koto wa mettani naku 、 yaku 90% wa hifu gan ni nari mase nichi .soredemo 、 ak wa henpei jouhi gan no dai bubun no shoki shindan deshi ta .ak ga utagawa reru baai wa 、 dekirudake hayaku ishi no shinsatsu wa ukeru koto ga juuyou desu ."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "치료는 일반적으로 광선각화증(AK)을 제거하는 데 효과적입니다. 광선각화증을 앓고 있는 사람들은 거의 피부암에 걸리지 않으며, 약 90%는 그렇지 않습니다. 그럼에도 불구하고 AK는 대부분의 편평 세포 암종에 대한 초기 진단이었습니다. AK가 의심되는 경우 가능한 한 빨리 의사의 진찰을 받는 것이 중요합니다. ",
+                            "transliteration": "chiryoneun ilbanjeogeuro gwangseon(AK)eul jegeohaneun de hyogwajeogipnida. gwangseon alhgo issneun saramdeureun geoui pibuame geolliji anheumyeo, yak 90%neun geureohji anhseupnida. geureomedo bulguhago AKneun daebubun pyeonpyeong sefo amjonge dahan chogi jindani. AKga uisimdoeneun gyeongu ganeunghan han ppalli uisaui jinchareul batneun geosi jungyohapnida. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Il trattamento è solitamente efficace nell'eliminare le cheratosi attiniche (AK). Le persone che hanno la cheratosi attinica raramente si ammalano di cancro della pelle, circa il 90% di loro non lo fa. Tuttavia, gli AK erano la diagnosi iniziale per la maggior parte dei carcinomi a cellule squamose. È fondamentale consultare il medico il prima possibile se si sospetta di avere un'AK. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "عادة ما يكون العلاج فعالا في القضاء على التقران السفعي (AKs). نادرا ما يصاب الأشخاص المصابون بالتقران السفعي بسرطان الجلد - حوالي 90٪ منهم لا يصابون به. ومع ذلك ، كانت AKs هي التشخيص الأولي لغالبية سرطانات الخلايا الحرشفية. من الأهمية بمكان أن ترى طبيبك في أقرب وقت ممكن إذا كنت تشك في أن لديك AK. ",
+                            "transliteration": "adeh ma yakon al-allage faala fe al-quda ola altakran al-safai (AKs). nadra ma yasab al-ashkhas al-masaboun baltekran al-safai bessertan al-jald - hawali 90٪ munham la yasabun beh. wama delk ، kant AKs he al-tashkhis al-awli leghalbia sertanat al-khalaya al-harshafiya. minn al-uhmia bamkan an tre tabibak fe akrab waqt memkin idha kent chek fe an ledic AK. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Pengobatan biasanya efektif dalam menghilangkan keratosis aktinik (AKs). Orang yang memiliki keratosis aktinik jarang terkena kanker kulit — sekitar 90% dari mereka tidak. Namun, AK adalah diagnosis awal untuk sebagian besar karsinoma sel skuamosa. Sangat penting untuk menemui dokter Anda sesegera mungkin jika Anda mencurigai Anda memiliki AK. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Лечение, как правило, эффективно при устранении актинических кератозов (АК). Люди с актиническим кератозом редко заболевают раком кожи — около 90% из них не заболевают. Тем не менее, АК были первоначальным диагнозом для большинства плоскоклеточных карцином. Очень важно как можно скорее обратиться к врачу, если вы подозреваете, что у вас АК. ",
+                            "transliteration": "lecheniye, kak pravilo, effective pri ustranenia actinicity keratozov (ac). ludy s actinicity keratosome redko zabolevayut rakom kozhi — okolo 90% iz nikh nay zabolevayut. tem nay menee, ac byli pervonachalnym diagnosis dla bolshinstva ploscocletoc kartsinom. ochen vazhno kak mozno scorea obratytsya k vraciu, esli vy podozrevayete, chto u vas ac. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "El tratamiento suele ser eficaz para eliminar las queratosis actínicas (QA). Las personas que tienen queratosis actínica rara vez desarrollan cáncer de piel, alrededor del 90% de ellas no lo hacen. Aun así, las QA fueron el diagnóstico inicial para la mayoría de los carcinomas de células escamosas. Es crucial consultar a su médico lo antes posible si sospecha que tiene una AK. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tedavi genellikle aktinik keratozların (AK'ler) ortadan kaldırılmasında etkilidir. Aktinik keratozu olan kişiler nadiren cilt kanserine yakalanırlar – bunların yaklaşık% 90'ı yoktur. Yine de, AK'ler skuamöz hücreli karsinomların çoğunluğu için ilk tanıydı. AK'niz olduğundan şüpheleniyorsanız doktorunuzu mümkün olan en kısa sürede görmeniz çok önemlidir. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Die Behandlung ist in der Regel wirksam bei der Beseitigung aktinischer Keratosen (AKs). Menschen, die an aktinischer Keratose leiden, erkranken selten an Hautkrebs – etwa 90 % von ihnen nicht. Dennoch waren AKs die Erstdiagnose für die meisten Plattenepithelkarzinome. Es ist wichtig, dass du so schnell wie möglich deinen Arzt aufsuchst, wenn du den Verdacht hast, dass du eine AK hast. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Does actinic keratosis return after treatment?",
+                    "index": 1,
+                    "desc": "If further sun damage is not prevented, actinic keratosis may sometimes return. Avoid as much UV light as possible both during and after treatment. ",
+                    "name_lang": [
+                        {
+                            "name": "id",
+                            "value": "Apakah keratosis aktinik kembali setelah perawatan?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Возвращается ли актинический кератоз после лечения?",
+                            "transliteration": "vozvrashchaetsya lee actinical keratosis posle lecheniya?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A ceratose actínica retorna após o tratamento?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "光化性角化病治而复发乎?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "La cheratosi attinica ritorna dopo il trattamento?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "هل يعود التقران السفعي بعد العلاج؟",
+                            "transliteration": "hill yaoud altakran al-safai baad alajil"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Regresa la queratosis actínica después del tratamiento?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "光線性角化症は治療後に再発しますか?",
+                            "transliteration": "kousen shou kado ka shou wa chiryou go ni saihatsu shi masu ka ?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aktinik keratoz tedaviden sonra geri döner mi?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "광선각화증은 치료 후 재발하나요?",
+                            "transliteration": "gwangseon chiryo hu jaebalhanayo?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "fr",
+                            "value": "Si d’autres dommages causés par le soleil ne sont pas évités, la kératose actinique peut parfois réapparaître. Évitez autant que possible la lumière UV pendant et après le traitement. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Se mais danos solares não forem evitados, a queratose actínica às vezes pode retornar. Evite o máximo possível de luz UV durante e após o tratamento. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Si no se previene un mayor daño solar, la queratosis actínica a veces puede reaparecer. Evite la mayor cantidad posible de luz ultravioleta tanto durante como después del tratamiento. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "それ以上の日焼けによるダメージを防げない場合、光線性角化症が再発することがあります。治療中も治療後も、できるだけ紫外線を避けてください。",
+                            "transliteration": "sore ijou no hiyake niyoru damaj wa fusege nai baai 、 kousen shou kado ka shou ga saihatsu suru koto ga ari masu .chiryou naka mo chiryou go mo 、 dekirudake shigaisen wa sake te kudasai ."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Daha fazla güneş hasarı önlenmezse, aktinik keratoz bazen geri dönebilir. Hem tedavi sırasında hem de sonrasında mümkün olduğunca fazla UV ışığından kaçının. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "إذا لم يتم منع المزيد من أضرار أشعة الشمس ، فقد يعود التقران السفعي في بعض الأحيان. تجنب أكبر قدر ممكن من الأشعة فوق البنفسجية أثناء وبعد العلاج. ",
+                            "transliteration": "idha lem yetem mana al-mazid minn azrar ashaa shams ، faqed yaoud altakran al-safai fe baad al-ahian. tejenp akbar qader memkin minn al-ashaa fouq al-banfasjiya aznaa vabaad al-allage. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Jika kerusakan akibat sinar matahari lebih lanjut tidak dicegah, keratosis aktinik kadang-kadang dapat kembali. Hindari sinar UV sebanyak mungkin selama dan setelah perawatan. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Если дальнейшее повреждение солнечными лучами не предотвратить, актинический кератоз иногда может вернуться. Избегайте как можно большего количества ультрафиолетового излучения как во время, так и после лечения. ",
+                            "transliteration": "esli dalneischee povrezhdeniye solnechnymy lucami nay predoturatite, actinical keratosis inogda moget vernutsya. izbegaite kak mozno bolshego kolichestva ultrafioletovog izlucheniya kak vo vremya, thuck yi posle lecheniya. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Se non si prevengono ulteriori danni solari, a volte può ripresentarsi la cheratosi attinica. Evitare il più possibile la luce UV sia durante che dopo il trattamento. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "햇볕에 의한 손상이 더 이상 방지되지 않으면 광선각화증이 재발할 수 있습니다. 치료 중과 치료 후에 가능한 한 많은 자외선을 피하십시오. ",
+                            "transliteration": "haesbyeote uihan sonsangi de isang bangjidoeji anheumyeon gwangseon jaebalhal su issseupnida. chiryo junggwa chiryo hue ganeunghan han manheun jaeseoneul pihasipsio. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "不防更日光,光化性角化病或复发。 治之免于紫外线。 "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        }
+    ]
+}

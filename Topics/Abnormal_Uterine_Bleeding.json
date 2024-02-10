@@ -1,0 +1,2342 @@
+{
+    "title": "Abnormal Uterine Bleeding",
+    "title_lang": [
+        {
+            "name": "ar",
+            "value": "نزيف الرحم غير الطبيعي",
+            "transliteration": "nazif al-rahm ger al-tabiai"
+        },
+        {
+            "name": "de",
+            "value": "Abnorme Gebärmutterblutungen"
+        },
+        {
+            "name": "pt",
+            "value": "Sangramento Uterino Anormal"
+        },
+        {
+            "name": "lzh",
+            "value": "异常子宫出血"
+        },
+        {
+            "name": "ko",
+            "value": "비정상적인 자궁 출혈",
+            "transliteration": "bijeongsangjeogin jagung chulhyeol"
+        },
+        {
+            "name": "es",
+            "value": "Sangrado uterino anormal"
+        },
+        {
+            "name": "id",
+            "value": "Pendarahan uterus abnormal"
+        },
+        {
+            "name": "ja",
+            "value": "異常な子宮出血",
+            "transliteration": "ijou nani shikyuu shukketsu"
+        }
+    ],
+    "desc": "Bleeding during the month, during a prolonged period, or during an exceptionally heavy period are examples of abnormal uterine bleeding. Polyps, fibroids, hormonal fluctuations, and, in rare instances, cancer are among the potential reasons. ",
+    "desc_lang": [
+        {
+            "name": "tr",
+            "value": "Ay boyunca, uzun bir süre boyunca veya son derece ağır bir süre boyunca kanama, anormal uterin kanamaya örnektir. Polipler, fibroidler, hormonal dalgalanmalar ve nadir durumlarda kanser potansiyel nedenler arasındadır. "
+        },
+        {
+            "name": "ko",
+            "value": "한 달 동안, 오랜 기간 동안 또는 유난히 심한 기간의 출혈은 비정상적인 자궁 출혈의 예입니다. 용종, 자궁 근종, 호르몬 변동, 그리고 드물게는 암이 잠재적인 원인 중 하나입니다. ",
+            "transliteration": "han dalle dongan, oraen gigan dongan ttoneun yunanhi simhan giganui chulhyeoreun bijeongsangjeogin jagung chulhyeorui yeipnida. yongjong, jagung geunjong, hormones byeondong, geurigo deumulgeneun ami jamjaejeogin wonin jiong hanaipnida. "
+        },
+        {
+            "name": "ar",
+            "value": "النزيف خلال الشهر أو خلال فترة طويلة أو خلال فترة ثقيلة بشكل استثنائي هي أمثلة على نزيف الرحم غير الطبيعي. الاورام الحميدة والأورام الليفية والتقلبات الهرمونية ، وفي حالات نادرة ، السرطان هي من بين الأسباب المحتملة. ",
+            "transliteration": "al-nazif khallal al-shahr oa khallal fetra tawela oa khallal fetra thaqaila beshkel stathnai he amthla ola nazif al-rahm ger al-tabiai. al-waram al-humaidah wallauram al-laifiyya waltklepat al-harmoniye ، fafi halat nadire ، sartan he minn pen al-asbab al-mahtamlah. "
+        },
+        {
+            "name": "es",
+            "value": "El sangrado durante el mes, durante un período prolongado o durante un período excepcionalmente abundante son ejemplos de sangrado uterino anormal. Los pólipos, los fibromas, las fluctuaciones hormonales y, en raras ocasiones, el cáncer son algunas de las posibles razones. "
+        },
+        {
+            "name": "ru",
+            "value": "Кровотечения в течение месяца, в течение длительного периода или во время исключительно обильного периода являются примерами аномальных маточных кровотечений. Полипы, миомы, гормональные колебания и, в редких случаях, рак являются одними из потенциальных причин. ",
+            "transliteration": "krovotecheniya vie techeniye mesyatsa, vie techeniye dlitelnogo perioda eli vo vremya isklyuchitelno obilnogo perioda yavlyayutsya primerami anomalous matochnykh krovotecheny. polyp, mioma, gormonalism kolebania yi, vie redkikh sluchayakh, rak yavlyayutsya odnimi iz potentiality prichin. "
+        },
+        {
+            "name": "id",
+            "value": "Pendarahan selama sebulan, selama periode yang berkepanjangan, atau selama periode yang sangat berat adalah contoh perdarahan uterus abnormal. Polip, fibroid, fluktuasi hormon, dan, dalam kasus yang jarang terjadi, kanker adalah salah satu alasan potensial. "
+        },
+        {
+            "name": "de",
+            "value": "Blutungen während des Monats, während eines längeren Zeitraums oder während einer außergewöhnlich starken Periode sind Beispiele für abnormale Gebärmutterblutungen. Polypen, Myome, hormonelle Schwankungen und in seltenen Fällen Krebs gehören zu den möglichen Gründen. "
+        },
+        {
+            "name": "lzh",
+            "value": "是月出血、久出血、异常出血量大异常子宫出血也。 息肉、子宫肌瘤、荷尔蒙波动,于极少数,癌症所以潜也。 "
+        },
+        {
+            "name": "it",
+            "value": "Il sanguinamento durante il mese, durante un periodo prolungato o durante un periodo eccezionalmente abbondante sono esempi di sanguinamento uterino anomalo. Polipi, fibromi, fluttuazioni ormonali e, in rari casi, cancro sono tra le potenziali ragioni. "
+        },
+        {
+            "name": "fr",
+            "value": "Des saignements au cours du mois, pendant une période prolongée ou pendant une période exceptionnellement abondante sont des exemples de saignements utérins anormaux. Les polypes, les fibromes, les fluctuations hormonales et, dans de rares cas, le cancer font partie des raisons potentielles. "
+        }
+    ],
+    "data": [
+        {
+            "name": "symptomps",
+            "list": [
+                {
+                    "name": "What are the signs and symptoms of abnormal uterine bleeding?",
+                    "index": 0,
+                    "desc": "Unusual uterine bleeding can present with a range of symptoms. A few indicators that your bleeding might not be normal are as follows. ",
+                    "pointers": [
+                        "Heavy menstrual bleeding (formerly called menorrhagia).",
+                        "Bleeding at unusual times (between periods, after intercourse).",
+                        "Unusually long periods (seven days or longer).",
+                        "Inconsistent menstrual cycles."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "ما هي علامات وأعراض نزيف الرحم غير الطبيعي?",
+                            "transliteration": "ma he alamat ouarad nazif al-rahm ger al-tabiai?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son los signos y síntomas del sangrado uterino anormal?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Каковы признаки и симптомы аномального маточного кровотечения?",
+                            "transliteration": "kakovy priznaki yi symptoms anomalous matochnogo krovotecheniya?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 자궁 출혈의 징후와 증상은 무엇입니까?",
+                            "transliteration": "bijeongsangjeogin jagung chulhyeorui jinghoua jeungsangeun mueosipnikka?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quels sont les signes et symptômes d’un saignement utérin anormal ?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was sind die Anzeichen und Symptome einer abnormalen Gebärmutterblutung?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 자궁 출혈은 다양한 증상과 함께 나타날 수 있습니다. 출혈이 정상이 아닐 수 있다는 몇 가지 징후는 다음과 같습니다. ",
+                            "transliteration": "bijeongsangjeogin jagung chulhyeoreun dayanghan jeungsanggwa hamkke natanal su issseupnida. chulhyeori jeongsangi anil su issdaneun myeot ghaji jinghuneun daeumgwa gatseupnida. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "非常子宫出血为一系。 以下明君之血,或非其常。 "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Un'insolita emorragia uterina può presentarsi con una serie di sintomi. Alcuni indicatori che indicano che il sanguinamento potrebbe non essere normale sono i seguenti. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Необычное маточное кровотечение может проявляться целым рядом симптомов. Ниже приведены некоторые признаки того, что кровотечение может быть ненормальным. ",
+                            "transliteration": "neobychne matochnoye krovotecheniye moget proyavlyatsya tselym ryadom symptoms. nije priveden necotoria priznaki togo, chto krovotecheniye moget byt nenormality. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "異常な子宮出血は、さまざまな症状を呈する可能性があります。出血が正常ではない可能性があることを示すいくつかの指標は次のとおりです。",
+                            "transliteration": "ijou nani shikyuu shukketsu wa 、 samazama nani shoujou wa teisuru kanosei ga ari masu .shukketsu ga seijou de wa nai kanosei ga aru koto wa shimesu ikutsu ka no shihyou wa ji no toori desu ."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O sangramento uterino incomum pode se apresentar com uma série de sintomas. Alguns indicadores de que seu sangramento pode não ser normal são os seguintes. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "El sangrado uterino inusual puede presentarse con una variedad de síntomas. Algunos indicadores de que su sangrado podría no ser normal son los siguientes. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "نزيف الحيض الثقيل (المعروف سابقا باسم غزارة الطمث).",
+                            "transliteration": "nazif al-hayed al-thakal (maarouf sabeka bassem ghazara al-tamth)."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "非常(月经之间,后)出血。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "长期(7 天或更久)。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "月经大出血(旧名月经多)。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "月经周期不一。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Cycles menstruels irréguliers."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Saignements menstruels abondants (anciennement appelés ménorragie)."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Périodes anormalement longues (sept jours ou plus)."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Blutungen zu ungewöhnlichen Zeiten (zwischen den Perioden, nach dem Geschlechtsverkehr)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Starke Menstruationsblutung (früher Menorrhagie genannt)."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Pendarahan pada waktu yang tidak biasa (antara periode, setelah hubungan seksual)."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Siklus menstruasi yang tidak konsisten."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Periode yang luar biasa panjang (tujuh hari atau lebih)."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Sanguinamento in momenti insoliti (tra le mestruazioni, dopo il rapporto sessuale)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Cicli mestruali incoerenti."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Sanguinamento mestruale abbondante (precedentemente chiamato menorragia)."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "大量の月経出血(以前は月経過多と呼ばれていました)。",
+                            "transliteration": "tairyou no gekkei shukketsu ( izen wa gekkei kata to yoba re te iya mashi ta ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "一貫性のない月経周期。",
+                            "transliteration": "ikkan shou no nai gekkei shuuki ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 시간(생리 사이, 성교 후)에 출혈이 있습니다.",
+                            "transliteration": "bijeongsangjeogin sigan(saengri sai, seonggyo hu)e chulhyeori issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "과다 월경 출혈(이전에는 월경과다라고 함).",
+                            "transliteration": "guada wolgyeong chulhyeol(ijeoneneun wolgyeonggwadarago ham)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정상적으로 긴 기간(7일 이상).",
+                            "transliteration": "bijeongsangjeogeuro gin gigan(7il isang)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "일정하지 않은 생리 주기.",
+                            "transliteration": "iljeonghaji anheun saengri jugi."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Sangramento em momentos incomuns (entre períodos, após a relação sexual)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Ciclos menstruais inconsistentes."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Кровотечения в необычное время (между менструациями, после полового акта).",
+                            "transliteration": "krovotecheniya vie neobychne vremya (mezhdu menstruation, posle polovogo akta)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Обильные менструальные кровотечения (ранее назывались меноррагией).",
+                            "transliteration": "obilnye menstruality krovotecheniya (ranee nazyvalis menorragiei)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Необычно длительные периоды (семь дней и более).",
+                            "transliteration": "neobychno dlitelny period (sem dney yi boleye)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Непостоянство менструальных циклов.",
+                            "transliteration": "nepostoyanstvo menstruality tsiklov."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Períodos inusualmente largos (siete días o más)."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Olağandışı zamanlarda kanama (dönemler arasında, cinsel ilişkiden sonra)."
+                        }
+                    ]
+                },
+                {
+                    "name": "What causes abnormal uterine bleeding?",
+                    "index": 1,
+                    "desc": "A multitude of medical disorders and even stress can be the cause of abnormal uterine bleeding. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "pt",
+                            "value": "O que causa sangramento uterino anormal?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Что вызывает аномальные маточные кровотечения?",
+                            "transliteration": "chto vyzyvaet anomalous matochnye krovotecheniya?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 자궁 출혈의 원인은 무엇입니까?",
+                            "transliteration": "bijeongsangjeogin jagung chulhyeorui wonineun mueosipnikka?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Qu’est-ce qui cause les saignements utérins anormaux ?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以致异?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las causas del sangrado uterino anormal?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "lzh",
+                            "value": "诸医疾病,或有异子宫出血者。 "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Çok sayıda tıbbi bozukluk ve hatta stres anormal uterin kanamanın nedeni olabilir. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Una multitud de trastornos médicos e incluso el estrés pueden ser la causa de un sangrado uterino anormal. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Множество медицинских нарушений и даже стресс могут быть причиной аномальных маточных кровотечений. ",
+                            "transliteration": "mnozestwo meditsynsky narusenii yi dajeh stress mogut byt prichinoy anomalous matochnykh krovotecheny. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "다양한 의학적 장애와 스트레스가 비정상적인 자궁 출혈의 원인이 될 수 있습니다. ",
+                            "transliteration": "dayanghan uihakjeok jangaewa stresga bijeongsangjeogin jagung chulhyeorui wonini doel su issseupnida. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Uma infinidade de distúrbios médicos e até mesmo o estresse podem ser a causa do sangramento uterino anormal. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Hormone imbalances",
+                    "index": 2,
+                    "desc": "Aside from causing abnormal uterine bleeding, overweight people often have hormonal imbalances. ",
+                    "pointers": [
+                        "Anovulation.",
+                        "Thyroid disease.",
+                        "Polycystic ovary syndrome (PCOS)."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "pt",
+                            "value": "Desequilíbrios hormonais"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Hormonelle Ungleichgewichte"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Гормональный дисбаланс",
+                            "transliteration": "gormonalis disbalance"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "호르몬 불균형",
+                            "transliteration": "hormones bulgyun"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Desequilibrios hormonales"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Hormon dengesizlikleri"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "fr",
+                            "value": "En plus de provoquer des saignements utérins anormaux, les personnes en surpoids ont souvent des déséquilibres hormonaux. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 자궁 출혈을 유발하는 것 외에도 과체중인 사람들은 종종 호르몬 불균형을 겪습니다. ",
+                            "transliteration": "bijeongsangjeogin jagung chulhyeoreul yubalhaneun geos oedo gwachejungin saramdeureun jongjong hormones bulgyunhyeongeul gyeokkseupnida. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Помимо того, что люди с избыточным весом вызывают аномальные маточные кровотечения, у них часто наблюдается гормональный дисбаланс. ",
+                            "transliteration": "pomimo togo, chto ludy s izbytochnym vesom vyzyvayutovo anomalous matochnye krovotecheniya, u nikh chasto nablyudaetsya gormonalis disbalance. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "異常な子宮出血を引き起こすだけでなく、太りすぎの人はホルモンバランスが崩れることがよくあります。",
+                            "transliteration": "ijou nani shikyuu shukketsu wa hikiokosu dake de naku 、 futori sugino hito wa hormon baransu ga kuzureru koto ga yoku ari masu ."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Además de causar sangrado uterino anormal, las personas con sobrepeso a menudo tienen desequilibrios hormonales. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "自子宫出血外,超重者常荷尔蒙失调。 "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "متلازمة المبيض المتعدد الكيسات (PCOS).",
+                            "transliteration": "matlazma al-mubaidh elmetadd kissat (PCOS)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "انقطاع التبويض.",
+                            "transliteration": "anqtaa al-tabawid."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "多囊卵巢综合征(PCOS)。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "L’anovulation."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Maladie de la thyroïde."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Syndrome des ovaires polykystiques (SOPK)."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Anovulation."
+                        }
+                    ],
+                    "id_pointers": [],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Anovulazione."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Malattie della tiroide."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Sindrome dell'ovaio policistico (PCOS)."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "甲状腺疾患。",
+                            "transliteration": "koujousen shikkan ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "無排卵。",
+                            "transliteration": "mu hairan ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "무배란.",
+                            "transliteration": "mubaeran."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "갑상선 질환.",
+                            "transliteration": "gapsang jilhwan."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Síndrome dos ovários policísticos (SOP)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Anovulação."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Заболевания щитовидной железы.",
+                            "transliteration": "zabolevania shchitovidnoy zelezy."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Ановуляция.",
+                            "transliteration": "anovulation."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Синдром поликистозных яичников (СПКЯ).",
+                            "transliteration": "syndrome polycistic yaichnikov (spka)."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Síndrome de ovario poliquístico (SOP)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Enfermedad de la tiroides."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Anovulación."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Anovasyon."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tiroid hastalığı."
+                        }
+                    ]
+                },
+                {
+                    "name": "Structural abnormalities in your uterus",
+                    "index": 3,
+                    "desc": "",
+                    "name_lang": [
+                        {
+                            "name": "id",
+                            "value": "Kelainan struktural di rahim Anda"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Anomalie strutturali nell'utero"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Anomalies structurelles dans votre utérus"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Strukturelle Anomalien in Ihrer Gebärmutter"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자궁의 구조적 이상",
+                            "transliteration": "jagungui gujojeok isang"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Структурные аномалии матки",
+                            "transliteration": "structural anomaly matki"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Anomalías estructurales en el útero"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تشوهات هيكلية في الرحم",
+                            "transliteration": "chohat hiklia fe al-rahm"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "子宮の構造異常",
+                            "transliteration": "shikyuu no kouzou ijou"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Rahminizdeki yapısal anormallikler"
+                        }
+                    ],
+                    "desc_lang": [],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Precancer and cancer",
+                    "index": 4,
+                    "desc": "",
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "مقدمات التسرطن والسرطان",
+                            "transliteration": "makdemat al-tisreten walsertan"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Precáncer y cáncer"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Précancer et cancer"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "전암과 암",
+                            "transliteration": "jeonamgwa am"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "前がんおよびがん",
+                            "transliteration": "mae gan oyobi gan"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pré-câncer e câncer"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Предрак и рак",
+                            "transliteration": "predrak yi rak"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kanser öncesi ve kanser"
+                        }
+                    ],
+                    "desc_lang": [],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Infections",
+                    "index": 5,
+                    "desc": "",
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "الالتهابات",
+                            "transliteration": "al-althabat"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Infektionen"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Infecções"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "感"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Infections"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Enfeksiyon"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Инфекций",
+                            "transliteration": "infection"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Infecciones"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "감염",
+                            "transliteration": "gamyeom"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Infeksi"
+                        }
+                    ],
+                    "desc_lang": [],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Other medical conditions",
+                    "index": 6,
+                    "desc": "",
+                    "name_lang": [
+                        {
+                            "name": "fr",
+                            "value": "Autres conditions médicales"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "他医疗"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Otras afecciones médicas"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "その他の病状",
+                            "transliteration": "sonota no byoujou"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "기타 의학적 질환",
+                            "transliteration": "gita uihakjeok jilhwan"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Другие заболевания",
+                            "transliteration": "drugiye zabolevania"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Altre condizioni mediche"
+                        }
+                    ],
+                    "desc_lang": [],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Medications",
+                    "index": 7,
+                    "desc": "",
+                    "name_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Лекарства",
+                            "transliteration": "lekarstva"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "薬",
+                            "transliteration": "yaku"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Medicamentos"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Ilaç"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "药物"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "약물",
+                            "transliteration": "yakmul"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Medicamentos"
+                        }
+                    ],
+                    "desc_lang": [],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Retained foreign bodies and trauma",
+                    "index": 8,
+                    "desc": "An IUD infection and irregular bleeding can result from forgetting to remove it. Moreover, bleeding may result from uterine trauma brought on by an injury. ",
+                    "name_lang": [
+                        {
+                            "name": "de",
+                            "value": "Zurückgehaltene Fremdkörper und Traumata"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Задержка инородных тел и травмы",
+                            "transliteration": "zaderzhka inorode tel yi travma"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "잔류된 이물질 및 외상",
+                            "transliteration": "janryudoen imuljil mukgye osang"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tutulan yabancı cisimler ve travma"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "異物の保持と外傷",
+                            "transliteration": "ibutsu no hoji to gaishou"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Corpi estranei trattenuti e traumi"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "pt",
+                            "value": "Uma infecção pelo DIU e sangramento irregular podem resultar do esquecimento de removê-lo. Além disso, o sangramento pode resultar de trauma uterino provocado por uma lesão. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "IUDの感染や不正出血は、IUDの除去を忘れたことが原因です。さらに、外傷による子宮外傷による出血もあります。",
+                            "transliteration": "iud no kansen ya fusei shukketsu wa 、 iud no jokyo wa wasure ta koto ga genin desu .sarani 、 gaishou niyoru shikyuu gaishou niyoru shukketsu mo ari masu ."
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "内节育器染不规则血,疑忘出内节育器也。 此外,衄血或由伤子宫也。 "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Une infection du stérilet et des saignements irréguliers peuvent résulter de l’oubli de l’enlever. De plus, les saignements peuvent résulter d’un traumatisme utérin provoqué par une blessure. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "IUD 감염 및 불규칙한 출혈은 IUD를 제거하는 것을 잊어버렸을 때 발생할 수 있습니다. 또한 부상으로 인한 자궁 외상으로 인해 출혈이 발생할 수 있습니다. ",
+                            "transliteration": "IUD gamyeom mukgye bulgyuchikhan chulhyeoreun IUDreul jegeohaneun geoseul ijeobeoryeosseul ttae balsaenghal su issseupnida. ttohan busangeuro inhan jagung oesangeuro inhae chulhyeori balsaenghal su issseupnida. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Инфекция ВМС и нерегулярное кровотечение могут возникнуть из-за того, что вы забыли ее удалить. Кроме того, кровотечение может возникнуть в результате травмы матки, вызванной травмой. ",
+                            "transliteration": "infection vms yi neregulary krovotecheniye mogut vozniknut iz-saa togo, chto vy zabyli eye udalit. krome togo, krovotecheniye moget vozniknut vie resultate travma matki, vyzvannoy travmoy. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Eine Spiralinfektion und unregelmäßige Blutungen können die Folge sein, wenn vergessen wird, sie zu entfernen. Darüber hinaus können Blutungen durch ein Gebärmuttertrauma verursacht werden, das durch eine Verletzung hervorgerufen wurde. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Infeksi IUD dan perdarahan yang tidak teratur dapat terjadi akibat lupa untuk menghapusnya. Selain itu, perdarahan dapat terjadi akibat trauma rahim yang disebabkan oleh cedera. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Una infección por DIU y sangrado irregular pueden ser el resultado de olvidarse de quitárselo. Además, el sangrado puede ser el resultado de un traumatismo uterino provocado por una lesión. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "diagnosis",
+            "list": [
+                {
+                    "name": "How is abnormal uterine bleeding diagnosed?",
+                    "index": 0,
+                    "desc": "In an attempt to diagnose abnormal uterine bleeding, your healthcare provider will question you on a number of occasions. After asking these possible questions, your healthcare provider will perform a physical examination, which might include:. ",
+                    "pointers": [
+                        "What brings on the bleeding?",
+                        "What other symptoms are you experiencing?",
+                        "Are you pregnant?",
+                        "A pelvic exam.",
+                        "A cervical exam.",
+                        "A Pap smear (Pap test)."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se diagnostica el sangrado uterino anormal?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "異常な子宮出血はどのように診断されますか?",
+                            "transliteration": "ijou nani shikyuu shukketsu wa dono you ni shindan sa re masu ka ?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以候子宫出血?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come viene diagnosticato il sanguinamento uterino anormale?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как диагностируется аномальное маточное кровотечение?",
+                            "transliteration": "kak diagnostiruetsya anomalism matochnoye krovotecheniye?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Anormal uterin kanama nasıl teşhis edilir?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 자궁 출혈은 어떻게 진단하나요?",
+                            "transliteration": "bijeongsangjeogin jagung chulhyeoreun eotteohge jindanhanayo?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "it",
+                            "value": "Nel tentativo di diagnosticare un'emorragia uterina anomala, il tuo medico ti interrogherà in diverse occasioni. Dopo aver posto queste possibili domande, il medico eseguirà un esame fisico, che potrebbe includere:. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Na tentativa de diagnosticar sangramento uterino anormal, seu médico irá questioná-lo em várias ocasiões. Depois de fazer essas possíveis perguntas, seu médico realizará um exame físico, que pode incluir:. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "異常な子宮出血を診断するために、医療提供者は何度もあなたに質問します。これらの可能な質問をした後、医療提供者は以下を含む可能性のある身体検査を行います。",
+                            "transliteration": "ijou nani shikyuu shukketsu wa shindan suru tame ni 、 iryou teikyou mono wa nani do mo anata ni shitsumon shi masu .korera no kanou nani shitsumon wa shi ta go 、 iryou teikyou mono wa ika wa fukumu kanosei no aru shintai kensa wa ikai masu ."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Чтобы диагностировать аномальное маточное кровотечение, ваш медицинский сотрудник будет задавать вам вопросы в нескольких случаях. После того, как вы зададите эти возможные вопросы, ваш медицинский сотрудник проведет медицинский осмотр, который может включать: ",
+                            "transliteration": "chtoby diagnostirovate anomalism matochnoye krovotecheniye, vas meditsynsky sotrudnik budet zadavat vam voprosy vie nescolcich sluchayakh. posle togo, kak vy zadadite ethy vozmozhnye voprosy, vas meditsynsky sotrudnik provedet meditsynsky osmotrum, kotory moget vklyuchat: "
+                        },
+                        {
+                            "name": "es",
+                            "value": "En un intento de diagnosticar un sangrado uterino anormal, su proveedor de atención médica la interrogará en varias ocasiones. Después de hacer estas posibles preguntas, su proveedor de atención médica realizará un examen físico, que podría incluir: "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 자궁 출혈을 진단하기 위해 의료진은 여러 차례 환자에게 질문할 것입니다. 이러한 가능한 질문을 한 후 의료 제공자는 다음을 포함할 수 있는 신체 검사를 수행할 것입니다. ",
+                            "transliteration": "bijeongsangjeogin jagung chulhyeoreul jindanhagi wihae uiryojineun yeoreo charye hwanjaege jilmunhal geosipnida. ireohan ganeunghan jilmuneul han hu air jegongjaneun daeumeul pohamhal su issneun shinche geomsareul suhaenghal geosipnida. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "ما الذي يسبب النزيف؟",
+                            "transliteration": "ma al-dhay jaspeb al-nazife"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "مسحة عنق الرحم (اختبار عنق الرحم).",
+                            "transliteration": "mesha ang al-rahm (akhtabar ang al-rahm)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "فحص عنق الرحم.",
+                            "transliteration": "fahs ang al-rahm."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "宫颈检。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "你还有甚么他?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何谓出血?"
+                        }
+                    ],
+                    "fr_pointers": [],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Ein Pap-Abstrich (Pap-Test)."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Eine Untersuchung des Beckens."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Eine Untersuchung des Gebärmutterhalses."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Apa gejala lain yang Anda alami?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Pemeriksaan panggul."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Un esame pelvico."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali altri sintomi stai riscontrando?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Un Pap test (Pap test)."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "出血の原因は何ですか?",
+                            "transliteration": "shukketsu no genin wa nani desu ka ?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "他にどのような症状がありますか?",
+                            "transliteration": "hoka ni dono you nani shoujou ga ari masu ka ?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "パパニコロウ塗抹標本(パパニコロウテスト)。",
+                            "transliteration": "papa nikolow tomatsu hyohon ( papa nikolow test ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "子宮頸部検査。",
+                            "transliteration": "shikyuu keibu kensa ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "骨盤検査。",
+                            "transliteration": "kotsuban kensa ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "妊娠してるの?",
+                            "transliteration": "ninshin shi teru no ?"
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "출혈을 일으키는 원인은 무엇입니까?",
+                            "transliteration": "chulhyeoreul ireukineun wonineun mueosipnikka?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "골반 검사.",
+                            "transliteration": "golban geomsa."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자궁 경부 검사.",
+                            "transliteration": "jagung gyeongbu geomsa."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자궁경부암 검사(Pap 검사).",
+                            "transliteration": "jagung geomsa(Pap geomsa)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "어떤 다른 증상이 나타나고 있습니까?",
+                            "transliteration": "eotteon dareun jeungsangi natanago issseupnikka?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "임신 중이신가요?",
+                            "transliteration": "imsin jungisingayo?"
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Um exame pélvico."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que provoca o sangramento?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Está grávida?"
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Вы беременны?",
+                            "transliteration": "vy beremenny?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Гинекологический осмотр.",
+                            "transliteration": "gynecological osmotrum."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Мазок Папаниколау (мазок Папаниколау).",
+                            "transliteration": "mazok papanicolau (mazok papanicolau)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Что вызывает кровотечение?",
+                            "transliteration": "chto vyzyvaet krovotecheniye?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Осмотр шейки матки.",
+                            "transliteration": "osmotrum shakey matki."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "¿Qué provoca la hemorragia?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Un examen cervical."
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Qué otros síntomas estás experimentando?"
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Pap smear (Pap testi)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Hamile misin?"
+                        }
+                    ]
+                },
+                {
+                    "name": "What tests will be done to diagnose this condition?",
+                    "index": 1,
+                    "desc": "When diagnosing irregular uterine bleeding, your healthcare provider may prescribe a number of tests or procedures. Among these tests are possibly:. ",
+                    "pointers": [
+                        "A pregnancy test. A miscarriage causes heavy bleeding. You can test positive on a pregnancy test up to 35 days after a miscarriage. Light bleeding is also common in the early stages of pregnancy.",
+                        "Blood tests. Your provider can check how your blood clots and do a complete blood count.",
+                        "A thyroid test. Problems with your thyroid function may be a sign that there is also a problem with your ovary function that could be causing your bleeding.",
+                        "Hormone levels test. Hormone imbalances may be causing your abnormal bleeding, or they may be a sign of a condition causing your bleeding.",
+                        "A hysteroscopic exam of your uterus lining (endometrium). This test checks for fibroids, polyps or signs of cancer.",
+                        "A pelvic ultrasound. Imaging allows your provider to check for any growths in your reproductive organs that may be causing your bleeding. A sonohysterogram, also called saline-infusion sonography, is a highly sensitive imaging procedure that can help your provider identify abnormal structures in your uterus, like polpys or fibroids.",
+                        "A biopsy of your endometrium. Your provider can collect tissue samples from your uterus lining and check for signs of cancer or pre-cancer cells."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "pt",
+                            "value": "Quais exames serão feitos para diagnosticar essa condição?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Qué pruebas se realizarán para diagnosticar esta afección?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali test verranno eseguiti per diagnosticare questa condizione?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Bu durumu teşhis etmek için hangi testler yapılacak?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이 상태를 진단하기 위해 어떤 검사를 수행합니까?",
+                            "transliteration": "i sangtaereul jindanhagi wihae eotteon geomsareul suhaenghapnikka?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Какие анализы будут сделаны, чтобы диагностировать это состояние?",
+                            "transliteration": "kakie analysis budut sdelany, chtoby diagnostirovate eto sostoyaniye?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "この状態を診断するためにどのような検査が行われますか?",
+                            "transliteration": "kono joutai wa shindan suru tame ni dono you nani kensa ga okonawa re masu ka ?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "将何以验之?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tes apa yang akan dilakukan untuk mendiagnosis kondisi ini?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "es",
+                            "value": "Al diagnosticar el sangrado uterino irregular, su proveedor de atención médica puede recetarle una serie de pruebas o procedimientos. Entre estas pruebas se encuentran, posiblemente: "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "子宫出血不规则,君医疗保健提供者或试或程。 其试曰:。 "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "불규칙한 자궁 출혈을 진단할 때 의사는 여러 가지 검사나 시술을 처방할 수 있습니다. 이러한 테스트 중에는 다음과 같은 것이 있습니다. ",
+                            "transliteration": "bulgyuchikhan jagung chulhyeoreul jindanhal ttae uisaneun yeoreo ghaji geomsana sisureul cheobanghal su issseupnida. ireohan test jungeneun daeumgwa gateun geosi issseupnida. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Bei der Diagnose einer unregelmäßigen Gebärmutterblutung kann Ihr Arzt eine Reihe von Tests oder Verfahren verschreiben. Zu diesen Tests gehören möglicherweise:. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quando si diagnostica un'emorragia uterina irregolare, il medico può prescrivere una serie di test o procedure. Tra questi test ci sono possibilmente:. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Düzensiz uterin kanamayı teşhis ederken, sağlık uzmanınız bir dizi test veya prosedür önerebilir. Bu testler arasında muhtemelen: "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "不規則な子宮出血を診断する場合、医療提供者はいくつかの検査または手順を処方する場合があります。これらのテストの中には、おそらく次のものがあります。",
+                            "transliteration": "fukisoku nani shikyuu shukketsu wa shindan suru baai 、 iryou teikyou mono wa ikutsu ka no kensa mataha tejun wa shohou suru baai ga ari masu .korera no test no naka ni wa 、 osoraku ji no mono ga ari masu ."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "При диагностировании нерегулярных маточных кровотечений ваш медицинский сотрудник может назначить ряд анализов или процедур. Среди этих тестов возможны: ",
+                            "transliteration": "pri diagnostiridae neregulary matochnykh krovotecheny vas meditsynsky sotrudnik moget naznachit ryad analyzov eli protsedur. sredi etich testov vozmozhny: "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "血验。 医务人员可以验血凝块而尽血细胞数也。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "妊娠试之。 流产大出血。 君可于流产后 35 天内于孕中检阳。 微出血在孕早期亦常见。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Une échographie pelvienne. L’imagerie permet à votre professionnel de la santé de vérifier s’il y a des excroissances dans vos organes reproducteurs qui pourraient être à l’origine de vos saignements. Une échohystérographie, également appelée échographie par perfusion saline, est une procédure d’imagerie très sensible qui peut aider votre fournisseur à identifier les structures anormales de votre utérus, comme les polpys ou les fibromes."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Un examen hystéroscopique de la muqueuse utérine (endomètre). Ce test vérifie la présence de fibromes, de polypes ou de signes de cancer."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Ein Schilddrüsentest. Probleme mit Ihrer Schilddrüsenfunktion können ein Zeichen dafür sein, dass es auch ein Problem mit Ihrer Eierstockfunktion gibt, das Ihre Blutung verursachen könnte."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Test des Hormonspiegels. Hormonstörungen können Ihre abnormalen Blutungen verursachen oder ein Zeichen für eine Erkrankung sein, die Ihre Blutung verursacht."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "USG panggul. Pencitraan memungkinkan penyedia Anda untuk memeriksa setiap pertumbuhan di organ reproduksi Anda yang mungkin menyebabkan perdarahan Anda. Sonohysterogram, juga disebut sonografi saline-infus, adalah prosedur pencitraan yang sangat sensitif yang dapat membantu penyedia Anda mengidentifikasi struktur abnormal di rahim Anda, seperti polpys atau fibroid."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tes darah. Penyedia Anda dapat memeriksa bagaimana pembekuan darah Anda dan melakukan penghitungan darah lengkap."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tes kehamilan. Keguguran menyebabkan pendarahan hebat. Anda dapat melakukan tes positif pada tes kehamilan hingga 35 hari setelah keguguran. Pendarahan ringan juga sering terjadi pada tahap awal kehamilan."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tes kadar hormon. Ketidakseimbangan hormon dapat menyebabkan perdarahan abnormal Anda, atau mereka mungkin merupakan tanda dari suatu kondisi yang menyebabkan perdarahan Anda."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Biopsi endometrium Anda. Penyedia Anda dapat mengumpulkan sampel jaringan dari lapisan rahim Anda dan memeriksa tanda-tanda kanker atau sel-sel pra-kanker."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Tes tiroid. Masalah dengan fungsi tiroid Anda mungkin merupakan tanda bahwa ada juga masalah dengan fungsi ovarium Anda yang dapat menyebabkan perdarahan Anda."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Una biopsia dell'endometrio. Il medico può raccogliere campioni di tessuto dal rivestimento dell'utero e verificare la presenza di segni di cellule tumorali o precancerose."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Un esame isteroscopico del rivestimento dell'utero (endometrio). Questo test verifica la presenza di fibromi, polipi o segni di cancro."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Un test della tiroide. I problemi con la funzione tiroidea possono essere un segno che c'è anche un problema con la funzione ovarica che potrebbe causare il sanguinamento."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Test dei livelli ormonali. Gli squilibri ormonali possono causare il sanguinamento anomalo o possono essere un segno di una condizione che causa il sanguinamento."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "子宮内膜の生検。プロバイダーは、子宮内膜から組織サンプルを採取し、がんまたは前がん細胞の兆候を確認できます。",
+                            "transliteration": "shikyuu uchi maku no seiken .provider wa 、 shikyuu uchi maku kara soshiki sample wa saishu shi 、 gan mataha mae gan saibou no choukou wa kakunin deki masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "甲状腺検査。甲状腺機能の問題は、出血の原因となる可能性のある卵巣機能にも問題がある兆候である可能性があります。",
+                            "transliteration": "koujousen kensa .koujousen kinou no mondai wa 、 shukketsu no genin to naru kanosei no aru ransou kinou ni mo mondai ga aru choukou de aru kanosei ga ari masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "妊娠検査薬。流産は大量出血を引き起こします。妊娠検査薬で陽性反応が出るのは、流産後35日以内です。妊娠初期には軽い出血もよく見られます。",
+                            "transliteration": "ninshin kensa yaku .ryuuzan wa tairyou shukketsu wa hikiokoshi masu .ninshin kensa yaku de yousei hanno ga deru no wa 、 ryuuzan go 35nichi inai desu .ninshin shoki ni wa karui shukketsu mo yoku mi ra re masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ホルモンレベルテスト。ホルモンバランスの乱れが異常な出血を引き起こしている可能性がありますし、出血の原因となっている状態の兆候である場合もあります。",
+                            "transliteration": "hormon level test .hormon baransu no midare ga ijou nani shukketsu wa hikiokoshi te iru kanosei ga ari masu shi 、 shukketsu no genin to natsu te iru joutai no choukou de aru baai mo ari masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "血液検査。プロバイダーは、血栓がどのようになるかを確認し、全血球数を行うことができます。",
+                            "transliteration": "ketsueki kensa .provider wa 、 kessen ga dono you ni naru ka wa kakunin shi 、 zen kekkyuu suu wa okonau koto ga deki masu ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "자궁 내막(자궁내막)의 자궁경 검사. 이 검사는 자궁근종, 용종 또는 암의 징후를 확인합니다.",
+                            "transliteration": "jagung naemak(jagungnae)yoo jagung geomsa. i geomsaneun jagunggeun, yongjong ttoneun amui jinghureul hwaginhapnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "임신 테스트기. 유산은 과다 출혈을 일으킨다. 유산 후 최대 35일까지 임신 테스트기에서 양성 판정을 받을 수 있습니다. 가벼운 출혈은 임신 초기에도 흔하다.",
+                            "transliteration": "imsin testgi. yusaneun guada chulhyeoreul ilkinda. yusan hu choedae 35ilkkaji imsin testgiesse yangseong panjeongeul badeul su issseupnida. gabyeoun chulhyeoreun imsin chogiedo heunhada."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자궁 내막의 생검. 의료진은 자궁 내벽에서 조직 샘플을 채취하여 암 또는 전암 세포의 징후를 확인할 수 있습니다.",
+                            "transliteration": "jagung naemagui sangam. uiryojineun jagung naebyeogeseo jojik saempeureul chaechwihayeo am ttoneun jeonam sepo jinghureul hwaginhal su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "골반 초음파. 영상 촬영을 통해 의료진은 출혈을 유발할 수 있는 생식 기관의 성장을 확인할 수 있습니다. 식염수 주입 초음파라고도 하는 초음파 자궁 조영술은 의사가 자궁 내 비정상적인 구조(예: 식염수 또는 자궁근종)를 식별하는 데 도움이 될 수 있는 매우 민감한 영상 절차입니다.",
+                            "transliteration": "golban choeumpa. yeongsang chwaryeongeul tonghae uiryojineun chulhyeoreul yubalhal su issneun saengsik gigwan seongjangeul hwaginhal su issseupnida. sigyeomsu joip chomparagodo haneun choeumpa jagung joyeongsureun uisaga jagung no bijeongsangjeogin gujo(yeah: sigyeomsu ttoneun jagunggeun)reul sikbyeolhaneun de doumi doel su issneun maewu mingamhan yeongsang julchaipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "혈액 검사. 의사는 혈액 응고 상태를 확인하고 전체 혈구 수를 계산할 수 있습니다.",
+                            "transliteration": "hyeoraek geomsa. uisaneun hyeoraek eungo sangtaereul hwaginhago jeonche hyeolgu sureul gyesanhal su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "호르몬 수치 검사. 호르몬 불균형이 비정상적인 출혈을 유발하거나 출혈을 유발하는 질환의 징후일 수 있습니다.",
+                            "transliteration": "hormones succi geomsa. hormones bulgyunhyeongi bijeongsangjeogin chulhyeoreul yubalhageona chulhyeoreul yubalhaneun jilhwanui jinghouil su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "갑상선 검사. 갑상선 기능에 문제가 있다는 것은 출혈을 유발할 수 있는 난소 기능에 문제가 있다는 신호일 수 있습니다.",
+                            "transliteration": "gapsang geomsa. gapsang gineunge munjega issdaneun geoseun chulhyeoreul yubalhal su issneun nanso gineunge munjega issdaneun shenhayle su issseupnida."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Exames de sangue. O seu médico pode verificar como o seu sangue coagula e fazer um hemograma completo."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Um ultrassom pélvico. A imagem permite que seu médico verifique se há crescimentos em seus órgãos reprodutivos que possam estar causando seu sangramento. Um sono-histerograma, também chamado de ultrassonografia de infusão de soro fisiológico, é um procedimento de imagem altamente sensível que pode ajudar o médico a identificar estruturas anormais no útero, como polpias ou miomas."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Teste de níveis hormonais. Desequilíbrios hormonais podem estar causando seu sangramento anormal, ou eles podem ser um sinal de uma condição que causa seu sangramento."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Um teste de tireoide. Problemas com a função tireoidiana podem ser um sinal de que também há um problema com a função do ovário que pode estar causando seu sangramento."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Биопсия эндометрия. Врач может взять образцы тканей со слизистой оболочки матки и проверить наличие признаков рака или предраковых клеток.",
+                            "transliteration": "biopsy endometrics. vrach moget vzyat obraztsy tkanei so slizistoy obolochki matki yi proverite nalichie priznakov raka eli predrakovykh kletok."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "УЗИ органов малого таза. Визуализация позволяет врачу проверить наличие новообразований в репродуктивных органах, которые могут вызывать кровотечение. Соногистерограмма, также называемая сонографией с инфузией физиологического раствора, представляет собой высокочувствительную процедуру визуализации, которая может помочь врачу выявить аномальные структуры в матке, такие как полиома или миома.",
+                            "transliteration": "uzy organov malogo taza. visualization pozvolyayet vraciu proverite nalichie novoobrazovany vie reproductive organach, kotorye mogut vyzyvat krovotecheniye. sonogysterogram, takze nazivayemaya sonography s infusion physiological rastvora, predstavlyaet soboy vysokochuvstvitelnuyu protseduru visoilization, kotoraya moget pomoch vraciu viaviti anomalous structures vie matke, takiye kak polyoma eli mioma."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Анализ на уровень гормонов. Гормональный дисбаланс может быть причиной аномального кровотечения или признаком состояния, вызывающего кровотечение.",
+                            "transliteration": "analysis na uroven gormonov. gormonalis disbalance moget byt prichinoy anomalous krovotecheniya eli priznakom sostoyaniya, vyzyvayushchego krovotecheniye."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Анализы крови. Ваш врач может проверить, как свертывается кровь, и сделать общий анализ крови.",
+                            "transliteration": "analysis krovi. vas vrach moget proverite, kak svertivoetsya krov, yi sdelat obshchiy analysis krovi."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Исследование щитовидной железы. Проблемы с функцией щитовидной железы могут быть признаком того, что есть проблемы с функцией яичников, которые могут вызывать кровотечение.",
+                            "transliteration": "issledovaniye shchitovidnoy zelezy. problems s function shchitovidnoy zelezy mogut byt priznakom togo, chto yest problems s function yaichnikov, kotorye mogut vyzyvat krovotecheniye."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Гистероскопический осмотр слизистой оболочки матки (эндометрия). Этот тест проверяет наличие миомы, полипов или признаков рака.",
+                            "transliteration": "gysteroscopy osmotrum slizistoy obolochki matki (endometrics). ethot test proveriaete nalichie mioma, polipov eli priznakov raka."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Prueba de niveles hormonales. Los desequilibrios hormonales pueden estar causando su sangrado anormal o pueden ser un signo de una afección que causa su sangrado."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Una biopsia del endometrio. El proveedor de atención médica puede recolectar muestras de tejido del revestimiento del útero y verificar si hay signos de cáncer o células precancerosas."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Una ecografía pélvica. Las pruebas de diagnóstico por imágenes le permiten al proveedor de atención médica verificar si hay algún crecimiento en los órganos reproductivos que pueda estar causando el sangrado. Una sonohisterografía, también llamada ecografía de infusión de solución salina, es un procedimiento de diagnóstico por imágenes de alta sensibilidad que puede ayudar al proveedor de atención médica a identificar estructuras anormales en el útero, como polpias o fibromas."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Análisis de sangre. Su proveedor puede revisar cómo coagula su sangre y hacer un hemograma completo."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Un examen histeroscópico del revestimiento del útero (endometrio). Esta prueba verifica si hay fibromas, pólipos o signos de cáncer."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Una prueba de embarazo. Un aborto espontáneo causa sangrado abundante. Puedes dar positivo en una prueba de embarazo hasta 35 días después de un aborto espontáneo. El sangrado leve también es común en las primeras etapas del embarazo."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Pelvik ultrason. Görüntüleme, sağlayıcınızın üreme organlarınızda kanamanıza neden olabilecek herhangi bir büyüme olup olmadığını kontrol etmesini sağlar. Salin infüzyon sonografisi olarak da adlandırılan bir sonohisterogram, sağlayıcınızın rahminizdeki polpiler veya fibroidler gibi anormal yapıları tanımlamasına yardımcı olabilecek oldukça hassas bir görüntüleme prosedürüdür."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kan testleri. Doktorunuz kanınızın nasıl pıhtılaştığını kontrol edebilir ve tam kan sayımı yapabilir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Rahim astarınızın (endometriyum) histeroskopik muayenesi. Bu test fibroidleri, polipleri veya kanser belirtilerini kontrol eder."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Endometriyumunuzun biyopsisi. Sağlayıcınız rahim astarınızdan doku örnekleri toplayabilir ve kanser belirtilerini veya kanser öncesi hücreleri kontrol edebilir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Hormon seviyeleri testi. Hormon dengesizlikleri anormal kanamanıza neden olabilir veya kanamanıza neden olan bir durumun işareti olabilir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tiroid testi. Tiroid fonksiyonunuzla ilgili sorunlar, yumurtalık fonksiyonunuzla ilgili kanamanıza neden olabilecek bir sorun olduğunun bir işareti olabilir."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "treatment",
+            "list": [
+                {
+                    "name": "How is abnormal uterine bleeding treated?",
+                    "index": 0,
+                    "desc": "Whichever is causing your bleeding will determine how you will be treated. You can manage your bleeding or treat the underlying cause of it with medications and surgical options. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "كيف يتم علاج نزيف الرحم غير الطبيعي؟",
+                            "transliteration": "keef yetem allaj nazif al-rahm ger al-tabiaie"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "何以治子宫出血?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 자궁 출혈은 어떻게 치료하나요?",
+                            "transliteration": "bijeongsangjeogin jagung chulhyeoreun eotteohge chiryohanayo?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как лечится аномальное маточное кровотечение?",
+                            "transliteration": "kak lechitsya anomalism matochnoye krovotecheniye?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Anormal uterin kanama nasıl tedavi edilir?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "es",
+                            "value": "Cualquiera que sea la causa de su sangrado determinará cómo será tratado. Puede controlar su sangrado o tratar la causa subyacente con medicamentos y opciones quirúrgicas. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "출혈의 원인이 무엇이냐에 따라 치료 방법이 결정됩니다. 출혈을 관리하거나 약물 및 수술 옵션으로 출혈의 근본적인 원인을 치료할 수 있습니다. ",
+                            "transliteration": "chulhyeorui wonini mueosinyae ttara chiryo bangbeopi gyeoljeongdoepnida. chulhyeoreul gwanrihageona yakmul mukgye susul opsyeoneuro chulhyeorui geunbonjeogin wonineul chiryohal su issseupnida. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "どちらがあなたの出血を引き起こしているかによって、あなたがどのように治療されるかが決まります。出血を管理したり、投薬や外科的オプションで出血の根本的な原因を治療したりできます。",
+                            "transliteration": "dochira ga anata no shukketsu wa hikiokoshi te iru ka niyotte 、 anata ga dono you ni chiryou sa reru ka ga kimari masu .shukketsu wa kanri shi tari 、 touyaku ya geka teki option de shukketsu no konpon teki nani genin wa chiryou shi tari deki masu ."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quelle que soit la cause de votre saignement, elle déterminera la façon dont vous serez traité. Vous pouvez gérer votre saignement ou en traiter la cause sous-jacente avec des médicaments et des options chirurgicales. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que quer que esteja causando seu sangramento determinará como você será tratado. Você pode gerenciar seu sangramento ou tratar a causa subjacente dele com medicamentos e opções cirúrgicas. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "От того, что вызывает кровотечение, будет зависеть, как вас будут лечить. Вы можете контролировать кровотечение или лечить его основную причину с помощью лекарств и хирургического вмешательства. ",
+                            "transliteration": "ot togo, chto vyzyvaet krovotecheniye, budet zaviset, kak vas budut lechit. vy mozhete counterster krovotecheniye eli lechit ego osnovnuyu prichinu s pomoshchyu lecarstview yi chirurgical vmeshatelstva. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was auch immer Ihre Blutung verursacht, bestimmt, wie Sie behandelt werden. Sie können Ihre Blutung in den Griff bekommen oder die zugrunde liegende Ursache mit Medikamenten und chirurgischen Optionen behandeln. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kanamanıza neden olan hangisi size nasıl davranılacağını belirleyecektir. Kanamanızı yönetebilir veya altta yatan nedeni ilaçlar ve cerrahi seçeneklerle tedavi edebilirsiniz. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "Medications",
+                    "index": 1,
+                    "desc": "Adverse uterine bleeding can be treated with the following medications:. ",
+                    "pointers": [
+                        "Birth control pills.",
+                        "Progestin (can be given by a shot, implant or device placed in your uterus called an IUD).",
+                        "Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen (Advil®, Motrin®).",
+                        "Gonadotropin-releasing hormone (GnRH) agonists can temporarily stop or reduce bleeding by preventing ovulation.",
+                        "Gonadotropin-releasing hormone (GnRH) antagonists (elagolix®) can manage heavy period bleeding related to fibroids."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Лекарства",
+                            "transliteration": "lekarstva"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Farmaci"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Medicamentos"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Medikamente"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Ilaç"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "药物"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Medicamentos"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "الادويه",
+                            "transliteration": "al-adwayh"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "약물",
+                            "transliteration": "yakmul"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "薬",
+                            "transliteration": "yaku"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Неблагоприятные маточные кровотечения можно лечить с помощью следующих медикаментов: ",
+                            "transliteration": "neblagopriative matochnye krovotecheniya mozno lechit s pomoshchyu sleduyushchikh medicament: "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "يمكن علاج نزيف الرحم الضار بالأدوية التالية:. ",
+                            "transliteration": "yamken allaj nazif al-rahm al-dhar baladoya al-taliya:. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "El sangrado uterino adverso se puede tratar con los siguientes medicamentos: "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O sangramento uterino adverso pode ser tratado com os seguintes medicamentos:. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Olumsuz uterin kanama aşağıdaki ilaçlarla tedavi edilebilir: "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "有害な子宮出血は、以下の薬で治療できます。",
+                            "transliteration": "yuugai nani shikyuu shukketsu wa 、 ika no yaku de chiryou deki masu ."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자궁 출혈은 다음과 같은 약물로 치료할 수 있습니다. ",
+                            "transliteration": "jagung chulhyeoreun daeumgwa gateun yakmullo chiryohal su issseupnida. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Unerwünschte Gebärmutterblutungen können mit den folgenden Medikamenten behandelt werden:. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "يمكن لمضادات الهرمون المطلق لموجهة الغدد التناسلية (GnRH) (elagolix®) إدارة نزيف الدورة الشهرية الغزير المرتبط بالأورام الليفية.",
+                            "transliteration": "yamken lemdadat al-harmon mutalliq lamoujaha alghdd al-tanaslia (GnRH) (elagolix®) idara nazif al-doura chehria al-ghazir al-mortabat balauram al-laifiyya."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "孕激素(可因注射、植入物置子宫中者(名曰宫内节育器)药)。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Progestatif (peut être administré par une injection, un implant ou un dispositif placé dans votre utérus appelé DIU)."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Les anti-inflammatoires non stéroïdiens (AINS), tels que l’ibuprofène (Advil®, Motrin®)."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Gonadotropin-Releasing-Hormon (GnRH)-Antagonisten (Elagolix®) können starke Regelblutungen im Zusammenhang mit Myomen behandeln."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Nichtsteroidale Antirheumatika (NSAR), wie Ibuprofen (Advil®, Motrin®)."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Pil KB."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Obat antiinflamasi nonsteroid (NSAID), seperti ibuprofen (Advil®, Motrin®)."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Progestinico (può essere somministrato tramite un'iniezione, un impianto o un dispositivo inserito nell'utero chiamato IUD)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Farmaci antinfiammatori non steroidei (FANS), come l'ibuprofene (Advil®, Motrin®)."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Pillole anticoncezionali."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "経口避妊薬。",
+                            "transliteration": "keikou hinin yaku ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ゴナドトロピン放出ホルモン(GnRH)拮抗薬(エラゴリクス®)は、子宮筋腫に関連する大量の月経出血を管理することができます。",
+                            "transliteration": "gonadtropin houshutsu hormon ( gnrh ) kikkou yaku ( era gori kusu ® ) wa 、 shikyuu kinshu ni kanren suru tairyou no gekkei shukketsu wa kanri suru koto ga deki masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "プロゲスチン(注射、インプラント、またはIUDと呼ばれる子宮内に配置されたデバイスによって投与できます)。",
+                            "transliteration": "progestin ( chuusha 、 in plant 、 mataha iud to yoba reru shikyuu uchi ni haichi sa re ta device niyotte touyo deki masu ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "ゴナドトロピン放出ホルモン(GnRH)アゴニストは、排卵を防ぐことにより、一時的に出血を止めたり、減らしたりすることができます。",
+                            "transliteration": "gonadtropin houshutsu hormon ( gnrh ) agonist wa 、 hairan wa fusegu koto niyori 、 ichiji teki ni shukketsu wa tome tari 、 herashi tari suru koto ga deki masu ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "프로게스틴(주사, 임플란트 또는 IUD라고 하는 자궁에 삽입된 장치로 투여할 수 있음).",
+                            "transliteration": "progestine(jusa, implantitis ttoneun IUDrago haneun jagunge sabipdoen jangchiro tuyeohal su isseum)."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "성선 자극 호르몬 방출 호르몬(GnRH) 작용제는 배란을 방지하여 출혈을 일시적으로 멈추거나 줄일 수 있습니다.",
+                            "transliteration": "seongseon jageuk hormones bangchul hormones(GnRH) jakyongjeneun baeraneul bangjihayeo chulhyeoreul ilsijeogeuro meomchugeona juril su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "성선 자극 호르몬 방출 호르몬(GnRH) 길항제(엘라골릭스®)는 자궁근종과 관련된 과다한 생리 출혈을 관리할 수 있습니다.",
+                            "transliteration": "seongseon jageuk hormones bangchul hormones(GnRH) gilhang(elragolyx®)neun jagunggeunjonggwa gwanryeondoen gwadahan saengri chulhyeoreul kwanrihal su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "피임약.",
+                            "transliteration": "piimyak."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비스테로이드성 항염증제(NSAID)인 이부프로펜(Advil®, Motrin®).",
+                            "transliteration": "bisteroid hangyeom(NSAID)in ibuprofen(Advil®, Motrin®)."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Os antagonistas do hormônio liberador de gonadotrofinas (GnRH) (elagolix®) podem controlar o sangramento do período intenso relacionado aos miomas."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Os agonistas do hormônio liberador de gonadotrofinas (GnRH) podem interromper ou reduzir temporariamente o sangramento, prevenindo a ovulação."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pílulas anticoncepcionais."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Anti-inflamatórios não esteroidais (AINEs), como o ibuprofeno (Advil®, Motrin®)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Progesterona (pode ser dada por um tiro, implante ou dispositivo colocado em seu útero chamado DIU)."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Противозачаточные таблетки.",
+                            "transliteration": "protivosaciatic tabletki."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Прогестин (может быть введен с помощью укола, имплантата или устройства, помещенного в матку, называемого ВМС).",
+                            "transliteration": "progestine (moget byt vveden s pomoshchyu ukola, implantata eli ustroistva, pomeshchennogo vie matku, nazivayemogo vms)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Нестероидные противовоспалительные препараты (НПВП), такие как ибупрофен (Адвил®, Мотрин®).",
+                            "transliteration": "nesteroidea protivovospalitelnye preparates (npwp), takiye kak ibuprofen (advil®, motrin®)."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Píldoras anticonceptivas."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Medicamentos antiinflamatorios no esteroideos (AINE), como el ibuprofeno (Advil®, Motrin®)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Progestina (se puede administrar mediante una inyección, un implante o un dispositivo que se coloca en el útero llamado DIU)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los agonistas de la hormona liberadora de gonadotropina (GnRH, por sus siglas en inglés) pueden detener o reducir temporalmente el sangrado al prevenir la ovulación."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los antagonistas de la hormona liberadora de gonadotropina (GnRH, por sus siglas en inglés) (elagolix®) pueden controlar el sangrado menstrual abundante relacionado con los fibromas."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Gonadotropin salgılatıcı hormon (GnRH) agonistleri yumurtlamayı önleyerek kanamayı geçici olarak durdurabilir veya azaltabilir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Doğum kontrol hapları."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Progestin (rahminize yerleştirilen RİA adı verilen bir atış, implant veya cihazla verilebilir)."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "İbuprofen (Advil®, Motrin®) gibi steroid olmayan antienflamatuar ilaçlar (NSAID'ler)."
+                        }
+                    ]
+                },
+                {
+                    "name": "Surgery",
+                    "index": 2,
+                    "desc": "To address abnormal uterine bleeding, various procedures are available. Find out how frequently a certain procedure is carried out by your provider. Recovering more quickly and with fewer complications is usually the result of visiting a provider who does the procedure frequently. ",
+                    "pointers": [
+                        "Hysteroscopy. A procedure where your provider removes atypical structures in your uterus, like fibroids and polyps.",
+                        "Uterine artery embolization. Stops blood flow to fibroids, causing them to shrink.",
+                        "Myomectomy. Removes fibroids while keeping your uterus intact and preserving your ability to get pregnant and have children.",
+                        "Endometrial ablation. Destroys your uterus lining through the use of a laser, heat, electricity, microwave energy or freezing. You shouldn't have this procedure if you want to get pregnant and have children.",
+                        "Hysterectomy. Removes your uterus. Hysterectomy is often used to treat cancer or cancerous changes in your endometrium. Advanced stages of cancer may need radiation or chemotherapy."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "id",
+                            "value": "Bedah"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Chirurgia"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Cirugía"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Ameliyat"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Chirurgie"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Cirurgia"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "手术"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Chirurgie"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "جراحة",
+                            "transliteration": "graha"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Хирургия",
+                            "transliteration": "khirurgiya"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "手術",
+                            "transliteration": "shujutsu"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "외과",
+                            "transliteration": "ogwa"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "lzh",
+                            "value": "为解子宫血,可用诸程序。 知医务人员行某项手术之数。 复之益疾,并发症益少,常视手术之提供者也。 "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Para tratar o sangramento uterino anormal, vários procedimentos estão disponíveis. Descubra com que frequência um determinado procedimento é realizado pelo seu provedor. A recuperação mais rápida e com menos complicações costuma ser resultado de uma visita a um profissional que faz o procedimento com frequência. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Para tratar el sangrado uterino anormal, hay varios procedimientos disponibles. Averigüe con qué frecuencia su proveedor lleva a cabo un determinado procedimiento. La recuperación más rápida y con menos complicaciones suele ser el resultado de visitar a un proveedor que realiza el procedimiento con frecuencia. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "비정상적인 자궁 출혈을 해결하기 위해 다양한 시술이 가능합니다. 제공자가 특정 절차를 얼마나 자주 수행하는지 알아보십시오. 더 빨리 회복하고 합병증을 줄이는 것은 일반적으로 시술을 자주 하는 제공자를 방문한 결과입니다. ",
+                            "transliteration": "bijeongsangjeogin jagung chulhyeoreul haegyeolhagi wihae dayanghan sisuri ganeunghapnida. jegongjaga teukjeong jeolchareul eolmana jaju suhaenghaneunji arabosipsio. de ppalli hoebokhago hapbyeongjeungeul jurineun geoseun ilbanjeogeuro sisureul jaju haneun jegongjareul bangmunhan gyeolgwaibnida. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "لمعالجة نزيف الرحم غير الطبيعي ، تتوفر إجراءات مختلفة. تعرف على عدد المرات التي يتم فيها تنفيذ إجراء معين من قبل مزودك. عادة ما يكون التعافي بسرعة أكبر وبمضاعفات أقل نتيجة لزيارة مقدم الخدمة الذي يقوم بالإجراء بشكل متكرر. ",
+                            "transliteration": "lamalija nazif al-rahm ger al-tabiai ، tetuver egraat makhtalfa. tarf ola aded marrat alti yetem feha tenvidh igraa moein minn qabel mazudak. adeh ma yakon al-tafi besraa akbar wobmedaavat akal natija leziara mokaddam al-khudma al-dhay yikom balijra beshkel mitkrar. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Anormal uterin kanamayı gidermek için çeşitli prosedürler mevcuttur. Sağlayıcınız tarafından belirli bir prosedürün ne sıklıkta gerçekleştirildiğini öğrenin. Daha hızlı ve daha az komplikasyonla iyileşmek, genellikle prosedürü sık sık yapan bir sağlayıcıyı ziyaret etmenin sonucudur. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "تنظير الرحم. إجراء يزيل فيه مزودك التراكيب غير النمطية في الرحم، مثل الأورام الليفية والسلائل.",
+                            "transliteration": "tanzir al-rahm. igraa yezel veh mazudak al-turakib ger namtiya fe al-rahman methel al-awram al-laifiyya walslael."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "子宫切除术。 切除子宫。 子宫切除术常以治子宫内膜癌症癌变。 晚癌症须放疗化疗。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "子宫动脉栓塞术。 止血流肌瘤,肌瘤缩小。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "子宫肌瘤切除术。 切除子宫肌瘤,兼全子宫,有孕子之力。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "子宫内膜消融术。 用激光、热、电、微波、冷冻以坏子宫内膜。 汝欲孕及生子,汝不宜为此手术。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Hystérectomie. Enlève votre utérus. L’hystérectomie est souvent utilisée pour traiter le cancer ou les changements cancéreux de l’endomètre. Les stades avancés du cancer peuvent nécessiter une radiothérapie ou une chimiothérapie."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Ablation de l’endomètre. Détruit la muqueuse utérine par l’utilisation d’un laser, de la chaleur, de l’électricité, de l’énergie micro-ondes ou de la congélation. Vous ne devriez pas subir cette procédure si vous voulez tomber enceinte et avoir des enfants."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Embolisation der Gebärmutterarterie. Stoppt den Blutfluss zu den Myomen, wodurch sie schrumpfen."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Hysteroskopie. Ein Verfahren, bei dem Ihr Arzt atypische Strukturen in Ihrer Gebärmutter wie Myome und Polypen entfernt."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Histerektomi. Menghapus rahim Anda. Histerektomi sering digunakan untuk mengobati kanker atau perubahan kanker pada endometrium Anda. Kanker stadium lanjut mungkin memerlukan radiasi atau kemoterapi."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Ablasi endometrium. Menghancurkan lapisan rahim Anda melalui penggunaan laser, panas, listrik, energi gelombang mikro atau pembekuan. Anda tidak harus memiliki prosedur ini jika Anda ingin hamil dan memiliki anak."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Embolisasi arteri uterus. Menghentikan aliran darah ke fibroid, menyebabkan mereka menyusut."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Histeroskopi. Prosedur di mana penyedia Anda menghilangkan struktur atipikal di rahim Anda, seperti fibroid dan polip."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Isteroscopia. Una procedura in cui il medico rimuove le strutture atipiche nell'utero, come fibromi e polipi."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "子宮鏡検査。プロバイダーが子宮筋腫やポリープなどの子宮内の非定型構造を除去する手順。",
+                            "transliteration": "shikyuu kagami kensa .provider ga shikyuu kinshu ya polipu nado no shikyuu uchi no hi teikei kouzou wa jokyo suru tejun ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "筋腫摘出術。子宮を無傷に保ち、妊娠して子供を産む能力を維持しながら、子宮筋腫を取り除きます。",
+                            "transliteration": "kinshu tekishutsu jutsu .shikyuu wa mukizu ni tamochi 、 ninshin shi te kodomo wa umu nouryoku wa iji shi nagara 、 shikyuu kinshu wa torinozoki masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "子宮摘出。子宮を摘出します。子宮摘出術は、子宮内膜のがんまたはがん性変化の治療によく使用されます。進行期のがんには、放射線療法や化学療法が必要な場合があります。",
+                            "transliteration": "shikyuu tekishutsu .shikyuu wa tekishutsu shi masu .shikyuu tekishutsu jutsu wa 、 shikyuu uchi maku no gan mataha gan shou henka no chiryou ni yoku shiyou sa re masu .shinko ki no gan ni wa 、 houshasen ryouhou ya kagaku ryouhou ga hitsuyo nani baai ga ari masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "子宮動脈塞栓術。子宮筋腫への血流を止め、子宮筋腫を収縮させます。",
+                            "transliteration": "shikyuu doumyaku soku sen jutsu .shikyuu kinshu he no chi ryuu wa tome 、 shikyuu kinshu wa shuushuku sa se masu ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "자궁내막 절제술. 레이저, 열, 전기, 마이크로파 에너지 또는 냉동을 사용하여 자궁 내벽을 파괴합니다. 임신을 하고 아이를 낳고 싶다면 이 시술을 받아서는 안 된다.",
+                            "transliteration": "jagungnae jeoljesul. reije, yeol, jeongi, microwave eneoji ttoneun naengdongeul sayonghayeo jagung naebyeogeul pagohapnida. imsineul hago aireul nahgo sipdamyeon i sisureul badaseoneun anne doenda."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자궁경 검사. 제공자가 자궁근종과 용종과 같은 자궁의 비정형 구조를 제거하는 절차입니다.",
+                            "transliteration": "jagung geomsa. jegongjaga jagunggeunjonggwa yongjong gateun jagungui bijing gujoreul jegeohaneun julchaipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자궁 동맥 색전술. 자궁근종으로 가는 혈류를 막아 자궁근종을 수축시킵니다.",
+                            "transliteration": "jagung dongmaek saekjeonsul. jagunggeunjongeuro ganeun hyeollyureul maga jagunggeunjongeul suchuksikipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자군 절제. 자궁을 제거합니다. 자궁 절제술은 종종 암이나 자궁 내막의 암 변화를 치료하는 데 사용됩니다. 암이 상당히 진행된 경우에는 방사선 치료나 화학 요법이 필요할 수 있습니다.",
+                            "transliteration": "jagun jeolje. jagungeul jegeohapnida. jagung jeoljesureun jongjong amina jagung naemagui am byeonhwareul chiryohaneun de sayongdoepnida. ami sangdanghi jinhaengdoen gyeongueneun bangsa chiryona hwahak yobeopi piryohal su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "자궁근종절제술. 자궁근종을 제거하면서 자궁을 온전하게 유지하고 임신과 출산 능력을 보존합니다.",
+                            "transliteration": "jagunggeunjong. jagunggeunjongeul jegeohamyeonseo jagungeul onjeonhage yujihago imsin chulsan neungryeogeul bojonhapnida."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Embolização das artérias uterinas. Interrompe o fluxo sanguíneo para os miomas, fazendo com que eles encolhem."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Miomectomia. Remove miomas, mantendo o útero intacto e preservando a capacidade de engravidar e ter filhos."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Ablação endometrial. Destrói o revestimento do útero através do uso de laser, calor, eletricidade, energia de micro-ondas ou congelamento. Você não deve fazer esse procedimento se quiser engravidar e ter filhos."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Histerectomia. Remove o útero. A histerectomia é frequentemente usada para tratar câncer ou alterações cancerígenas no endométrio. Estágios avançados de câncer podem precisar de radioterapia ou quimioterapia."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Histeroscopia. Um procedimento em que o médico remove estruturas atípicas do útero, como miomas e pólipos."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Миомэктомия. Удаляет миому, сохраняя матку нетронутой и сохраняя способность забеременеть и иметь детей.",
+                            "transliteration": "myomectomy. udalyayet miomu, sochraniai matku netronutoi yi sochraniai sposobity zaberemenet yi imet detey."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Эмболизация маточных артерий. Останавливает приток крови к миоме, заставляя ее уменьшаться.",
+                            "transliteration": "embolization matochnykh arterius. ostanavlivaet pritok krovi k miome, zastavlya eye umienszatsia."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Гистероскопия. Процедура, при которой врач удаляет атипичные структуры матки, такие как миомы и полипы.",
+                            "transliteration": "gysteroscopy. protsedura, pri kotoroy vrach udalyayet atypical structures matki, takiye kak mioma yi polyp."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Абляция эндометрия. Разрушает слизистую оболочку матки с помощью лазера, тепла, электричества, микроволновой энергии или замораживания. Вам не следует делать эту процедуру, если вы хотите забеременеть и иметь детей.",
+                            "transliteration": "ablation endometrics. razrushayet slizistuyu obolochku matki s pomoshchyu lazera, tepla, electricity, microvolic energy eli zamorazyvanya. vam nay sledweth delat etu protseduru, esli vy khotite zaberemenet yi imet detey."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Гистерэктомия. Удаляет матку. Гистерэктомия часто используется для лечения рака или раковых изменений эндометрия. На поздних стадиях рака может потребоваться лучевая или химиотерапия.",
+                            "transliteration": "gysterectomy. udalyayet matku. gysterectomy chasto espolzuetsa dla lecheniya raka eli rakovykh izmeneny endometrics. na pozdnih stadiach raka moget potrebovatsya luchevaya eli chymyotherapy."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Ablación endometrial. Destruye el revestimiento del útero mediante el uso de un láser, calor, electricidad, energía de microondas o congelación. No debe someterse a este procedimiento si desea quedar embarazada y tener hijos."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Embolización de la arteria uterina. Detiene el flujo sanguíneo a los fibromas, lo que hace que se encojan."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Histerectomía. Extirpa el útero. La histerectomía se usa a menudo para tratar el cáncer o los cambios cancerosos en el endometrio. Los estadios avanzados del cáncer pueden necesitar radiación o quimioterapia."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Histeroscopia. Procedimiento en el que el proveedor de atención médica extirpa estructuras atípicas del útero, como fibromas y pólipos."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Endometrial ablasyon. Lazer, ısı, elektrik, mikrodalga enerjisi veya dondurma yoluyla rahim astarınızı tahrip eder. Hamile kalmak ve çocuk sahibi olmak istiyorsanız bu işlemi yaptırmamalısınız."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Miyomektomi. Rahminizi sağlam tutarken ve hamile kalma ve çocuk sahibi olma yeteneğinizi korurken fibroidleri giderir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Uterin arter embolizasyonu. Miyomlara kan akışını durdurarak küçülmelerine neden olur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "prognosis",
+            "list": [
+                {
+                    "name": "What can I expect if I have this condition?",
+                    "index": 0,
+                    "desc": "Depending on what is causing your bleeding, your diagnosis procedure and available treatments will vary. Several factors, such as your age, symptoms, and risk factors for certain conditions that cause abnormal bleeding, will be taken into account by your provider when making a diagnosis. Based on your medical history and physical examination, your provider can customize your care plan, including treatment options and diagnostics. ",
+                    "name_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Чего я могу ожидать, если у меня есть это заболевание?",
+                            "transliteration": "chego ya mogu ozhidat, esli u menia yest eto zabolevaniye?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "如我有之,我何期焉?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما الذي يمكن أن أتوقعه إذا كنت أعاني من هذه الحالة؟",
+                            "transliteration": "ma al-dhay yamken an atugaah idha kent aani minn huthe al-halat"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa yang dapat saya harapkan jika saya memiliki kondisi ini?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "À quoi puis-je m’attendre si je souffre de cette maladie ?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이 질환이 있는 경우 무엇을 기대할 수 있습니까?",
+                            "transliteration": "i jilhwani issneun gyeongu mueoseul gidaehal su issseupnikka?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "この状態の場合、何が期待できますか?",
+                            "transliteration": "kono joutai no baai 、 nani ga kitai deki masu ka ?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Qué puedo esperar si tengo esta afección?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O que posso esperar se eu tiver essa condição?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Cosa posso aspettarmi se ho questa condizione?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "id",
+                            "value": "Tergantung pada apa yang menyebabkan perdarahan Anda, prosedur diagnosis dan perawatan yang tersedia akan bervariasi. Beberapa faktor, seperti usia, gejala, dan faktor risiko untuk kondisi tertentu yang menyebabkan perdarahan abnormal, akan diperhitungkan oleh penyedia Anda ketika membuat diagnosis. Berdasarkan riwayat kesehatan dan pemeriksaan fisik Anda, penyedia Anda dapat menyesuaikan rencana perawatan Anda, termasuk pilihan perawatan dan diagnostik. "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "출혈의 원인에 따라 진단 절차와 사용 가능한 치료법이 달라집니다. 비정상적인 출혈을 유발하는 특정 질환에 대한 연령, 증상 및 위험 요인과 같은 여러 요인은 진단을 내릴 때 제공자가 고려할 것입니다. 귀하의 병력 및 신체 검사에 따라 제공자는 치료 옵션 및 진단을 포함하여 귀하의 치료 계획을 맞춤화할 수 있습니다. ",
+                            "transliteration": "chulhyeorui wonine ttara jindan jeolchawa sayong ganeunghan chiryobeopi dallajipnida. bijeongsangjeogin chulhyeoreul yubalhaneun teukjeong jilhwane dahan yeonryeong, jeungsang mukgye wihham yoingwa gateun yeoreo yoineun jindaneul naeril ttae jegongjaga goryeohal geosipnida. guha byeongryeok mukgye shinche geomsae ttara jegongjaneun chiryo opsion mukgye jindaneul pohamhayeo guha chiryo gyehoegeul majchumhwahal su issseupnida. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "В зависимости от того, что вызывает кровотечение, процедура диагностики и доступные методы лечения будут различаться. Несколько факторов, таких как ваш возраст, симптомы и факторы риска определенных состояний, вызывающих аномальное кровотечение, будут приняты во внимание вашим врачом при постановке диагноза. Основываясь на вашей истории болезни и медицинском осмотре, ваш врач может составить для вас индивидуальный план лечения, включая варианты лечения и диагностики. ",
+                            "transliteration": "vie zavisimosti ot togo, chto vyzyvaet krovotecheniye, protsedura diagnostics yi dostupnye method lecheniya budut razlichatsya. neskolko factors, takikh kak vas vozrast, symptoms yi factor riska opredelennykh sostoyany, vyzyvayushchikh anomalism krovotecheniye, budut prinyaty vo vnimanie vashim vrachom pri postanovka diagnosis. osnovyvayas na vashey australian bolezny yi meditsinsky osmotre, vas vrach moget sostavit dla vas individual plan lecheniya, vklyuchaya variantes lecheniya yi diagnostics. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "A seconda di ciò che sta causando il sanguinamento, la procedura di diagnosi e i trattamenti disponibili variano. Diversi fattori, come l'età, i sintomi e i fattori di rischio per determinate condizioni che causano sanguinamento anomalo, saranno presi in considerazione dal medico quando si effettua una diagnosi. In base all'anamnesi e all'esame obiettivo, il medico può personalizzare il piano di cura, comprese le opzioni di trattamento e la diagnostica. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "اعتمادا على سبب النزيف ، سيختلف إجراء التشخيص والعلاجات المتاحة. سيتم أخذ العديد من العوامل ، مثل عمرك والأعراض وعوامل الخطر لبعض الحالات التي تسبب نزيفا غير طبيعي ، في الاعتبار من قبل مزودك عند إجراء التشخيص. بناء على تاريخك الطبي والفحص البدني، يمكن لمقدم الرعاية الخاص بك تخصيص خطة الرعاية الخاصة بك، بما في ذلك خيارات العلاج والتشخيص. ",
+                            "transliteration": "aetmada ola sebeb al-nazif ، sechetlev igraa al-tashkhis oualagat mataha. setem akhth al-adid minn al-awamil ، methel omerik al-araradh wawamil al-khatir labaad al-halat alti tespeb nazeva ger tabiai ، fe al-atbar minn qabel mazudak and igraa al-tashkhis. banaa ola tarejk al-tabi walfihs al-budnie yamken lamghadam al-raya al-khas beck takhsis khatta al-raya al-khassa puke pama fe delk khiarat al-allage walchkhis. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Je nachdem, was Ihre Blutung verursacht, variieren Ihr Diagnoseverfahren und die verfügbaren Behandlungen. Mehrere Faktoren, wie z. B. Ihr Alter, Symptome und Risikofaktoren für bestimmte Erkrankungen, die abnormale Blutungen verursachen, werden von Ihrem Arzt bei der Diagnose berücksichtigt. Basierend auf Ihrer Krankengeschichte und körperlichen Untersuchung kann Ihr Arzt Ihren Behandlungsplan anpassen, einschließlich Behandlungsoptionen und Diagnose. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "所以出血者,其治不同。 诊之时,医务人员虑数因,如君之年状血出之险也。 以子之病史体格检查,医务人员可以定君之计,兼治方诊。 "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Kanamanıza neyin sebep olduğuna bağlı olarak, teşhis prosedürünüz ve mevcut tedavileriniz değişecektir. Yaşınız, semptomlarınız ve anormal kanamaya neden olan belirli durumlar için risk faktörleri gibi çeşitli faktörler, tanı koyarken sağlayıcınız tarafından dikkate alınacaktır. Tıbbi geçmişinize ve fizik muayenenize dayanarak, sağlayıcınız tedavi seçenekleri ve teşhisler dahil olmak üzere bakım planınızı özelleştirebilir. "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Dependendo do que está causando seu sangramento, seu procedimento de diagnóstico e tratamentos disponíveis variam. Vários fatores, como sua idade, sintomas e fatores de risco para certas condições que causam sangramento anormal, serão levados em conta pelo seu médico ao fazer um diagnóstico. Com base em seu histórico médico e exame físico, seu provedor pode personalizar seu plano de cuidados, incluindo opções de tratamento e diagnósticos. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        }
+    ]
+}

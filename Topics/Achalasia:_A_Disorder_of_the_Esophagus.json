@@ -1,0 +1,1838 @@
+{
+    "title": "Achalasia: A Disorder of the Esophagus",
+    "title_lang": [
+        {
+            "name": "ru",
+            "value": "Ахалазия: заболевание пищевода",
+            "transliteration": "achalasia: zabolevaniye pishchevoda"
+        },
+        {
+            "name": "lzh",
+            "value": "贲门:食道"
+        },
+        {
+            "name": "tr",
+            "value": "Akalazya: Özofagus Bozukluğu"
+        },
+        {
+            "name": "es",
+            "value": "Acalasia: un trastorno del esófago"
+        },
+        {
+            "name": "ar",
+            "value": "تعذر الارتخاء: اضطراب في المريء",
+            "transliteration": "tudhar alartakha: adtrab fe al-maria"
+        },
+        {
+            "name": "de",
+            "value": "Achalasie: Eine Erkrankung der Speiseröhre"
+        },
+        {
+            "name": "ja",
+            "value": "アカラシア:食道の障害",
+            "transliteration": "akara sia : shokudou no shougai"
+        },
+        {
+            "name": "fr",
+            "value": "L’achalasie : un trouble de l’œsophage"
+        },
+        {
+            "name": "ko",
+            "value": "무릎 상태: 식도 장애",
+            "transliteration": "mureup sangtae: sikdo jang"
+        },
+        {
+            "name": "pt",
+            "value": "Acalásia: Um distúrbio do esôfago"
+        }
+    ],
+    "desc": "In the uncommon condition known as achalasia, malfunctioning nerves in the esophagus hinder normal function. Your stomach cannot accept food because of the muscles at the bottom of your esophagus. Heartburn, chest discomfort, and difficulty swallowing are among the symptoms. Treatment choices range from nonsurgical (such as balloon dilation, medication, and Botox injections) to surgical. ",
+    "desc_lang": [
+        {
+            "name": "tr",
+            "value": "Akalazya olarak bilinen nadir görülen durumda, yemek borusundaki hatalı çalışan sinirler normal işlevi engeller. Yemek borunuzun altındaki kaslar nedeniyle mideniz yiyecekleri kabul edemez. Mide ekşimesi, göğüste rahatsızlık ve yutma güçlüğü belirtiler arasındadır. Tedavi seçenekleri cerrahi olmayandan (balon dilatasyonu, ilaç tedavisi ve Botoks enjeksiyonları gibi) cerrahiye kadar değişir. "
+        },
+        {
+            "name": "es",
+            "value": "En la afección poco común conocida como acalasia, el mal funcionamiento de los nervios del esófago dificulta el funcionamiento normal. El estómago no puede aceptar alimentos debido a los músculos de la parte inferior del esófago. La acidez estomacal, las molestias en el pecho y la dificultad para tragar se encuentran entre los síntomas. Las opciones de tratamiento van desde no quirúrgicas (como la dilatación con balón, medicamentos e inyecciones de Botox) hasta quirúrgicas. "
+        },
+        {
+            "name": "de",
+            "value": "Bei der seltenen Erkrankung, die als Achalasie bekannt ist, behindern defekte Nerven in der Speiseröhre die normale Funktion. Ihr Magen kann aufgrund der Muskeln am Boden Ihrer Speiseröhre keine Nahrung aufnehmen. Sodbrennen, Brustbeschwerden und Schluckbeschwerden gehören zu den Symptomen. Die Behandlungsmöglichkeiten reichen von nicht-chirurgischen (z. B. Ballondilatation, Medikamente und Botox-Injektionen) bis hin zu chirurgischen Eingriffen. "
+        },
+        {
+            "name": "it",
+            "value": "Nella condizione non comune nota come acalasia, i nervi malfunzionanti nell'esofago ostacolano la normale funzione. Lo stomaco non può accettare il cibo a causa dei muscoli nella parte inferiore dell'esofago. Bruciore di stomaco, fastidio al petto e difficoltà a deglutire sono tra i sintomi. Le scelte terapeutiche vanno da quelle non chirurgiche (come la dilatazione con palloncino, i farmaci e le iniezioni di Botox) a quelle chirurgiche. "
+        },
+        {
+            "name": "ar",
+            "value": "في الحالة غير الشائعة المعروفة باسم تعذر الارتخاء ، تعيق الأعصاب المعطلة في المريء الوظيفة الطبيعية. لا تستطيع معدتك قبول الطعام بسبب العضلات الموجودة في أسفل المريء. حرقة المعدة وعدم الراحة في الصدر وصعوبة البلع هي من بين الأعراض. تتراوح خيارات العلاج من غير الجراحية (مثل توسيع البالون والأدوية وحقن البوتوكس) إلى الجراحة. ",
+            "transliteration": "fe al-halah ger al-shaea maaroufa bassem tudhar alartakha ، taik al-asab maatla fe al-maria al-wadhifa al-tabiaia. la testatio madtak qabbol al-tam bespep al-adlat mojoda fe asfel al-maria. haraka maada wadem al-rahah fe al-sadr wassoba al-bala he minn pen al-arad. tatraweh khiarat al-allage minn ger al-jarahia (methel toussia albalon waladoya wahkin al-butukis) elly al-jaraha. "
+        },
+        {
+            "name": "pt",
+            "value": "Na condição incomum conhecida como acalásia, o mau funcionamento dos nervos no esôfago dificulta a função normal. Seu estômago não pode aceitar alimentos por causa dos músculos na parte inferior do esôfago. Azia, desconforto torácico e dificuldade para engolir estão entre os sintomas. As opções de tratamento variam de não cirúrgico (como dilatação por balão, medicação e injeções de Botox) a cirúrgico. "
+        },
+        {
+            "name": "ko",
+            "value": "이완불능증으로 알려진 드문 질환에서는 식도의 신경이 오작동하여 정상적인 기능을 방해합니다. 위는 식도 바닥의 근육 때문에 음식을 받아들일 수 없습니다. 속 쓰림, 흉부 불편감, 삼킴 곤란 등이 증상 중 하나입니다. 치료법은 비수술적(풍선 확장술, 약물 치료, 보톡스 주사 등)에서 수술까지 다양합니다. ",
+            "transliteration": "iwanbulneung allyeojin demun jilhwaneseoneun sikdo singyeongi ojakdonghayeo jeongsangjeogin gineungeul banghaehapnida. wineun sikdo badagui geunyuk ttaemune eumsigeul batadeuril su eopsseupnida. sock ssrim, hyungbu bulpyeongam, samkim gonran deungi jeungsang jiong hanaipnida. chiryobeopeun bisusuljeok(pungson hwakjangsul, yakmul chiryo, botox jusa deung)esau susulkkaji dayanghapnida. "
+        },
+        {
+            "name": "ja",
+            "value": "アカラシアとして知られるまれな状態では、食道の神経の機能不全が正常な機能を妨げます。胃が食べ物を受け入れることができないのは、食道の底の筋肉のせいです。胸焼け、胸の不快感、嚥下困難などの症状があります。治療法の選択肢は、非外科的(バルーン拡張、投薬、ボトックス注射など)から外科的まで多岐にわたります。",
+            "transliteration": "akara sia toshite shira reru mare nani joutai de wa 、 shokudou no shinkei no kinou fuzen ga seijou nani kinou wa samatage masu .i ga tabemono wa ukeireru koto ga deki nai no wa 、 shokudou no soko no kinniku no sei desu .muneyake 、 mune no fukai kan 、 gaishita konnan nado no shoujou ga ari masu .chiryou hou no sentakushi wa 、 hi geka teki ( barun kakucho 、 touyaku 、 botx chuusha nado ) kara geka teki made tagi ni watari masu ."
+        },
+        {
+            "name": "fr",
+            "value": "Dans cette affection rare connue sous le nom d’achalasie, des nerfs défectueux dans l’œsophage entravent le fonctionnement normal. Votre estomac ne peut pas accepter de nourriture à cause des muscles situés au fond de votre œsophage. Les brûlures d’estomac, l’inconfort thoracique et la difficulté à avaler font partie des symptômes. Les choix de traitement vont du non chirurgical (comme la dilatation par ballonnet, les médicaments et les injections de Botox) au chirurgical. "
+        },
+        {
+            "name": "ru",
+            "value": "При редком состоянии, известном как ахалазия, неправильно функционирующие нервы в пищеводе препятствуют нормальному функционированию. Ваш желудок не может принимать пищу из-за мышц в нижней части пищевода. Среди симптомов — изжога, дискомфорт в груди и затрудненное глотание. Варианты лечения варьируются от нехирургических (например, баллонная дилатация, лекарства и инъекции ботокса) до хирургических. ",
+            "transliteration": "pri redcomb sostoyania, izvestnom kak achalasia, nepravilno functionirie nerve vie pishchevode prepetstvuyut normalnomou functioniridae. vas zheludok nay moget prinimat pischu iz-saa mysztz vie nizhney chasti pishchevoda. sredi symptoms — izzhoga, discomfort vie grudy yi zatrudnennoye glotanie. variantes lecheniya varyiruyutsya ot nechirurgical (naprimer, ballonnaya dilatation, lekarstva yi inection botoxa) do cherurgical. "
+        },
+        {
+            "name": "lzh",
+            "value": "贲失弛缓症之奇疾,食道神经功能障碍阻常功。 食道底之肉,胃不得食。 胃灼热胸不便吞咽困难一也。 治自非手术(球囊张、药物、肉毒杆菌毒素注射)至手术。 "
+        },
+        {
+            "name": "id",
+            "value": "Dalam kondisi umum yang dikenal sebagai akalasia, saraf yang tidak berfungsi di kerongkongan menghambat fungsi normal. Perut Anda tidak dapat menerima makanan karena otot-otot di bagian bawah kerongkongan Anda. Mulas, ketidaknyamanan dada, dan kesulitan menelan adalah beberapa gejalanya. Pilihan pengobatan berkisar dari nonsurgical (seperti pelebaran balon, obat-obatan, dan suntikan Botox) hingga bedah. "
+        }
+    ],
+    "data": [
+        {
+            "name": "symptomps",
+            "list": [
+                {
+                    "name": "What causes achalasia?",
+                    "index": 0,
+                    "desc": "The reason behind the abnormal contraction and relaxation of your esophageal muscles is unknown. A possible explanation for achalasia is that it is a virus-induced autoimmune disease in which the body targets itself. In the muscle layers of your esophageal walls and at the LES, your immune system targets the nerve cells. For unknown reasons, your nerve cells that regulate your muscles gradually deteriorate. The LES contracts too hard as a result of this. Food and liquids are unable to travel down your esophagus and into your stomach when you have achalasia because the LES is unable to relax. One could inherit an uncommon kind of achalasia. We need to do more research. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "pt",
+                            "value": "O que causa a acalásia?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "アカラシアの原因は何ですか?",
+                            "transliteration": "akara sia no genin wa nani desu ka ?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증의 원인은?",
+                            "transliteration": "iwanbulneungui wonineun?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazya'ya ne sebep olur?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما الذي يسبب تعذر الارتخاء؟",
+                            "transliteration": "ma al-dhay jaspeb tudhar alartakha"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Что вызывает ахалазию?",
+                            "transliteration": "chto vyzyvaet achalasia?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa penyebab akalasia?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quali sono le cause dell'acalasia?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las causas de la acalasia?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "pt",
+                            "value": "A razão por trás da contração anormal e relaxamento de seus músculos esofágicos é desconhecida. Uma possível explicação para a acalásia é que é uma doença autoimune induzida por vírus em que o corpo se ataca a si mesmo. Nas camadas musculares das paredes esofágicas e no LES, o sistema imunológico tem como alvo as células nervosas. Por razões desconhecidas, as células nervosas que regulam os músculos deterioram-se gradualmente. O LES contrai muito duro como resultado disso. Alimentos e líquidos são incapazes de viajar pelo esôfago e entrar no estômago quando você tem acalásia porque o LES é incapaz de relaxar. Pode-se herdar um tipo incomum de acalásia. Precisamos fazer mais pesquisas. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Yemek borusu kaslarınızın anormal kasılması ve gevşemesinin arkasındaki neden bilinmemektedir. Akalazya için olası bir açıklama, vücudun kendisini hedef aldığı virüs kaynaklı bir otoimmün hastalık olmasıdır. Özofagus duvarlarınızın kas katmanlarında ve LES'de, bağışıklık sisteminiz sinir hücrelerini hedef alır. Bilinmeyen nedenlerden dolayı kaslarınızı düzenleyen sinir hücreleriniz yavaş yavaş bozulur. Bunun bir sonucu olarak LES çok fazla daralır. Akalazya olduğunda yiyecek ve sıvılar yemek borunuzdan aşağı ve midenize gidemez, çünkü LES rahatlayamaz. Nadir görülen bir akalazya türü miras alınabilir. Daha fazla araştırma yapmamız gerekiyor. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "食道筋の異常な収縮と弛緩の背後にある理由は不明です。アカラシアの考えられる説明は、体が自分自身を標的とするウイルス誘発性の自己免疫疾患であるということです。食道壁の筋肉層とLESでは、免疫系が神経細胞を標的としています。原因は不明ですが、筋肉を調節する神経細胞は徐々に劣化します。この結果、LESの収縮が激しくなりすぎます。アカラシアの場合、LESがリラックスできないため、食べ物や液体が食道を伝って胃に入ることができません。珍しい種類のアカラシアを受け継ぐことができます。もっと研究が必要です。",
+                            "transliteration": "shokudou suji no ijou nani shuushuku to shikan no haigo ni aru riyuu wa fumei desu .akara sia no kangae rareru setsumei wa 、 tai ga jibun jishin wa hyouteki to suru wiles yuuhatsu shou no jiko meneki shikkan de aru toiu koto desu .shokudou heki no kinniku sou to les de wa 、 meneki kei ga shinkei saibou wa hyouteki to shi te iya masu .genin wa fumei desu ga 、 kinniku wa chousetsu suru shinkei saibou wa suhodoriji ni rekka shi masu .kono kekka 、 les no shuushuku ga hageshiku nari sugi masu .akara sia no baai 、 les ga relax deki nai tame 、 tabemono ya ekitai ga shokudou wa tsutatsu te i ni hairu koto ga deki mase nichi .mezurashii shurui no akara sia wa uketsugu koto ga deki masu .motto kenkyuu ga hitsuyo desu ."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Der Grund für die abnormale Kontraktion und Entspannung der Speiseröhrenmuskulatur ist unbekannt. Eine mögliche Erklärung für Achalasie ist, dass es sich um eine virusinduzierte Autoimmunerkrankung handelt, bei der sich der Körper selbst ins Visier nimmt. In den Muskelschichten Ihrer Speiseröhrenwände und am LES zielt Ihr Immunsystem auf die Nervenzellen ab. Aus unbekannten Gründen verschlechtern sich Ihre Nervenzellen, die Ihre Muskeln regulieren, allmählich. Der LES zieht sich dadurch zu stark zusammen. Nahrung und Flüssigkeiten können bei Achalasie nicht durch die Speiseröhre und in den Magen wandern, da der LES nicht in der Lage ist, sich zu entspannen. Man könnte eine ungewöhnliche Art von Achalasie erben. Wir müssen mehr Forschung betreiben. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "La raison de la contraction et du relâchement anormaux de vos muscles œsophagiens est inconnue. Une explication possible de l’achalasie est qu’il s’agit d’une maladie auto-immune induite par un virus dans laquelle le corps se cible lui-même. Dans les couches musculaires des parois de l’œsophage et au niveau du LES, votre système immunitaire cible les cellules nerveuses. Pour des raisons inconnues, vos cellules nerveuses qui régulent vos muscles se détériorent progressivement. Les ERP contractent trop durement à cause de cela. Les aliments et les liquides ne peuvent pas descendre dans l’œsophage et dans l’estomac lorsque vous souffrez d’achalasie parce que le LES est incapable de se détendre. On peut hériter d’une forme rare d’achalasie. Nous devons faire plus de recherches. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Il motivo dietro la contrazione e il rilassamento anormali dei muscoli esofagei è sconosciuto. Una possibile spiegazione per l'acalasia è che si tratta di una malattia autoimmune indotta da virus in cui il corpo prende di mira se stesso. Negli strati muscolari delle pareti esofagee e nel LES, il sistema immunitario prende di mira le cellule nervose. Per ragioni sconosciute, le cellule nervose che regolano i muscoli si deteriorano gradualmente. Di conseguenza, il LES si contrae troppo duramente. Il cibo e i liquidi non sono in grado di viaggiare lungo l'esofago e nello stomaco quando si ha l'acalasia perché il LES non è in grado di rilassarsi. Si potrebbe ereditare un tipo insolito di acalasia. Dobbiamo fare più ricerca. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Se desconoce la razón detrás de la contracción y relajación anormal de los músculos esofágicos. Una posible explicación para la acalasia es que es una enfermedad autoinmune inducida por virus en la que el cuerpo se ataca a sí mismo. En las capas musculares de las paredes esofágicas y en el EEI, el sistema inmunitario se dirige a las células nerviosas. Por razones desconocidas, las células nerviosas que regulan los músculos se deterioran gradualmente. Como resultado de esto, el EEI se contrae demasiado. Los alimentos y los líquidos no pueden viajar por el esófago hasta el estómago cuando se tiene acalasia porque el EEI no puede relajarse. Uno podría heredar un tipo poco común de acalasia. Necesitamos investigar más. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "食管肉之缩弛者,未之知也。 贲门之失弛者,病毒之免疫性,身以身为期也。 食管壁肉 LES 中,君免疫系统以神经细胞为期。 未知原因,调肉者神经细胞渐恶。 由是LES 缩太甚。 当君有贲门失弛缓症时,食液不得循食道入胃, LES 不得解也。 一人可继一奇失弛缓症。 我们要做更多研究。 "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "식도 근육의 비정상적인 수축과 이완의 원인은 알려져 있지 않습니다. 이완불능증에 대한 가능한 설명은 신체가 스스로를 표적으로 삼는 바이러스에 의한 자가면역 질환이라는 것입니다. 식도 벽의 근육층과 LES에서 면역 체계는 신경 세포를 표적으로 삼습니다. 알 수 없는 이유로 근육을 조절하는 신경 세포가 점차 퇴화합니다. 그 결과 LES가 너무 심하게 수축합니다. 이완불능증이 있는 경우 음식과 액체가 식도를 따라 위장으로 이동할 수 없는데, 이는 이완불능증이 이완되지 않기 때문입니다. 흔하지 않은 종류의 이완불능증을 물려받을 수 있습니다. 우리는 더 많은 연구가 필요합니다. ",
+                            "transliteration": "sikdo geunyukui bijeongsangjeogin suchuk ewan wonineun allyeojyeo issji anhseupnida. iwanbulneunge dahan ganeunghan seolmyeongeun sinchega susuroreul pyojeogeuro samneun baires uihan jagamyeon jilhwaniraneun geosipnida. sikdo byeogui geunyukching LESesau myeonyeok chegyeneun singyeong seporl pyojeogeuro samsupnida. al su eopsneun iyuro geunyugeul jojeolhaneun singyeong sepoga jeomcha tohwahapnida. geu gyeolgwa LESga neomu simhage suchukhapnida. iwanbulneungi issneun gyeongu eumsik acchega sikdoreul ttara wijangeuro idonghal su eopsneunde, ineun iwanbulneungi iwandoeji anki ttaemunipnida. heunhaji anheun jongru iwanbulneungjeungeun mullyeobadeul su issseupnida. urineun de manheun yeonguga piryohapnida. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Причина аномального сокращения и расслабления мышц пищевода неизвестна. Возможное объяснение ахалазии заключается в том, что это вызванное вирусом аутоиммунное заболевание, при котором организм нацеливается на себя. В мышечных слоях стенок пищевода и в НПС иммунная система нацелена на нервные клетки. По неизвестным причинам нервные клетки, регулирующие работу мышц, постепенно разрушаются. В результате этого LES слишком сильно сжимается. Пища и жидкости не могут перемещаться по пищеводу в желудок при ахалазии, потому что НПС не может расслабиться. Можно унаследовать необычный вид ахалазии. Нам нужно провести дополнительные исследования. ",
+                            "transliteration": "prichina anomalous socrascenia yi rasslablenia mysztz pishchevoda neizvestna. vozmozhnoye obyasneniye achalasia zaklyuchayetsya vie tomme, chto eto vyzvannoye virusom autoimmune zabolevaniye, pri kotorom organism natselivaetsya na sebya. vie myshechnykh sloyakh stenok pishchevoda yi vie nps immunnaya systems natselena na nervnye kletki. pau neizvestnym prichinam nervnye kletki, reguliruum rabotu mysztz, postepenno razrushayutsya. vie resultate etogo LES slishkom silno szhimaetsya. piszcza yi zhidkosti nay mogut peremestatsja pau pishchevodou vie zheludok pri achalasia, potomu chto nps nay moget rasslabitsya. mozno unasledovat neobychnyi vid achalasia. nam nuzno provests dopolnitelnye issledovania. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What are the symptoms of achalasia?",
+                    "index": 1,
+                    "desc": "The symptoms of achalasia persist for months or years and develop slowly. A few symptoms are:. ",
+                    "pointers": [
+                        "Trouble swallowing (dysphagia). This is the most common early symptom.",
+                        "Regurgitation of undigested food.",
+                        "Chest pain that comes and goes; pain can be severe.",
+                        "Heartburn.",
+                        "Cough at night",
+                        "Weight loss/malnutrition from difficulty eating. This is a late symptom.",
+                        "Hiccups, difficulty belching (less common symptoms)"
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "lzh",
+                            "value": "贲之失驰者何?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "アカラシアの症状は何ですか?",
+                            "transliteration": "akara sia no shoujou wa nani desu ka ?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazyanın belirtileri nelerdir?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Was sind die Symptome einer Achalasie?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa saja gejala akalasia?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quels sont les symptômes de l’achalasie ?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증의 증상은?",
+                            "transliteration": "iwanbulneungui jeungsangeun?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Каковы симптомы ахалазии?",
+                            "transliteration": "kakovy symptoms achalasia?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هي أعراض تعذر الارتخاء؟",
+                            "transliteration": "ma he aradh tudhar alartakha"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais são os sintomas da acalásia?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son los síntomas de la acalasia?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "de",
+                            "value": "Die Symptome der Achalasie bleiben über Monate oder Jahre bestehen und entwickeln sich langsam. Ein paar Symptome sind:. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "تستمر أعراض تعذر الارتخاء لأشهر أو سنوات وتتطور ببطء. بعض الأعراض هي:. ",
+                            "transliteration": "tistemer aradh tudhar alartakha lashhar oa senouat wattettor babta. baad al-arad he:. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazya semptomları aylarca veya yıllarca devam eder ve yavaş yavaş gelişir. Birkaç belirti şunlardır: "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los síntomas de la acalasia persisten durante meses o años y se desarrollan lentamente. Algunos síntomas son: "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Os sintomas da acalásia persistem por meses ou anos e se desenvolvem lentamente. Alguns sintomas são:. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "アカラシアの症状は数ヶ月または数年持続し、ゆっくりと進行します。いくつかの症状は次のとおりです。",
+                            "transliteration": "akara sia no shoujou wa suu kagetsu mataha suunen jizoku shi 、 yukkuri to shinko shi masu .ikutsu ka no shoujou wa ji no toori desu ."
+                        },
+                        {
+                            "name": "it",
+                            "value": "I sintomi dell'acalasia persistono per mesi o anni e si sviluppano lentamente. Alcuni sintomi sono:. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Симптомы ахалазии сохраняются месяцами или годами и развиваются медленно. Вот несколько симптомов: ",
+                            "transliteration": "symptoms achalasia sokhranyayutsya mesyatsami eli godami yi razvivayutsya medlenno. voth neskolko symptoms: "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "贲门失弛者数月,发展缓慢。 其状曰:。 "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증의 증상은 수개월 또는 수년 동안 지속되며 서서히 진행된다. 몇 가지 증상은 다음과 같습니다. ",
+                            "transliteration": "iwanbulneungui jeungsangeun sogaewol ttoneun sunyeon dongan jisokdoemyeo sussahi jinhaengdoenda. myeot ghaji jeungsangeun daeumgwa gatseupnida. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "صعوبة في البلع (عسر البلع). هذا هو العرض المبكر الأكثر شيوعا.",
+                            "transliteration": "saouba fe al-bala (assar al-bala). hudha ho al-aradh al-mabaker al-akthar shioa."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "فقدان الوزن / سوء التغذية من صعوبة تناول الطعام. هذا هو عرض متأخر.",
+                            "transliteration": "fakdan al-wazn / sawa al-taghdhiye minn saouba tanaul al-tam. hudha ho arad matakher."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ألم في الصدر يأتي ويذهب. يمكن أن يكون الألم شديدا.",
+                            "transliteration": "alem fe al-sadr yati weithep. yamken an yakon al-alam shadida."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "قلس الطعام غير المهضوم.",
+                            "transliteration": "glis al-tam ger mahdoum."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "حرقه.",
+                            "transliteration": "harqa."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "الفواق ، صعوبة التجشؤ (أعراض أقل شيوعا)",
+                            "transliteration": "fawak ، saouba al-tajishu (aradh akal shioa)"
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "未消食反流。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "夜嗽"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "以食难体重减轻/营养不良。 此晚期也。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "去来去来的胸痛; 痛或甚。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Toux la nuit"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Douleur thoracique qui va et vient ; La douleur peut être intense."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Schluckauf, Schwierigkeiten beim Aufstoßen (seltenere Symptome)"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Sodbrennen."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Gewichtsverlust/Mangelernährung durch Schwierigkeiten beim Essen. Dies ist ein Spätsymptom."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Aufstoßen von unverdauter Nahrung."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Schluckbeschwerden (Dysphagie). Dies ist das häufigste Frühsymptom."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Batuk di malam hari"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Nyeri dada yang datang dan pergi; Rasa sakit bisa parah."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Mulas."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Singhiozzo, difficoltà a eruttare (sintomi meno comuni)"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Rigurgito di cibo non digerito."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Perdita di peso/malnutrizione da difficoltà alimentari. Questo è un sintomo tardivo."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Tosse notturna"
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "未消化の食物の逆流。",
+                            "transliteration": "mi shouka no shokumotsu no gyakuryuu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "食事困難による体重減少/栄養失調。これは晩期症状です。",
+                            "transliteration": "shokuji konnan niyoru taijuu genshou / eiyoushitsuchou .kore wa banki shoujou desu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "行ったり来たりする胸の痛み。痛みはひどい場合があります。",
+                            "transliteration": "itsu tari rai tari suru mune no itami .itami wa hidoi baai ga ari masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "胸焼け。",
+                            "transliteration": "muneyake ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "嚥下障害(嚥下障害)。これは最も一般的な初期症状です。",
+                            "transliteration": "gaishita shougai ( gaishita shougai ) .kore wa mottomo ippan teki nani shoki shoujou desu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "夜の咳",
+                            "transliteration": "yoru no seki"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "しゃっくり、げっぷ困難(あまり一般的でない症状)",
+                            "transliteration": "shakkuri 、 geppu konnan ( amari ippan teki de nai shoujou )"
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "딸꾹질, 트림 어려움(덜 흔한 증상)",
+                            "transliteration": "ttalkkukjil, trim eoryeoum(deol heunhan jeungsang)"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "왔다 갔다 하는 흉통; 통증은 심할 수 있습니다.",
+                            "transliteration": "wassda gassda haneun hungtong; tongjeungeun simhal su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "밤에 기침",
+                            "transliteration": "bame gichim"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "가슴 앓 이.",
+                            "transliteration": "gaseum ahl i."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "삼킴 곤란(삼킴곤란). 이것은 가장 흔한 초기 증상입니다.",
+                            "transliteration": "samkim gonran(samkim). igeoseun gajang heunhan chogi jeungsangipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "식사 장애로 인한 체중 감소/영양실조. 이것은 늦은 증상입니다.",
+                            "transliteration": "sixa jangaero inhan chezong gamso/yeongyang. igeoseun neujeun jeungsangipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "소화되지 않은 음식의 역류.",
+                            "transliteration": "sohwadoeji anheun eumsigui yeokryu."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Tosse à noite"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Perda de peso/desnutrição por dificuldade alimentar. Este é um sintoma tardio."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Soluços, dificuldade em arrotar (sintomas menos comuns)"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Azia."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Regurgitação de alimentos não digeridos."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Dificuldade para engolir (disfagia). Este é o sintoma inicial mais comum."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Dor no peito que vai e vem; A dor pode ser intensa."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Потеря веса/недоедание из-за трудностей с приемом пищи. Это поздний симптом.",
+                            "transliteration": "poterya vesa/nedoedanie iz-saa trudnostey s priemome pisci. eto pozdny symptoms."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Боль в груди, которая приходит и уходит; Боль может быть сильной.",
+                            "transliteration": "boll vie grudy, kotoraya prichodite yi ukhodit; boll moget byt silnoy."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Изжога.",
+                            "transliteration": "izzhoga."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Кашель по ночам",
+                            "transliteration": "kashel pau nocham"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Икота, затрудненная отрыжка (менее распространенные симптомы)",
+                            "transliteration": "ikota, zatrudnennaya otryzhka (menee rasprostranennye symptoms)"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Срыгивание непереваренной пищи.",
+                            "transliteration": "srygivaniye neperevarennoy pisci."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Затрудненное глотание (дисфагия). Это наиболее распространенный ранний симптом.",
+                            "transliteration": "zatrudnennoye glotanie (dysphagia). eto naiboleye rasprostranenny rannii symptoms."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Dificultad para tragar (disfagia). Este es el síntoma temprano más común."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Hipo, dificultad para eructar (síntomas menos comunes)"
+                        },
+                        {
+                            "name": "es",
+                            "value": "Regurgitación de alimentos no digeridos."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Pérdida de peso/desnutrición por dificultad para comer. Este es un síntoma tardío."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Acedía."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Geceleri öksürük"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Gelip giden göğüs ağrısı; Ağrı şiddetli olabilir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Sindirilmemiş yiyeceklerin yetersizliği."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Hıçkırık, geğirme zorluğu (daha az yaygın semptomlar)"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Yutma güçlüğü (disfaji). Bu en sık görülen erken belirtidir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Yemek yeme zorluğundan kaynaklanan kilo kaybı/yetersiz beslenme. Bu geç bir belirtidir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Mide ekşimesi."
+                        }
+                    ]
+                },
+                {
+                    "name": "What are the complications of achalasia?",
+                    "index": 2,
+                    "desc": "Food can accumulate (regurgitate) in your esophagus and then be drawn into (aspirated) your trachea, or windpipe, leading to your lungs, causing certain complications with achalasia. These issues consist of the following: Additional issues consist of:. ",
+                    "pointers": [
+                        "Pneumonia.",
+                        "Lung infections (pulmonary infections).",
+                        "Esophageal cancer. Having achalasia increases your risk of this cancer."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "ja",
+                            "value": "アカラシアの合併症は何ですか?",
+                            "transliteration": "akara sia no gappeishou wa nani desu ka ?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las complicaciones de la acalasia?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증의 합병증은 무엇입니까?",
+                            "transliteration": "iwanbulneungui hapbyeongjeungeun mueosipnikka?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Какие бывают осложнения ахалазии?",
+                            "transliteration": "kakie bivoiute oslozhneniya achalasia?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa komplikasi akalasia?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais são as complicações da acalásia?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ما هي مضاعفات تعذر الارتخاء؟",
+                            "transliteration": "ma he medaafat tudhar alartakha"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazyanın komplikasyonları nelerdir?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quelles sont les complications de l’achalasie ?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ko",
+                            "value": "음식물이 식도에 축적(역류)한 다음 기관 또는 기관으로 빨려 들어가 폐로 들어가 이완불능증과 함께 특정 합병증을 유발할 수 있습니다. 이러한 문제는 다음과 같이 구성됩니다. 추가 문제는 다음과 같이 구성됩니다. ",
+                            "transliteration": "eumsikmuri sikdoe chukjeok(yeokryu)han daeum gigan ttoneun gigwaneuro ppallyeo deureoga pyero deureoga iwanbulneung hamkke teukjeong hapbyeongjeungeul yubalhal su issseupnida. ireohan munjeneun daeumgwa gati guseong. chuga munjeneun daeumgwa gati guseong. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Yiyecekler yemek borunuzda birikebilir (kusabilir) ve daha sonra trakeanıza veya nefes borunuza (aspire edilebilir) çekilerek akciğerlerinize yol açabilir ve akalazya ile ilgili bazı komplikasyonlara neden olabilir. Bu sorunlar aşağıdakilerden oluşur: Ek sorunlar şunlardan oluşur:. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "食物は食道に蓄積(逆流)し、気管や気管に引き込まれて肺に流れ込み、アカラシアの合併症を引き起こす可能性があります。これらの問題は、次のもので構成されます。 その他の問題は次のとおりです。",
+                            "transliteration": "shokumotsu wa shokudou ni chikuseki ( gyakuryuu ) shi 、 kikan ya kikan ni hikikoma re te hai ni nagarekomi 、 akara sia no gappeishou wa hikiokosu kanosei ga ari masu .korera no mondai wa 、 ji no mono de kousei sa re masu . sonota no mondai wa ji no toori desu ."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "يمكن أن يتراكم الطعام (يتقيأ) في المريء ثم ينجذب إلى (يستنشق) القصبة الهوائية، أو القصبة الهوائية، مما يؤدي إلى رئتيك، مما يسبب بعض المضاعفات مع تعذر الارتخاء. تتكون هذه القضايا مما يلي: تتكون القضايا الإضافية من:. ",
+                            "transliteration": "yamken an watrakem al-tam (yutkia) fe al-maria tham ningedhep elly (jestinsk) al-qasba al-hawaeh oa al-qasba al-hawaeh memma yode elly reiticke memma jaspeb baad al-madaafat ma tudhar alartakha. tetkon huthe al-kadaya memma lelle: tetkon al-kadaya al-idhafiya minn:. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los alimentos pueden acumularse (regurgitar) en el esófago y luego ser arrastrados (aspirados) hacia la tráquea, lo que conduce a los pulmones, lo que causa ciertas complicaciones con la acalasia. Estas cuestiones consisten en lo siguiente: Las cuestiones adicionales consisten en:. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "积(反流)在食管中,然后吸(入)气管若气管,通于肺部,贲门失弛者并发症。 以下内容曰: 其他。 "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "O alimento pode acumular-se (regurgitar) no esôfago e depois ser aspirado (aspirado) na traqueia, ou traqueia, levando aos pulmões, causando certas complicações com acalásia. Essas questões consistem no seguinte: Questões adicionais consistem em:. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "La nourriture peut s’accumuler (régurgiter) dans votre œsophage, puis être aspirée dans votre trachée, ou trachée, menant à vos poumons, entraînant certaines complications de l’achalasie. Ces problèmes sont les suivants : Les problèmes supplémentaires sont les suivants :. "
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Пища может накапливаться (отрыгиваться) в пищеводе, а затем втягиваться в трахею или дыхательное горло, что приводит к легким, вызывая определенные осложнения при ахалазии. Эти проблемы состоят из следующего: Дополнительные вопросы состоят из:. ",
+                            "transliteration": "piszcza moget nakaplivatsya (otrygivatsya) vie pishchevode, a zathem vtyagivatsya vie tracheu eli dychatelnoye gorlo, chto privodite k legkim, vyzyvaya opredelennye oslozhneniya pri achalasia. ethy problems sostoyat iz sleduyushchego: dopolnitelnye voprosy sostoyat iz:. "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "سرطان المريء. تزيد الإصابة بتعذر الارتخاء من خطر الإصابة بهذا السرطان.",
+                            "transliteration": "sertan al-maria. tzayed alisabe putadher alartakha minn khater alisabe bahadha sartan."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "التهابات الرئة (الالتهابات الرئوية).",
+                            "transliteration": "al-tahabat al-raiya (al-althabat al-rawiya)."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "الالتهاب الرئوي.",
+                            "transliteration": "al-tahab al-rawi."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "肺炎。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Cancer de l’œsophage. Avoir une achalasie augmente votre risque de ce cancer."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Lungenentzündung."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Speiseröhrenkrebs. Achalasie erhöht das Risiko für diesen Krebs."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Lungeninfektionen (Lungeninfektionen)."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Kanker kerongkongan. Memiliki akalasia meningkatkan risiko kanker ini."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Polmonite."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Infezioni polmonari (infezioni polmonari)."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "食道癌。アカラシアがあると、このがんのリスクが高まります。",
+                            "transliteration": "shokudou gan .akara sia ga aru to 、 kono gan no lisk ga takamari masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "肺感染症(肺感染症)。",
+                            "transliteration": "hai kansen shou ( hai kansen shou ) ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "肺炎。",
+                            "transliteration": "haien ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "폐렴.",
+                            "transliteration": "pyeryeom."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "식도암. 이완불능증이 있으면 이 암의 위험이 높아진다.",
+                            "transliteration": "sikdoam. iwanbulneungi isseumyeon i amui wiheomi nopajinda."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "폐 감염(폐 감염).",
+                            "transliteration": "pye gamyeom(pye gamyeom)."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Câncer de esôfago. Ter acalásia aumenta o risco deste câncer."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Infecções pulmonares (infecções pulmonares)."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Pneumonia."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Легочные инфекции (легочные инфекции).",
+                            "transliteration": "legochnye infection (legochnye infection)."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Рак пищевода. Наличие ахалазии увеличивает риск развития этого вида рака.",
+                            "transliteration": "rak pishchevoda. nalichie achalasia uvelichivaet risk razvitia etogo vida raka."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Пневмония.",
+                            "transliteration": "pnevmonija."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Infecciones pulmonares (infecciones pulmonares)."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Cáncer de esófago. Tener acalasia aumenta el riesgo de padecer este cáncer."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Neumonía."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Özofagus kanseri. Akalazya'ya sahip olmak bu kanser riskinizi artırır."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Zatürre."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akciğer enfeksiyonları (akciğer enfeksiyonları)."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "diagnosis",
+            "list": [
+                {
+                    "name": "How is achalasia diagnosed?",
+                    "index": 0,
+                    "desc": "To diagnose achalasia, three tests are typically performed:. ",
+                    "pointers": [
+                        "Barium swallow: For this test, you’ll swallow a barium preparation (liquid or other form) and its movement through your esophagus is evaluated using X-rays. The barium swallow will show a narrowing of the esophagus at the LES.",
+                        "Upper endoscopy: In this test, a flexible, narrow tube with a camera on it – called an endoscope – is passed down your esophagus. The camera projects images of the inside of your esophagus onto a screen for evaluation. This test helps rule out cancerous (malignant) lesions as well as assess for achalasia.",
+                        "Manometry: This test measures the timing and strength of your esophageal muscle contractions and relaxation of the lower esophageal sphincter (LES). Failure of the LES to relax in response to swallowing and lack of muscle contractions along the walls of the esophagus is a positive test for achalasia. This is the “gold standard” test for diagnosing achalasia."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "de",
+                            "value": "Wie wird Achalasie diagnostiziert?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como é diagnosticada a acalásia?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증은 어떻게 진단하나요?",
+                            "transliteration": "iwanbulneungeungeun eotteohge jindanhanayo?"
+                        },
+                        {
+                            "name": "ar",
+                            "value": "كيف يتم تشخيص تعذر الارتخاء؟",
+                            "transliteration": "keef yetem chekhis tudhar alartakha"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "アカラシアはどのように診断されますか?",
+                            "transliteration": "akara sia wa dono you ni shindan sa re masu ka ?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cómo se diagnostica la acalasia?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как диагностируется ахалазия?",
+                            "transliteration": "kak diagnostiruetsya achalasia?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Comment l’achalasie est-elle diagnostiquée ?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazya nasıl teşhis edilir?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ar",
+                            "value": "لتشخيص تعذر الارتخاء ، يتم إجراء ثلاثة اختبارات عادة: ",
+                            "transliteration": "letchakhis tudhar alartakha ، yetem igraa thlatha akhtabarat adeh: "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "アカラシアを診断するために、通常、3つの検査が行われます。",
+                            "transliteration": "akara sia wa shindan suru tame ni 、 tsuujou 、 3 tsu no kensa ga okonawa re masu ."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Para diagnosticar a acalásia, geralmente são realizados três testes:. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Para diagnosticar la acalasia, normalmente se realizan tres pruebas: "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazyayı teşhis etmek için tipik olarak üç test yapılır: "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증을 진단하기 위해 일반적으로 세 가지 검사가 수행됩니다. ",
+                            "transliteration": "iwanbulneungjeungeun jindanhagi wihae ilbanjeogeuro se ghaji geomsaga suhaengdeunida. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Pour diagnostiquer l’achalasie, trois tests sont généralement effectués : "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Um eine Achalasie zu diagnostizieren, werden in der Regel drei Tests durchgeführt:. "
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "为诊贲门失弛缓症,常三检之。 "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Per diagnosticare l'acalasia, in genere vengono eseguiti tre test:. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Untuk mendiagnosis akalasia, tiga tes biasanya dilakukan: "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "التنظير العلوي: في هذا الاختبار، يتم تمرير أنبوب مرن وضيق مزود بكاميرا - يسمى المنظار الداخلي - عبر المريء. تعرض الكاميرا صورا لداخل المريء على شاشة للتقييم. يساعد هذا الاختبار في استبعاد الآفات السرطانية (الخبيثة) وكذلك تقييم تعذر الارتخاء.",
+                            "transliteration": "al-tanzir alaoui: fe hudha al-akhtabare yetem tamrir anpop meren wadiq mazud bacamera - yesma al-manzar al-dakhli - abr al-maria. tarad al-kamira sora ladachell al-maria ola chacha latgiem. ysaad hudha al-akhtabar fe estebad alafat sertaniya (al-khabitha) wockdelk takiyem tudhar alartakha."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "ابتلاع الباريوم: في هذا الاختبار، ستبتلع مستحضر الباريوم (سائل أو أي شكل آخر) ويتم تقييم حركته عبر المريء باستخدام الأشعة السينية. سيظهر ابتلاع الباريوم تضيقا في المريء في LES.",
+                            "transliteration": "ibtila al-barioum: fe hudha al-akhtabare stebtla mustaheder al-barioum (sail oa ei shakal acher) wittem takiyem haraktah abr al-maria bastikhedam al-ashaa senia. sizhar ibtila al-barioum tadeka fe al-maria fe LES."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "قياس الضغط: يقيس هذا الاختبار توقيت وقوة تقلصات عضلات المريء وانبساط العضلة العاصرة المريئية السفلية (LES). فشل LES في الاسترخاء استجابة للبلع ونقص تقلصات العضلات على طول جدران المريء هو اختبار إيجابي لتعذر الارتخاء. هذا هو اختبار \"المعيار الذهبي\" لتشخيص تعذر الارتخاء.",
+                            "transliteration": "qayas al-daght: yakis hudha al-akhtabar tokit waqua tugolsat adlat al-maria wanpsat al-adla al-asra al-murayia safalia (LES). fachel LES fe alastarkha estegaba labla wanqus tugolsat al-adlat ola tol jadran al-maria ho akhtabar igaby lutadher alartakha. hudha ho akhtabar \"mayar al-dahabi\" letchakhis tudhar alartakha."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "测压法:此试食管肉缩食管下括约肌 (LES) 缓时强。 LES 未能吞而弛,且食管壁上乏肉者,贲之失弛缓也。 此金准也。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Déglutition barytée : Pour ce test, vous avalerez une préparation de baryum (liquide ou autre) et son mouvement dans votre œsophage est évalué à l’aide de rayons X. La déglutition barytée montrera un rétrécissement de l’œsophage au niveau du LES."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Manométrie : Ce test mesure le moment et la force des contractions des muscles œsophagiens et de la relaxation du sphincter inférieur de l’œsophage (SIO). L’incapacité du LES à se détendre en réponse à la déglutition et l’absence de contractions musculaires le long des parois de l’œsophage sont un test positif pour l’achalasie. Il s’agit du test de référence pour diagnostiquer l’achalasie."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Bariumschlucken: Bei diesem Test schlucken Sie ein Bariumpräparat (flüssig oder in anderer Form) und seine Bewegung durch Ihre Speiseröhre wird mit Röntgenstrahlen bewertet. Die Bariumschluckung zeigt eine Verengung der Speiseröhre am LES."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Menelan barium: Untuk tes ini, Anda akan menelan persiapan barium (cair atau bentuk lain) dan pergerakannya melalui kerongkongan Anda dievaluasi menggunakan sinar-X. Burung layang-layang barium akan menunjukkan penyempitan kerongkongan di LES."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Manometri: Tes ini mengukur waktu dan kekuatan kontraksi otot esofagus Anda dan relaksasi sfingter esofagus bagian bawah (LES). Kegagalan LES untuk rileks sebagai respons terhadap menelan dan kurangnya kontraksi otot di sepanjang dinding kerongkongan adalah tes positif untuk akalasia. Ini adalah tes \"standar emas\" untuk mendiagnosis akalasia."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Deglutizione di bario: per questo test, si ingerisce un preparato di bario (liquido o di altra forma) e il suo movimento attraverso l'esofago viene valutato utilizzando i raggi X. La rondine di bario mostrerà un restringimento dell'esofago al LES."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Manometria: questo test misura i tempi e la forza delle contrazioni muscolari esofagee e il rilassamento dello sfintere esofageo inferiore (LES). L'incapacità del LES di rilassarsi in risposta alla deglutizione e la mancanza di contrazioni muscolari lungo le pareti dell'esofago è un test positivo per l'acalasia. Questo è il test \"gold standard\" per diagnosticare l'acalasia."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "バリウム嚥下:この検査では、バリウム製剤(液体または他の形態)を飲み込み、食道を通るその動きをX線で評価します。バリウム嚥下は、LESで食道の狭窄を示します。",
+                            "transliteration": "barium gaishita : kono kensa de wa 、 barium seizai ( ekitai mataha hoka no keitai ) wa nomikomi 、 shokudou wa tooru sono ugoki wa x shima de hyouka shi masu .barium gaishita wa 、 les de shokudou no kyousaku wa shimeshi masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "上部内視鏡検査:この検査では、内視鏡と呼ばれるカメラ付きの柔軟で細いチューブを食道に通します。カメラは食道内部の映像をスクリーンに映し出し、評価します。この検査は、癌性(悪性)病変を除外し、アカラシアを評価するのに役立ちます。",
+                            "transliteration": "joubu naishikyou kensa : kono kensa de wa 、 naishikyou to yoba reru camera tsuki no juunan de hosoi tub wa shokudou ni tooshi masu .camera wa shokudou naibu no eizou wa screen ni utsushi dashi 、 hyouka shi masu .kono kensa wa 、 gan shou ( akusei ) byouhen wa jogai shi 、 akara sia wa hyouka suru no ni yakudachi masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "マノメトリー:このテストは、食道筋の収縮のタイミングと強さ、および下部食道括約筋(LES)の弛緩を測定します。嚥下に反応してLESが弛緩せず、食道の壁に沿った筋肉収縮がないことは、アカラシアの陽性検査です。これは、アカラシアを診断するための「ゴールドスタンダード」テストです。",
+                            "transliteration": "manometry : kono test wa 、 shokudou suji no shuushuku no timing to tsuyosa 、 oyobi kabu shokudou kakkyokusuji ( les ) no shikan wa sokutei shi masu .gaishita ni hanno shi te les ga shikan se zu 、 shokudou no heki ni sotsu ta kinniku shuushuku ga nai koto wa 、 akara sia no yousei kensa desu .kore wa 、 akara sia wa shindan suru tame no \" gold standard \" test desu ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "상부 내시경 검사: 이 검사에서는 내시경이라고 하는 카메라가 있는 유연하고 좁은 튜브를 식도로 전달합니다. 카메라는 평가를 위해 식도 내부의 이미지를 화면에 투사합니다. 이 검사는 암성(악성) 병변을 배제하고 이완불능증을 평가하는 데 도움이 됩니다.",
+                            "transliteration": "sangbu nasigyeong geomsa: i geomsaeseoneun naesigyeongirago haneun cameraga issneun yeonhago jobeun tyubeureul sikdoro jeondalhapnida. cameranen pyeonggareul wihae sikdo naebu imijireul hwamyeone tusahapnida. i geomsaneun amseong(akseong) byeongbyeoneul baejehago iwanbulneungjeungeun pyeonggahaneun de doumi doepnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "바륨 삼킴: 이 검사에서는 바륨 제제(액체 또는 기타 형태)를 삼키고 식도를 통한 바륨의 움직임을 X-레이를 사용하여 평가합니다. 바륨 삼키는 사람은 LES에서 식도가 좁아지는 것을 볼 수 있습니다.",
+                            "transliteration": "barium samkim: i geomsaeseoneun barium jeje(acche ttoneun gita hyungtae)reul samkigo sikdoreul tonghan barium umjigimeul X-rairl sayonghayeo pyeonggahapnida. barium samkineun sarameun LESesau sikdoga jobajineun geoseul boll su issseupnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "압력계: 이 검사는 식도 근육 수축 및 하부 식도 괄약근(LES)의 이완 시기와 강도를 측정합니다. LES가 삼킴에 반응하여 이완되지 않고 식도 벽을 따라 근육 수축이 없으면 이완불능증에 대한 양성 테스트입니다. 이것은 이완불능증을 진단하기 위한 \"황금 표준\" 검사입니다.",
+                            "transliteration": "apryeokgye: i geomsaneun sikdo geunyuk suchuk mukgye habu sikdo gwalyakgeun(LES)yoo ewan sigiwa gangdoreul cheukjeonghapnida. LESga samkime baneunghayeo iwandoeji anhgo sikdo byeogeul ttara geunyuk suchugi eopseumyeon iwanbulneunge dahan yangseong test. igeoseun iwanbulneungjeungeun jindanhagi wihan \"hwanggeum pyojun\" geomsaipnida."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Endoscopia digestiva alta: Neste teste, um tubo flexível e estreito com uma câmera – chamado de endoscópio – é passado pelo esôfago. A câmera projeta imagens do interior do esôfago em uma tela para avaliação. Este teste ajuda a descartar lesões cancerígenas (malignas), bem como avaliar a acalásia."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Deglutição de bário: Para este teste, você vai engolir uma preparação de bário (líquido ou outra forma) e seu movimento através do esôfago é avaliado usando raios-X. A deglutição de bário mostrará um estreitamento do esôfago no EIE."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Manometria: Este teste mede o tempo e a força das contrações do músculo esofágico e o relaxamento do esfíncter esofágico inferior (EIE). A falha do LES em relaxar em resposta à deglutição e a falta de contrações musculares ao longo das paredes do esôfago é um teste positivo para acalásia. Este é o teste \"padrão-ouro\" para o diagnóstico da acalásia."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Глотание бария: В ходе этого теста вы проглотите препарат бария (жидкий или в другой форме), и его движение по пищеводу будет оцениваться с помощью рентгеновских лучей. Глотание бария покажет сужение пищевода в области НПС.",
+                            "transliteration": "glotanie baria: vie khode etogo testa vy proglotite preparat baria (zhidkiy eli vie drugoi forme), yi ego dvizenie pau pishchevodou budet otsenivatsya s pomoshchyu rentgenovskikh luchey. glotanie baria pocaget suzheniye pishchevoda vie oblasts nps."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Верхняя эндоскопия: В этом исследовании гибкая узкая трубка с камерой на ней, называемая эндоскопом, вводится в пищевод. Камера проецирует изображения внутренней части пищевода на экран для оценки. Этот тест помогает исключить раковые (злокачественные) поражения, а также оценить наличие ахалазии.",
+                            "transliteration": "verkhnyaya endoscopy: vie ethom issledovania gibkaya uzkaya trubka s cameroy na ney, nazivayemaya endoscopomina, vvoditsya vie pishchevod. camera proetziruet isobrazheniya vnutrenney chasti pishchevoda na ekran dla otsenki. ethot test pomogaete isklyuchit rakovye (zlokachestvennye) porazheniya, a takze otsenite nalichie achalasia."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Манометрия: Этот тест измеряет время и силу сокращений мышц пищевода и расслабление нижнего пищеводного сфинктера (НПС). Неспособность НПС расслабиться в ответ на глотание и отсутствие мышечных сокращений вдоль стенок пищевода является положительным тестом на ахалазия. Это «золотой стандарт» диагностики ахалазии.",
+                            "transliteration": "manometry: ethot test izmeryaet vremya yi silu sokrashcheny mysztz pishchevoda yi rasslablenie nizhnego pishchevodnogo sphincter (nps). nesposobity nps rasslabitsya vie otvet na glotanie yi otsutstvi myshechnykh sokrashcheny vdol stenok pishchevoda yavlyaetsya polozhitelnym testom na achalasia. eto «zoloty standard» diagnostics achalasia."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Manometría: esta prueba mide el momento y la fuerza de las contracciones del músculo esofágico y la relajación del esfínter esofágico inferior (EEI). La incapacidad del EEI para relajarse en respuesta a la deglución y la falta de contracciones musculares a lo largo de las paredes del esófago es una prueba positiva para la acalasia. Esta es la prueba \"estándar de oro\" para diagnosticar la acalasia."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Deglución de bario: para esta prueba, tragará una preparación de bario (líquida u otra forma) y se evaluará su movimiento a través del esófago mediante radiografías. La deglución de bario mostrará un estrechamiento del esófago en el EEI."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Endoscopia superior: en esta prueba, se pasa por el esófago un tubo flexible y estrecho con una cámara, llamado endoscopio. La cámara proyecta imágenes del interior del esófago en una pantalla para su evaluación. Esta prueba ayuda a descartar lesiones cancerosas (malignas), así como a evaluar la acalasia."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Baryum yutmak: Bu test için, bir baryum preparatını (sıvı veya başka bir form) yutarsınız ve yemek borunuzdaki hareketi X-ışınları kullanılarak değerlendirilir. Baryum yutması, LES'de yemek borusunda bir daralma gösterecektir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Manometri: Bu test, özofagus kası kasılmalarınızın zamanlamasını ve gücünü ve alt özofagus sfinkterinin (LES) gevşemesini ölçer. LES'in yutmaya yanıt olarak gevşememesi ve yemek borusu duvarları boyunca kas kasılmalarının olmaması, akalazya için pozitif bir testtir. Bu, akalazya teşhisi için \"altın standart\" testtir."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Üst endoskopi: Bu testte, üzerinde kamera bulunan ve endoskop adı verilen esnek, dar bir tüp yemek borunuzdan geçirilir. Kamera, yemek borunuzun içinin görüntülerini değerlendirme için bir ekrana yansıtır. Bu test, kanserli (malign) lezyonları ekarte etmenin yanı sıra akalazyayı değerlendirmeye yardımcı olur."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "treatment",
+            "list": [
+                {
+                    "name": "How is achalasia treated?",
+                    "index": 0,
+                    "desc": "Achalasia has a number of treatment options, including nonsurgical ones like balloon dilation, drugs, and injections of botulinum toxin as well as surgical ones. Relaxing your lower esophageal sphincter (LES) is the aim of treatment to alleviate your symptoms. Based on the severity of your condition and your preferences, your healthcare provider will go over these options with you so that you can jointly determine which is the best course of action. Less Invasive Surgery: Laparoscopic Heller myotomy or esophagomyotomy is the name of the procedure used to treat achalasia. A small incision is used to insert an endoscope, a thin, telescopic-like device, during this minimally invasive procedure. Video monitors in the operating room display a view of the surgical site thanks to a tiny video camera attached to the endoscope that is smaller than a dime. The LES's muscular fibers are severed during this operation. Gastric reflux, a consequence of the Heller myotomy procedure, can be avoided with the addition of a different procedure known as a partial fundoplication. An alternative to laparascopic Heller myotomy that requires less surgery is peroral endoscopic myotomy (POEM). The LES, the upper portion of the stomach, and the muscles lining the esophagus are all cut during this procedure. Your esophagus can empty normally and food can pass down into your stomach thanks to the cuts in these areas, which relax the muscles. Under light, you will undergo balloon dilation, a non-surgical procedure. ",
+                    "pointers": [],
+                    "name_lang": [
+                        {
+                            "name": "fr",
+                            "value": "Comment traite-t-on l’achalasie ?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "アカラシアはどのように治療されますか?",
+                            "transliteration": "akara sia wa dono you ni chiryou sa re masu ka ?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazya nasıl tedavi edilir?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증은 어떻게 치료하나요?",
+                            "transliteration": "iwanbulneungeungeun eotteohge chiryohanayo?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Come viene trattata l'acalaasia?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "治之奈何?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Como a acalásia é tratada?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Как лечится ахалазия?",
+                            "transliteration": "kak lechitsya achalasia?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Wie wird Achalasie behandelt?"
+                        }
+                    ],
+                    "desc_lang": [],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                },
+                {
+                    "name": "What are the complications of treatments for achalasia?",
+                    "index": 1,
+                    "desc": "Therapy for achalasia can have the following side effects:. ",
+                    "pointers": [
+                        "Creation of a hole in the esophagus.",
+                        "Lack of success and return of achalasia symptoms.",
+                        "Gastroesophageal reflux disease.",
+                        "Bloating."
+                    ],
+                    "name_lang": [
+                        {
+                            "name": "it",
+                            "value": "Quali sono le complicanze dei trattamenti per l'acalasia?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증 치료의 합병증은 무엇입니까?",
+                            "transliteration": "iwanbulneung chiryo hapbyeongjeungeun mueosipnikka?"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "贲门之失弛缓症何并发症?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Каковы осложнения лечения ахалазии?",
+                            "transliteration": "kakovy oslozhneniya lecheniya achalasia?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Quais são as complicações dos tratamentos para acalásia?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazya tedavilerinin komplikasyonları nelerdir?"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Cuáles son las complicaciones de los tratamientos para la acalasia?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa komplikasi perawatan untuk akalasia?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ru",
+                            "value": "Терапия при ахалазии может иметь следующие побочные эффекты: ",
+                            "transliteration": "therapy pri achalasia moget imet sleduyushchie pobochnye effects: "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Akalazya tedavisi aşağıdaki yan etkilere sahip olabilir: "
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A terapia para acalásia pode ter os seguintes efeitos colaterais:. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "La terapia para la acalasia puede tener los siguientes efectos secundarios: "
+                        },
+                        {
+                            "name": "ko",
+                            "value": "이완불능증 치료는 다음과 같은 부작용이 있을 수 있습니다. ",
+                            "transliteration": "iwanbulneung chiryoneun daeumgwa gateun bujakwyongi isseul su issseupnida. "
+                        },
+                        {
+                            "name": "ar",
+                            "value": "يمكن أن يكون لعلاج تعذر الارتخاء الآثار الجانبية التالية:. ",
+                            "transliteration": "yamken an yakon lallag tudhar alartakha al-athar al-janbiyeh al-taliya:. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "アカラシアの治療には、以下の副作用があります。",
+                            "transliteration": "akara sia no chiryou ni wa 、 ika no fukusayo ga ari masu ."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Le traitement de l’achalasie peut avoir les effets secondaires suivants : "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Terapi untuk akalasia dapat memiliki efek samping berikut: "
+                        }
+                    ],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "عدم النجاح وعودة أعراض تعذر الارتخاء.",
+                            "transliteration": "adem najah waoda aradh tudhar alartakha."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "النفخ.",
+                            "transliteration": "al-nafkh."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "食道上成洞。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "胃食主反流。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "腹胀。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Ballonnements."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Manque de succès et retour des symptômes de l’achalasie."
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Reflux gastro-œsophagien."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Aufgeblähtsein."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Anlegen eines Lochs in der Speiseröhre."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Mangelnder Erfolg und Rückkehr der Achalasie-Symptome."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Penyakit refluks gastroesofagus."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Pembuatan lubang di kerongkongan."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Kurangnya keberhasilan dan kembalinya gejala akalasia."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "Gonfiore."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Mancanza di successo e ritorno dei sintomi dell'acalasia."
+                        },
+                        {
+                            "name": "it",
+                            "value": "Malattia da reflusso gastroesofageo."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "膨 満 感。",
+                            "transliteration": "bou man kan ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "食道に穴を開ける。",
+                            "transliteration": "shokudou ni ana wa akeru ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "胃食道逆流症。",
+                            "transliteration": "i shokudou gyakuryuu shou ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "アカラシア症状の成功と再発の欠如。",
+                            "transliteration": "akara sia shoujou no seiko to saihatsu no ketsujo ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "복부 팽만감.",
+                            "transliteration": "bokbu pengmannic."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "식도에 구멍이 생깁니다.",
+                            "transliteration": "sikdoe gumeongi saenggipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "성공하지 못하고 이완불능증 증상이 재발합니다.",
+                            "transliteration": "seonggonghaji moshago iwanbulneung jeungsangi jaebalhapnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "위식도 역류 질환.",
+                            "transliteration": "wisikdo yeokryu jilhwan."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Doença do refluxo gastroesofágico."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Criação de um buraco no esôfago."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Falta de sucesso e retorno dos sintomas da acalásia."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Отсутствие успеха и возвращение симптомов ахалазии.",
+                            "transliteration": "otsutstvi uspekha yi vozvrashcheniye symptoms achalasia."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Гастроэзофагеальная рефлюксная болезнь.",
+                            "transliteration": "gastroesophageal refluxnaya bolezn."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Вздутие живота.",
+                            "transliteration": "vzdutiye zivota."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Создание отверстия в пищеводе.",
+                            "transliteration": "sozdanie otverstia vie pishchevode."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "Enfermedad por reflujo gastroesofágico."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Creación de un orificio en el esófago."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Falta de éxito y reaparición de los síntomas de la acalasia."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Hinchazón."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Yemek borusunda bir delik oluşturulması."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Şişkin -lik."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Başarı eksikliği ve akalazya semptomlarının geri dönüşü."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Gastroözofageal reflü hastalığı."
+                        }
+                    ]
+                },
+                {
+                    "name": "What post-treatment follow-up is needed?",
+                    "index": 2,
+                    "desc": "Irrespective of the treatment you receive, you require ongoing monitoring. This is so because existing therapies only address symptoms and do not reverse the course of achalasia or cure it. Symptoms might resurface. In order to determine whether gastroesophageal reflux needs to be treated, your healthcare provider will examine whether your esophagus is permitting food to adequately enter your stomach. Additionally, to ensure that cancer has not progressed, your doctor will want to keep an eye on you. ",
+                    "name_lang": [
+                        {
+                            "name": "es",
+                            "value": "¿Qué seguimiento post-tratamiento es necesario?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Apa tindak lanjut pasca perawatan yang dibutuhkan?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Quale follow-up post-trattamento è necessario?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "どのような治療後のフォローアップが必要ですか?",
+                            "transliteration": "dono you nani chiryou go no followup ga hitsuyo desu ka ?"
+                        },
+                        {
+                            "name": "de",
+                            "value": "Welche Nachsorge nach der Behandlung ist erforderlich?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Какое последующее наблюдение после лечения необходимо?",
+                            "transliteration": "kakoye posleduyushcheye nablyudeniye posle lecheniya neobkhodimo?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "어떤 치료 후 후속 조치가 필요한가?",
+                            "transliteration": "eotteon chiryo hu husok jochiga phiryohanga?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Tedavi sonrası takip nasıl gereklidir?"
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quel est le suivi post-traitement nécessaire ?"
+                        }
+                    ],
+                    "desc_lang": [
+                        {
+                            "name": "ko",
+                            "value": "어떤 치료를 받든 지속적인 모니터링이 필요합니다. 기존 치료법은 증상만 해결할 뿐 이완불능증의 경과를 되돌리거나 치료하지 못하기 때문입니다. 증상이 다시 나타날 수 있습니다. 위식도 역류를 치료해야 하는지 여부를 결정하기 위해 의료진은 식도가 음식물이 위장으로 적절하게 들어갈 수 있는지 여부를 검사할 것입니다. 또한 암이 진행되지 않았는지 확인하기 위해 의사는 환자를 계속 주시해야 합니다. ",
+                            "transliteration": "eotteon chiryoreul batdeun jisokjeogin monitoringi piryohapnida. gizon chiryobeopeun jeungsangman haegyeolhal ppun iwanbulneungui gyeonggwareul doedolligeona chiryohaji moshagi ttaemunipnida. jeungsangi dasi natanal su issseupnida. wisikdo yeokryureul chiryohaeya haneunji yeobureul gyeoljeonghagi wihae uiryojineun sikdoga eumsikmuri wijangeuro jeokjeolhage deureogal su issneunji yeobureul geomsahal geosipnida. ttohan ami jinhaengdoeji anhassneunji hwaginhagi wihae uisaneun hwanjareul gyesok jusihaeya hapnida. "
+                        },
+                        {
+                            "name": "it",
+                            "value": "Indipendentemente dal trattamento ricevuto, è necessario un monitoraggio continuo. Questo perché le terapie esistenti affrontano solo i sintomi e non invertono il decorso dell'acalasia o la curano. I sintomi potrebbero riemergere. Per determinare se il reflusso gastroesofageo deve essere trattato, il medico esaminerà se l'esofago consente al cibo di entrare adeguatamente nello stomaco. Inoltre, per assicurarsi che il cancro non sia progredito, il medico vorrà tenerti d'occhio. "
+                        },
+                        {
+                            "name": "es",
+                            "value": "Independientemente del tratamiento que reciba, necesita un seguimiento continuo. Esto se debe a que las terapias existentes solo abordan los síntomas y no revierten el curso de la acalasia ni la curan. Los síntomas pueden reaparecer. Para determinar si el reflujo gastroesofágico necesita tratamiento, su proveedor de atención médica examinará si su esófago está permitiendo que los alimentos entren adecuadamente en su estómago. Además, para asegurarse de que el cáncer no haya progresado, su médico querrá vigilarlo. "
+                        },
+                        {
+                            "name": "ja",
+                            "value": "どのような治療を受けるにせよ、継続的なモニタリングが必要です。これは、既存の治療法が症状に対処するだけで、アカラシアの経過を逆転させたり、治癒したりするものではないためです。症状が再発することがあります。胃食道逆流症を治療する必要があるかどうかを判断するために、医療提供者は、食道が食物が胃に適切に入ることを許可しているかどうかを調べます。さらに、がんが進行していないことを確認するために、医師はあなたを見守りたいと思うでしょう。",
+                            "transliteration": "dono you nani chiryou wa ukeru ni seyo 、 keizoku teki nani monitoring ga hitsuyo desu .kore wa 、 kison no chiryou hou ga shoujou ni taisho suru dake de 、 akara sia no keika wa gyakuten sa se tari 、 chiyu shi tari suru mono de wa nai tame desu .shoujou ga saihatsu suru koto ga ari masu .i shokudou gyakuryuu shou wa chiryou suru hitsuyo ga aru ka dou ka wa handan suru tame ni 、 iryou teikyou mono wa 、 shokudou ga shokumotsu ga i ni tekisetsu ni hairu koto wa kyoka shi te iru ka dou ka wa shirabe masu .sarani 、 gan ga shinko shi te iya nai koto wa kakunin suru tame ni 、 ishi wa anata wa mimamori tai to omou desho u ."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Независимо от того, какое лечение Вы получаете, Вы нуждаетесь в постоянном наблюдении. Это связано с тем, что существующие методы лечения устраняют только симптомы, а не обращают вспять течение ахалазии и не излечивают ее. Симптомы могут проявиться вновь. Чтобы определить, нужно ли лечить гастроэзофагеальный рефлюкс, ваш медицинский сотрудник проверит, позволяет ли пищевод адекватно попадать пище в желудок. Кроме того, чтобы убедиться, что рак не прогрессирует, ваш врач захочет следить за вами. ",
+                            "transliteration": "nezavisimo ot togo, kakoye lecheniye vy poluchayete, vy nuzhdaetes vie postoyannom nabludenia. eto svyazano s tem, chto sushchestvuyushchie method lecheniya ustranyayut tolko symptoms, a nay obraschchayut vspyat techeniye achalasia yi nay izlecivayut eye. symptoms mogut proyavitsya vnov. chtoby opredelit, nuzno lee lechit gastroesophageal reflux, vas meditsynsky sotrudnik proverite, pozvolyayet lee pishchevod adekvatno popadat pisce vie zheludok. krome togo, chtoby ubeditsya, chto rak nay progressiruet, vas vrach zachoczet sledit saa vami. "
+                        },
+                        {
+                            "name": "id",
+                            "value": "Terlepas dari perawatan yang Anda terima, Anda memerlukan pemantauan berkelanjutan. Ini karena terapi yang ada hanya mengatasi gejala dan tidak membalikkan jalannya akalasia atau menyembuhkannya. Gejala mungkin muncul kembali. Untuk menentukan apakah refluks gastroesofagus perlu diobati, penyedia layanan kesehatan Anda akan memeriksa apakah kerongkongan Anda memungkinkan makanan masuk ke perut Anda secara memadai. Selain itu, untuk memastikan bahwa kanker belum berkembang, dokter Anda akan ingin mengawasi Anda. "
+                        },
+                        {
+                            "name": "fr",
+                            "value": "Quel que soit le traitement que vous recevez, vous avez besoin d’une surveillance continue. Il en est ainsi parce que les thérapies existantes ne traitent que les symptômes et n’inversent pas l’évolution de l’achalasie ou ne la guérissent pas. Les symptômes peuvent refaire surface. Afin de déterminer si le reflux gastro-œsophagien doit être traité, votre fournisseur de soins de santé examinera si votre œsophage permet aux aliments de pénétrer adéquatement dans votre estomac. De plus, pour s’assurer que le cancer n’a pas progressé, votre médecin voudra garder un œil sur vous. "
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Aldığınız tedaviden bağımsız olarak, sürekli izlemeye ihtiyacınız var. Bunun nedeni, mevcut tedavilerin yalnızca semptomları ele alması ve akalazyanın seyrini tersine çevirmemesi veya iyileştirmemesidir. Belirtiler yeniden ortaya çıkabilir. Gastroözofageal reflünün tedavi edilmesi gerekip gerekmediğini belirlemek için, sağlık uzmanınız yemek borunuzun yiyeceklerin midenize yeterince girmesine izin verip vermediğini inceleyecektir. Ek olarak, kanserin ilerlemediğinden emin olmak için doktorunuz size göz kulak olmak isteyecektir. "
+                        },
+                        {
+                            "name": "de",
+                            "value": "Unabhängig von der Behandlung, die Sie erhalten, benötigen Sie eine kontinuierliche Überwachung. Dies liegt daran, dass bestehende Therapien nur die Symptome behandeln und den Verlauf der Achalasie nicht umkehren oder heilen. Die Symptome können wieder auftreten. Um festzustellen, ob der gastroösophageale Reflux behandelt werden muss, wird Ihr Arzt untersuchen, ob Ihre Speiseröhre die Nahrung ausreichend in Ihren Magen eindringen lässt. Um sicherzustellen, dass der Krebs nicht fortgeschritten ist, wird Ihr Arzt Sie außerdem im Auge behalten wollen. "
+                        }
+                    ],
+                    "ar_pointers": [],
+                    "lzh_pointers": [],
+                    "fr_pointers": [],
+                    "de_pointers": [],
+                    "id_pointers": [],
+                    "it_pointers": [],
+                    "ja_pointers": [],
+                    "ko_pointers": [],
+                    "pt_pointers": [],
+                    "ru_pointers": [],
+                    "es_pointers": [],
+                    "tr_pointers": []
+                }
+            ]
+        },
+        {
+            "name": "prognosis",
+            "list": [
+                {
+                    "name": "What outcome can I expect from the various treatment options?",
+                    "index": 0,
+                    "pointers": [
+                        "Balloon dilation improves symptoms in 50% to 93% of people with achalasia. Keep in mind that the procedure may need to be repeated to maintain symptom improvement. Repeated dilations increase the risk of causing a hole (perforation) in your esophagus.",
+                        "Minimally invasive surgery/laparoscopic Heller myotomy is effective in 76% to 100% of people with achalasia. Keep in mind that up to 15% of people experience gastroesophageal reflux symptoms after surgery.",
+                        "Botox injection successfully relaxes spastic esophageal sphincter muscles in up to 35% of people with achalasia. The injections must be repeated every six to 12 months to maintain symptom relief.",
+                        "Medications, such as nifedipine, improve symptoms in 0% to 75% of people with achalasia; isosorbide improves symptoms in 53% to 87%."
+                    ],
+                    "desc": "",
+                    "name_lang": [
+                        {
+                            "name": "ar",
+                            "value": "ما النتيجة التي يمكن أن أتوقعها من خيارات العلاج المختلفة؟",
+                            "transliteration": "ma natija alti yamken an atokaha minn khiarat al-allage al-mukhtalva"
+                        },
+                        {
+                            "name": "es",
+                            "value": "¿Qué resultado puedo esperar de las distintas opciones de tratamiento?"
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Çeşitli tedavi seçeneklerinden nasıl bir sonuç bekleyebilirim?"
+                        },
+                        {
+                            "name": "it",
+                            "value": "Che risultato posso aspettarmi dalle varie opzioni di trattamento?"
+                        },
+                        {
+                            "name": "ko",
+                            "value": "다양한 치료 옵션에서 어떤 결과를 기대할 수 있습니까?",
+                            "transliteration": "dayanghan chiryo opsyeoneseo eotteon gyeolgwareul gidaehal su issseupnikka?"
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Какого результата я могу ожидать от различных вариантов лечения?",
+                            "transliteration": "kakogo resultata ya mogu ozhidat ot razlichnykh variantov lecheniya?"
+                        },
+                        {
+                            "name": "pt",
+                            "value": "Que resultado posso esperar das várias opções de tratamento?"
+                        },
+                        {
+                            "name": "ja",
+                            "value": "さまざまな治療オプションからどのような結果が期待できますか?",
+                            "transliteration": "samazama nani chiryou option kara dono you nani kekka ga kitai deki masu ka ?"
+                        },
+                        {
+                            "name": "id",
+                            "value": "Hasil apa yang dapat saya harapkan dari berbagai pilihan perawatan?"
+                        }
+                    ],
+                    "desc_lang": [],
+                    "ar_pointers": [
+                        {
+                            "name": "ar",
+                            "value": "الجراحة طفيفة التوغل / بضع عضل هيلر بالمنظار فعالة في 76٪ إلى 100٪ من الأشخاص الذين يعانون من تعذر الارتخاء. ضع في اعتبارك أن ما يصل إلى 15٪ من الأشخاص يعانون من أعراض الارتجاع المعدي المريئي بعد الجراحة.",
+                            "transliteration": "al-jaraha tafifa altougl / badaa adal heller balmanzar faala fe 76٪ elly 100٪ minn al-ashkhas al-thain yaanon minn tudhar alartakha. da fe atbarak an ma yasal elly 15٪ minn al-ashkhas yaanon minn aradh alartja maadi al-muraie baad al-jaraha."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "الأدوية ، مثل نيفيديبين ، تحسن الأعراض في 0 ٪ إلى 75 ٪ من الأشخاص الذين يعانون من تعذر الارتخاء. إيزوسوربيد يحسن الأعراض في 53 ٪ إلى 87 ٪.",
+                            "transliteration": "ad-awiya ، methel nevedipin ، tahsen al-arad fe 0 ٪ elly 75 ٪ minn al-ashkhas al-thain yaanon minn tudhar alartakha. esusurbed ehsen al-arad fe 53 ٪ elly 87 ٪."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "يحسن التوسيع بالبالون الأعراض لدى 50٪ إلى 93٪ من الأشخاص المصابين بتعذر الارتخاء. ضع في اعتبارك أن الإجراء قد يحتاج إلى تكرار للحفاظ على تحسن الأعراض. تزيد التوسعات المتكررة من خطر التسبب في ثقب (ثقب) في المريء.",
+                            "transliteration": "ehsen al-toussia balbalon al-arad lada 50٪ elly 93٪ minn al-ashkhas al-musabin putadher alartakha. da fe atbarak an al-ijra qud yahtaj elly takrar lahfadh ola tahsen al-arad. tzayed el-tousaat al-matakarra minn khater al-tasbab fe thaqab (thaqab) fe al-maria."
+                        },
+                        {
+                            "name": "ar",
+                            "value": "يعمل حقن البوتوكس بنجاح على إرخاء عضلات العضلة العاصرة المريئية التشنجية في ما يصل إلى 35٪ من الأشخاص المصابين بتعذر الارتخاء. يجب تكرار الحقن كل ستة إلى 12 شهرا للحفاظ على تخفيف الأعراض.",
+                            "transliteration": "yeamel haqen al-butukis benjah ola arkha adlat al-adla al-asra al-murayia al-tshngya fe ma yasal elly 35٪ minn al-ashkhas al-musabin putadher alartakha. yegeb takrar al-haqn kel sta elly 12 shahra lahfadh ola takhviv al-arad."
+                        }
+                    ],
+                    "lzh_pointers": [
+                        {
+                            "name": "lzh",
+                            "value": "硝苯地平等药 0%-75% 贲门失弛。 异山梨酯可改53%-87%状。"
+                        },
+                        {
+                            "name": "lzh",
+                            "value": "微创手术/腹腔镜 Heller 肌切开术 76%-100% 贲门失弛缓。 请记之,多至 15% 者手术后有胃食管反流状。"
+                        }
+                    ],
+                    "fr_pointers": [
+                        {
+                            "name": "fr",
+                            "value": "Les médicaments, tels que la nifédipine, améliorent les symptômes chez 0 % à 75 % des personnes atteintes d’achalasie ; L’isosorbide améliore les symptômes dans une proportion de 53 % à 87 %."
+                        }
+                    ],
+                    "de_pointers": [
+                        {
+                            "name": "de",
+                            "value": "Die Botox-Injektion entspannt erfolgreich die spastischen Schließmuskeln der Speiseröhre bei bis zu 35 % der Menschen mit Achalasie. Die Injektionen müssen alle sechs bis 12 Monate wiederholt werden, um die Linderung der Symptome aufrechtzuerhalten."
+                        },
+                        {
+                            "name": "de",
+                            "value": "Die minimalinvasive Chirurgie/laparoskopische Heller-Myotomie ist bei 76 % bis 100 % der Menschen mit Achalasie wirksam. Denken Sie daran, dass bis zu 15% der Menschen nach der Operation gastroösophageale Refluxsymptome haben."
+                        }
+                    ],
+                    "id_pointers": [
+                        {
+                            "name": "id",
+                            "value": "Pelebaran balon meningkatkan gejala pada 50% sampai 93% orang dengan akalasia. Perlu diingat bahwa prosedur mungkin perlu diulang untuk mempertahankan perbaikan gejala. Pelebaran berulang meningkatkan risiko menyebabkan lubang (perforasi) di kerongkongan Anda."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Obat-obatan, seperti nifedipine, memperbaiki gejala pada 0% sampai 75% orang dengan akalasia; Isosorbida meningkatkan gejala pada 53% hingga 87%."
+                        },
+                        {
+                            "name": "id",
+                            "value": "Bedah invasif minimal / laparoskopi Heller myotomy efektif pada 76% sampai 100% orang dengan akalasia. Perlu diingat bahwa hingga 15% orang mengalami gejala refluks gastroesofagus setelah operasi."
+                        }
+                    ],
+                    "it_pointers": [
+                        {
+                            "name": "it",
+                            "value": "I farmaci, come la nifedipina, migliorano i sintomi dallo 0% al 75% delle persone con acalasia; L'isosorbide migliora i sintomi dal 53% all'87%."
+                        },
+                        {
+                            "name": "it",
+                            "value": "L'iniezione di Botox rilassa con successo i muscoli spastici dello sfintere esofageo fino al 35% delle persone con acalasia. Le iniezioni devono essere ripetute ogni 6-12 mesi per mantenere il sollievo dai sintomi."
+                        },
+                        {
+                            "name": "it",
+                            "value": "La chirurgia mini-invasiva/miotomia laparoscopica di Heller è efficace nel 76-100% delle persone con acalasia. Tieni presente che fino al 15% delle persone manifesta sintomi di reflusso gastroesofageo dopo l'intervento chirurgico."
+                        },
+                        {
+                            "name": "it",
+                            "value": "La dilatazione con palloncino migliora i sintomi nel 50-93% delle persone con acalasia. Tieni presente che potrebbe essere necessario ripetere la procedura per mantenere il miglioramento dei sintomi. Le dilatazioni ripetute aumentano il rischio di causare un foro (perforazione) nell'esofago."
+                        }
+                    ],
+                    "ja_pointers": [
+                        {
+                            "name": "ja",
+                            "value": "ニフェジピンなどの薬は、アカラシア患者の0%から75%の症状を改善します。イソソルビドは53%から87%で症状を改善します。",
+                            "transliteration": "nifesipine nado no yaku wa 、 akara sia kanja no 0% kara 75% no shoujou wa kaizen shi masu .isosolvide wa 53% kara 87% de shoujou wa kaizen shi masu ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "低侵襲手術/腹腔鏡下ヘラー筋切開術は、アカラシア患者の76%から100%に効果的です。最大15%の人が手術後に胃食道逆流症状を経験することを覚えておいてください。",
+                            "transliteration": "hiku shin shuu shujutsu / fukkou kagami ge heller suji sekkai jutsu wa 、 akara sia kanja no 76% kara 100% ni kouka teki desu .saidai 15% no hito ga shujutsu go ni i shokudou gyakuryuu shoujou wa keiken suru koto wa oboe te oi te kudasai ."
+                        },
+                        {
+                            "name": "ja",
+                            "value": "バルーン拡張は、アカラシア患者の50%から93%の症状を改善します。症状の改善を維持するために、手順を繰り返す必要がある場合があることに注意してください。拡張を繰り返すと、食道に穴(穿孔)ができるリスクが高まります。",
+                            "transliteration": "barun kakucho wa 、 akara sia kanja no 50% kara 93% no shoujou wa kaizen shi masu .shoujou no kaizen wa iji suru tame ni 、 tejun wa kurikaesu hitsuyo ga aru baai ga aru koto ni chuui shi te kudasai .kakucho wa kurikaesu to 、 shokudou ni ana ( senkou ) ga dekiru lisk ga takamari masu ."
+                        }
+                    ],
+                    "ko_pointers": [
+                        {
+                            "name": "ko",
+                            "value": "보톡스 주사는 이완불능증 환자의 최대 35%에서 경련성 식도 괄약근을 성공적으로 이완시킵니다. 증상 완화를 위해 6개월에서 12개월마다 주사를 반복해야 합니다.",
+                            "transliteration": "botox jusaneun iwanbulneung hwanja choedae 35%esau gyeongryeonseong sikdo gwalyakgeuneul seonggongjeogeuro iwanshiki. jeungsang wanhwareul wihae 6gaeworeseo 12gaewolmada jusareul banbokhaeya hapnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "니페디핀과 같은 약물은 이완불능증 환자의 0%에서 75%의 증상을 개선합니다. 이소소르비드는 53%에서 87%까지 증상을 개선합니다.",
+                            "transliteration": "nifedifine gateun yakmureun iwanbulneung hwanja 0%esau 75%yoo jeungsangeul gaeseonhapnida. isosorbidene 53%esau 87%kkaji jeungsangeul gaeseonhapnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "풍선 확장술은 이완불능증 환자의 50%에서 93%의 증상을 개선합니다. 증상 개선을 유지하기 위해 절차를 반복해야 할 수도 있습니다. 반복적인 확장은 식도에 구멍(천공)을 일으킬 위험을 증가시킵니다.",
+                            "transliteration": "pungson hwakjangsureun iwanbulneung hwanja 50%esau 93%yoo jeungsangeul gaeseonhapnida. jeungsang gaeseoneul yujihagi wihae jeolchareul banbokhaeya hal south issseupnida. banbokjeogin hwakjangeun sikdoe gumeng(cheongong)eul irkil wiheomeul jeunggasikipnida."
+                        },
+                        {
+                            "name": "ko",
+                            "value": "최소 침습 수술/복강경 헬러 근절개술은 이완불능증 환자의 76%에서 100%에서 효과적입니다. 최대 15%의 사람들이 수술 후 위식도 역류 증상을 경험한다는 점을 명심하자.",
+                            "transliteration": "choeso chimsup susul/bokgang heller geunjeolgaesureun iwanbulneung hwanja 76%esau 100%esau hyogwajeogipnida. choedae 15%yoo saramdeuri susul hu wisikdo yeokryu jeungsangeul gyeongheomhandaneun jeomeul myeongsimhaja."
+                        }
+                    ],
+                    "pt_pointers": [
+                        {
+                            "name": "pt",
+                            "value": "Medicamentos, como a nifedipina, melhoram os sintomas em 0% a 75% das pessoas com acalásia; A isossorbida melhora os sintomas em 53% a 87%."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A injeção de Botox relaxa com sucesso os músculos espásticos do esfíncter esofágico em até 35% das pessoas com acalásia. As injeções devem ser repetidas a cada seis a 12 meses para manter o alívio dos sintomas."
+                        },
+                        {
+                            "name": "pt",
+                            "value": "A cirurgia minimamente invasiva/miotomia laparoscópica de Heller é eficaz em 76% a 100% das pessoas com acalásia. Tenha em mente que até 15% das pessoas experimentam sintomas de refluxo gastroesofágico após a cirurgia."
+                        }
+                    ],
+                    "ru_pointers": [
+                        {
+                            "name": "ru",
+                            "value": "Инъекция ботокса успешно расслабляет спастичные мышцы пищеводного сфинктера у 35% людей с ахалазией. Инъекции необходимо повторять каждые 6-12 месяцев для поддержания облегчения симптомов.",
+                            "transliteration": "inection botoxa uspesno rasslablyaet spastical mysztsy pishchevodnogo sphincter u 35% ludey s achalasia. inection neobkhodimo povtoryat kazhdye 6-12 mesyatsev dla podderzhaniya oblegcheniya symptoms."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Баллонная дилатация улучшает симптомы у 50–93% людей с ахалазией. Имейте в виду, что процедуру может потребоваться повторить для поддержания улучшения симптомов. Повторяющиеся расширения увеличивают риск образования отверстия (перфорации) в пищеводе.",
+                            "transliteration": "ballonnaya dilatation uluchshaet symptoms u 50–93% ludey s achalasia. imeite vie vidoux, chto protseduru moget potrebovatsya povtorit dla podderzhaniya uluchsheniya symptoms. povtoryayushchiessa rasshirenia uvelichivayut risk obrazovania otverstia (perforation) vie pishchevode."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Минимально инвазивная хирургия/лапароскопическая миотомия по Геллеру эффективна у 76-100% людей с ахалазией. Имейте в виду, что до 15% людей испытывают симптомы гастроэзофагеального рефлюкса после операции.",
+                            "transliteration": "minimalno invasive khirurgiya/laparoscopical myotomy pau geller effective u 76-100% ludey s achalasia. imeite vie vidoux, chto do 15% ludey ispytyvayut symptoms gastroesophagealau refluxa posle operations."
+                        },
+                        {
+                            "name": "ru",
+                            "value": "Лекарства, такие как нифедипин, улучшают симптомы у 0-75% людей с ахалазией; Изосорбид улучшает симптомы у 53% - 87%.",
+                            "transliteration": "lekarstva, takiye kak nifedipine, uluchshayut symptoms u 0-75% ludey s achalasia; isosorbide uluchshaet symptoms u 53% - 87%."
+                        }
+                    ],
+                    "es_pointers": [
+                        {
+                            "name": "es",
+                            "value": "La dilatación con balón mejora los síntomas en el 50% al 93% de las personas con acalasia. Tenga en cuenta que es posible que sea necesario repetir el procedimiento para mantener la mejoría de los síntomas. Las dilataciones repetidas aumentan el riesgo de causar un orificio (perforación) en el esófago."
+                        },
+                        {
+                            "name": "es",
+                            "value": "La inyección de Botox relaja con éxito los músculos espásticos del esfínter esofágico en hasta el 35% de las personas con acalasia. Las inyecciones deben repetirse cada seis a 12 meses para mantener el alivio de los síntomas."
+                        },
+                        {
+                            "name": "es",
+                            "value": "La cirugía mínimamente invasiva/miotomía laparoscópica de Heller es eficaz en el 76 % al 100 % de las personas con acalasia. Tenga en cuenta que hasta el 15% de las personas experimentan síntomas de reflujo gastroesofágico después de la cirugía."
+                        },
+                        {
+                            "name": "es",
+                            "value": "Los medicamentos, como la nifedipina, mejoran los síntomas en el 0% al 75% de las personas con acalasia; La isosorbida mejora los síntomas entre el 53% y el 87%."
+                        }
+                    ],
+                    "tr_pointers": [
+                        {
+                            "name": "tr",
+                            "value": "Botoks enjeksiyonu, akalazyalı kişilerin %35'ine kadar spastik özofagus sfinkter kaslarını başarılı bir şekilde gevşetir. Semptomların giderilmesini sağlamak için enjeksiyonlar her altı ila 12 ayda bir tekrarlanmalıdır."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Minimal invaziv cerrahi/laparoskopik Heller miyotomi, akalazyalı kişilerin %76 ila %100'ünde etkilidir. İnsanların %15'e kadarının ameliyattan sonra gastroözofageal reflü semptomları yaşadığını unutmayın."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Balon dilatasyonu, akalazyalı kişilerin %50 ila %93'ünde semptomları iyileştirir. Semptomların iyileşmesini sağlamak için prosedürün tekrarlanması gerekebileceğini unutmayın. Tekrarlanan genişlemeler, yemek borunuzda bir deliğe (perforasyon) neden olma riskini artırır."
+                        },
+                        {
+                            "name": "tr",
+                            "value": "Nifedipin gibi ilaçlar, akalazyalı kişilerin %0 ila %75'inde semptomları iyileştirir; İzosorbit semptomları %53 ila %87 oranında iyileştirir."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
